@@ -3,24 +3,37 @@ name: Scrape & Analyze Decor (cron)
 on:
   schedule:
     - cron: "*/15 * * * *"   # every 15 minutes (UTC)
-  workflow_dispatch: {}       # manual run button
+  workflow_dispatch: {}       # allow manual runs
+
+concurrency:
+  group: prettydata-scrape
+  cancel-in-progress: true
 
 jobs:
   run:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write         # needed to commit CSVs back to the repo
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
-      - name: Install deps
+
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Scrape Reddit
+
+      - name: Ensure data folder
+        run: mkdir -p data
+
+      - name: Scrape Reddit (decor subs, last 7 days)
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
@@ -31,9 +44,15 @@ jobs:
             --days 7 \
             --limit 2000 \
             -o data/decor_reddit_raw.csv
-      - name: Analyze & export CSVs
-        run: python scripts/analyze_decor.py
-      - name: Commit & push data
+
+      - name: Analyze & export CSVs (PrettyData - decor)
+        run: |
+          python scripts/analyze_prettydata.py \
+            --raw data/decor_reddit_raw.csv \
+            --terms-file data/terms_decor.json \
+            --prefix decor
+
+      - name: Commit & push data artifacts
         run: |
           git config user.name "pld-bot"
           git config user.email "pld-bot@users.noreply.github.com"
