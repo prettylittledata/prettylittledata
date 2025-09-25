@@ -1,4 +1,4 @@
-name: Scrape & Analyze Decor (cron)
+name: Scrape & Analyze (PrettyData — decor)
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # needed to commit CSVs back to the repo
+      contents: write   # required to commit CSVs back to the repo
 
     steps:
       - name: Checkout
@@ -58,4 +58,5 @@ jobs:
           git config user.email "pld-bot@users.noreply.github.com"
           git add data/*.csv || true
           git commit -m "chore: refresh decor data" || echo "No changes"
-          git push
+          git pull --rebase || true
+          git push || true
