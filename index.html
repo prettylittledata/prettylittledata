@@ -1,193 +1,207 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>PrettyData — Decor Signals</title>
-
-  <!-- libs -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-
-  <style>
-    :root{ --ink:#111827; --muted:#6b7280; --line:#e5e7eb; --card:#fff; --bg:#f9fafb; --radius:16px; }
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,Inter,Roboto,Arial}
-    header{padding:28px 24px;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:2}
-    .wrap{max-width:1100px;margin:0 auto;padding:24px}
-    h1{font-size:28px;margin:0}
-    .subtitle{color:var(--muted);font-size:14px;margin-top:6px}
-    .grid{display:grid;gap:20px;grid-template-columns:1fr}
-    @media(min-width:900px){ .grid{grid-template-columns:1fr 1fr} }
-    .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:0 2px 8px rgba(0,0,0,.04)}
-    .card h2{margin:0 0 10px;font-size:18px}
-    .small{font-size:12px;color:var(--muted)}
-    .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-    .pill{padding:6px 10px;border:1px solid var(--line);border-radius:999px;font-size:12px;background:#fff}
-    a.download{font-size:12px;color:#2563eb;text-decoration:none}
-    a.download:hover{text-decoration:underline}
-    .kpis{display:grid;gap:14px;grid-template-columns:repeat(3,1fr);margin-bottom:18px}
-    .kpi{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px}
-    .kpi .label{color:var(--muted);font-size:12px}
-    .kpi .value{font-size:22px;font-weight:700}
-    footer{padding:24px;color:var(--muted);text-align:center}
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PrettyData — Signals</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+  :root{ --ink:#111827; --muted:#6b7280; --line:#e5e7eb; --card:#fff; --bg:#f9fafb; --radius:16px; }
+  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Inter,Roboto,Arial}
+  header{padding:28px 24px;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:2}
+  .wrap{max-width:1100px;margin:0 auto;padding:24px}
+  h1{margin:0;font-size:28px}
+  .subtitle{color:var(--muted);font-size:14px;margin-top:6px}
+  .tabs{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+  .tab{padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;cursor:pointer;font-size:14px}
+  .tab.active{border-color:#111827; box-shadow:0 0 0 2px #11182711}
+  .grid{display:grid;gap:20px;grid-template-columns:1fr} @media(min-width:900px){ .grid{grid-template-columns:1fr 1fr} }
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+  .small{font-size:12px;color:var(--muted)} a.download{font-size:12px;color:#2563eb;text-decoration:none}
+  .kpis{display:grid;gap:14px;grid-template-columns:repeat(3,1fr);margin:18px 0}
+  .kpi{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px}
+  .kpi .label{color:var(--muted);font-size:12px} .kpi .value{font-size:22px;font-weight:700}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .pill{padding:6px 10px;border:1px solid var(--line);border-radius:999px;font-size:12px;background:#fff}
+  footer{padding:24px;color:var(--muted);text-align:center}
+</style>
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <h1>PrettyData — Decor Signals</h1>
-      <div class="subtitle">Auto-refreshed from Reddit (HomeDecorating · InteriorDesign · CozyPlaces)</div>
-    </div>
-  </header>
+<header>
+  <div class="wrap">
+    <h1>PrettyData — Signals</h1>
+    <div class="subtitle" id="subtitle"></div>
+    <div class="tabs" id="tabs"></div>
+  </div>
+</header>
 
-  <main class="wrap">
-    <div class="kpis">
-      <div class="kpi"><div class="label">Posts + comments analyzed</div><div id="kpi-rows" class="value">–</div></div>
-      <div class="kpi"><div class="label">Tracked phrases</div><div id="kpi-terms" class="value">–</div></div>
-      <div class="kpi"><div class="label">Last updated (UTC)</div><div id="kpi-updated" class="value">–</div></div>
-    </div>
+<main class="wrap">
+  <div class="kpis">
+    <div class="kpi"><div class="label">Posts + comments analyzed</div><div id="kpi-rows" class="value">–</div></div>
+    <div class="kpi"><div class="label">Tracked phrases</div><div id="kpi-terms" class="value">–</div></div>
+    <div class="kpi"><div class="label">Last updated (UTC)</div><div id="kpi-updated" class="value">–</div></div>
+  </div>
 
-    <div class="grid">
-      <section class="card">
-        <h2>Top Risers</h2>
-        <div class="row">
-          <span class="small" id="inc-note">Slope of weekly mentions (p&lt;.05 when available)</span>
-          <a class="download" id="dl-inc" target="_blank">Download CSV</a>
-        </div>
-        <canvas id="chart-inc" height="260"></canvas>
-      </section>
-
-      <section class="card">
-        <h2>Top Fallers</h2>
-        <div class="row">
-          <span class="small" id="dec-note">Slope of weekly mentions (p&lt;.05 when available)</span>
-          <a class="download" id="dl-dec" target="_blank">Download CSV</a>
-        </div>
-        <canvas id="chart-dec" height="260"></canvas>
-      </section>
-    </div>
-
-    <section class="card" style="margin-top:20px">
-      <div class="row" style="justify-content:space-between">
-        <h2>Mentions Over Time</h2>
-        <div class="row">
-          <label class="small">Show:</label>
-          <select id="series-select" class="pill" multiple size="4"></select>
-        </div>
-      </div>
-      <canvas id="chart-ts" height="320"></canvas>
-      <div class="row" style="margin-top:8px">
-        <a class="download" id="dl-ts" target="_blank">Download CSV</a>
-      </div>
+  <div class="grid">
+    <section class="card">
+      <h2>Top Risers</h2>
+      <div class="row"><span class="small" id="inc-note">Slope of weekly mentions (p&lt;.05 when available)</span><a class="download" id="dl-inc" target="_blank">Download CSV</a></div>
+      <canvas id="chart-inc" height="260"></canvas>
     </section>
 
-    <section class="card" style="margin-top:20px">
-      <h2>Top Bigrams (phrases)</h2>
-      <div class="row"><a class="download" id="dl-bigrams" target="_blank">Download CSV</a></div>
-      <div id="bigrams-list" class="small"></div>
+    <section class="card">
+      <h2>Top Fallers</h2>
+      <div class="row"><span class="small" id="dec-note">Slope of weekly mentions (p&lt;.05 when available)</span><a class="download" id="dl-dec" target="_blank">Download CSV</a></div>
+      <canvas id="chart-dec" height="260"></canvas>
     </section>
-  </main>
+  </div>
 
-  <footer>© Pretty Little Data — decor demo. Add fashion/beauty by adding more steps.</footer>
+  <section class="card" style="margin-top:20px">
+    <div class="row" style="justify-content:space-between">
+      <h2>Mentions Over Time</h2>
+      <div class="row"><label class="small">Show:</label><select id="series-select" class="pill" multiple size="4"></select></div>
+    </div>
+    <canvas id="chart-ts" height="320"></canvas>
+    <div class="row" style="margin-top:8px"><a class="download" id="dl-ts" target="_blank">Download CSV</a></div>
+  </section>
 
-  <script>
-    // ---- CONFIG ----
-    const RAW = "https://raw.githubusercontent.com/prettylittledata/prettylittledata/main/data/";
-    const FILES = {
-      inc:  "decor_increasing_terms.csv",
-      dec:  "decor_decreasing_terms.csv",
-      ts:   "decor_term_counts_over_time.csv",
-      bigr: "decor_top_bigrams.csv",
-      raw:  "decor_reddit_raw.csv"
+  <section class="card" style="margin-top:20px">
+    <h2>Top Bigrams (phrases)</h2>
+    <div class="row"><a class="download" id="dl-bigrams" target="_blank">Download CSV</a></div>
+    <div id="bigrams-list" class="small"></div>
+  </section>
+</main>
+
+<footer>© Pretty Little Data — decor · fashion · aesthetics · design</footer>
+
+<script>
+const RAW_BASE = "https://raw.githubusercontent.com/prettylittledata/prettylittledata/main/data/";
+
+const CATS = {
+  decor:      { label:"Decor",      subs:"HomeDecorating · InteriorDesign · CozyPlaces" },
+  fashion:    { label:"Fashion",    subs:"malefashionadvice · femalefashionadvice · streetwear" },
+  aesthetics: { label:"Aesthetics", subs:"Decor + Fashion combined" },
+  design:     { label:"Design",     subs:"graphic_design · design · typography · web_design · industrialdesign" }
+};
+
+const tabsEl = document.getElementById("tabs");
+const subtitle = document.getElementById("subtitle");
+
+let incChart, decChart, tsChart;
+
+function files(prefix){
+  return {
+    inc:  `${prefix}_increasing_terms.csv`,
+    dec:  `${prefix}_decreasing_terms.csv`,
+    ts:   `${prefix}_term_counts_over_time.csv`,
+    bigr: `${prefix}_top_bigrams.csv`,
+    raw:  `${prefix}_reddit_raw.csv`
+  };
+}
+async function fetchCSV(path){
+  const url = RAW_BASE + path + "?t=" + Date.now();
+  const res = await fetch(url);
+  if(!res.ok) return []; // handle categories not ready yet
+  const txt = await res.text();
+  return Papa.parse(txt.trim(), { header:true, skipEmptyLines:true }).data;
+}
+function drawBars(canvasId, labels, values){
+  return new Chart(document.getElementById(canvasId), {
+    type: "bar",
+    data: { labels, datasets: [{ data: values }] },
+    options: { plugins:{ legend:{ display:false } }, scales:{ x:{ ticks:{ autoSkip:false }}} }
+  });
+}
+function drawLines(datasets){
+  return new Chart(document.getElementById("chart-ts"), {
+    type: "line",
+    data: { datasets },
+    options: {
+      parsing:false, interaction:{ mode:'nearest', intersect:false },
+      plugins:{ legend:{ position:'bottom' } },
+      scales:{ x:{ type:'time', time:{ unit:'week' }}, y:{ beginAtZero:true } }
+    }
+  });
+}
+function metric(rows, noteEl){
+  const mode = rows[0]?.mode || (rows.every(r => +r.estimate === 0) ? "count" : "slope");
+  let label = "Slope of weekly mentions", values = rows.map(r => +r.estimate || 0);
+  if(mode === "count"){ label = "Total mentions (fallback)"; values = rows.map(r => +r.Total || 0); }
+  if(mode === "significant") label += " (significant p<.05)";
+  if(noteEl) noteEl.textContent = label;
+  return values;
+}
+function setLinks(prefix){
+  const f = files(prefix);
+  document.getElementById('dl-inc').href  = RAW_BASE + f.inc;
+  document.getElementById('dl-dec').href  = RAW_BASE + f.dec;
+  document.getElementById('dl-ts').href   = RAW_BASE + f.ts;
+  document.getElementById('dl-bigrams').href = RAW_BASE + f.bigr;
+}
+
+async function loadCategory(prefix){
+  const f = files(prefix);
+  subtitle.textContent = `${CATS[prefix].label} · ${CATS[prefix].subs}`;
+  setLinks(prefix);
+
+  const [inc, dec, ts, bigr, raw] = await Promise.all([
+    fetchCSV(f.inc), fetchCSV(f.dec), fetchCSV(f.ts), fetchCSV(f.bigr), fetchCSV(f.raw)
+  ]);
+
+  // KPIs
+  document.getElementById("kpi-rows").textContent  = (raw.length || 0).toLocaleString();
+  document.getElementById("kpi-terms").textContent = (new Set(ts.map(r=>r.Term))).size || 0;
+  const latest = ts.reduce((m,r)=>!m||r.period>m? r.period : m, null);
+  document.getElementById("kpi-updated").textContent = latest || "–";
+
+  // (re)draw bars
+  if(incChart) incChart.destroy();
+  if(decChart) decChart.destroy();
+  const incVals = metric(inc, document.getElementById('inc-note'));
+  const decVals = metric(dec, document.getElementById('dec-note'));
+  incChart = drawBars("chart-inc", inc.map(d=>d.Term), incVals);
+  decChart = drawBars("chart-dec", dec.map(d=>d.Term), decVals);
+
+  // timeseries
+  if(tsChart) tsChart.destroy();
+  const byTerm = {};
+  ts.forEach(r => { (byTerm[r.Term] ||= []).push({ x: r.period, y: +r.Count }); });
+  Object.values(byTerm).forEach(arr => arr.sort((a,b)=> new Date(a.x) - new Date(b.x)));
+  const termList = Object.keys(byTerm).sort();
+  const select = document.getElementById("series-select");
+  select.innerHTML = "";
+  termList.slice(0,8).forEach((t,i)=>{ const o=document.createElement("option"); o.value=t; o.textContent=t; o.selected=i<6; select.appendChild(o); });
+  const mk = names => names.map(n => ({ label:n, data: byTerm[n]||[] }));
+  tsChart = drawLines(mk([...select.options].filter(o=>o.selected).map(o=>o.value)));
+  select.addEventListener("change", ()=>{
+    tsChart.data.datasets = mk([...select.options].filter(o=>o.selected).map(o=>o.value));
+    tsChart.update();
+  });
+
+  // bigrams
+  document.getElementById("bigrams-list").innerHTML =
+    bigr.slice(0,25).map(r => `<span class="pill">${r.bigram} — ${r.count}</span>`).join(" ");
+}
+
+function renderTabs(){
+  tabsEl.innerHTML = "";
+  Object.keys(CATS).forEach((key,idx) => {
+    const btn = document.createElement("button");
+    btn.className = "tab" + (idx===0 ? " active" : "");
+    btn.textContent = CATS[key].label;
+    btn.onclick = () => {
+      [...tabsEl.children].forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      loadCategory(key);
     };
+    tabsEl.appendChild(btn);
+  });
+}
 
-    // ---- helpers ----
-    async function fetchCSV(name){
-      const url = RAW + name + "?t=" + Date.now();
-      const txt = await fetch(url).then(r => r.text());
-      const parsed = Papa.parse(txt.trim(), { header:true, skipEmptyLines:true });
-      return parsed.data;
-    }
-    function setLinks(){
-      document.getElementById('dl-inc').href  = RAW + FILES.inc;
-      document.getElementById('dl-dec').href  = RAW + FILES.dec;
-      document.getElementById('dl-ts').href   = RAW + FILES.ts;
-      document.getElementById('dl-bigrams').href = RAW + FILES.bigr;
-    }
-    function drawBars(canvasId, labels, values){
-      return new Chart(document.getElementById(canvasId), {
-        type: "bar",
-        data: { labels, datasets: [{ data: values }] },
-        options: { plugins:{ legend:{ display:false } }, scales:{ x:{ ticks:{ autoSkip:false }}} }
-      });
-    }
-    function drawLines(datasets){
-      return new Chart(document.getElementById("chart-ts"), {
-        type: "line",
-        data: { datasets },
-        options: {
-          parsing:false, interaction:{ mode:'nearest', intersect:false },
-          plugins:{ legend:{ position:'bottom' } },
-          scales:{ x:{ type:'time', time:{ unit:'week' }}, y:{ beginAtZero:true } }
-        }
-      });
-    }
-
-    // choose metric based on analyzer "mode"
-    function metric(rows, noteEl){
-      // analyzer returns a uniform mode across rows ("significant" | "slope" | "count")
-      const mode = rows[0]?.mode || (rows.every(r=>+r.estimate===0) ? "count" : "slope");
-      let label = "Slope of weekly mentions";
-      let values = rows.map(r => +r.estimate);
-      if(mode === "count"){
-        label = "Total mentions (fallback)";
-        values = rows.map(r => +r.Total || 0);
-      }
-      if(noteEl) noteEl.textContent = label + (mode==="significant" ? " (significant p<.05)" : "");
-      return values;
-    }
-
-    async function init(){
-      setLinks();
-      const [inc, dec, ts, bigr, raw] = await Promise.all([
-        fetchCSV(FILES.inc), fetchCSV(FILES.dec), fetchCSV(FILES.ts),
-        fetchCSV(FILES.bigr), fetchCSV(FILES.raw)
-      ]);
-
-      // KPIs
-      document.getElementById("kpi-rows").textContent  = raw.length.toLocaleString();
-      document.getElementById("kpi-terms").textContent = new Set(ts.map(r=>r.Term)).size;
-      const latest = ts.reduce((m,r)=>!m||r.period>m? r.period : m, null);
-      document.getElementById("kpi-updated").textContent = latest || "–";
-
-      // Bars with fallback metric
-      const incVals = metric(inc, document.getElementById('inc-note'));
-      const decVals = metric(dec, document.getElementById('dec-note'));
-      drawBars("chart-inc", inc.map(d=>d.Term), incVals);
-      drawBars("chart-dec", dec.map(d=>d.Term), decVals);
-
-      // Timeseries
-      const byTerm = {};
-      ts.forEach(r => { (byTerm[r.Term] ||= []).push({ x: r.period, y: +r.Count }); });
-      Object.values(byTerm).forEach(arr => arr.sort((a,b)=> new Date(a.x) - new Date(b.x)));
-      const termList = Object.keys(byTerm).sort();
-      const select = document.getElementById("series-select");
-      termList.slice(0,8).forEach((t,i)=>{ const o=document.createElement("option"); o.value=t; o.textContent=t; o.selected=i<6; select.appendChild(o); });
-      const mk = names => names.map(n => ({ label:n, data: byTerm[n]||[] }));
-      let tsChart = drawLines(mk([...select.options].filter(o=>o.selected).map(o=>o.value)));
-      select.addEventListener("change", ()=>{
-        tsChart.data.datasets = mk([...select.options].filter(o=>o.selected).map(o=>o.value));
-        tsChart.update();
-      });
-
-      // Bigrams
-      const top = bigr.slice(0,25);
-      document.getElementById("bigrams-list").innerHTML =
-        top.map(r => `<span class="pill">${r.bigram} — ${r.count}</span>`).join(" ");
-    }
-    init();
-  </script>
+renderTabs();
+loadCategory("decor"); // default
+</script>
 </body>
 </html>
