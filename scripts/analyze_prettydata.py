@@ -27,7 +27,6 @@ def load_terms(path):
         raise FileNotFoundError(f"Missing terms file: {path}")
     if path.endswith(".json"):
         return json.load(open(path))["terms"]
-    # fallback: one term per line
     return [line.strip() for line in open(path) if line.strip()]
 
 def analyze(raw_csv, terms_file, prefix):
@@ -39,33 +38,46 @@ def analyze(raw_csv, terms_file, prefix):
     df = pd.read_csv(raw_csv)
     df["date"] = pd.to_datetime(df["created_utc"], unit="s", utc=True, errors="coerce")
     df = df.dropna(subset=["date"])
-    df["period"] = df["date"].dt.to_period("W").dt.start_time
+    df["period"] = df["date"].dt.to_period("W").dt.start_time  # weekly bucket starts
 
-    # --- unigrams / bigrams
+    # -------- Unigrams / Bigrams --------
     words, bigrams = [], []
     for txt in df["text"].astype(str):
         toks = tok(txt)
         words += [w for w in toks if w not in STOP]
-        for i in range(len(toks)-1):
-            w1, w2 = toks[i], toks[i+1]
+        for i in range(len(toks) - 1):
+            w1, w2 = toks[i], toks[i + 1]
             if w1 not in STOP and w2 not in STOP:
                 bigrams.append(f"{w1} {w2}")
 
     os.makedirs("data", exist_ok=True)
-    pd.Series(words).value_counts().reset_index(names=["word","count"]).to_csv(f"data/{prefix}_top_words.csv", index=False)
-    pd.Series(bigrams).value_counts().reset_index(names=["bigram","count"]).to_csv(f"data/{prefix}_top_bigrams.csv", index=False)
 
-    # --- term counts over time
+    if words:
+        pd.Series(words).value_counts() \
+            .rename_axis("word").reset_index(name="count") \
+            .to_csv(f"data/{prefix}_top_words.csv", index=False)
+    else:
+        pd.DataFrame(columns=["word", "count"]).to_csv(f"data/{prefix}_top_words.csv", index=False)
+
+    if bigrams:
+        pd.Series(bigrams).value_counts() \
+            .rename_axis("bigram").reset_index(name="count") \
+            .to_csv(f"data/{prefix}_top_bigrams.csv", index=False)
+    else:
+        pd.DataFrame(columns=["bigram", "count"]).to_csv(f"data/{prefix}_top_bigrams.csv", index=False)
+
+    # -------- Term counts over time --------
     recs = []
     for term in terms:
         grp = df.groupby("period")["text"].apply(lambda col: sum(contains_term(t, term) for t in col)) \
                 .reset_index(name="Count")
         grp["Term"] = term
         recs.append(grp)
-    ts = pd.concat(recs, ignore_index=True) if recs else pd.DataFrame(columns=["period","Count","Term"])
+
+    ts = pd.concat(recs, ignore_index=True) if recs else pd.DataFrame(columns=["period", "Count", "Term"])
     ts.to_csv(f"data/{prefix}_term_counts_over_time.csv", index=False)
 
-    # --- trend regression
+    # -------- Trend regression --------
     out = []
     for term, sub in ts.groupby("Term"):
         x = pd.to_datetime(sub["period"])
@@ -81,18 +93,18 @@ def analyze(raw_csv, terms_file, prefix):
         except Exception:
             out.append({"Term": term, "estimate": 0.0, "p_value": 1.0})
 
-    trend = pd.DataFrame(out).sort_values("p_value") if out else pd.DataFrame(columns=["Term","estimate","p_value"])
+    trend = pd.DataFrame(out).sort_values("p_value") if out else pd.DataFrame(columns=["Term", "estimate", "p_value"])
     trend.to_csv(f"data/{prefix}_trend_results.csv", index=False)
 
-    inc = trend[(trend.estimate>0) & (trend.p_value<0.05)].sort_values("estimate", ascending=False)
-    dec = trend[(trend.estimate<0) & (trend.p_value<0.05)].sort_values("estimate")
+    inc = trend[(trend.estimate > 0) & (trend.p_value < 0.05)].sort_values("estimate", ascending=False)
+    dec = trend[(trend.estimate < 0) & (trend.p_value < 0.05)].sort_values("estimate")
     inc.to_csv(f"data/{prefix}_increasing_terms.csv", index=False)
     dec.to_csv(f"data/{prefix}_decreasing_terms.csv", index=False)
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--raw", default="data/decor_reddit_raw.csv", help="CSV with created_utc,text columns")
-    ap.add_argument("--terms-file", default="data/terms_decor.json", help="JSON with {'terms': [...]}")
-    ap.add_argument("--prefix", default="decor", help="prefix for output files")
+    ap.add_argument("--raw", default="data/decor_reddit_raw.csv")
+    ap.add_argument("--terms-file", default="data/terms_decor.json")
+    ap.add_argument("--prefix", default="decor")
     args = ap.parse_args()
     analyze(args.raw, args.terms_file, args.prefix)
