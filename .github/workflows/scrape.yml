@@ -41,8 +41,8 @@ jobs:
         run: |
           python scripts/scrape_reddit.py \
             --subs HomeDecorating InteriorDesign CozyPlaces \
-            --days 7 \
-            --limit 2000 \
+            --days 60 \
+            --limit 4000 \
             -o data/decor_reddit_raw.csv
 
       - name: Analyze & export CSVs (PrettyData - decor)
