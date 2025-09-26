@@ -1,26 +1,67 @@
 #!/usr/bin/env python3
 """
-Unsupervised phrase discovery (1–3-gram) + weekly trend slopes.
-Writes:
+Unsupervised phrase discovery (1–3-grams) + weekly trend slopes + smarter ranking.
+Outputs (same filenames as before, now with an extra 'score' column where relevant):
   all_top_phrases.csv
   all_phrase_counts_over_time.csv
   all_increasing_terms.csv
   all_decreasing_terms.csv
   all_new_terms.csv
+
+Improvements:
+- Strips URLs / html entities / UTM cruft from text.
+- Adds a small noise stoplist (http/https/com/www/href/amp/utm_*).
+- Demotes super-generic 1-word domain terms from the top lists (but keeps bigrams/trigrams).
+- Uses a 'score' = slope / sqrt(Total+1) for ranking, which surfaces more interesting risers/fallers.
+- Still writes 'slope' so the existing UI works unchanged.
 """
-import argparse, pandas as pd, numpy as np
+import os, re, argparse, pandas as pd, numpy as np
 from datetime import datetime, timezone
 from sklearn.feature_extraction.text import CountVectorizer
 from scipy.stats import linregress
 
-def weekfloor(ts):
+# --- helpers -----------------------------------------------------------------
+def weekfloor(ts: int):
     dt = datetime.fromtimestamp(int(ts), tz=timezone.utc)
     return (dt - pd.to_timedelta(dt.weekday(), unit='D')).date()
 
-def build_vec(texts, min_df=4, max_df=0.6, ngram=(1,3)):
-    return CountVectorizer(ngram_range=ngram, min_df=min_df, max_df=max_df,
-                           stop_words='english', lowercase=True,
-                           token_pattern=r"(?u)\b[a-zA-Z][a-zA-Z]+\b").fit(texts)
+URL_RE   = re.compile(r"(https?://\S+|www\.\S+)", re.IGNORECASE)
+HTML_RE  = re.compile(r"&[a-z]+;")
+UTM_RE   = re.compile(r"\butm_[a-z]+\b")
+SPACE_RE = re.compile(r"\s+")
+
+NOISE_STOPWORDS = {
+    "http","https","www","com","net","org","href","amp","cdn","utm","xml","rss",
+    "html","htm","php","gif","jpg","jpeg","png","svg"
+}
+
+# domain-generic single words we want to hide from the TOP lists
+GENERIC_UNIGRAMS = {
+    "design","designer","designers","trend","trends",
+    "fashion","style","styles","decor","beauty","ideas","home"
+}
+
+def clean_text(s: str) -> str:
+    s = s.lower()
+    s = URL_RE.sub(" ", s)
+    s = HTML_RE.sub(" ", s)
+    s = UTM_RE.sub(" ", s)
+    s = SPACE_RE.sub(" ", s)
+    return s.strip()
+
+def build_vec(texts, min_df=4, max_df=0.6, ngram=(1,3), extra_stop=None):
+    stop = set(NOISE_STOPWORDS)
+    if extra_stop:
+        stop |= set(extra_stop)
+    # token_pattern excludes tokens <3 chars (drops a lot of junk)
+    return CountVectorizer(
+        ngram_range=ngram,
+        min_df=min_df,
+        max_df=max_df,
+        stop_words=list(stop),
+        lowercase=True,
+        token_pattern=r"(?u)\b[a-zA-Z]{3,}\b"
+    ).fit(texts)
 
 def counts_by_week(df, vec):
     df = df.copy()
@@ -43,14 +84,21 @@ def slope_table(ct):
     idx = {w:i for i,w in enumerate(weeks)}
     rec=[]
     for term, g in ct.groupby("Term"):
-        y = np.zeros(len(weeks))
-        for _,r in g.iterrows(): y[idx[r["period"]]] = r["Count"]
-        x = np.arange(len(weeks))
+        y = np.zeros(len(weeks), dtype=float)
+        for _,r in g.iterrows():
+            y[idx[r["period"]]] = r["Count"]
+        x = np.arange(len(weeks), dtype=float)
         if y.sum()==0: continue
         lr = linregress(x,y)
-        rec.append([term, int(y.sum()), lr.slope, lr.pvalue, int((y>0).sum())])
+        rec.append([term, int(y.sum()), float(lr.slope), float(lr.pvalue), int((y>0).sum())])
     return pd.DataFrame(rec, columns=["Term","Total","slope","pvalue","weeks_present"])
 
+def load_extra_stopwords(path="data/stopwords_extra.txt"):
+    if os.path.exists(path):
+        return [w.strip().lower() for w in open(path) if w.strip() and not w.startswith("#")]
+    return []
+
+# --- main --------------------------------------------------------------------
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--raw", required=True)
@@ -66,30 +114,63 @@ def main():
             pd.DataFrame().to_csv(f"{args.out_prefix}_{name}.csv", index=False)
         print("No data; wrote empty outputs"); return
 
+    # prep docs
     df["created_utc"] = df["created_utc"].fillna(0).astype(int)
-    df["doc"] = (df["title"].fillna("") + "\n\n" + df["text"].fillna("")).astype(str)
+    doc = (df["title"].fillna("") + "\n\n" + df["text"].fillna("")).astype(str)
+    df["doc"] = doc.map(clean_text)
 
-    vec = build_vec(df["doc"], args.min_df, args.max_df)
+    # vectorize
+    extra_stop = load_extra_stopwords()
+    vec = build_vec(df["doc"], args.min_df, args.max_df, ngram=(1,3), extra_stop=extra_stop)
+
+    # time series counts
     ct = counts_by_week(df, vec)
     ct.to_csv(f"{args.out_prefix}_phrase_counts_over_time.csv", index=False)
 
+    # slopes + first/last seen
     st = slope_table(ct)
     fs = ct.groupby("Term")["period"].min().rename("first_seen").reset_index()
     ls = ct.groupby("Term")["period"].max().rename("last_seen").reset_index()
     join = st.merge(fs, on="Term", how="left").merge(ls, on="Term", how="left")
+
+    # ranking score: slope normalized by total frequency
+    # (helps surface interesting risers, not just the most ubiquitous words)
+    join["score_up"]   = join["slope"] / np.sqrt(join["Total"] + 1)
+    join["score_down"] = (-join["slope"]) / np.sqrt(join["Total"] + 1)
+
+    # also keep a clean "top_phrases" dump (sorted by slope)
     join.sort_values("slope", ascending=False).to_csv(f"{args.out_prefix}_top_phrases.csv", index=False)
 
-    inc = join[join["slope"]>0].sort_values(["slope","Total"], ascending=False).head(200)
-    dec = join[join["slope"]<0].sort_values(["slope","Total"], ascending=True).head(200)
+    # hide ultra-generic unigrams in top lists (bigrams/trigrams still allowed)
+    def drop_generic_unigrams(df_in: pd.DataFrame):
+        is_unigram = df_in["Term"].str.count(" ") == 0
+        generic = df_in["Term"].str.lower().isin(GENERIC_UNIGRAMS)
+        return df_in[~(is_unigram & generic)]
+
+    # increasing
+    inc = join[join["slope"]>0].copy()
+    inc = drop_generic_unigrams(inc)
+    inc["score"] = inc["score_up"]
+    inc = inc.sort_values(["score","slope","Total"], ascending=[False, False, False]).head(200)
     inc.to_csv(f"{args.out_prefix}_increasing_terms.csv", index=False)
+
+    # decreasing
+    dec = join[join["slope"]<0].copy()
+    dec = drop_generic_unigrams(dec)
+    dec["score"] = dec["score_down"]
+    dec = dec.sort_values(["score","slope","Total"], ascending=[False, True, True]).head(200)
     dec.to_csv(f"{args.out_prefix}_decreasing_terms.csv", index=False)
 
+    # "new": first_seen within last N weeks + positive slope (keep generic filter here too)
     weeks = sorted(ct["period"].unique())
-    cutoff = weeks[-args.new_weeks] if len(weeks)>args.new_weeks else weeks[0]
-    new = join[(join["first_seen"]>=cutoff) & (join["slope"]>0)].sort_values(["slope","Total"], ascending=False).head(200)
+    cutoff = weeks[-args.new_weeks] if len(weeks) > args.new_weeks else weeks[0]
+    new = join[(join["first_seen"]>=cutoff) & (join["slope"]>0)].copy()
+    new = drop_generic_unigrams(new)
+    new["score"] = new["score_up"]
+    new = new.sort_values(["score","slope","Total"], ascending=[False, False, False]).head(200)
     new.to_csv(f"{args.out_prefix}_new_terms.csv", index=False)
 
-    print("Unsupervised analysis done under", args.out_prefix)
+    print("Unsupervised analysis updated under", args.out_prefix)
 
 if __name__ == "__main__":
     main()
