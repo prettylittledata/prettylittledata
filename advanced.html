@@ -1,0 +1,184 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Signals — Advanced Analytics</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lil-gui@0.19"></script>
+
+<style>
+:root{
+  --bg:#0b0c10; --fg:#e6e7ea; --muted:#9aa0aa;
+  --card:#121318; --border:#1e2230; --pill:#171926;
+  --ink:#d6d8ff; --peri:#9ac1ff; --mauve:#f0b7e9;
+  --em:#a3ffda;
+}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.45 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto}
+.wrap{max-width:1200px;margin:24px auto;padding:0 16px}
+h1{font-size:18px;margin:0 0 12px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.25);padding:14px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.pill{display:inline-block;padding:4px 10px;border-radius:999px;background:var(--pill);margin:2px;color:var(--muted)}
+.small{color:var(--muted);font-size:12px}
+.bar{height:8px;background:linear-gradient(90deg,var(--peri),var(--mauve));border-radius:6px}
+a{color:#b7c9ff;text-decoration:none} a:hover{text-decoration:underline}
+table{width:100%;border-collapse:collapse} td{padding:8px 6px;border-bottom:1px solid var(--border)}
+th{padding:8px 6px;border-bottom:1px solid var(--border);text-align:left;color:var(--muted);font-weight:600}
+</style>
+
+<div class="wrap">
+  <h1>Advanced Analytics — <span id="gen"></span></h1>
+
+  <div class="grid">
+    <div class="card">
+      <h3 style="margin-top:0">Top signals</h3>
+      <div id="topList"></div>
+    </div>
+
+    <div class="card">
+      <h3 style="margin-top:0">Signal details</h3>
+      <div id="detail"><span class="small">Click a signal →</span></div>
+    </div>
+  </div>
+
+  <div class="grid" style="margin-top:16px">
+    <div class="card">
+      <h3 style="margin-top:0">Risers (7d vs 28d)</h3>
+      <div id="risers"></div>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">Newcomers (first seen this week)</h3>
+      <div id="newcomers"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+async function loadData(){
+  const res = await fetch('data/signals.json', {cache:'no-store'});
+  return await res.json();
+}
+
+function fmt(n){ return Intl.NumberFormat().format(n) }
+function pct(x){ return (x*100).toFixed(0)+'%' }
+
+function renderTop(signals){
+  const box = document.getElementById('topList');
+  const top = [...signals]
+    .filter(s => s.volume_7d>0)
+    .sort((a,b)=>b.interest_score - a.interest_score)
+    .slice(0,30);
+
+  box.innerHTML = `
+    <table>
+      <thead><tr>
+        <th>#</th><th>Signal</th><th>Cat</th>
+        <th>Vol 7d</th><th>Growth</th><th>Breadth</th><th>Score</th>
+      </tr></thead>
+      <tbody>
+        ${top.map((s,i)=>`
+          <tr data-id="${s.signal}">
+            <td>${i+1}</td>
+            <td><a href="#" class="sig">${s.signal}</a></td>
+            <td class="small">${s.category}</td>
+            <td>${fmt(s.volume_7d)}</td>
+            <td>${s.growth_ratio.toFixed(2)}×</td>
+            <td>${s.source_breadth}</td>
+            <td>${s.interest_score.toFixed(2)}</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+
+  [...box.querySelectorAll('.sig')].forEach(a=>{
+    a.addEventListener('click', (e)=>{
+      e.preventDefault();
+      const name = e.target.closest('tr').dataset.id;
+      const s = signals.find(x=>x.signal===name);
+      showDetail(s);
+    });
+  });
+}
+
+function spark(values, w=120, h=32){
+  const max = Math.max(...values,1), min = Math.min(...values,0);
+  const step = w/(values.length-1);
+  const pts = values.map((v,i)=>{
+    const x = i*step;
+    const y = h - ((v-min)/(max-min||1))*h;
+    return `${x},${y}`
+  }).join(' ');
+  return `<svg width="${w}" height="${h}"><polyline fill="none" stroke="currentColor" stroke-width="2" points="${pts}"/></svg>`;
+}
+
+function showDetail(s){
+  const d = document.getElementById('detail');
+  const links = (s.latest_links||[]).slice(0,6).map(l=>`<li><a href="${l.url}" target="_blank" rel="noopener">${l.url.split('/')[2]}</a> <span class="small">${new Date(l.date).toISOString().slice(0,10)}</span></li>`).join('');
+  d.innerHTML = `
+    <div class="pill">${s.category}</div>
+    <h2 style="margin:6px 0 6px">${s.signal}</h2>
+    <div class="small">Score ${s.interest_score.toFixed(2)} · Vol 7d ${fmt(s.volume_7d)} · Breadth ${s.source_breadth} · Recency ${pct(s.recency_share)}</div>
+    <div style="margin:8px 0">
+      <div class="small">Wikipedia views (7d): ${fmt(s.wiki_views_7d||0)}</div>
+    </div>
+    <h4>Latest links</h4>
+    <ul>${links || '<li class="small">No links</li>'}</ul>
+  `;
+}
+
+function renderRisers(signals){
+  const box = document.getElementById('risers');
+  const top = [...signals].filter(s=>s.volume_28d>=3).sort((a,b)=>b.growth_ratio-a.growth_ratio).slice(0,12);
+  box.innerHTML = `
+    <table>
+      <thead><tr><th>#</th><th>Signal</th><th>Growth</th><th>Vol 7d</th></tr></thead>
+      <tbody>
+        ${top.map((s,i)=>`
+          <tr data-id="${s.signal}">
+            <td>${i+1}</td><td><a href="#" class="sig">${s.signal}</a></td>
+            <td>${s.growth_ratio.toFixed(2)}×</td><td>${fmt(s.volume_7d)}</td>
+          </tr>`).join('')}
+      </tbody>
+    </table>
+  `;
+  [...box.querySelectorAll('.sig')].forEach(a=>{
+    a.addEventListener('click',(e)=>{
+      e.preventDefault(); showDetail(signals.find(x=>x.signal===e.target.textContent));
+    });
+  });
+}
+
+function renderNewcomers(signals){
+  const box = document.getElementById('newcomers');
+  const newbies = signals.filter(s=>s.volume_28d>0 && s.volume_7d>0 && s.volume_28d===s.volume_7d)
+                         .sort((a,b)=>b.interest_score-a.interest_score)
+                         .slice(0,12);
+  box.innerHTML = `
+    <table>
+      <thead><tr><th>#</th><th>Signal</th><th>Cat</th><th>Vol 7d</th></tr></thead>
+      <tbody>
+        ${newbies.map((s,i)=>`
+          <tr data-id="${s.signal}">
+            <td>${i+1}</td><td><a href="#" class="sig">${s.signal}</a></td>
+            <td class="small">${s.category}</td><td>${fmt(s.volume_7d)}</td>
+          </tr>`).join('')}
+      </tbody>
+    </table>
+  `;
+  [...box.querySelectorAll('.sig')].forEach(a=>{
+    a.addEventListener('click',(e)=>{
+      e.preventDefault(); showDetail(signals.find(x=>x.signal===e.target.textContent));
+    });
+  });
+}
+
+loadData().then(js=>{
+  document.getElementById('gen').textContent = new Date(js.generated_at).toLocaleString();
+  const signals = js.signals || [];
+  renderTop(signals);
+  renderRisers(signals);
+  renderNewcomers(signals);
+});
+</script>
