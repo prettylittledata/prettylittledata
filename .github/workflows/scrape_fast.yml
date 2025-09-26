@@ -1,0 +1,136 @@
+name: Scrape & Analyze (PrettyData — FAST, no-Reddit)
+
+on:
+  workflow_dispatch: {}   # run manually only
+
+concurrency:
+  group: prettydata-fast
+  cancel-in-progress: true
+
+jobs:
+  build_topic:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      matrix:
+        topic: [decor, fashion, design]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure data folder
+        run: mkdir -p data
+
+      # --- RSS (per topic) ---
+      - name: RSS (${{ matrix.topic }} · 30d)
+        run: |
+          python scripts/ingest_rss.py \
+            --feeds data/feeds_${{ matrix.topic }}.txt \
+            --days 30 \
+            -o data/${{ matrix.topic }}_rss_raw.csv
+
+      # --- YouTube (per topic) ---
+      - name: YouTube (${{ matrix.topic }} · 30d)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python scripts/ingest_youtube.py \
+            --queries data/youtube_queries_${{ matrix.topic }}.txt \
+            --days 30 --max_per_query 20 \
+            -o data/${{ matrix.topic }}_youtube_raw.csv
+
+      # --- Combine (no Reddit in this fast run) ---
+      - name: Combine (${{ matrix.topic }} → all sources)
+        run: |
+          python scripts/combine_sources.py \
+            --inputs data/${{ matrix.topic }}_rss_raw.csv data/${{ matrix.topic }}_youtube_raw.csv \
+            -o data/${{ matrix.topic }}_all_raw.csv
+
+      # --- Analyze ---
+      - name: Analyze (${{ matrix.topic }})
+        run: |
+          python scripts/analyze_prettydata.py \
+            --raw data/${{ matrix.topic }}_all_raw.csv \
+            --terms-file data/terms_${{ matrix.topic }}.json \
+            --prefix ${{ matrix.topic }}
+
+      # --- Google Trends (short timeframe for speed) ---
+      - name: Google Trends (${{ matrix.topic }})
+        run: |
+          python scripts/ingest_trends.py \
+            --terms-file data/terms_${{ matrix.topic }}.json \
+            --geo "" --timeframe "today 3-m" \
+            -o data/${{ matrix.topic }}_trends.csv
+
+      # --- Commit (per topic) ---
+      - name: Commit artifacts (${{ matrix.topic }})
+        run: |
+          git config user.name "pld-bot"
+          git config user.email "pld-bot@users.noreply.github.com"
+          git add data/${{ matrix.topic }}_* || true
+          git commit -m "fast: refresh ${{ matrix.topic }} (rss+youtube+trends)" || echo "No changes"
+          git pull --rebase || true
+          git push || true
+
+  aesthetics:
+    needs: build_topic
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Ensure data
+        run: mkdir -p data
+
+      - name: Combine (aesthetics from decor+fashion)
+        run: |
+          python scripts/combine_sources.py \
+            --inputs data/decor_all_raw.csv data/fashion_all_raw.csv \
+            -o data/aesthetics_all_raw.csv
+
+      - name: Analyze (aesthetics)
+        run: |
+          python scripts/analyze_prettydata.py \
+            --raw data/aesthetics_all_raw.csv \
+            --terms-file data/terms_aesthetics.json \
+            --prefix aesthetics
+
+      - name: Google Trends (aesthetics)
+        run: |
+          python scripts/ingest_trends.py \
+            --terms-file data/terms_aesthetics.json \
+            --geo "" --timeframe "today 3-m" \
+            -o data/aesthetics_trends.csv
+
+      - name: Commit artifacts (aesthetics)
+        run: |
+          git config user.name "pld-bot"
+          git config user.email "pld-bot@users.noreply.github.com"
+          git add data/aesthetics_* || true
+          git commit -m "fast: refresh aesthetics (rss+youtube+trends)" || echo "No changes"
+          git pull --rebase || true
+          git push || true
