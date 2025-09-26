@@ -1,90 +1,50 @@
 #!/usr/bin/env python3
-import argparse, time, requests, pandas as pd
-from datetime import datetime, timedelta, timezone
-
+"""
+Search YouTube and collect titles+descriptions for recent videos.
+Env: YOUTUBE_API_KEY
+"""
+import os, argparse, time, requests, pandas as pd
 API = "https://www.googleapis.com/youtube/v3"
 
-def iso_after(days):
-    dt = datetime.now(timezone.utc) - timedelta(days=days)
-    return dt.isoformat().replace("+00:00","Z")
-
-def to_epoch(iso_str):
-    try:
-        return int(datetime.fromisoformat(iso_str.replace("Z","+00:00")).timestamp())
-    except Exception:
-        return int(time.time())
-
-try:
-    from youtube_transcript_api import YouTubeTranscriptApi
-    def get_transcript(video_id):
-        try:
-            parts = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
-            return " ".join(p["text"] for p in parts)[:15000]
-        except Exception:
-            return ""
-except Exception:
-    def get_transcript(video_id): return ""
-
-def search(api_key, q, published_after, max_items=100):
-    items, token = [], None
-    fetched = 0
-    while True:
-        params = {
-            "part":"snippet","type":"video","order":"date",
-            "maxResults":50,"q":q,"key":api_key,"publishedAfter":published_after
-        }
-        if token: params["pageToken"] = token
-        r = requests.get(API + "/search", params=params, timeout=30)
-        r.raise_for_status()
-        data = r.json()
-        items.extend(data.get("items", []))
-        fetched += len(data.get("items", []))
-        token = data.get("nextPageToken")
-        if not token or fetched >= max_items: break
-    return items
+def yt_get(path, **params):
+    r = requests.get(API+path, params=params, timeout=30)
+    r.raise_for_status()
+    return r.json()
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--queries", required=True, help="txt file with 1 search query per line")
-    ap.add_argument("--days", type=int, default=90)
-    ap.add_argument("-o", "--out", required=True)
-    ap.add_argument("--max_per_query", type=int, default=100)
+    ap.add_argument("--queries", required=True, help="TXT: one search query per line")
+    ap.add_argument("--days", type=int, default=45)
+    ap.add_argument("--max_per_query", type=int, default=25)
+    ap.add_argument("-o","--out", required=True)
     args = ap.parse_args()
 
-    api_key = None
-    import os
-    api_key = os.environ.get("YOUTUBE_API_KEY")
-    if not api_key:
-        raise SystemExit("Missing YOUTUBE_API_KEY env var")
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not key: raise SystemExit("Missing YOUTUBE_API_KEY")
 
-    published_after = iso_after(args.days)
+    cutoff_iso = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(time.time() - args.days*86400))
     queries = [l.strip() for l in open(args.queries) if l.strip() and not l.startswith("#")]
 
-    rows = []
+    rows=[]
     for q in queries:
-        for item in search(api_key, q, published_after, max_items=args.max_per_query):
-            vid = item["id"]["videoId"]
-            sn = item["snippet"]
-            title = sn.get("title","")
-            desc  = sn.get("description","") or ""
-            when  = sn.get("publishedAt")
-            epoch = to_epoch(when)
-            url = f"https://www.youtube.com/watch?v={vid}"
-            transcript = get_transcript(vid)
-            text = (title + "\n\n" + desc + ("\n\n" + transcript if transcript else "")).strip()
-            rows.append({
-                "source":"youtube",
-                "query": q,
-                "url": url,
-                "video_id": vid,
-                "channel": sn.get("channelTitle",""),
-                "created_utc": epoch,
-                "title": title,
-                "text": text
-            })
-            time.sleep(0.2)  # gentle pacing
+        pageToken=None; pulled=0
+        while pulled < args.max_per_query:
+            data = yt_get("/search",
+                key=key, q=q, part="snippet", type="video",
+                order="date", publishedAfter=cutoff_iso, maxResults=min(50, args.max_per_query-pulled),
+                pageToken=pageToken)
+            for item in data.get("items",[]):
+                sn = item["snippet"]; vid = item["id"]["videoId"]
+                title = sn.get("title",""); desc = sn.get("description","")
+                pub = int(pd.Timestamp(sn.get("publishedAt")).timestamp())
+                url = f"https://www.youtube.com/watch?v={vid}"
+                rows.append({"source":"youtube","query":q,"url":url,"created_utc":pub,"title":title,"text":desc})
+            pulled += len(data.get("items",[]))
+            pageToken = data.get("nextPageToken")
+            if not pageToken: break
+
     pd.DataFrame(rows).to_csv(args.out, index=False)
-    print(f"Saved {len(rows)} rows -> {args.out}")
+    print(f"Saved {len(rows)} videos -> {args.out}")
 
 if __name__ == "__main__":
     main()
