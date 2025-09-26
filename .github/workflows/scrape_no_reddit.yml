@@ -2,8 +2,8 @@ name: Scrape & Analyze (NO-REDDIT, unsupervised)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs hourly (UTC). change to */30 for every 30 min.
-  workflow_dispatch: {}    # allows manual run
+    - cron: "0 * * * *"   # hourly (UTC). Change to */30 for every 30 minutes, */15 for 15.
+  workflow_dispatch: {}
 
 concurrency:
   group: prettydata-no-reddit
@@ -11,6 +11,7 @@ concurrency:
 
 jobs:
   topics:
+    name: Build topic (${{ matrix.topic }})
     runs-on: ubuntu-latest
     timeout-minutes: 60
     strategy:
@@ -21,9 +22,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
@@ -33,9 +36,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Ensure data
+      - name: Ensure data folder
         run: mkdir -p data
 
+      # --- Ingest (non-Reddit) sources --------------------------------------
       - name: RSS (${{ matrix.topic }} · 45d)
         continue-on-error: true
         run: |
@@ -62,22 +66,33 @@ jobs:
             --days 45 --max_per_query 25 \
             -o data/${{ matrix.topic }}_youtube_raw.csv
 
-      - name: Combine (${{ matrix.topic }})
+      - name: Combine sources (${{ matrix.topic }})
         run: |
           python scripts/combine_sources.py \
             --inputs data/${{ matrix.topic }}_rss_raw.csv data/${{ matrix.topic }}_gnews_raw.csv data/${{ matrix.topic }}_youtube_raw.csv \
             -o data/${{ matrix.topic }}_all_raw.csv
+
+      # --- New: per-topic analyzer (clean phrases + smart ranking) -----------
+      - name: Analyze topic (${{ matrix.topic }})
+        run: |
+          python scripts/analyze_topic.py \
+            --topic ${{ matrix.topic }} \
+            --raw data/${{ matrix.topic }}_all_raw.csv \
+            -o data/${{ matrix.topic }}
 
       - name: Commit per-topic artifacts
         run: |
           git config user.name "pld-bot"
           git config user.email "pld-bot@users.noreply.github.com"
           git add data/${{ matrix.topic }}_* || true
-          git commit -m "no-reddit: refresh ${{ matrix.topic }} (rss+gnews+youtube)" || echo "No changes"
-          git pull --rebase || true
-          git push || true
+          git commit -m "no-reddit: refresh ${{ matrix.topic }} (rss+gnews+youtube+topic-analysis)" || echo "No changes"
+          for i in 1 2 3; do
+            git pull --rebase || true
+            git push && break || sleep 2
+          done
 
   unsupervised:
+    name: Unsupervised (ALL web)
     needs: topics
     runs-on: ubuntu-latest
     timeout-minutes: 30
@@ -85,9 +100,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
@@ -97,7 +114,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Combine ALL sources
+      - name: Combine ALL topics
         run: |
           python scripts/combine_sources.py \
             --inputs data/decor_all_raw.csv data/fashion_all_raw.csv data/design_all_raw.csv data/beauty_all_raw.csv \
@@ -116,5 +133,7 @@ jobs:
           git config user.email "pld-bot@users.noreply.github.com"
           git add data/all_* || true
           git commit -m "no-reddit: unsupervised trend discovery (ALL web)" || echo "No changes"
-          git pull --rebase || true
-          git push || true
+          for i in 1 2 3; do
+            git pull --rebase || true
+            git push && break || sleep 2
+          done
