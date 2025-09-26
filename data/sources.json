@@ -1,0 +1,47 @@
+{
+  "categories": {
+    "fashion": {
+      "rss": [
+        "https://www.vogue.com/rss",
+        "https://www.businessoffashion.com/feed",
+        "https://www.theguardian.com/fashion/rss",
+        "https://fashionista.com/.rss/full/",
+        "https://www.dazed.com/fashion.rss"
+      ],
+      "youtube_channels": [
+        "UCi6b0l6g2WfZ3jz6U0n3tSg"  // BoF (example; replace freely)
+      ]
+    },
+    "design": {
+      "rss": [
+        "https://www.dezeen.com/feed/",
+        "https://www.itsnicethat.com/feed",
+        "https://eyeondesign.aiga.org/feed/",
+        "https://www.creativeboom.com/feed/"
+      ],
+      "youtube_channels": [
+        "UC0QHWhjbe5fGJEP1s3xVK8g"  // Dezeen (example)
+      ]
+    },
+    "beauty_wellness": {
+      "rss": [
+        "https://www.thecut.com/feed",
+        "https://www.allure.com/feed/all.xml",
+        "https://www.refinery29.com/en-us/rss.xml",
+        "https://www.wellandgood.com/feed/"
+      ],
+      "youtube_channels": []
+    }
+  },
+
+  "wikipedia_titles": [
+    "Longevity","Gorpcore","Quiet luxury","Mob wife","Cottagecore",
+    "Coquette","Y2K","Mermaidcore","Art deco","Brutalism"
+  ],
+
+  "social": {
+    "enable": false,              // flip to true when you add scrapers
+    "tiktok_search_terms": ["fashion trend","aesthetic","runway","color trend"],
+    "instagram_search_terms": ["trend report","fw25","ss26","runway"]
+  }
+}
