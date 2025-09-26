@@ -1,207 +1,375 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>PrettyData — Signals</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
-<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-<style>
-  :root{ --ink:#111827; --muted:#6b7280; --line:#e5e7eb; --card:#fff; --bg:#f9fafb; --radius:16px; }
-  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Inter,Roboto,Arial}
-  header{padding:28px 24px;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:2}
-  .wrap{max-width:1100px;margin:0 auto;padding:24px}
-  h1{margin:0;font-size:28px}
-  .subtitle{color:var(--muted);font-size:14px;margin-top:6px}
-  .tabs{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
-  .tab{padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;cursor:pointer;font-size:14px}
-  .tab.active{border-color:#111827; box-shadow:0 0 0 2px #11182711}
-  .grid{display:grid;gap:20px;grid-template-columns:1fr} @media(min-width:900px){ .grid{grid-template-columns:1fr 1fr} }
-  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:0 2px 8px rgba(0,0,0,.04)}
-  .small{font-size:12px;color:var(--muted)} a.download{font-size:12px;color:#2563eb;text-decoration:none}
-  .kpis{display:grid;gap:14px;grid-template-columns:repeat(3,1fr);margin:18px 0}
-  .kpi{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px}
-  .kpi .label{color:var(--muted);font-size:12px} .kpi .value{font-size:22px;font-weight:700}
-  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-  .pill{padding:6px 10px;border:1px solid var(--line);border-radius:999px;font-size:12px;background:#fff}
-  footer{padding:24px;color:var(--muted);text-align:center}
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PrettyData — Signals Dashboard</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <style>
+    :root{
+      --bg:#0b0d14; --panel:#121828; --ink:#e9eefc; --muted:#9aa4bd; --line:#1b2340; --accent:#7aa2ff; --accent2:#fb9ad1; --ok:#49d39e; --warn:#ffcf5a; --down:#ff7a7a;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji;}
+    a{color:var(--accent);text-decoration:none}
+    .wrap{max-width:1200px;margin:0 auto;padding:28px 16px 64px}
+    header h1{margin:0 0 6px;font-weight:800;letter-spacing:.2px}
+    header p{margin:0;color:var(--muted)}
+    .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0}
+    .tab{padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--muted);cursor:pointer}
+    .tab.active{background:var(--panel);color:var(--ink);border-color:var(--accent)}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px}
+    .card{grid-column:span 12;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;min-height:120px}
+    @media (min-width:880px){
+      .card.half{grid-column:span 6}
+      .card.third{grid-column:span 4}
+    }
+    .kpi{font-size:28px;font-weight:800;margin-top:4px}
+    .muted{color:var(--muted)}
+    .row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+    .pill{display:inline-block;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);font-size:12px}
+    .list{margin:8px 0 0;padding:0;list-style:none;max-height:300px;overflow:auto}
+    .list li{display:flex;justify-content:space-between;gap:12px;padding:8px;border-bottom:1px solid var(--line)}
+    .trend-up{color:var(--ok)}
+    .trend-down{color:var(--down)}
+    .hint{border:1px dashed var(--line);padding:10px;border-radius:10px;background:rgba(255,255,255,.02);color:var(--muted)}
+    canvas{width:100% !important;height:360px !important}
+    .links{display:flex;gap:12px;flex-wrap:wrap}
+    .links a{border:1px solid var(--line);padding:6px 10px;border-radius:999px}
+  </style>
 </head>
 <body>
-<header>
   <div class="wrap">
-    <h1>PrettyData — Signals</h1>
-    <div class="subtitle" id="subtitle"></div>
-    <div class="tabs" id="tabs"></div>
-  </div>
-</header>
+    <header>
+      <h1>PrettyData — Signals</h1>
+      <p>Auto-aggregated trend signals from RSS + Google News + YouTube (and Reddit if enabled). Updated by GitHub Actions.</p>
+    </header>
 
-<main class="wrap">
-  <div class="kpis">
-    <div class="kpi"><div class="label">Posts + comments analyzed</div><div id="kpi-rows" class="value">–</div></div>
-    <div class="kpi"><div class="label">Tracked phrases</div><div id="kpi-terms" class="value">–</div></div>
-    <div class="kpi"><div class="label">Last updated (UTC)</div><div id="kpi-updated" class="value">–</div></div>
+    <nav class="tabs" id="tabs"></nav>
+
+    <section id="panels"></section>
   </div>
 
-  <div class="grid">
-    <section class="card">
-      <h2>Top Risers</h2>
-      <div class="row"><span class="small" id="inc-note">Slope of weekly mentions (p&lt;.05 when available)</span><a class="download" id="dl-inc" target="_blank">Download CSV</a></div>
-      <canvas id="chart-inc" height="260"></canvas>
-    </section>
-
-    <section class="card">
-      <h2>Top Fallers</h2>
-      <div class="row"><span class="small" id="dec-note">Slope of weekly mentions (p&lt;.05 when available)</span><a class="download" id="dl-dec" target="_blank">Download CSV</a></div>
-      <canvas id="chart-dec" height="260"></canvas>
-    </section>
-  </div>
-
-  <section class="card" style="margin-top:20px">
-    <div class="row" style="justify-content:space-between">
-      <h2>Mentions Over Time</h2>
-      <div class="row"><label class="small">Show:</label><select id="series-select" class="pill" multiple size="4"></select></div>
-    </div>
-    <canvas id="chart-ts" height="320"></canvas>
-    <div class="row" style="margin-top:8px"><a class="download" id="dl-ts" target="_blank">Download CSV</a></div>
-  </section>
-
-  <section class="card" style="margin-top:20px">
-    <h2>Top Bigrams (phrases)</h2>
-    <div class="row"><a class="download" id="dl-bigrams" target="_blank">Download CSV</a></div>
-    <div id="bigrams-list" class="small"></div>
-  </section>
-</main>
-
-<footer>© Pretty Little Data — decor · fashion · aesthetics · design</footer>
-
-<script>
-const RAW_BASE = "https://raw.githubusercontent.com/prettylittledata/prettylittledata/main/data/";
-
-const CATS = {
-  decor:      { label:"Decor",      subs:"HomeDecorating · InteriorDesign · CozyPlaces" },
-  fashion:    { label:"Fashion",    subs:"malefashionadvice · femalefashionadvice · streetwear" },
-  aesthetics: { label:"Aesthetics", subs:"Decor + Fashion combined" },
-  design:     { label:"Design",     subs:"graphic_design · design · typography · web_design · industrialdesign" }
-};
-
-const tabsEl = document.getElementById("tabs");
-const subtitle = document.getElementById("subtitle");
-
-let incChart, decChart, tsChart;
-
-function files(prefix){
-  return {
-    inc:  `${prefix}_increasing_terms.csv`,
-    dec:  `${prefix}_decreasing_terms.csv`,
-    ts:   `${prefix}_term_counts_over_time.csv`,
-    bigr: `${prefix}_top_bigrams.csv`,
-    raw:  `${prefix}_reddit_raw.csv`
-  };
-}
-async function fetchCSV(path){
-  const url = RAW_BASE + path + "?t=" + Date.now();
-  const res = await fetch(url);
-  if(!res.ok) return []; // handle categories not ready yet
-  const txt = await res.text();
-  return Papa.parse(txt.trim(), { header:true, skipEmptyLines:true }).data;
-}
-function drawBars(canvasId, labels, values){
-  return new Chart(document.getElementById(canvasId), {
-    type: "bar",
-    data: { labels, datasets: [{ data: values }] },
-    options: { plugins:{ legend:{ display:false } }, scales:{ x:{ ticks:{ autoSkip:false }}} }
-  });
-}
-function drawLines(datasets){
-  return new Chart(document.getElementById("chart-ts"), {
-    type: "line",
-    data: { datasets },
-    options: {
-      parsing:false, interaction:{ mode:'nearest', intersect:false },
-      plugins:{ legend:{ position:'bottom' } },
-      scales:{ x:{ type:'time', time:{ unit:'week' }}, y:{ beginAtZero:true } }
-    }
-  });
-}
-function metric(rows, noteEl){
-  const mode = rows[0]?.mode || (rows.every(r => +r.estimate === 0) ? "count" : "slope");
-  let label = "Slope of weekly mentions", values = rows.map(r => +r.estimate || 0);
-  if(mode === "count"){ label = "Total mentions (fallback)"; values = rows.map(r => +r.Total || 0); }
-  if(mode === "significant") label += " (significant p<.05)";
-  if(noteEl) noteEl.textContent = label;
-  return values;
-}
-function setLinks(prefix){
-  const f = files(prefix);
-  document.getElementById('dl-inc').href  = RAW_BASE + f.inc;
-  document.getElementById('dl-dec').href  = RAW_BASE + f.dec;
-  document.getElementById('dl-ts').href   = RAW_BASE + f.ts;
-  document.getElementById('dl-bigrams').href = RAW_BASE + f.bigr;
-}
-
-async function loadCategory(prefix){
-  const f = files(prefix);
-  subtitle.textContent = `${CATS[prefix].label} · ${CATS[prefix].subs}`;
-  setLinks(prefix);
-
-  const [inc, dec, ts, bigr, raw] = await Promise.all([
-    fetchCSV(f.inc), fetchCSV(f.dec), fetchCSV(f.ts), fetchCSV(f.bigr), fetchCSV(f.raw)
-  ]);
-
-  // KPIs
-  document.getElementById("kpi-rows").textContent  = (raw.length || 0).toLocaleString();
-  document.getElementById("kpi-terms").textContent = (new Set(ts.map(r=>r.Term))).size || 0;
-  const latest = ts.reduce((m,r)=>!m||r.period>m? r.period : m, null);
-  document.getElementById("kpi-updated").textContent = latest || "–";
-
-  // (re)draw bars
-  if(incChart) incChart.destroy();
-  if(decChart) decChart.destroy();
-  const incVals = metric(inc, document.getElementById('inc-note'));
-  const decVals = metric(dec, document.getElementById('dec-note'));
-  incChart = drawBars("chart-inc", inc.map(d=>d.Term), incVals);
-  decChart = drawBars("chart-dec", dec.map(d=>d.Term), decVals);
-
-  // timeseries
-  if(tsChart) tsChart.destroy();
-  const byTerm = {};
-  ts.forEach(r => { (byTerm[r.Term] ||= []).push({ x: r.period, y: +r.Count }); });
-  Object.values(byTerm).forEach(arr => arr.sort((a,b)=> new Date(a.x) - new Date(b.x)));
-  const termList = Object.keys(byTerm).sort();
-  const select = document.getElementById("series-select");
-  select.innerHTML = "";
-  termList.slice(0,8).forEach((t,i)=>{ const o=document.createElement("option"); o.value=t; o.textContent=t; o.selected=i<6; select.appendChild(o); });
-  const mk = names => names.map(n => ({ label:n, data: byTerm[n]||[] }));
-  tsChart = drawLines(mk([...select.options].filter(o=>o.selected).map(o=>o.value)));
-  select.addEventListener("change", ()=>{
-    tsChart.data.datasets = mk([...select.options].filter(o=>o.selected).map(o=>o.value));
-    tsChart.update();
-  });
-
-  // bigrams
-  document.getElementById("bigrams-list").innerHTML =
-    bigr.slice(0,25).map(r => `<span class="pill">${r.bigram} — ${r.count}</span>`).join(" ");
-}
-
-function renderTabs(){
-  tabsEl.innerHTML = "";
-  Object.keys(CATS).forEach((key,idx) => {
-    const btn = document.createElement("button");
-    btn.className = "tab" + (idx===0 ? " active" : "");
-    btn.textContent = CATS[key].label;
-    btn.onclick = () => {
-      [...tabsEl.children].forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-      loadCategory(key);
+  <script>
+    // ---- configuration -------------------------------------------------------
+    // Each tab points to the CSVs it should try to load.
+    const TABS = {
+      all: {
+        label: "All Web",
+        desc: "Unsupervised phrases from RSS + Google News + YouTube",
+        files: {
+          rawCount: "data/all_all_raw.csv",
+          risers:   "data/all_increasing_terms.csv",
+          fallers:  "data/all_decreasing_terms.csv",
+          counts:   "data/all_phrase_counts_over_time.csv",
+          fresh:    "data/all_new_terms.csv"
+        }
+      },
+      decor: {
+        label: "Decor",
+        desc: "HomeDecorating, Interior, CozyPlaces sources",
+        files: {
+          rawCount: "data/decor_all_raw.csv",
+          risers:   "data/decor_increasing_terms.csv",
+          fallers:  "data/decor_decreasing_terms.csv",
+          counts:   "data/decor_term_counts_over_time.csv"
+        }
+      },
+      fashion: {
+        label: "Fashion",
+        desc: "Press, Substacks & video creators",
+        files: {
+          rawCount: "data/fashion_all_raw.csv",
+          risers:   "data/fashion_increasing_terms.csv",
+          fallers:  "data/fashion_decreasing_terms.csv",
+          counts:   "data/fashion_term_counts_over_time.csv"
+        }
+      },
+      design: {
+        label: "Design",
+        desc: "Graphic/Web/Type design sources",
+        files: {
+          rawCount: "data/design_all_raw.csv",
+          risers:   "data/design_increasing_terms.csv",
+          fallers:  "data/design_decreasing_terms.csv",
+          counts:   "data/design_term_counts_over_time.csv"
+        }
+      },
+      beauty: {
+        label: "Beauty",
+        desc: "Beauty press & creators",
+        files: {
+          rawCount: "data/beauty_all_raw.csv",
+          risers:   "data/beauty_increasing_terms.csv",
+          fallers:  "data/beauty_decreasing_terms.csv",
+          counts:   "data/beauty_term_counts_over_time.csv"
+        }
+      },
+      aesthetics: {
+        label: "Aesthetics",
+        desc: "Combined (decor + fashion)",
+        files: {
+          rawCount: "data/aesthetics_all_raw.csv",
+          risers:   "data/aesthetics_increasing_terms.csv",
+          fallers:  "data/aesthetics_decreasing_terms.csv",
+          counts:   "data/aesthetics_term_counts_over_time.csv"
+        }
+      }
     };
-    tabsEl.appendChild(btn);
-  });
-}
 
-renderTabs();
-loadCategory("decor"); // default
-</script>
+    // ---- helpers -------------------------------------------------------------
+    async function fetchCSV(path){
+      // returns { data: Array<Object>, ok: boolean }
+      try{
+        const r = await fetch(path, {cache:"no-store"});
+        if(!r.ok) return {data:[], ok:false, status:r.status};
+        const text = await r.text();
+        const parsed = Papa.parse(text, {header:true, dynamicTyping:true, skipEmptyLines:true});
+        return {data:parsed.data, ok:true};
+      }catch(e){ return {data:[], ok:false}; }
+    }
+
+    function toLocaleDate(d){ try{ return new Date(d).toISOString().slice(0,10); }catch(_){ return ""; } }
+
+    function el(html){ const t=document.createElement("template"); t.innerHTML=html.trim(); return t.content.firstElementChild; }
+
+    // make small bar chart
+    function barChart(canvas, labels, values, color){
+      return new Chart(canvas.getContext('2d'), {
+        type:'bar',
+        data:{ labels, datasets:[{ label:'slope', data: values, borderWidth:1, backgroundColor: color}]},
+        options:{
+          plugins:{ legend:{display:false} },
+          scales:{ x:{ ticks:{ color:'#9aa4bd'}}, y:{ ticks:{ color:'#9aa4bd'}, grid:{ color:'#1b2340'}}}
+        }
+      });
+    }
+
+    // multi-line small time-series chart
+    function lineChart(canvas, series){
+      const labels = series.labels;
+      const datasets = series.lines.map((ln,i)=>({
+        label: ln.term,
+        data: ln.values,
+        borderWidth:2,
+        fill:false
+      }));
+      return new Chart(canvas.getContext('2d'), {
+        type:'line',
+        data:{ labels, datasets },
+        options:{
+          plugins:{ legend:{labels:{color:'#9aa4bd'}}},
+          scales:{ x:{ ticks:{ color:'#9aa4bd'}}, y:{ ticks:{ color:'#9aa4bd'}, grid:{ color:'#1b2340'}}}
+        }
+      });
+    }
+
+    // ---- UI builder ----------------------------------------------------------
+    async function build(){
+      // tabs
+      const tabsEl = document.getElementById('tabs');
+      const panelsEl = document.getElementById('panels');
+
+      const keys = Object.keys(TABS);
+      keys.forEach((k,i)=>{
+        const t = TABS[k];
+        const btn = el(`<button class="tab ${i===0?'active':''}" data-key="${k}">${t.label}</button>`);
+        tabsEl.appendChild(btn);
+
+        const panel = el(`
+          <div class="panel" id="panel-${k}" style="${i===0?'':'display:none'}">
+            <div class="grid">
+              <div class="card third">
+                <div class="muted">Docs analyzed (last run)</div>
+                <div class="kpi" id="${k}-docs">—</div>
+                <div class="muted">${t.desc}</div>
+              </div>
+              <div class="card third">
+                <div class="muted">Tracked phrases</div>
+                <div class="kpi" id="${k}-phrases">—</div>
+                <div class="muted">auto-discovered (1–3 word n-grams)</div>
+              </div>
+              <div class="card third">
+                <div class="muted">Last updated</div>
+                <div class="kpi" id="${k}-updated">${toLocaleDate(Date.now())}</div>
+                <div class="links muted" id="${k}-links"></div>
+              </div>
+
+              <div class="card half">
+                <div class="row">
+                  <strong>Top risers</strong>
+                  <span class="pill">slope of weekly mentions</span>
+                  <a class="pill" id="${k}-risers-dl" target="_blank" rel="noopener">Download CSV</a>
+                </div>
+                <div id="${k}-risers-wrap" style="margin-top:8px;">
+                  <canvas id="${k}-risers"></canvas>
+                </div>
+              </div>
+
+              <div class="card half">
+                <div class="row">
+                  <strong>Top fallers</strong>
+                  <span class="pill">slope of weekly mentions</span>
+                  <a class="pill" id="${k}-fallers-dl" target="_blank" rel="noopener">Download CSV</a>
+                </div>
+                <div id="${k}-fallers-wrap" style="margin-top:8px;">
+                  <canvas id="${k}-fallers"></canvas>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="row">
+                  <strong>Time series · top rising terms</strong>
+                  <span class="pill">weekly mentions</span>
+                </div>
+                <canvas id="${k}-series"></canvas>
+              </div>
+
+              <div class="card">
+                <div class="row">
+                  <strong>What’s new</strong>
+                  <span class="pill">first-seen recently</span>
+                  <a class="pill" id="${k}-fresh-dl" target="_blank" rel="noopener">Download CSV</a>
+                </div>
+                <ul class="list" id="${k}-fresh"></ul>
+              </div>
+            </div>
+          </div>
+        `);
+        panelsEl.appendChild(panel);
+        btn.addEventListener('click',()=>{
+          document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));
+          btn.classList.add('active');
+          document.querySelectorAll('.panel').forEach(p=>p.style.display='none');
+          panel.style.display='block';
+        });
+      });
+
+      // load each tab
+      for(const key of keys){
+        await loadTab(key, TABS[key]);
+      }
+    }
+
+    async function loadTab(key, cfg){
+      // Summary: docs analyzed
+      let docs = 0;
+      const linksEl = document.getElementById(`${key}-links`);
+      const rawResp = await fetchCSV(cfg.files.rawCount);
+      if(rawResp.ok){
+        docs = rawResp.data.length;
+      }
+      document.getElementById(`${key}-docs`).textContent = docs.toLocaleString();
+
+      // Build download links
+      const dl = [];
+      for(const [k,v] of Object.entries(cfg.files)){
+        if(k==='rawCount') continue;
+        dl.push({name:k, path:v});
+      }
+      linksEl.innerHTML = dl.map(x=>`<a href="${x.path}" target="_blank">${x.name}.csv</a>`).join("");
+
+      // Load risers/fallers (works for both supervised and unsupervised files)
+      const risers = await fetchCSV(cfg.files.risers);
+      const fallers = await fetchCSV(cfg.files.fallers);
+
+      const phrasesCountEl = document.getElementById(`${key}-phrases`);
+      let uniqueTerms = 0;
+
+      if(risers.ok && risers.data.length){
+        const sorted = [...risers.data]
+          .filter(r=>r.Term && isFinite(r.slope ?? r.estimate ?? r.Slope ?? r.slope))
+          .sort((a,b)=> (b.slope ?? b.estimate ?? 0) - (a.slope ?? a.estimate ?? 0))
+          .slice(0,10);
+        uniqueTerms += new Set(sorted.map(r=>r.Term)).size;
+
+        const labels = sorted.map(r=>r.Term);
+        const values = sorted.map(r=>Number(r.slope ?? r.estimate ?? 0));
+        barChart(document.getElementById(`${key}-risers`), labels, values, "rgba(122,162,255,0.7)");
+        document.getElementById(`${key}-risers-dl`).href = cfg.files.risers;
+      }else{
+        document.getElementById(`${key}-risers-wrap`).innerHTML =
+          `<div class="hint">No analyzed risers yet for <strong>${TABS[key].label}</strong>. Once the analysis CSV exists, this will populate.</div>`;
+      }
+
+      if(fallers.ok && fallers.data.length){
+        const sorted = [...fallers.data]
+          .filter(r=>r.Term && isFinite(r.slope ?? r.estimate ?? r.Slope ?? r.slope))
+          .sort((a,b)=> (a.slope ?? a.estimate ?? 0) - (b.slope ?? b.estimate ?? 0))
+          .slice(0,10);
+        uniqueTerms += new Set(sorted.map(r=>r.Term)).size;
+
+        const labels = sorted.map(r=>r.Term);
+        const values = sorted.map(r=>Number(r.slope ?? r.estimate ?? 0));
+        barChart(document.getElementById(`${key}-fallers`), labels, values, "rgba(255,154,154,0.7)");
+        document.getElementById(`${key}-fallers-dl`).href = cfg.files.fallers;
+      }else{
+        document.getElementById(`${key}-fallers-wrap`).innerHTML =
+          `<div class="hint">No analyzed fallers yet for <strong>${TABS[key].label}</strong>.</div>`;
+      }
+
+      // Load time series (top 6 rising terms if we can)
+      const counts = await fetchCSV(cfg.files.counts);
+      if((risers.ok && risers.data.length) && (counts.ok && counts.data.length)){
+        // choose top 6 from risers
+        const top = [...risers.data]
+            .filter(r=>r.Term)
+            .sort((a,b)=> (b.slope ?? b.estimate ?? 0) - (a.slope ?? a.estimate ?? 0))
+            .slice(0,6)
+            .map(r=>r.Term);
+
+        // build series for those terms
+        // normalize periods to strings for labels
+        const periods = Array.from(new Set(counts.data.map(r=>r.period))).sort();
+        const lines = top.map(term=>{
+          const byTerm = counts.data.filter(r=>r.Term===term);
+          const map = new Map(byTerm.map(r=>[String(r.period), Number(r.Count)]));
+          const vals = periods.map(p=> map.get(String(p)) || 0);
+          return {term, values: vals};
+        });
+        lineChart(document.getElementById(`${key}-series`), {labels: periods, lines});
+        uniqueTerms = Math.max(uniqueTerms, new Set(counts.data.map(r=>r.Term)).size);
+      }else{
+        // if we have no counts, show a hint
+        document.getElementById(`${key}-series`).replaceWith(el(
+          `<div class="hint" style="margin-top:8px">No weekly time-series yet for <strong>${TABS[key].label}</strong>. When <code>${cfg.files.counts}</code> is present, a multi-line chart appears here.</div>`
+        ));
+      }
+
+      // "What's new" (unsupervised only or if provided)
+      if(cfg.files.fresh){
+        const fresh = await fetchCSV(cfg.files.fresh);
+        const ul = document.getElementById(`${key}-fresh`);
+        const aFresh = document.getElementById(`${key}-fresh-dl`);
+        if(fresh.ok && fresh.data.length){
+          aFresh.href = cfg.files.fresh;
+          fresh.data.slice(0,20).forEach(r=>{
+            ul.appendChild(el(`<li><span>${r.Term}</span><span class="trend-up">+${(r.slope??0).toFixed(2)}</span></li>`));
+          });
+          uniqueTerms = Math.max(uniqueTerms, new Set(fresh.data.map(r=>r.Term)).size);
+        }else{
+          aFresh.remove();
+          ul.outerHTML = `<div class="hint">No “new” terms surfaced yet. The unsupervised job writes <code>${cfg.files.fresh||''}</code> when available.</div>`;
+        }
+      }else{
+        // not provided for this tab
+        document.getElementById(`${key}-fresh-dl`).remove();
+        document.getElementById(`${key}-fresh`).outerHTML =
+          `<div class="hint">This category doesn’t have a “new terms” file yet.</div>`;
+      }
+
+      // phrases “tracked”
+      if(uniqueTerms>0){
+        document.getElementById(`${key}-phrases`).textContent = uniqueTerms.toLocaleString();
+      }else if(rawResp.ok){
+        // fallback: estimate vocab size later; for now just show em dash
+        document.getElementById(`${key}-phrases`).textContent = "—";
+      }
+    }
+
+    build();
+  </script>
 </body>
 </html>
