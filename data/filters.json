@@ -1,0 +1,40 @@
+{
+  "synonyms": {
+    "quiet luxury": ["stealth wealth"],
+    "art deco": ["art-deco"],
+    "y2k": ["y2k aesthetic"]
+  },
+
+  "banlist": [
+    "the","a","an","and","or","but","for","with","from","by","of","in","on","to","at",
+    "best","top","cheap","budget","brand","brands","review","reviews","guide","near me",
+    "what","when","where","why","how"
+  ],
+
+  "ban_regex": [
+    "^[0-9]+$",
+    "^(sale|discount|coupon)s?$",
+    "^(official|press|subscription)$"
+  ],
+
+  "ban_entities": [
+    // celebrities/brands to ignore as “signals” (add freely)
+    "kylie jenner","kim kardashian","taylor swift","zara","h&m","shein","nike","adidas"
+  ],
+
+  "allowlist": {
+    "fashion": [
+      ".*core$","[a-z]+\\s+(silhouette|hem|neckline|palette|fabric|weave|pleat|cuff|seam)",
+      "(runway|couture|atelier|capsule)\\s+[a-z]+","(gorpcore|blokette|mob wife|coquette)"
+    ],
+    "design": [
+      "(brutalism|memphis|bauhaus|art deco|postmodern)",
+      "(parametric|generative|3d printed|biomaterial|bioplastic|hempcrete|rammed earth)",
+      "color\\s+(theory|system|trend|forecast)"
+    ],
+    "beauty_wellness": [
+      "(longevity|peptide|retinoid|niacinamide|lip tint|glazing|skin cycling)",
+      "(cycle syncing|cold plunge|sauna|ozempic face)"
+    ]
+  }
+}
