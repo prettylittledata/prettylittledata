@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse, time, feedparser, trafilatura, pandas as pd
+import argparse, time, feedparser, pandas as pd, trafilatura
 from urllib.parse import quote_plus, urlparse
 
 def fetch(url):
@@ -12,8 +12,8 @@ def fetch(url):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--queries", required=True, help="txt file: one query per line")
-    ap.add_argument("--days", type=int, default=60)
+    ap.add_argument("--queries", required=True, help="TXT: one Google News query per line")
+    ap.add_argument("--days", type=int, default=45)
     ap.add_argument("-o", "--out", required=True)
     ap.add_argument("--hl", default="en-US"); ap.add_argument("--gl", default="US"); ap.add_argument("--ceid", default="US:en")
     args = ap.parse_args()
@@ -27,17 +27,12 @@ def main():
         for e in parsed.entries:
             pub = int(time.mktime(getattr(e, "published_parsed", time.gmtime())))
             if pub < cutoff: continue
-            link = getattr(e, "link", "") or ""
-            title = getattr(e, "title", "") or ""
+            link = getattr(e,"link","") or ""
+            title = getattr(e,"title","") or ""
             text = fetch(link)
             rows.append({
-                "source":"gnews",
-                "query": q,
-                "domain": urlparse(link).netloc,
-                "url": link,
-                "created_utc": pub,
-                "title": title,
-                "text": (title + "\n\n" + text).strip()
+                "source":"gnews","query":q,"domain":urlparse(link).netloc,
+                "url":link,"created_utc":pub,"title":title,"text":(title+"\n\n"+text).strip()
             })
     pd.DataFrame(rows).to_csv(args.out, index=False)
     print(f"Wrote {len(rows)} rows -> {args.out}")
