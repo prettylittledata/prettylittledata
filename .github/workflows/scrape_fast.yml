@@ -1,7 +1,7 @@
 name: Scrape & Analyze (PrettyData — FAST, no-Reddit)
 
 on:
-  workflow_dispatch: {}   # run manually only
+  workflow_dispatch: {}
 
 concurrency:
   group: prettydata-fast
@@ -36,16 +36,18 @@ jobs:
       - name: Ensure data folder
         run: mkdir -p data
 
-      # --- RSS (per topic) ---
+      # ---------- RSS ----------
       - name: RSS (${{ matrix.topic }} · 30d)
+        continue-on-error: true
         run: |
           python scripts/ingest_rss.py \
             --feeds data/feeds_${{ matrix.topic }}.txt \
             --days 30 \
             -o data/${{ matrix.topic }}_rss_raw.csv
 
-      # --- YouTube (per topic) ---
+      # ---------- YouTube ----------
       - name: YouTube (${{ matrix.topic }} · 30d)
+        continue-on-error: true
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
@@ -54,30 +56,42 @@ jobs:
             --days 30 --max_per_query 20 \
             -o data/${{ matrix.topic }}_youtube_raw.csv
 
-      # --- Combine (no Reddit in this fast run) ---
+      # ---------- Combine (no Reddit) ----------
       - name: Combine (${{ matrix.topic }} → all sources)
         run: |
           python scripts/combine_sources.py \
             --inputs data/${{ matrix.topic }}_rss_raw.csv data/${{ matrix.topic }}_youtube_raw.csv \
             -o data/${{ matrix.topic }}_all_raw.csv
 
-      # --- Analyze ---
+      # Ensure combined file exists with headers even if sources failed
+      - name: Ensure placeholder combined
+        run: |
+          python - <<'PY'
+          import os, pandas as pd, sys
+          p = f"data/${{ matrix.topic }}_all_raw.csv"
+          if not os.path.exists(p) or os.stat(p).st_size == 0:
+              pd.DataFrame(columns=["source","url","created_utc","title","text"]).to_csv(p, index=False)
+          PY
+
+      # ---------- Analyze ----------
       - name: Analyze (${{ matrix.topic }})
+        continue-on-error: true
         run: |
           python scripts/analyze_prettydata.py \
             --raw data/${{ matrix.topic }}_all_raw.csv \
             --terms-file data/terms_${{ matrix.topic }}.json \
             --prefix ${{ matrix.topic }}
 
-      # --- Google Trends (short timeframe for speed) ---
+      # ---------- Google Trends ----------
       - name: Google Trends (${{ matrix.topic }})
+        continue-on-error: true
         run: |
           python scripts/ingest_trends.py \
             --terms-file data/terms_${{ matrix.topic }}.json \
             --geo "" --timeframe "today 3-m" \
             -o data/${{ matrix.topic }}_trends.csv
 
-      # --- Commit (per topic) ---
+      # ---------- Commit (per topic) ----------
       - name: Commit artifacts (${{ matrix.topic }})
         run: |
           git config user.name "pld-bot"
@@ -112,7 +126,17 @@ jobs:
             --inputs data/decor_all_raw.csv data/fashion_all_raw.csv \
             -o data/aesthetics_all_raw.csv
 
+      - name: Ensure placeholder combined (aesthetics)
+        run: |
+          python - <<'PY'
+          import os, pandas as pd
+          p = "data/aesthetics_all_raw.csv"
+          if not os.path.exists(p) or os.stat(p).st_size == 0:
+              pd.DataFrame(columns=["source","url","created_utc","title","text"]).to_csv(p, index=False)
+          PY
+
       - name: Analyze (aesthetics)
+        continue-on-error: true
         run: |
           python scripts/analyze_prettydata.py \
             --raw data/aesthetics_all_raw.csv \
@@ -120,6 +144,7 @@ jobs:
             --prefix aesthetics
 
       - name: Google Trends (aesthetics)
+        continue-on-error: true
         run: |
           python scripts/ingest_trends.py \
             --terms-file data/terms_aesthetics.json \
