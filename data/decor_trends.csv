@@ -91,7 +91,7 @@ date,Term,Value,isPartial
 2025-09-23,scalloped mirror,4,False
 2025-09-24,scalloped mirror,5,False
 2025-09-25,scalloped mirror,4,False
-2025-09-26,scalloped mirror,4,True
+2025-09-26,scalloped mirror,3,True
 2025-06-26,checkerboard rug,0,False
 2025-06-27,checkerboard rug,0,False
 2025-06-28,checkerboard rug,0,False
@@ -463,7 +463,7 @@ date,Term,Value,isPartial
 2025-09-23,plaster lamp,1,False
 2025-09-24,plaster lamp,1,False
 2025-09-25,plaster lamp,1,False
-2025-09-26,plaster lamp,2,True
+2025-09-26,plaster lamp,0,True
 2025-06-26,parsons table,0,False
 2025-06-27,parsons table,0,False
 2025-06-28,parsons table,0,False
@@ -928,4 +928,841 @@ date,Term,Value,isPartial
 2025-09-23,Zara Home,70,False
 2025-09-24,Zara Home,68,False
 2025-09-25,Zara Home,68,False
-2025-09-26,Zara Home,38,True
+2025-09-26,Zara Home,40,True
+2025-06-26,West Elm,29,False
+2025-06-27,West Elm,29,False
+2025-06-28,West Elm,38,False
+2025-06-29,West Elm,38,False
+2025-06-30,West Elm,32,False
+2025-07-01,West Elm,39,False
+2025-07-02,West Elm,33,False
+2025-07-03,West Elm,31,False
+2025-07-04,West Elm,30,False
+2025-07-05,West Elm,37,False
+2025-07-06,West Elm,44,False
+2025-07-07,West Elm,34,False
+2025-07-08,West Elm,33,False
+2025-07-09,West Elm,32,False
+2025-07-10,West Elm,31,False
+2025-07-11,West Elm,32,False
+2025-07-12,West Elm,38,False
+2025-07-13,West Elm,38,False
+2025-07-14,West Elm,34,False
+2025-07-15,West Elm,31,False
+2025-07-16,West Elm,31,False
+2025-07-17,West Elm,30,False
+2025-07-18,West Elm,31,False
+2025-07-19,West Elm,38,False
+2025-07-20,West Elm,44,False
+2025-07-21,West Elm,34,False
+2025-07-22,West Elm,34,False
+2025-07-23,West Elm,31,False
+2025-07-24,West Elm,30,False
+2025-07-25,West Elm,33,False
+2025-07-26,West Elm,37,False
+2025-07-27,West Elm,41,False
+2025-07-28,West Elm,36,False
+2025-07-29,West Elm,32,False
+2025-07-30,West Elm,32,False
+2025-07-31,West Elm,31,False
+2025-08-01,West Elm,36,False
+2025-08-02,West Elm,40,False
+2025-08-03,West Elm,49,False
+2025-08-04,West Elm,36,False
+2025-08-05,West Elm,37,False
+2025-08-06,West Elm,35,False
+2025-08-07,West Elm,36,False
+2025-08-08,West Elm,35,False
+2025-08-09,West Elm,44,False
+2025-08-10,West Elm,52,False
+2025-08-11,West Elm,38,False
+2025-08-12,West Elm,36,False
+2025-08-13,West Elm,32,False
+2025-08-14,West Elm,37,False
+2025-08-15,West Elm,36,False
+2025-08-16,West Elm,46,False
+2025-08-17,West Elm,53,False
+2025-08-18,West Elm,42,False
+2025-08-19,West Elm,39,False
+2025-08-20,West Elm,35,False
+2025-08-21,West Elm,35,False
+2025-08-22,West Elm,34,False
+2025-08-23,West Elm,49,False
+2025-08-24,West Elm,48,False
+2025-08-25,West Elm,43,False
+2025-08-26,West Elm,38,False
+2025-08-27,West Elm,38,False
+2025-08-28,West Elm,36,False
+2025-08-29,West Elm,41,False
+2025-08-30,West Elm,50,False
+2025-08-31,West Elm,56,False
+2025-09-01,West Elm,60,False
+2025-09-02,West Elm,44,False
+2025-09-03,West Elm,36,False
+2025-09-04,West Elm,33,False
+2025-09-05,West Elm,39,False
+2025-09-06,West Elm,50,False
+2025-09-07,West Elm,56,False
+2025-09-08,West Elm,40,False
+2025-09-09,West Elm,36,False
+2025-09-10,West Elm,34,False
+2025-09-11,West Elm,34,False
+2025-09-12,West Elm,27,False
+2025-09-13,West Elm,35,False
+2025-09-14,West Elm,37,False
+2025-09-15,West Elm,32,False
+2025-09-16,West Elm,30,False
+2025-09-17,West Elm,27,False
+2025-09-18,West Elm,29,False
+2025-09-19,West Elm,30,False
+2025-09-20,West Elm,36,False
+2025-09-21,West Elm,39,False
+2025-09-22,West Elm,31,False
+2025-09-23,West Elm,31,False
+2025-09-24,West Elm,29,False
+2025-09-25,West Elm,28,False
+2025-09-26,West Elm,30,True
+2025-06-26,CB2,14,False
+2025-06-27,CB2,13,False
+2025-06-28,CB2,14,False
+2025-06-29,CB2,15,False
+2025-06-30,CB2,15,False
+2025-07-01,CB2,14,False
+2025-07-02,CB2,15,False
+2025-07-03,CB2,14,False
+2025-07-04,CB2,13,False
+2025-07-05,CB2,15,False
+2025-07-06,CB2,15,False
+2025-07-07,CB2,15,False
+2025-07-08,CB2,14,False
+2025-07-09,CB2,14,False
+2025-07-10,CB2,13,False
+2025-07-11,CB2,15,False
+2025-07-12,CB2,14,False
+2025-07-13,CB2,16,False
+2025-07-14,CB2,14,False
+2025-07-15,CB2,14,False
+2025-07-16,CB2,14,False
+2025-07-17,CB2,13,False
+2025-07-18,CB2,13,False
+2025-07-19,CB2,14,False
+2025-07-20,CB2,18,False
+2025-07-21,CB2,16,False
+2025-07-22,CB2,14,False
+2025-07-23,CB2,14,False
+2025-07-24,CB2,14,False
+2025-07-25,CB2,14,False
+2025-07-26,CB2,16,False
+2025-07-27,CB2,18,False
+2025-07-28,CB2,16,False
+2025-07-29,CB2,15,False
+2025-07-30,CB2,14,False
+2025-07-31,CB2,15,False
+2025-08-01,CB2,14,False
+2025-08-02,CB2,16,False
+2025-08-03,CB2,18,False
+2025-08-04,CB2,16,False
+2025-08-05,CB2,16,False
+2025-08-06,CB2,15,False
+2025-08-07,CB2,17,False
+2025-08-08,CB2,16,False
+2025-08-09,CB2,18,False
+2025-08-10,CB2,20,False
+2025-08-11,CB2,19,False
+2025-08-12,CB2,18,False
+2025-08-13,CB2,17,False
+2025-08-14,CB2,18,False
+2025-08-15,CB2,16,False
+2025-08-16,CB2,19,False
+2025-08-17,CB2,22,False
+2025-08-18,CB2,19,False
+2025-08-19,CB2,19,False
+2025-08-20,CB2,19,False
+2025-08-21,CB2,16,False
+2025-08-22,CB2,17,False
+2025-08-23,CB2,17,False
+2025-08-24,CB2,20,False
+2025-08-25,CB2,19,False
+2025-08-26,CB2,18,False
+2025-08-27,CB2,18,False
+2025-08-28,CB2,16,False
+2025-08-29,CB2,19,False
+2025-08-30,CB2,21,False
+2025-08-31,CB2,21,False
+2025-09-01,CB2,23,False
+2025-09-02,CB2,20,False
+2025-09-03,CB2,18,False
+2025-09-04,CB2,16,False
+2025-09-05,CB2,15,False
+2025-09-06,CB2,19,False
+2025-09-07,CB2,21,False
+2025-09-08,CB2,18,False
+2025-09-09,CB2,17,False
+2025-09-10,CB2,16,False
+2025-09-11,CB2,15,False
+2025-09-12,CB2,12,False
+2025-09-13,CB2,13,False
+2025-09-14,CB2,15,False
+2025-09-15,CB2,13,False
+2025-09-16,CB2,13,False
+2025-09-17,CB2,13,False
+2025-09-18,CB2,12,False
+2025-09-19,CB2,13,False
+2025-09-20,CB2,14,False
+2025-09-21,CB2,15,False
+2025-09-22,CB2,14,False
+2025-09-23,CB2,13,False
+2025-09-24,CB2,14,False
+2025-09-25,CB2,14,False
+2025-09-26,CB2,15,True
+2025-06-26,farmhouse,71,False
+2025-06-27,farmhouse,74,False
+2025-06-28,farmhouse,85,False
+2025-06-29,farmhouse,84,False
+2025-06-30,farmhouse,71,False
+2025-07-01,farmhouse,67,False
+2025-07-02,farmhouse,71,False
+2025-07-03,farmhouse,69,False
+2025-07-04,farmhouse,70,False
+2025-07-05,farmhouse,76,False
+2025-07-06,farmhouse,85,False
+2025-07-07,farmhouse,74,False
+2025-07-08,farmhouse,72,False
+2025-07-09,farmhouse,69,False
+2025-07-10,farmhouse,70,False
+2025-07-11,farmhouse,77,False
+2025-07-12,farmhouse,86,False
+2025-07-13,farmhouse,83,False
+2025-07-14,farmhouse,71,False
+2025-07-15,farmhouse,69,False
+2025-07-16,farmhouse,68,False
+2025-07-17,farmhouse,72,False
+2025-07-18,farmhouse,72,False
+2025-07-19,farmhouse,85,False
+2025-07-20,farmhouse,96,False
+2025-07-21,farmhouse,76,False
+2025-07-22,farmhouse,70,False
+2025-07-23,farmhouse,67,False
+2025-07-24,farmhouse,67,False
+2025-07-25,farmhouse,73,False
+2025-07-26,farmhouse,82,False
+2025-07-27,farmhouse,83,False
+2025-07-28,farmhouse,71,False
+2025-07-29,farmhouse,73,False
+2025-07-30,farmhouse,67,False
+2025-07-31,farmhouse,68,False
+2025-08-01,farmhouse,74,False
+2025-08-02,farmhouse,83,False
+2025-08-03,farmhouse,92,False
+2025-08-04,farmhouse,74,False
+2025-08-05,farmhouse,75,False
+2025-08-06,farmhouse,76,False
+2025-08-07,farmhouse,75,False
+2025-08-08,farmhouse,78,False
+2025-08-09,farmhouse,90,False
+2025-08-10,farmhouse,95,False
+2025-08-11,farmhouse,79,False
+2025-08-12,farmhouse,79,False
+2025-08-13,farmhouse,79,False
+2025-08-14,farmhouse,79,False
+2025-08-15,farmhouse,87,False
+2025-08-16,farmhouse,92,False
+2025-08-17,farmhouse,100,False
+2025-08-18,farmhouse,80,False
+2025-08-19,farmhouse,75,False
+2025-08-20,farmhouse,72,False
+2025-08-21,farmhouse,75,False
+2025-08-22,farmhouse,73,False
+2025-08-23,farmhouse,98,False
+2025-08-24,farmhouse,97,False
+2025-08-25,farmhouse,85,False
+2025-08-26,farmhouse,81,False
+2025-08-27,farmhouse,74,False
+2025-08-28,farmhouse,71,False
+2025-08-29,farmhouse,76,False
+2025-08-30,farmhouse,94,False
+2025-08-31,farmhouse,90,False
+2025-09-01,farmhouse,87,False
+2025-09-02,farmhouse,81,False
+2025-09-03,farmhouse,75,False
+2025-09-04,farmhouse,73,False
+2025-09-05,farmhouse,79,False
+2025-09-06,farmhouse,92,False
+2025-09-07,farmhouse,96,False
+2025-09-08,farmhouse,80,False
+2025-09-09,farmhouse,75,False
+2025-09-10,farmhouse,67,False
+2025-09-11,farmhouse,69,False
+2025-09-12,farmhouse,61,False
+2025-09-13,farmhouse,71,False
+2025-09-14,farmhouse,74,False
+2025-09-15,farmhouse,60,False
+2025-09-16,farmhouse,57,False
+2025-09-17,farmhouse,60,False
+2025-09-18,farmhouse,59,False
+2025-09-19,farmhouse,61,False
+2025-09-20,farmhouse,75,False
+2025-09-21,farmhouse,75,False
+2025-09-22,farmhouse,63,False
+2025-09-23,farmhouse,61,False
+2025-09-24,farmhouse,59,False
+2025-09-25,farmhouse,56,False
+2025-09-26,farmhouse,53,True
+2025-06-26,shiplap,8,False
+2025-06-27,shiplap,7,False
+2025-06-28,shiplap,10,False
+2025-06-29,shiplap,9,False
+2025-06-30,shiplap,7,False
+2025-07-01,shiplap,7,False
+2025-07-02,shiplap,8,False
+2025-07-03,shiplap,7,False
+2025-07-04,shiplap,8,False
+2025-07-05,shiplap,9,False
+2025-07-06,shiplap,9,False
+2025-07-07,shiplap,9,False
+2025-07-08,shiplap,8,False
+2025-07-09,shiplap,8,False
+2025-07-10,shiplap,8,False
+2025-07-11,shiplap,8,False
+2025-07-12,shiplap,11,False
+2025-07-13,shiplap,9,False
+2025-07-14,shiplap,10,False
+2025-07-15,shiplap,9,False
+2025-07-16,shiplap,8,False
+2025-07-17,shiplap,10,False
+2025-07-18,shiplap,9,False
+2025-07-19,shiplap,10,False
+2025-07-20,shiplap,11,False
+2025-07-21,shiplap,9,False
+2025-07-22,shiplap,10,False
+2025-07-23,shiplap,8,False
+2025-07-24,shiplap,8,False
+2025-07-25,shiplap,8,False
+2025-07-26,shiplap,10,False
+2025-07-27,shiplap,10,False
+2025-07-28,shiplap,9,False
+2025-07-29,shiplap,9,False
+2025-07-30,shiplap,8,False
+2025-07-31,shiplap,8,False
+2025-08-01,shiplap,7,False
+2025-08-02,shiplap,9,False
+2025-08-03,shiplap,9,False
+2025-08-04,shiplap,9,False
+2025-08-05,shiplap,10,False
+2025-08-06,shiplap,10,False
+2025-08-07,shiplap,9,False
+2025-08-08,shiplap,8,False
+2025-08-09,shiplap,10,False
+2025-08-10,shiplap,12,False
+2025-08-11,shiplap,8,False
+2025-08-12,shiplap,9,False
+2025-08-13,shiplap,8,False
+2025-08-14,shiplap,9,False
+2025-08-15,shiplap,9,False
+2025-08-16,shiplap,10,False
+2025-08-17,shiplap,12,False
+2025-08-18,shiplap,9,False
+2025-08-19,shiplap,9,False
+2025-08-20,shiplap,9,False
+2025-08-21,shiplap,8,False
+2025-08-22,shiplap,8,False
+2025-08-23,shiplap,11,False
+2025-08-24,shiplap,12,False
+2025-08-25,shiplap,10,False
+2025-08-26,shiplap,8,False
+2025-08-27,shiplap,9,False
+2025-08-28,shiplap,9,False
+2025-08-29,shiplap,8,False
+2025-08-30,shiplap,10,False
+2025-08-31,shiplap,10,False
+2025-09-01,shiplap,10,False
+2025-09-02,shiplap,9,False
+2025-09-03,shiplap,9,False
+2025-09-04,shiplap,9,False
+2025-09-05,shiplap,8,False
+2025-09-06,shiplap,11,False
+2025-09-07,shiplap,9,False
+2025-09-08,shiplap,9,False
+2025-09-09,shiplap,9,False
+2025-09-10,shiplap,8,False
+2025-09-11,shiplap,7,False
+2025-09-12,shiplap,7,False
+2025-09-13,shiplap,8,False
+2025-09-14,shiplap,8,False
+2025-09-15,shiplap,7,False
+2025-09-16,shiplap,7,False
+2025-09-17,shiplap,7,False
+2025-09-18,shiplap,7,False
+2025-09-19,shiplap,7,False
+2025-09-20,shiplap,8,False
+2025-09-21,shiplap,8,False
+2025-09-22,shiplap,7,False
+2025-09-23,shiplap,7,False
+2025-09-24,shiplap,7,False
+2025-09-25,shiplap,7,False
+2025-09-26,shiplap,6,True
+2025-06-26,Japandi,10,False
+2025-06-27,Japandi,8,False
+2025-06-28,Japandi,10,False
+2025-06-29,Japandi,10,False
+2025-06-30,Japandi,9,False
+2025-07-01,Japandi,8,False
+2025-07-02,Japandi,9,False
+2025-07-03,Japandi,9,False
+2025-07-04,Japandi,10,False
+2025-07-05,Japandi,11,False
+2025-07-06,Japandi,12,False
+2025-07-07,Japandi,11,False
+2025-07-08,Japandi,9,False
+2025-07-09,Japandi,9,False
+2025-07-10,Japandi,9,False
+2025-07-11,Japandi,9,False
+2025-07-12,Japandi,11,False
+2025-07-13,Japandi,12,False
+2025-07-14,Japandi,9,False
+2025-07-15,Japandi,9,False
+2025-07-16,Japandi,9,False
+2025-07-17,Japandi,9,False
+2025-07-18,Japandi,9,False
+2025-07-19,Japandi,11,False
+2025-07-20,Japandi,12,False
+2025-07-21,Japandi,10,False
+2025-07-22,Japandi,10,False
+2025-07-23,Japandi,11,False
+2025-07-24,Japandi,11,False
+2025-07-25,Japandi,10,False
+2025-07-26,Japandi,11,False
+2025-07-27,Japandi,13,False
+2025-07-28,Japandi,11,False
+2025-07-29,Japandi,11,False
+2025-07-30,Japandi,10,False
+2025-07-31,Japandi,11,False
+2025-08-01,Japandi,11,False
+2025-08-02,Japandi,14,False
+2025-08-03,Japandi,14,False
+2025-08-04,Japandi,12,False
+2025-08-05,Japandi,12,False
+2025-08-06,Japandi,12,False
+2025-08-07,Japandi,11,False
+2025-08-08,Japandi,11,False
+2025-08-09,Japandi,13,False
+2025-08-10,Japandi,15,False
+2025-08-11,Japandi,11,False
+2025-08-12,Japandi,11,False
+2025-08-13,Japandi,12,False
+2025-08-14,Japandi,10,False
+2025-08-15,Japandi,11,False
+2025-08-16,Japandi,14,False
+2025-08-17,Japandi,15,False
+2025-08-18,Japandi,12,False
+2025-08-19,Japandi,12,False
+2025-08-20,Japandi,11,False
+2025-08-21,Japandi,11,False
+2025-08-22,Japandi,11,False
+2025-08-23,Japandi,13,False
+2025-08-24,Japandi,15,False
+2025-08-25,Japandi,10,False
+2025-08-26,Japandi,10,False
+2025-08-27,Japandi,11,False
+2025-08-28,Japandi,13,False
+2025-08-29,Japandi,15,False
+2025-08-30,Japandi,13,False
+2025-08-31,Japandi,15,False
+2025-09-01,Japandi,13,False
+2025-09-02,Japandi,13,False
+2025-09-03,Japandi,12,False
+2025-09-04,Japandi,11,False
+2025-09-05,Japandi,12,False
+2025-09-06,Japandi,12,False
+2025-09-07,Japandi,15,False
+2025-09-08,Japandi,13,False
+2025-09-09,Japandi,11,False
+2025-09-10,Japandi,11,False
+2025-09-11,Japandi,10,False
+2025-09-12,Japandi,9,False
+2025-09-13,Japandi,10,False
+2025-09-14,Japandi,11,False
+2025-09-15,Japandi,10,False
+2025-09-16,Japandi,9,False
+2025-09-17,Japandi,9,False
+2025-09-18,Japandi,9,False
+2025-09-19,Japandi,8,False
+2025-09-20,Japandi,10,False
+2025-09-21,Japandi,11,False
+2025-09-22,Japandi,9,False
+2025-09-23,Japandi,9,False
+2025-09-24,Japandi,9,False
+2025-09-25,Japandi,9,False
+2025-09-26,Japandi,7,True
+2025-06-26,coastal grandmother,0,False
+2025-06-27,coastal grandmother,0,False
+2025-06-28,coastal grandmother,0,False
+2025-06-29,coastal grandmother,0,False
+2025-06-30,coastal grandmother,0,False
+2025-07-01,coastal grandmother,0,False
+2025-07-02,coastal grandmother,0,False
+2025-07-03,coastal grandmother,0,False
+2025-07-04,coastal grandmother,0,False
+2025-07-05,coastal grandmother,0,False
+2025-07-06,coastal grandmother,0,False
+2025-07-07,coastal grandmother,0,False
+2025-07-08,coastal grandmother,0,False
+2025-07-09,coastal grandmother,0,False
+2025-07-10,coastal grandmother,0,False
+2025-07-11,coastal grandmother,0,False
+2025-07-12,coastal grandmother,0,False
+2025-07-13,coastal grandmother,0,False
+2025-07-14,coastal grandmother,0,False
+2025-07-15,coastal grandmother,0,False
+2025-07-16,coastal grandmother,0,False
+2025-07-17,coastal grandmother,0,False
+2025-07-18,coastal grandmother,0,False
+2025-07-19,coastal grandmother,0,False
+2025-07-20,coastal grandmother,0,False
+2025-07-21,coastal grandmother,0,False
+2025-07-22,coastal grandmother,0,False
+2025-07-23,coastal grandmother,12,False
+2025-07-24,coastal grandmother,11,False
+2025-07-25,coastal grandmother,0,False
+2025-07-26,coastal grandmother,0,False
+2025-07-27,coastal grandmother,0,False
+2025-07-28,coastal grandmother,0,False
+2025-07-29,coastal grandmother,0,False
+2025-07-30,coastal grandmother,0,False
+2025-07-31,coastal grandmother,0,False
+2025-08-01,coastal grandmother,0,False
+2025-08-02,coastal grandmother,11,False
+2025-08-03,coastal grandmother,0,False
+2025-08-04,coastal grandmother,0,False
+2025-08-05,coastal grandmother,0,False
+2025-08-06,coastal grandmother,0,False
+2025-08-07,coastal grandmother,0,False
+2025-08-08,coastal grandmother,0,False
+2025-08-09,coastal grandmother,0,False
+2025-08-10,coastal grandmother,0,False
+2025-08-11,coastal grandmother,0,False
+2025-08-12,coastal grandmother,0,False
+2025-08-13,coastal grandmother,10,False
+2025-08-14,coastal grandmother,0,False
+2025-08-15,coastal grandmother,0,False
+2025-08-16,coastal grandmother,0,False
+2025-08-17,coastal grandmother,0,False
+2025-08-18,coastal grandmother,0,False
+2025-08-19,coastal grandmother,0,False
+2025-08-20,coastal grandmother,0,False
+2025-08-21,coastal grandmother,0,False
+2025-08-22,coastal grandmother,0,False
+2025-08-23,coastal grandmother,0,False
+2025-08-24,coastal grandmother,0,False
+2025-08-25,coastal grandmother,0,False
+2025-08-26,coastal grandmother,0,False
+2025-08-27,coastal grandmother,0,False
+2025-08-28,coastal grandmother,0,False
+2025-08-29,coastal grandmother,0,False
+2025-08-30,coastal grandmother,0,False
+2025-08-31,coastal grandmother,0,False
+2025-09-01,coastal grandmother,0,False
+2025-09-02,coastal grandmother,0,False
+2025-09-03,coastal grandmother,0,False
+2025-09-04,coastal grandmother,0,False
+2025-09-05,coastal grandmother,0,False
+2025-09-06,coastal grandmother,0,False
+2025-09-07,coastal grandmother,0,False
+2025-09-08,coastal grandmother,0,False
+2025-09-09,coastal grandmother,0,False
+2025-09-10,coastal grandmother,0,False
+2025-09-11,coastal grandmother,0,False
+2025-09-12,coastal grandmother,1,False
+2025-09-13,coastal grandmother,1,False
+2025-09-14,coastal grandmother,2,False
+2025-09-15,coastal grandmother,1,False
+2025-09-16,coastal grandmother,4,False
+2025-09-17,coastal grandmother,1,False
+2025-09-18,coastal grandmother,1,False
+2025-09-19,coastal grandmother,1,False
+2025-09-20,coastal grandmother,1,False
+2025-09-21,coastal grandmother,1,False
+2025-09-22,coastal grandmother,1,False
+2025-09-23,coastal grandmother,1,False
+2025-09-24,coastal grandmother,1,False
+2025-09-25,coastal grandmother,1,False
+2025-09-26,coastal grandmother,0,True
+2025-06-26,dopamine decor,0,False
+2025-06-27,dopamine decor,0,False
+2025-06-28,dopamine decor,0,False
+2025-06-29,dopamine decor,0,False
+2025-06-30,dopamine decor,0,False
+2025-07-01,dopamine decor,0,False
+2025-07-02,dopamine decor,0,False
+2025-07-03,dopamine decor,15,False
+2025-07-04,dopamine decor,0,False
+2025-07-05,dopamine decor,0,False
+2025-07-06,dopamine decor,0,False
+2025-07-07,dopamine decor,0,False
+2025-07-08,dopamine decor,0,False
+2025-07-09,dopamine decor,10,False
+2025-07-10,dopamine decor,0,False
+2025-07-11,dopamine decor,0,False
+2025-07-12,dopamine decor,0,False
+2025-07-13,dopamine decor,0,False
+2025-07-14,dopamine decor,10,False
+2025-07-15,dopamine decor,0,False
+2025-07-16,dopamine decor,0,False
+2025-07-17,dopamine decor,0,False
+2025-07-18,dopamine decor,0,False
+2025-07-19,dopamine decor,0,False
+2025-07-20,dopamine decor,0,False
+2025-07-21,dopamine decor,13,False
+2025-07-22,dopamine decor,0,False
+2025-07-23,dopamine decor,0,False
+2025-07-24,dopamine decor,0,False
+2025-07-25,dopamine decor,100,False
+2025-07-26,dopamine decor,14,False
+2025-07-27,dopamine decor,12,False
+2025-07-28,dopamine decor,14,False
+2025-07-29,dopamine decor,0,False
+2025-07-30,dopamine decor,12,False
+2025-07-31,dopamine decor,0,False
+2025-08-01,dopamine decor,0,False
+2025-08-02,dopamine decor,0,False
+2025-08-03,dopamine decor,0,False
+2025-08-04,dopamine decor,0,False
+2025-08-05,dopamine decor,11,False
+2025-08-06,dopamine decor,0,False
+2025-08-07,dopamine decor,15,False
+2025-08-08,dopamine decor,14,False
+2025-08-09,dopamine decor,12,False
+2025-08-10,dopamine decor,19,False
+2025-08-11,dopamine decor,10,False
+2025-08-12,dopamine decor,13,False
+2025-08-13,dopamine decor,10,False
+2025-08-14,dopamine decor,0,False
+2025-08-15,dopamine decor,17,False
+2025-08-16,dopamine decor,10,False
+2025-08-17,dopamine decor,12,False
+2025-08-18,dopamine decor,10,False
+2025-08-19,dopamine decor,13,False
+2025-08-20,dopamine decor,9,False
+2025-08-21,dopamine decor,0,False
+2025-08-22,dopamine decor,0,False
+2025-08-23,dopamine decor,15,False
+2025-08-24,dopamine decor,11,False
+2025-08-25,dopamine decor,0,False
+2025-08-26,dopamine decor,0,False
+2025-08-27,dopamine decor,13,False
+2025-08-28,dopamine decor,0,False
+2025-08-29,dopamine decor,0,False
+2025-08-30,dopamine decor,11,False
+2025-08-31,dopamine decor,12,False
+2025-09-01,dopamine decor,12,False
+2025-09-02,dopamine decor,0,False
+2025-09-03,dopamine decor,10,False
+2025-09-04,dopamine decor,0,False
+2025-09-05,dopamine decor,0,False
+2025-09-06,dopamine decor,15,False
+2025-09-07,dopamine decor,0,False
+2025-09-08,dopamine decor,0,False
+2025-09-09,dopamine decor,9,False
+2025-09-10,dopamine decor,0,False
+2025-09-11,dopamine decor,0,False
+2025-09-12,dopamine decor,5,False
+2025-09-13,dopamine decor,7,False
+2025-09-14,dopamine decor,7,False
+2025-09-15,dopamine decor,6,False
+2025-09-16,dopamine decor,5,False
+2025-09-17,dopamine decor,5,False
+2025-09-18,dopamine decor,5,False
+2025-09-19,dopamine decor,6,False
+2025-09-20,dopamine decor,6,False
+2025-09-21,dopamine decor,8,False
+2025-09-22,dopamine decor,5,False
+2025-09-23,dopamine decor,5,False
+2025-09-24,dopamine decor,5,False
+2025-09-25,dopamine decor,5,False
+2025-09-26,dopamine decor,5,True
+2025-06-26,mercury glass,20,False
+2025-06-27,mercury glass,14,False
+2025-06-28,mercury glass,16,False
+2025-06-29,mercury glass,15,False
+2025-06-30,mercury glass,22,False
+2025-07-01,mercury glass,19,False
+2025-07-02,mercury glass,18,False
+2025-07-03,mercury glass,21,False
+2025-07-04,mercury glass,15,False
+2025-07-05,mercury glass,20,False
+2025-07-06,mercury glass,12,False
+2025-07-07,mercury glass,21,False
+2025-07-08,mercury glass,22,False
+2025-07-09,mercury glass,13,False
+2025-07-10,mercury glass,13,False
+2025-07-11,mercury glass,17,False
+2025-07-12,mercury glass,15,False
+2025-07-13,mercury glass,20,False
+2025-07-14,mercury glass,21,False
+2025-07-15,mercury glass,26,False
+2025-07-16,mercury glass,0,False
+2025-07-17,mercury glass,48,False
+2025-07-18,mercury glass,21,False
+2025-07-19,mercury glass,27,False
+2025-07-20,mercury glass,33,False
+2025-07-21,mercury glass,19,False
+2025-07-22,mercury glass,13,False
+2025-07-23,mercury glass,20,False
+2025-07-24,mercury glass,21,False
+2025-07-25,mercury glass,20,False
+2025-07-26,mercury glass,21,False
+2025-07-27,mercury glass,13,False
+2025-07-28,mercury glass,21,False
+2025-07-29,mercury glass,15,False
+2025-07-30,mercury glass,18,False
+2025-07-31,mercury glass,27,False
+2025-08-01,mercury glass,23,False
+2025-08-02,mercury glass,30,False
+2025-08-03,mercury glass,28,False
+2025-08-04,mercury glass,26,False
+2025-08-05,mercury glass,26,False
+2025-08-06,mercury glass,29,False
+2025-08-07,mercury glass,25,False
+2025-08-08,mercury glass,31,False
+2025-08-09,mercury glass,46,False
+2025-08-10,mercury glass,36,False
+2025-08-11,mercury glass,36,False
+2025-08-12,mercury glass,48,False
+2025-08-13,mercury glass,32,False
+2025-08-14,mercury glass,42,False
+2025-08-15,mercury glass,42,False
+2025-08-16,mercury glass,43,False
+2025-08-17,mercury glass,40,False
+2025-08-18,mercury glass,20,False
+2025-08-19,mercury glass,45,False
+2025-08-20,mercury glass,32,False
+2025-08-21,mercury glass,35,False
+2025-08-22,mercury glass,28,False
+2025-08-23,mercury glass,37,False
+2025-08-24,mercury glass,29,False
+2025-08-25,mercury glass,36,False
+2025-08-26,mercury glass,37,False
+2025-08-27,mercury glass,25,False
+2025-08-28,mercury glass,33,False
+2025-08-29,mercury glass,33,False
+2025-08-30,mercury glass,28,False
+2025-08-31,mercury glass,32,False
+2025-09-01,mercury glass,31,False
+2025-09-02,mercury glass,36,False
+2025-09-03,mercury glass,32,False
+2025-09-04,mercury glass,36,False
+2025-09-05,mercury glass,35,False
+2025-09-06,mercury glass,32,False
+2025-09-07,mercury glass,43,False
+2025-09-08,mercury glass,38,False
+2025-09-09,mercury glass,43,False
+2025-09-10,mercury glass,37,False
+2025-09-11,mercury glass,29,False
+2025-09-12,mercury glass,22,False
+2025-09-13,mercury glass,19,False
+2025-09-14,mercury glass,22,False
+2025-09-15,mercury glass,27,False
+2025-09-16,mercury glass,29,False
+2025-09-17,mercury glass,24,False
+2025-09-18,mercury glass,23,False
+2025-09-19,mercury glass,26,False
+2025-09-20,mercury glass,32,False
+2025-09-21,mercury glass,31,False
+2025-09-22,mercury glass,25,False
+2025-09-23,mercury glass,26,False
+2025-09-24,mercury glass,26,False
+2025-09-25,mercury glass,30,False
+2025-09-26,mercury glass,24,True
+2025-06-26,open shelving,18,False
+2025-06-27,open shelving,14,False
+2025-06-28,open shelving,28,False
+2025-06-29,open shelving,23,False
+2025-06-30,open shelving,14,False
+2025-07-01,open shelving,21,False
+2025-07-02,open shelving,19,False
+2025-07-03,open shelving,12,False
+2025-07-04,open shelving,18,False
+2025-07-05,open shelving,13,False
+2025-07-06,open shelving,14,False
+2025-07-07,open shelving,17,False
+2025-07-08,open shelving,19,False
+2025-07-09,open shelving,18,False
+2025-07-10,open shelving,16,False
+2025-07-11,open shelving,20,False
+2025-07-12,open shelving,26,False
+2025-07-13,open shelving,20,False
+2025-07-14,open shelving,25,False
+2025-07-15,open shelving,20,False
+2025-07-16,open shelving,28,False
+2025-07-17,open shelving,16,False
+2025-07-18,open shelving,17,False
+2025-07-19,open shelving,20,False
+2025-07-20,open shelving,25,False
+2025-07-21,open shelving,32,False
+2025-07-22,open shelving,15,False
+2025-07-23,open shelving,23,False
+2025-07-24,open shelving,14,False
+2025-07-25,open shelving,24,False
+2025-07-26,open shelving,30,False
+2025-07-27,open shelving,28,False
+2025-07-28,open shelving,15,False
+2025-07-29,open shelving,27,False
+2025-07-30,open shelving,29,False
+2025-07-31,open shelving,20,False
+2025-08-01,open shelving,28,False
+2025-08-02,open shelving,29,False
+2025-08-03,open shelving,37,False
+2025-08-04,open shelving,31,False
+2025-08-05,open shelving,22,False
+2025-08-06,open shelving,28,False
+2025-08-07,open shelving,29,False
+2025-08-08,open shelving,24,False
+2025-08-09,open shelving,38,False
+2025-08-10,open shelving,33,False
+2025-08-11,open shelving,24,False
+2025-08-12,open shelving,34,False
+2025-08-13,open shelving,28,False
+2025-08-14,open shelving,33,False
+2025-08-15,open shelving,35,False
+2025-08-16,open shelving,34,False
+2025-08-17,open shelving,41,False
+2025-08-18,open shelving,28,False
+2025-08-19,open shelving,34,False
+2025-08-20,open shelving,28,False
+2025-08-21,open shelving,24,False
+2025-08-22,open shelving,25,False
+2025-08-23,open shelving,40,False
+2025-08-24,open shelving,36,False
+2025-08-25,open shelving,33,False
+2025-08-26,open shelving,28,False
+2025-08-27,open shelving,38,False
+2025-08-28,open shelving,26,False
+2025-08-29,open shelving,36,False
+2025-08-30,open shelving,44,False
+2025-08-31,open shelving,52,False
+2025-09-01,open shelving,43,False
+2025-09-02,open shelving,35,False
+2025-09-03,open shelving,25,False
+2025-09-04,open shelving,43,False
+2025-09-05,open shelving,25,False
+2025-09-06,open shelving,42,False
+2025-09-07,open shelving,40,False
+2025-09-08,open shelving,28,False
+2025-09-09,open shelving,29,False
+2025-09-10,open shelving,26,False
+2025-09-11,open shelving,22,False
+2025-09-12,open shelving,15,False
+2025-09-13,open shelving,18,False
+2025-09-14,open shelving,18,False
+2025-09-15,open shelving,15,False
+2025-09-16,open shelving,16,False
+2025-09-17,open shelving,15,False
+2025-09-18,open shelving,14,False
+2025-09-19,open shelving,13,False
+2025-09-20,open shelving,17,False
+2025-09-21,open shelving,18,False
+2025-09-22,open shelving,16,False
+2025-09-23,open shelving,14,False
+2025-09-24,open shelving,15,False
+2025-09-25,open shelving,15,False
+2025-09-26,open shelving,14,True
