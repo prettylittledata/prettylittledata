@@ -1,0 +1,120 @@
+name: Scrape & Analyze (NO-REDDIT, unsupervised)
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # runs hourly (UTC). change to */30 for every 30 min.
+  workflow_dispatch: {}    # allows manual run
+
+concurrency:
+  group: prettydata-no-reddit
+  cancel-in-progress: true
+
+jobs:
+  topics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        topic: [decor, fashion, design, beauty]
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure data
+        run: mkdir -p data
+
+      - name: RSS (${{ matrix.topic }} · 45d)
+        continue-on-error: true
+        run: |
+          python scripts/ingest_rss.py \
+            --feeds data/feeds_${{ matrix.topic }}.txt \
+            --days 45 \
+            -o data/${{ matrix.topic }}_rss_raw.csv
+
+      - name: Google News (${{ matrix.topic }} · 45d)
+        continue-on-error: true
+        run: |
+          python scripts/ingest_gnews.py \
+            --queries data/news_queries_${{ matrix.topic }}.txt \
+            --days 45 \
+            -o data/${{ matrix.topic }}_gnews_raw.csv
+
+      - name: YouTube (${{ matrix.topic }} · 45d)
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python scripts/ingest_youtube.py \
+            --queries data/youtube_queries_${{ matrix.topic }}.txt \
+            --days 45 --max_per_query 25 \
+            -o data/${{ matrix.topic }}_youtube_raw.csv
+
+      - name: Combine (${{ matrix.topic }})
+        run: |
+          python scripts/combine_sources.py \
+            --inputs data/${{ matrix.topic }}_rss_raw.csv data/${{ matrix.topic }}_gnews_raw.csv data/${{ matrix.topic }}_youtube_raw.csv \
+            -o data/${{ matrix.topic }}_all_raw.csv
+
+      - name: Commit per-topic artifacts
+        run: |
+          git config user.name "pld-bot"
+          git config user.email "pld-bot@users.noreply.github.com"
+          git add data/${{ matrix.topic }}_* || true
+          git commit -m "no-reddit: refresh ${{ matrix.topic }} (rss+gnews+youtube)" || echo "No changes"
+          git pull --rebase || true
+          git push || true
+
+  unsupervised:
+    needs: topics
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Combine ALL sources
+        run: |
+          python scripts/combine_sources.py \
+            --inputs data/decor_all_raw.csv data/fashion_all_raw.csv data/design_all_raw.csv data/beauty_all_raw.csv \
+            -o data/all_all_raw.csv
+
+      - name: Analyze unsupervised (ALL web)
+        run: |
+          python scripts/analyze_unsupervised.py \
+            --raw data/all_all_raw.csv \
+            --min_df 4 --max_df 0.6 --new_weeks 6 \
+            -o data/all
+
+      - name: Commit unsupervised artifacts
+        run: |
+          git config user.name "pld-bot"
+          git config user.email "pld-bot@users.noreply.github.com"
+          git add data/all_* || true
+          git commit -m "no-reddit: unsupervised trend discovery (ALL web)" || echo "No changes"
+          git pull --rebase || true
+          git push || true
