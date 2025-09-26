@@ -16,8 +16,8 @@ def fetch_article(url):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--feeds", required=True, help="path to txt with 1 RSS URL per line")
-    ap.add_argument("--days", type=int, default=90)
+    ap.add_argument("--feeds", required=True)
+    ap.add_argument("--days", type=int, default=60)
     ap.add_argument("-o", "--out", required=True)
     args = ap.parse_args()
 
