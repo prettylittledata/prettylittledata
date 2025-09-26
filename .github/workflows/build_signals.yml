@@ -8,8 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: { contents: write }
+    env:
+      SOCIAL_ENABLE: "false"   # set to "true" when you wire TikTok/IG scrapers
     steps:
       - uses: actions/checkout@v4
 
@@ -24,8 +25,7 @@ jobs:
           pip install feedparser requests pandas numpy python-dateutil regex unidecode
 
       - name: Build signals
-        run: |
-          python scripts/build_signals.py
+        run: python scripts/build_signals.py
 
       - name: Commit & push data
         run: |
