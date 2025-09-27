@@ -6,13 +6,13 @@ period,Term,Count
 2025-08-11,pants,2
 2025-08-11,street,2
 2025-08-11,street style,2
+2025-08-11,street style trends,2
 2025-08-11,style,2
 2025-08-11,style trends,2
 2025-08-11,trends,2
 2025-08-11,vogue,2
 2025-08-18,aesthetic,4
 2025-08-18,claire,2
-2025-08-18,closet,2
 2025-08-18,define,2
 2025-08-18,define fall,2
 2025-08-18,design,2
@@ -55,31 +55,26 @@ period,Term,Count
 2025-08-25,vogue,2
 2025-08-25,wear,2
 2025-09-01,aesthetic,4
-2025-09-01,aol,2
 2025-09-01,biggest,2
 2025-09-01,biggest fashion,2
 2025-09-01,chic,4
 2025-09-01,claire,2
-2025-09-01,clothing,2
 2025-09-01,dress,4
-2025-09-01,fall,18
+2025-09-01,fall,14
 2025-09-01,fall trends,2
-2025-09-01,fashion,18
-2025-09-01,fashion trend,14
-2025-09-01,fashion trend fall,6
+2025-09-01,fashion,16
+2025-09-01,fashion trend,12
 2025-09-01,fashion trends,2
 2025-09-01,fisherman,4
 2025-09-01,forget,4
-2025-09-01,fyp,2
 2025-09-01,gen,2
 2025-09-01,girl,2
-2025-09-01,glamour,2
+2025-09-01,joins,4
 2025-09-01,like,2
 2025-09-01,look,2
 2025-09-01,marie,2
 2025-09-01,marie claire,2
 2025-09-01,naked,4
-2025-09-01,new,2
 2025-09-01,open,2
 2025-09-01,red,2
 2025-09-01,shop,2
@@ -88,9 +83,9 @@ period,Term,Count
 2025-09-01,taking,2
 2025-09-01,teen,4
 2025-09-01,teen vogue,4
-2025-09-01,trend,14
-2025-09-01,trend fall,6
-2025-09-01,trends,8
+2025-09-01,trend,12
+2025-09-01,trend fall,4
+2025-09-01,trends,6
 2025-09-01,vintage,2
 2025-09-01,vintage fashion,2
 2025-09-01,vintage fashion trend,2
@@ -106,20 +101,22 @@ period,Term,Count
 2025-09-08,define fall,4
 2025-09-08,eco,4
 2025-09-08,eco friendly,4
+2025-09-08,editors,2
 2025-09-08,fall,18
 2025-09-08,fall fashion,10
 2025-09-08,fall fashion trends,4
 2025-09-08,fall purewow,2
 2025-09-08,fashion,24
 2025-09-08,fashion trend,10
-2025-09-08,fashion trend fall,2
 2025-09-08,fashion trends,6
 2025-09-08,finally,4
+2025-09-08,finds,2
 2025-09-08,fisherman,4
 2025-09-08,friendly,4
 2025-09-08,girl,2
 2025-09-08,glamour,2
 2025-09-08,inspired,2
+2025-09-08,joins,2
 2025-09-08,purewow,2
 2025-09-08,red,4
 2025-09-08,right,2
@@ -128,40 +125,39 @@ period,Term,Count
 2025-09-08,start,2
 2025-09-08,streetwear,2
 2025-09-08,trend,14
-2025-09-08,trend fall,2
 2025-09-08,trends,10
 2025-09-08,wear,4
 2025-09-08,winter,2
 2025-09-08,winter fashion,2
 2025-09-08,winter fashion trends,2
 2025-09-08,woman,6
-2025-09-15,best,2
+2025-09-15,amazon,2
 2025-09-15,big,1
 2025-09-15,brand,2
 2025-09-15,called,4
-2025-09-15,closet,2
 2025-09-15,company,1
+2025-09-15,editors,2
 2025-09-15,fall,12
 2025-09-15,fall trend,4
-2025-09-15,fall trends,6
+2025-09-15,fall trends,8
 2025-09-15,fall trends staffers,6
 2025-09-15,fashion,8
 2025-09-15,fashion trend,2
 2025-09-15,fashion trends,6
 2025-09-15,feel,4
+2025-09-15,glamour,2
 2025-09-15,iconic,4
 2025-09-15,island,2
 2025-09-15,london,1
 2025-09-15,love,2
 2025-09-15,marie,1
 2025-09-15,new,1
-2025-09-15,pieces,2
 2025-09-15,right,6
 2025-09-15,right fall,3
 2025-09-15,right fall trends,3
 2025-09-15,season,2
 2025-09-15,shoe,2
-2025-09-15,shopping,6
+2025-09-15,shopping,8
 2025-09-15,shopping right,6
 2025-09-15,shopping right fall,3
 2025-09-15,sneakers,1
@@ -169,9 +165,13 @@ period,Term,Count
 2025-09-15,staffers shopping,6
 2025-09-15,staffers shopping right,6
 2025-09-15,store,2
-2025-09-15,style,1
+2025-09-15,street,2
+2025-09-15,street style,2
+2025-09-15,street style trends,2
+2025-09-15,style,3
+2025-09-15,style trends,2
 2025-09-15,trend,6
-2025-09-15,trends,14
+2025-09-15,trends,18
 2025-09-15,trends staffers,6
 2025-09-15,trends staffers shopping,6
 2025-09-15,trends wear,2
@@ -180,7 +180,7 @@ period,Term,Count
 2025-09-15,watch,2
 2025-09-15,wear,6
 2025-09-22,affordable,2
-2025-09-22,aol,4
+2025-09-22,amazon,3
 2025-09-22,asian,10
 2025-09-22,asian street,6
 2025-09-22,asian street style,3
@@ -199,11 +199,10 @@ period,Term,Count
 2025-09-22,casual,10
 2025-09-22,casual shoes,7
 2025-09-22,cbc,2
-2025-09-22,chic,3
+2025-09-22,chic,5
 2025-09-22,chinese,7
 2025-09-22,chinesegirl,3
 2025-09-22,claire,24
-2025-09-22,closet,1
 2025-09-22,clothing,11
 2025-09-22,collection,15
 2025-09-22,color,9
@@ -222,17 +221,18 @@ period,Term,Count
 2025-09-22,early,8
 2025-09-22,eco,3
 2025-09-22,eco friendly,3
+2025-09-22,editors,2
 2025-09-22,elegance,5
 2025-09-22,elegant,6
 2025-09-22,elegant women,4
 2025-09-22,elle,4
 2025-09-22,explore,4
-2025-09-22,fall,50
+2025-09-22,fall,52
 2025-09-22,fall fashion,5
 2025-09-22,fall fashion trends,5
 2025-09-22,fall purewow,4
 2025-09-22,fall trends,2
-2025-09-22,fall wear,6
+2025-09-22,fall wear,8
 2025-09-22,fall winter,3
 2025-09-22,fashion,196
 2025-09-22,fashion fashiontrends,3
@@ -247,11 +247,11 @@ period,Term,Count
 2025-09-22,fashiontrends,18
 2025-09-22,feel,2
 2025-09-22,finally,2
+2025-09-22,finds,4
 2025-09-22,follow,5
 2025-09-22,forget,1
 2025-09-22,free,3
 2025-09-22,friendly,3
-2025-09-22,fyp,3
 2025-09-22,gen,5
 2025-09-22,gent,6
 2025-09-22,girl,3
@@ -311,7 +311,6 @@ period,Term,Count
 2025-09-22,pants,4
 2025-09-22,people,5
 2025-09-22,perfect,3
-2025-09-22,pieces,3
 2025-09-22,prada,6
 2025-09-22,purewow,4
 2025-09-22,real,3
@@ -330,7 +329,7 @@ period,Term,Count
 2025-09-22,shoes,25
 2025-09-22,shoes fashion,6
 2025-09-22,shoes fashion trend,6
-2025-09-22,shop,6
+2025-09-22,shop,8
 2025-09-22,shopping,3
 2025-09-22,shorts,12
 2025-09-22,sneakers,7
@@ -347,11 +346,12 @@ period,Term,Count
 2025-09-22,street,22
 2025-09-22,street fashion,5
 2025-09-22,street style,15
+2025-09-22,street style trends,2
 2025-09-22,streets,4
 2025-09-22,streetwear,25
 2025-09-22,style,54
 2025-09-22,style trends,3
-2025-09-22,styles,10
+2025-09-22,styles,12
 2025-09-22,styling,2
 2025-09-22,stylish,15
 2025-09-22,summer,5
@@ -381,7 +381,7 @@ period,Term,Count
 2025-09-22,vogue key,1
 2025-09-22,wardrobe,8
 2025-09-22,watch,3
-2025-09-22,wear,19
+2025-09-22,wear,21
 2025-09-22,wear fall,1
 2025-09-22,wearing,15
 2025-09-22,wearing fall,8
