@@ -12,6 +12,8 @@ period,Term,Count
 2025-08-11,health,2
 2025-08-11,just,4
 2025-08-11,makeup,6
+2025-08-11,makeup beauty,4
+2025-08-11,makeup beauty trend,4
 2025-08-11,makeup trends,2
 2025-08-11,modern,2
 2025-08-11,people,2
@@ -88,6 +90,7 @@ period,Term,Count
 2025-08-25,getting,2
 2025-08-25,girl,2
 2025-08-25,glam,2
+2025-08-25,haircut,2
 2025-08-25,harpersbazaar,2
 2025-08-25,hottest,2
 2025-08-25,hypebae,2
@@ -119,15 +122,12 @@ period,Term,Count
 2025-09-01,autumn,2
 2025-09-01,autumn makeup,2
 2025-09-01,autumn makeup trends,2
-2025-09-01,beauty,6
+2025-09-01,beauty,4
 2025-09-01,beauty trend,4
-2025-09-01,beauty trends,2
 2025-09-01,big,2
 2025-09-01,city,2
 2025-09-01,claire,2
 2025-09-01,cosmopolitan,2
-2025-09-01,days,2
-2025-09-01,editors,2
 2025-09-01,fall,6
 2025-09-01,fall makeup,2
 2025-09-01,girls,2
@@ -144,8 +144,6 @@ period,Term,Count
 2025-09-01,marie claire,2
 2025-09-01,new,2
 2025-09-01,new york,2
-2025-09-01,nyfw,2
-2025-09-01,runways,2
 2025-09-01,season,2
 2025-09-01,set,2
 2025-09-01,toasty,4
@@ -153,10 +151,9 @@ period,Term,Count
 2025-09-01,toasty makeup trend,4
 2025-09-01,trend,14
 2025-09-01,trend vogue,2
-2025-09-01,trends,4
+2025-09-01,trends,2
 2025-09-01,vogue,6
 2025-09-01,warm,4
-2025-09-01,wear,2
 2025-09-01,wearing,2
 2025-09-01,york,2
 2025-09-08,actually,2
@@ -166,6 +163,8 @@ period,Term,Count
 2025-09-08,beautiful,4
 2025-09-08,beauty,14
 2025-09-08,beauty trend,12
+2025-09-08,biggest,2
+2025-09-08,biggest beauty,2
 2025-09-08,company,4
 2025-09-08,cosmopolitan,2
 2025-09-08,dark,2
@@ -177,6 +176,7 @@ period,Term,Count
 2025-09-08,fall beauty,2
 2025-09-08,fast,4
 2025-09-08,going,4
+2025-09-08,hair,2
 2025-09-08,hypebae,2
 2025-09-08,india,4
 2025-09-08,isn,4
@@ -190,9 +190,9 @@ period,Term,Count
 2025-09-08,makeup,6
 2025-09-08,makeup trend,2
 2025-09-08,makeup trends,2
-2025-09-08,medical,2
 2025-09-08,newbeauty,2
 2025-09-08,really,4
+2025-09-08,red,2
 2025-09-08,report,4
 2025-09-08,retro,4
 2025-09-08,says,2
@@ -211,12 +211,13 @@ period,Term,Count
 2025-09-08,zoe,4
 2025-09-08,zoe report,4
 2025-09-15,arabia,2
-2025-09-15,beauty,18
-2025-09-15,beauty trend,14
+2025-09-15,beauty,20
+2025-09-15,beauty trend,16
 2025-09-15,beauty trend excited,6
 2025-09-15,beauty trends,2
 2025-09-15,beauty trends spring,2
 2025-09-15,betches,4
+2025-09-15,blush,2
 2025-09-15,claire,2
 2025-09-15,come,2
 2025-09-15,cozy,6
@@ -250,8 +251,10 @@ period,Term,Count
 2025-09-15,makeup warm cozy,6
 2025-09-15,marie,2
 2025-09-15,marie claire,2
-2025-09-15,new,2
+2025-09-15,nails,2
+2025-09-15,new,4
 2025-09-15,new york,2
+2025-09-15,newbeauty,2
 2025-09-15,nyfw,2
 2025-09-15,photos,2
 2025-09-15,runways,2
@@ -264,9 +267,10 @@ period,Term,Count
 2025-09-15,toasty,6
 2025-09-15,toasty makeup,6
 2025-09-15,toasty makeup warm,6
-2025-09-15,trend,18
+2025-09-15,trend,20
 2025-09-15,trend excited,6
 2025-09-15,trend excited welcome,6
+2025-09-15,trend newbeauty,2
 2025-09-15,trends,4
 2025-09-15,trends spring,2
 2025-09-15,unexpected,2
@@ -301,7 +305,7 @@ period,Term,Count
 2025-09-22,arrive,11
 2025-09-22,ask,3
 2025-09-22,author,3
-2025-09-22,autumn,7
+2025-09-22,autumn,6
 2025-09-22,available,121
 2025-09-22,available height,73
 2025-09-22,available height src,73
@@ -313,14 +317,16 @@ period,Term,Count
 2025-09-22,bare,2
 2025-09-22,based,6
 2025-09-22,bean,6
-2025-09-22,beautiful,6
-2025-09-22,beauty,112
+2025-09-22,beautiful,7
+2025-09-22,beauty,110
 2025-09-22,beauty abaya,3
+2025-09-22,beauty fashion,4
+2025-09-22,beauty fashion trends,3
 2025-09-22,beauty tiktok,3
 2025-09-22,beauty tiktok trending,3
-2025-09-22,beauty trend,21
+2025-09-22,beauty trend,23
 2025-09-22,beauty trend drawing,8
-2025-09-22,beauty trends,37
+2025-09-22,beauty trends,34
 2025-09-22,beauty trends elle,4
 2025-09-22,beauty trends spring,4
 2025-09-22,beauty trends stunning,3
@@ -331,7 +337,7 @@ period,Term,Count
 2025-09-22,bed,16
 2025-09-22,bedroom,3
 2025-09-22,behavior,3
-2025-09-22,best,28
+2025-09-22,best,29
 2025-09-22,best beauty,7
 2025-09-22,best beauty trends,5
 2025-09-22,better,5
@@ -340,24 +346,28 @@ period,Term,Count
 2025-09-22,biggest beauty,5
 2025-09-22,biggest beauty trends,4
 2025-09-22,bit,21
-2025-09-22,black,23
+2025-09-22,black,26
+2025-09-22,black beauty,3
+2025-09-22,black beauty fashion,3
 2025-09-22,black color,9
 2025-09-22,blend,10
 2025-09-22,blockquote,20
 2025-09-22,blockquote class,9
 2025-09-22,blockquote class text,9
 2025-09-22,blockquote figure,9
+2025-09-22,blush,2
 2025-09-22,body,8
 2025-09-22,boldest,5
 2025-09-22,book,11
 2025-09-22,boyfriend,5
+2025-09-22,bra,5
 2025-09-22,brand,11
 2025-09-22,brands,6
 2025-09-22,breakfast,9
-2025-09-22,bridal,6
+2025-09-22,bridal,8
 2025-09-22,bring,3
 2025-09-22,came,3
-2025-09-22,canada,4
+2025-09-22,canada,3
 2025-09-22,card,11
 2025-09-22,care,11
 2025-09-22,carry,3
@@ -365,7 +375,6 @@ period,Term,Count
 2025-09-22,celebrity,4
 2025-09-22,certain,3
 2025-09-22,change,6
-2025-09-22,check,10
 2025-09-22,checking,3
 2025-09-22,chicken,6
 2025-09-22,cite,15
@@ -377,7 +386,7 @@ period,Term,Count
 2025-09-22,classic,7
 2025-09-22,clean,3
 2025-09-22,clear,4
-2025-09-22,click,8
+2025-09-22,click,4
 2025-09-22,clothes,6
 2025-09-22,coconut,3
 2025-09-22,coffee,9
@@ -400,8 +409,8 @@ period,Term,Count
 2025-09-22,course,3
 2025-09-22,cozy,6
 2025-09-22,create,7
+2025-09-22,cultural,7
 2025-09-22,curious,5
-2025-09-22,cut,3
 2025-09-22,daily,18
 2025-09-22,dark,3
 2025-09-22,day,68
@@ -421,6 +430,7 @@ period,Term,Count
 2025-09-22,did strong,3
 2025-09-22,didn,15
 2025-09-22,dinner,8
+2025-09-22,discover,6
 2025-09-22,div,16
 2025-09-22,div figure,6
 2025-09-22,div figure img,6
@@ -430,7 +440,7 @@ period,Term,Count
 2025-09-22,does,6
 2025-09-22,doesn,12
 2025-09-22,doing,4
-2025-09-22,don,26
+2025-09-22,don,25
 2025-09-22,door,5
 2025-09-22,double,9
 2025-09-22,drawing,8
@@ -440,7 +450,7 @@ period,Term,Count
 2025-09-22,dresses,14
 2025-09-22,drink,8
 2025-09-22,drinks,8
-2025-09-22,drop,7
+2025-09-22,drop,6
 2025-09-22,earlier,4
 2025-09-22,early,16
 2025-09-22,earn,7
@@ -448,12 +458,11 @@ period,Term,Count
 2025-09-22,earn commission strong,3
 2025-09-22,easier,3
 2025-09-22,editor,2
-2025-09-22,editors,2
 2025-09-22,elegant,2
 2025-09-22,elevated,4
 2025-09-22,elle,4
 2025-09-22,encourages,3
-2025-09-22,end,11
+2025-09-22,end,9
 2025-09-22,ended,4
 2025-09-22,ends,3
 2025-09-22,enjoy,4
@@ -471,15 +480,15 @@ period,Term,Count
 2025-09-22,eye,6
 2025-09-22,eyes,3
 2025-09-22,face,13
-2025-09-22,fall,49
+2025-09-22,fall,48
 2025-09-22,fall beauty,1
 2025-09-22,fall hottest,8
-2025-09-22,fall makeup,3
+2025-09-22,fall makeup,2
 2025-09-22,family,5
 2025-09-22,fashion,38
 2025-09-22,fashion styles,3
 2025-09-22,fashion styles need,3
-2025-09-22,fashion trends,5
+2025-09-22,fashion trends,6
 2025-09-22,fashion week,14
 2025-09-22,fashionglow,3
 2025-09-22,fashionglow beauty,3
@@ -514,7 +523,6 @@ period,Term,Count
 2025-09-22,foryou,3
 2025-09-22,free,13
 2025-09-22,fresh,3
-2025-09-22,friday,3
 2025-09-22,friend,16
 2025-09-22,friends,12
 2025-09-22,frugal,4
@@ -530,10 +538,10 @@ period,Term,Count
 2025-09-22,girl,8
 2025-09-22,girl makeup,6
 2025-09-22,girls,4
-2025-09-22,glam,5
+2025-09-22,glam,4
 2025-09-22,glamour,6
 2025-09-22,glass,3
-2025-09-22,glow,12
+2025-09-22,glow,11
 2025-09-22,glow tourists,8
 2025-09-22,glow tourists south,8
 2025-09-22,glowingskin,5
@@ -541,12 +549,12 @@ period,Term,Count
 2025-09-22,glowingskin hairmask hairfallsolution,3
 2025-09-22,goes,5
 2025-09-22,going,16
-2025-09-22,good,14
+2025-09-22,good,13
 2025-09-22,goodness,10
 2025-09-22,goodness right,10
 2025-09-22,goodness right strong,10
 2025-09-22,gorgeous,4
-2025-09-22,got,10
+2025-09-22,got,9
 2025-09-22,great,9
 2025-09-22,grew,3
 2025-09-22,grocery,5
@@ -559,6 +567,7 @@ period,Term,Count
 2025-09-22,haircare,3
 2025-09-22,haircare skincareroutine,3
 2025-09-22,haircare skincareroutine totkay,3
+2025-09-22,haircut,4
 2025-09-22,hairfallsolution,3
 2025-09-22,hairmask,3
 2025-09-22,hairmask hairfallsolution,3
@@ -581,14 +590,14 @@ period,Term,Count
 2025-09-22,height,122
 2025-09-22,height src,122
 2025-09-22,height src width,122
-2025-09-22,hello,2
-2025-09-22,hello magazine,2
+2025-09-22,hello,4
+2025-09-22,hello magazine,4
 2025-09-22,help,8
 2025-09-22,helped,4
 2025-09-22,heritage,5
 2025-09-22,high,21
 2025-09-22,hit,6
-2025-09-22,home,33
+2025-09-22,home,32
 2025-09-22,hottest,9
 2025-09-22,hour,15
 2025-09-22,hours,9
@@ -643,7 +652,7 @@ period,Term,Count
 2025-09-22,leopard,4
 2025-09-22,let,9
 2025-09-22,level,5
-2025-09-22,life,28
+2025-09-22,life,27
 2025-09-22,light,4
 2025-09-22,like,71
 2025-09-22,like goodness,8
@@ -663,27 +672,29 @@ period,Term,Count
 2025-09-22,longer,6
 2025-09-22,look,18
 2025-09-22,looking,5
-2025-09-22,looks,1
+2025-09-22,looks,3
 2025-09-22,lot,8
 2025-09-22,lounge,3
 2025-09-22,love,23
 2025-09-22,loved,3
 2025-09-22,luxury,5
 2025-09-22,mac,7
-2025-09-22,magazine,4
+2025-09-22,magazine,6
 2025-09-22,make,36
 2025-09-22,makeover,6
 2025-09-22,makes,11
-2025-09-22,makeup,92
+2025-09-22,makeup,94
+2025-09-22,makeup beauty,2
+2025-09-22,makeup beauty trend,2
 2025-09-22,makeup look,8
 2025-09-22,makeup makeup,1
-2025-09-22,makeup trend,34
+2025-09-22,makeup trend,32
 2025-09-22,makeup trends,1
-2025-09-22,makeup tutorial,6
+2025-09-22,makeup tutorial,5
 2025-09-22,makeup warm,2
-2025-09-22,makeupartist,8
+2025-09-22,makeupartist,7
 2025-09-22,makeuplook,3
-2025-09-22,makeuptutorial,8
+2025-09-22,makeuptutorial,7
 2025-09-22,makeuptutorial makeupartist,3
 2025-09-22,making,6
 2025-09-22,manager,4
@@ -701,8 +712,7 @@ period,Term,Count
 2025-09-22,mean,8
 2025-09-22,meant,5
 2025-09-22,media,7
-2025-09-22,medical,2
-2025-09-22,meet,6
+2025-09-22,meet,5
 2025-09-22,message,3
 2025-09-22,milk,6
 2025-09-22,mini,12
@@ -722,7 +732,7 @@ period,Term,Count
 2025-09-22,movie,4
 2025-09-22,music,8
 2025-09-22,nails,9
-2025-09-22,natural,6
+2025-09-22,natural,5
 2025-09-22,naturalbeauty,3
 2025-09-22,naturalbeauty hairtreatment,3
 2025-09-22,naturalbeauty hairtreatment diybeauty,3
@@ -778,10 +788,9 @@ period,Term,Count
 2025-09-22,place,6
 2025-09-22,plan,10
 2025-09-22,plans,3
-2025-09-22,plus,15
+2025-09-22,plus,14
 2025-09-22,point,8
 2025-09-22,points,3
-2025-09-22,popular,6
 2025-09-22,power,4
 2025-09-22,prefer,3
 2025-09-22,present,6
@@ -823,7 +832,7 @@ period,Term,Count
 2025-09-22,saturday,3
 2025-09-22,saw,5
 2025-09-22,say,6
-2025-09-22,says,16
+2025-09-22,says,18
 2025-09-22,school,16
 2025-09-22,season,20
 2025-09-22,seasonal,4
@@ -833,10 +842,10 @@ period,Term,Count
 2025-09-22,sense,7
 2025-09-22,set,17
 2025-09-22,share,8
-2025-09-22,shop,35
+2025-09-22,shop,36
 2025-09-22,shopping,10
-2025-09-22,short,11
-2025-09-22,shorts,11
+2025-09-22,short,12
+2025-09-22,shorts,13
 2025-09-22,shortvideo,5
 2025-09-22,shortvideo viral,4
 2025-09-22,shortvideo viral trending,3
@@ -886,7 +895,7 @@ period,Term,Count
 2025-09-22,steps,4
 2025-09-22,stop,12
 2025-09-22,store,7
-2025-09-22,stories,6
+2025-09-22,stories,7
 2025-09-22,stories delivered,3
 2025-09-22,stories delivered straight,3
 2025-09-22,straight,9
@@ -902,7 +911,6 @@ period,Term,Count
 2025-09-22,strong miss shopping,3
 2025-09-22,strong strong,87
 2025-09-22,strong strong strong,5
-2025-09-22,stuff,3
 2025-09-22,stunning,9
 2025-09-22,stunning fashion,3
 2025-09-22,stunning fashion styles,3
@@ -910,6 +918,7 @@ period,Term,Count
 2025-09-22,styles,4
 2025-09-22,styles need,3
 2025-09-22,styles need try,3
+2025-09-22,stylish,6
 2025-09-22,suggest,4
 2025-09-22,summer,11
 2025-09-22,super,7
@@ -922,7 +931,6 @@ period,Term,Count
 2025-09-22,target,18
 2025-09-22,tea,16
 2025-09-22,team,3
-2025-09-22,tech,10
 2025-09-22,terms,7
 2025-09-22,text,10
 2025-09-22,text color,9
@@ -933,7 +941,7 @@ period,Term,Count
 2025-09-22,think,12
 2025-09-22,thinking,5
 2025-09-22,thought,7
-2025-09-22,tiktok,12
+2025-09-22,tiktok,11
 2025-09-22,tiktok trending,3
 2025-09-22,tiktok trending trend,3
 2025-09-22,time,91
@@ -954,7 +962,7 @@ period,Term,Count
 2025-09-22,totkay,3
 2025-09-22,totkay naturalbeauty,3
 2025-09-22,totkay naturalbeauty hairtreatment,3
-2025-09-22,touch,5
+2025-09-22,touch,4
 2025-09-22,tourists,9
 2025-09-22,tourists south,8
 2025-09-22,tourists south korea,8
@@ -962,7 +970,7 @@ period,Term,Count
 2025-09-22,transformation,4
 2025-09-22,travel,5
 2025-09-22,treat,6
-2025-09-22,trend,120
+2025-09-22,trend,122
 2025-09-22,trend beautytips,3
 2025-09-22,trend beautytips haircare,3
 2025-09-22,trend drawing,8
@@ -978,9 +986,8 @@ period,Term,Count
 2025-09-22,trending trend skincareroutine,3
 2025-09-22,trending viral,3
 2025-09-22,trendingshorts,5
-2025-09-22,trends,56
+2025-09-22,trends,53
 2025-09-22,trends elle,4
-2025-09-22,trends fashion,5
 2025-09-22,trends spring,4
 2025-09-22,trends stunning,3
 2025-09-22,trends stunning fashion,3
@@ -995,7 +1002,7 @@ period,Term,Count
 2025-09-22,try beauty abaya,3
 2025-09-22,trying,8
 2025-09-22,turned,6
-2025-09-22,tutorial,9
+2025-09-22,tutorial,8
 2025-09-22,type,3
 2025-09-22,understand,3
 2025-09-22,unexpected,1
@@ -1006,11 +1013,11 @@ period,Term,Count
 2025-09-22,vacation,4
 2025-09-22,vegan,4
 2025-09-22,version,6
+2025-09-22,victoria,6
 2025-09-22,video,7
 2025-09-22,view,3
-2025-09-22,viral,29
-2025-09-22,viral makeup,6
-2025-09-22,viral makeup trend,4
+2025-09-22,viral,27
+2025-09-22,viral makeup,5
 2025-09-22,viral trending,3
 2025-09-22,viral trending trend,3
 2025-09-22,vogue,14
@@ -1036,7 +1043,7 @@ period,Term,Count
 2025-09-22,weather,3
 2025-09-22,wedding,15
 2025-09-22,week,39
-2025-09-22,welcome,5
+2025-09-22,welcome,4
 2025-09-22,went,10
 2025-09-22,width,122
 2025-09-22,width figcaption,120
@@ -1054,7 +1061,8 @@ period,Term,Count
 2025-09-22,years,13
 2025-09-22,yes,11
 2025-09-22,york,6
-2025-09-22,youtube,4
+2025-09-22,youtube,3
+2025-09-22,youtubeshorts,3
 2025-09-22,ytshorts,7
 2025-09-22,zoe,4
 2025-09-22,zoe report,4
