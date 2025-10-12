@@ -26,7 +26,10 @@ period,Term,Count
 2025-09-01,adobe,1
 2025-09-01,animation,1
 2025-09-01,best,1
+2025-09-01,book,1
 2025-09-01,building,1
+2025-09-01,color,1
+2025-09-01,colors,1
 2025-09-01,created,1
 2025-09-01,creators,1
 2025-09-01,design,4
@@ -44,6 +47,7 @@ period,Term,Count
 2025-09-01,graphic,1
 2025-09-01,graphic design,1
 2025-09-01,graphic design trends,1
+2025-09-01,guidance,2
 2025-09-01,interaction,1
 2025-09-01,motion,1
 2025-09-01,paradigms,1
@@ -282,6 +286,7 @@ period,Term,Count
 2025-09-22,approach,2
 2025-09-22,article,2
 2025-09-22,assistant,3
+2025-09-22,audience,1
 2025-09-22,best,3
 2025-09-22,branding,1
 2025-09-22,brands,2
@@ -320,6 +325,7 @@ period,Term,Count
 2025-09-22,graphic,3
 2025-09-22,graphic design,3
 2025-09-22,graphic design trends,1
+2025-09-22,guidance,1
 2025-09-22,high,1
 2025-09-22,intent,3
 2025-09-22,knowledge,1
@@ -346,6 +352,7 @@ period,Term,Count
 2025-09-22,problem,1
 2025-09-22,product,1
 2025-09-22,prompt,3
+2025-09-22,prompts,2
 2025-09-22,quick,1
 2025-09-22,ready,1
 2025-09-22,share,1
@@ -353,6 +360,7 @@ period,Term,Count
 2025-09-22,slow,1
 2025-09-22,social,1
 2025-09-22,storytelling,1
+2025-09-22,team,1
 2025-09-22,time,1
 2025-09-22,tips,2
 2025-09-22,tools,1
@@ -432,6 +440,7 @@ period,Term,Count
 2025-09-29,step step,1
 2025-09-29,storytelling,1
 2025-09-29,tactile,2
+2025-09-29,takes,1
 2025-09-29,techniques,2
 2025-09-29,tips,2
 2025-09-29,tips animation,1
@@ -448,18 +457,19 @@ period,Term,Count
 2025-09-29,visual,3
 2025-10-06,able,4
 2025-10-06,act,9
-2025-10-06,actually,6
+2025-10-06,actual,3
+2025-10-06,actually,8
 2025-10-06,adapt,5
 2025-10-06,adapted,4
-2025-10-06,add,2
+2025-10-06,add,5
 2025-10-06,adobe,3
-2025-10-06,agni,8
-2025-10-06,agni batch,8
-2025-10-06,agni batch level,4
-2025-10-06,align,4
-2025-10-06,alt,48
-2025-10-06,alt height,5
-2025-10-06,alt height src,5
+2025-10-06,agni,6
+2025-10-06,agni batch,6
+2025-10-06,agni batch level,3
+2025-10-06,align,5
+2025-10-06,alt,58
+2025-10-06,alt height,6
+2025-10-06,alt height src,6
 2025-10-06,analyze,6
 2025-10-06,animation,3
 2025-10-06,animation techniques,1
@@ -468,37 +478,46 @@ period,Term,Count
 2025-10-06,animations css javascript,16
 2025-10-06,answer,24
 2025-10-06,answers,5
-2025-10-06,app,5
-2025-10-06,approach,9
+2025-10-06,app,6
+2025-10-06,approach,12
 2025-10-06,aren,8
-2025-10-06,article,3
+2025-10-06,article,4
 2025-10-06,asked,4
+2025-10-06,asks,3
 2025-10-06,assistant,10
-2025-10-06,author,4
+2025-10-06,audience,19
+2025-10-06,author,6
 2025-10-06,automation,5
 2025-10-06,available,9
+2025-10-06,avoid,13
 2025-10-06,aware,2
 2025-10-06,away,3
 2025-10-06,bad,3
+2025-10-06,bar,3
 2025-10-06,based,23
-2025-10-06,batch,12
-2025-10-06,batch agni,4
-2025-10-06,batch agni batch,4
-2025-10-06,batch level,4
-2025-10-06,batch level new,4
+2025-10-06,batch,9
+2025-10-06,batch agni,3
+2025-10-06,batch agni batch,3
+2025-10-06,batch level,3
+2025-10-06,batch level new,3
+2025-10-06,beginners,4
 2025-10-06,behance,5
-2025-10-06,best,8
+2025-10-06,best,11
 2025-10-06,better,10
+2025-10-06,big,5
 2025-10-06,bit,3
+2025-10-06,book,2
 2025-10-06,brand,11
 2025-10-06,branding,2
 2025-10-06,brands,10
 2025-10-06,brings,3
-2025-10-06,build,14
-2025-10-06,building,10
+2025-10-06,build,16
+2025-10-06,building,11
 2025-10-06,builds,3
-2025-10-06,built,4
-2025-10-06,came,2
+2025-10-06,built,5
+2025-10-06,button,4
+2025-10-06,buy,3
+2025-10-06,came,3
 2025-10-06,capable,3
 2025-10-06,carefully,4
 2025-10-06,case,5
@@ -506,27 +525,31 @@ period,Term,Count
 2025-10-06,categories,6
 2025-10-06,category,8
 2025-10-06,challenge,4
-2025-10-06,change,4
+2025-10-06,change,5
 2025-10-06,changes,6
 2025-10-06,chat,11
 2025-10-06,checkout,3
 2025-10-06,choice,3
-2025-10-06,clarity,2
-2025-10-06,class,20
-2025-10-06,class medium,20
-2025-10-06,class medium feed,20
-2025-10-06,clear,6
+2025-10-06,choosing,4
+2025-10-06,clarity,3
+2025-10-06,class,16
+2025-10-06,class medium,16
+2025-10-06,class medium feed,16
+2025-10-06,clear,9
 2025-10-06,clearly,3
 2025-10-06,cognitive,6
 2025-10-06,collective,10
-2025-10-06,collective div,5
-2025-10-06,collective medium,5
-2025-10-06,collective medium people,5
+2025-10-06,collective div,4
+2025-10-06,collective medium,6
+2025-10-06,collective medium people,6
+2025-10-06,color,57
+2025-10-06,colors,22
+2025-10-06,common,7
 2025-10-06,communication,7
 2025-10-06,compare,4
 2025-10-06,competitive,3
 2025-10-06,complete,4
-2025-10-06,complex,9
+2025-10-06,complex,6
 2025-10-06,concept,5
 2025-10-06,conceptual,1
 2025-10-06,concise,4
@@ -535,27 +558,28 @@ period,Term,Count
 2025-10-06,confident,4
 2025-10-06,connect,4
 2025-10-06,consequences,4
+2025-10-06,consider,6
 2025-10-06,consistent,4
-2025-10-06,content,13
+2025-10-06,content,14
 2025-10-06,context,24
 2025-10-06,contexts,9
-2025-10-06,continuing,5
-2025-10-06,continuing conversation,5
-2025-10-06,continuing conversation highlighting,5
+2025-10-06,continuing,6
+2025-10-06,continuing conversation,6
+2025-10-06,continuing conversation highlighting,6
 2025-10-06,contrast,6
 2025-10-06,control,8
-2025-10-06,conversation,9
-2025-10-06,conversation highlighting,5
-2025-10-06,conversation highlighting responding,5
+2025-10-06,conversation,10
+2025-10-06,conversation highlighting,6
+2025-10-06,conversation highlighting responding,6
 2025-10-06,cost,5
-2025-10-06,course,7
-2025-10-06,create,24
+2025-10-06,course,6
+2025-10-06,create,26
 2025-10-06,create stunning,17
 2025-10-06,create stunning animations,16
-2025-10-06,created,1
+2025-10-06,created,2
 2025-10-06,creating,2
 2025-10-06,creative,1
-2025-10-06,critical,6
+2025-10-06,critical,7
 2025-10-06,css,21
 2025-10-06,css javascript,16
 2025-10-06,css javascript web,16
@@ -567,63 +591,67 @@ period,Term,Count
 2025-10-06,dark,5
 2025-10-06,data,8
 2025-10-06,day,9
-2025-10-06,decision,3
-2025-10-06,deep,5
+2025-10-06,decide,3
+2025-10-06,decision,4
+2025-10-06,deep,7
+2025-10-06,define,4
 2025-10-06,deliver,4
 2025-10-06,delivers,4
 2025-10-06,depends,3
-2025-10-06,design,127
-2025-10-06,design course,3
+2025-10-06,design,134
 2025-10-06,design practical,2
 2025-10-06,design shorts,3
-2025-10-06,design trends,11
+2025-10-06,design trends,12
 2025-10-06,design trends photography,1
 2025-10-06,design tutorial,17
 2025-10-06,design tutorial create,8
 2025-10-06,design tutorial unlock,8
 2025-10-06,designed,3
-2025-10-06,designer,9
+2025-10-06,designer,8
 2025-10-06,designers,11
-2025-10-06,designing,8
-2025-10-06,designing publishing,4
-2025-10-06,designing publishing practical,4
-2025-10-06,designs,2
-2025-10-06,development,10
-2025-10-06,development trends,3
+2025-10-06,designing,9
+2025-10-06,designing publishing,3
+2025-10-06,designing publishing practical,3
+2025-10-06,designs,3
+2025-10-06,development,12
+2025-10-06,development trends,5
 2025-10-06,didn,2
 2025-10-06,difference,6
-2025-10-06,different,17
-2025-10-06,digital,7
-2025-10-06,digital products,2
+2025-10-06,different,31
+2025-10-06,digital,10
+2025-10-06,digital products,4
 2025-10-06,directly,2
 2025-10-06,discover,4
-2025-10-06,div,10
-2025-10-06,div class,5
-2025-10-06,div class medium,5
+2025-10-06,div,8
+2025-10-06,div class,4
+2025-10-06,div class medium,4
 2025-10-06,dive,1
-2025-10-06,does,4
-2025-10-06,doesn,11
+2025-10-06,does,5
+2025-10-06,doesn,14
 2025-10-06,doesn just,5
-2025-10-06,don,14
+2025-10-06,don,16
 2025-10-06,driven,7
-2025-10-06,early,3
+2025-10-06,early,4
 2025-10-06,easily,4
-2025-10-06,easy,5
+2025-10-06,easy,6
 2025-10-06,edge,3
 2025-10-06,effective,3
 2025-10-06,effects,1
 2025-10-06,end,5
 2025-10-06,engine,3
-2025-10-06,enjoy,2
+2025-10-06,enhance,3
+2025-10-06,enjoy,3
 2025-10-06,episode,1
 2025-10-06,error,4
+2025-10-06,especially,4
 2025-10-06,example,11
-2025-10-06,experience,21
+2025-10-06,examples,4
+2025-10-06,experience,23
 2025-10-06,experiences,28
 2025-10-06,expert,1
 2025-10-06,explains,2
 2025-10-06,exploration,5
-2025-10-06,explore,2
+2025-10-06,explore,4
 2025-10-06,explores,1
 2025-10-06,exploring,4
 2025-10-06,fail,3
@@ -631,29 +659,32 @@ period,Term,Count
 2025-10-06,far,6
 2025-10-06,fast,4
 2025-10-06,faster,4
-2025-10-06,feed,21
-2025-10-06,feed image,5
-2025-10-06,feed image src,5
-2025-10-06,feed item,5
-2025-10-06,feed item class,5
-2025-10-06,feed link,5
-2025-10-06,feed link reading,5
-2025-10-06,feed snippet,5
-2025-10-06,feel,37
-2025-10-06,feel like,4
+2025-10-06,feature,7
+2025-10-06,feed,17
+2025-10-06,feed image,4
+2025-10-06,feed image src,4
+2025-10-06,feed item,4
+2025-10-06,feed item class,4
+2025-10-06,feed link,4
+2025-10-06,feed link reading,4
+2025-10-06,feed snippet,4
+2025-10-06,feel,39
+2025-10-06,feel like,5
 2025-10-06,feels,12
-2025-10-06,figcaption,47
-2025-10-06,figcaption figure,21
-2025-10-06,figure,81
-2025-10-06,figure img,43
-2025-10-06,figure img alt,43
+2025-10-06,figcaption,61
+2025-10-06,figcaption figure,28
+2025-10-06,figure,100
+2025-10-06,figure img,52
+2025-10-06,figure img alt,52
 2025-10-06,findings,5
-2025-10-06,flows,3
+2025-10-06,flows,4
+2025-10-06,fluency,4
 2025-10-06,focus,4
 2025-10-06,following,3
 2025-10-06,fonts,3
-2025-10-06,form,3
-2025-10-06,forward,3
+2025-10-06,form,4
+2025-10-06,forms,4
+2025-10-06,forward,5
 2025-10-06,framework,6
 2025-10-06,free,12
 2025-10-06,fresh,6
@@ -664,110 +695,121 @@ period,Term,Count
 2025-10-06,future,12
 2025-10-06,futures,2
 2025-10-06,game,4
-2025-10-06,generate,3
-2025-10-06,gets,3
+2025-10-06,generate,4
+2025-10-06,generated,4
+2025-10-06,gets,4
 2025-10-06,goal,15
-2025-10-06,good,6
+2025-10-06,good,14
 2025-10-06,google,9
 2025-10-06,got,2
-2025-10-06,graphic,24
-2025-10-06,graphic design,15
+2025-10-06,graphic,23
+2025-10-06,graphic design,14
 2025-10-06,graphic design practical,2
 2025-10-06,graphic design trends,7
 2025-10-06,graphic designer,5
 2025-10-06,graphicdesign,6
-2025-10-06,guide,1
+2025-10-06,great,3
+2025-10-06,guidance,1
+2025-10-06,guide,2
 2025-10-06,hand,11
+2025-10-06,happen,3
 2025-10-06,happens,3
-2025-10-06,height,5
-2025-10-06,height src,5
-2025-10-06,height src width,5
-2025-10-06,help,15
+2025-10-06,hard,5
+2025-10-06,height,6
+2025-10-06,height src,6
+2025-10-06,height src width,6
+2025-10-06,help,18
 2025-10-06,high,11
-2025-10-06,highlighting,5
-2025-10-06,highlighting responding,5
-2025-10-06,highlighting responding story,5
+2025-10-06,highlighting,6
+2025-10-06,highlighting responding,6
+2025-10-06,highlighting responding story,6
 2025-10-06,human,21
 2025-10-06,humans,16
-2025-10-06,idea,8
+2025-10-06,idea,9
 2025-10-06,ideas,4
 2025-10-06,ignore,2
-2025-10-06,image,15
-2025-10-06,image src,5
-2025-10-06,image src width,5
-2025-10-06,img,47
-2025-10-06,img alt,47
-2025-10-06,img alt height,4
+2025-10-06,image,16
+2025-10-06,image src,4
+2025-10-06,image src width,4
+2025-10-06,images,3
+2025-10-06,img,57
+2025-10-06,img alt,57
+2025-10-06,img alt height,5
 2025-10-06,immediately,4
 2025-10-06,impact,3
-2025-10-06,important,4
+2025-10-06,important,6
 2025-10-06,including,7
-2025-10-06,increasingly,2
+2025-10-06,increasingly,3
 2025-10-06,industry,3
-2025-10-06,information,22
+2025-10-06,influence,14
+2025-10-06,information,25
 2025-10-06,initial,10
+2025-10-06,input,6
 2025-10-06,insights,5
 2025-10-06,inspiration,4
 2025-10-06,instead,16
 2025-10-06,intent,7
-2025-10-06,interaction,9
+2025-10-06,interaction,10
 2025-10-06,interactions,2
-2025-10-06,interface,21
-2025-10-06,interfaces,20
-2025-10-06,isn,10
-2025-10-06,item,6
-2025-10-06,item class,5
-2025-10-06,item class medium,5
+2025-10-06,interface,25
+2025-10-06,interfaces,27
+2025-10-06,isn,11
+2025-10-06,item,5
+2025-10-06,item class,4
+2025-10-06,item class medium,4
 2025-10-06,javascript,18
 2025-10-06,javascript web,16
 2025-10-06,javascript web design,16
 2025-10-06,journey,9
-2025-10-06,just,23
+2025-10-06,just,24
+2025-10-06,keeps,3
 2025-10-06,key,8
 2025-10-06,kind,5
-2025-10-06,know,7
+2025-10-06,know,11
 2025-10-06,knowledge,3
+2025-10-06,language,14
 2025-10-06,latest,2
 2025-10-06,lean,2
-2025-10-06,learn,5
-2025-10-06,learning,4
+2025-10-06,learn,6
+2025-10-06,learning,5
 2025-10-06,leave,3
 2025-10-06,let,11
-2025-10-06,level,12
-2025-10-06,level new,4
-2025-10-06,level new batch,4
-2025-10-06,life,8
-2025-10-06,like,41
+2025-10-06,level,11
+2025-10-06,level new,3
+2025-10-06,level new batch,3
+2025-10-06,life,7
+2025-10-06,like,45
 2025-10-06,limited,2
-2025-10-06,link,7
-2025-10-06,link reading,5
-2025-10-06,link reading collective,5
+2025-10-06,link,6
+2025-10-06,link reading,4
+2025-10-06,link reading collective,4
 2025-10-06,links,6
-2025-10-06,little,3
-2025-10-06,live,2
+2025-10-06,little,4
+2025-10-06,live,3
 2025-10-06,logo,13
 2025-10-06,logo design,7
 2025-10-06,long,15
-2025-10-06,look,9
+2025-10-06,look,11
 2025-10-06,looking,4
 2025-10-06,looks,3
+2025-10-06,lost,3
 2025-10-06,love,7
 2025-10-06,low,10
-2025-10-06,make,9
-2025-10-06,makes,7
-2025-10-06,making,5
+2025-10-06,make,14
+2025-10-06,makes,8
+2025-10-06,making,4
 2025-10-06,map,13
 2025-10-06,marketing,4
-2025-10-06,matters,4
+2025-10-06,matters,5
 2025-10-06,media,10
-2025-10-06,medium,30
-2025-10-06,medium feed,20
-2025-10-06,medium feed image,5
-2025-10-06,medium feed item,5
-2025-10-06,medium feed link,5
-2025-10-06,medium feed snippet,5
-2025-10-06,medium people,5
-2025-10-06,medium people continuing,5
+2025-10-06,medium,27
+2025-10-06,medium feed,16
+2025-10-06,medium feed image,4
+2025-10-06,medium feed item,4
+2025-10-06,medium feed link,4
+2025-10-06,medium feed snippet,4
+2025-10-06,medium people,6
+2025-10-06,medium people continuing,6
 2025-10-06,mockups,1
 2025-10-06,model,11
 2025-10-06,models,6
@@ -778,43 +820,44 @@ period,Term,Count
 2025-10-06,moving,3
 2025-10-06,narrative,5
 2025-10-06,natural,9
-2025-10-06,need,6
-2025-10-06,needs,6
-2025-10-06,new,39
-2025-10-06,new batch,4
-2025-10-06,new batch agni,4
-2025-10-06,ngi,4
-2025-10-06,ngi olevelexam,4
-2025-10-06,ngi olevelexam agni,4
+2025-10-06,need,8
+2025-10-06,needs,9
+2025-10-06,new,41
+2025-10-06,new batch,3
+2025-10-06,new batch agni,3
+2025-10-06,ngi,3
+2025-10-06,ngi olevelexam,3
+2025-10-06,ngi olevelexam agni,3
 2025-10-06,offer,3
 2025-10-06,offered,5
 2025-10-06,offering,8
 2025-10-06,old,4
-2025-10-06,olevel,4
-2025-10-06,olevel ngi,4
-2025-10-06,olevel ngi olevelexam,4
-2025-10-06,olevelexam,4
-2025-10-06,olevelexam agni,4
-2025-10-06,olevelexam agni batch,4
+2025-10-06,olevel,3
+2025-10-06,olevel ngi,3
+2025-10-06,olevel ngi olevelexam,3
+2025-10-06,olevelexam,3
+2025-10-06,olevelexam agni,3
+2025-10-06,olevelexam agni batch,3
 2025-10-06,online,6
 2025-10-06,open,6
 2025-10-06,opposite,4
-2025-10-06,originally,5
-2025-10-06,originally published,5
-2025-10-06,originally published collective,5
+2025-10-06,originally,6
+2025-10-06,originally published,6
+2025-10-06,originally published collective,6
 2025-10-06,outcome,6
 2025-10-06,page,8
 2025-10-06,paradigm,5
 2025-10-06,paradigms,3
-2025-10-06,path,3
+2025-10-06,path,5
 2025-10-06,pattern,5
-2025-10-06,patterns,13
-2025-10-06,people,37
-2025-10-06,people continuing,5
-2025-10-06,people continuing conversation,5
+2025-10-06,patterns,14
+2025-10-06,people,42
+2025-10-06,people continuing,6
+2025-10-06,people continuing conversation,6
 2025-10-06,perceived,14
-2025-10-06,perfect,7
+2025-10-06,perfect,8
 2025-10-06,performance,7
+2025-10-06,person,7
 2025-10-06,personal,5
 2025-10-06,photography,1
 2025-10-06,photography tips,1
@@ -827,11 +870,11 @@ period,Term,Count
 2025-10-06,power,11
 2025-10-06,power web,8
 2025-10-06,power web animations,8
-2025-10-06,powerful,4
-2025-10-06,practical,6
-2025-10-06,practical webdesign,4
-2025-10-06,practical webdesign olevel,4
-2025-10-06,predictive,3
+2025-10-06,powerful,5
+2025-10-06,practical,5
+2025-10-06,practical webdesign,3
+2025-10-06,practical webdesign olevel,3
+2025-10-06,predictive,4
 2025-10-06,present,3
 2025-10-06,prices,3
 2025-10-06,primary,4
@@ -840,30 +883,34 @@ period,Term,Count
 2025-10-06,process,14
 2025-10-06,processing,9
 2025-10-06,produce,3
-2025-10-06,product,31
-2025-10-06,products,17
+2025-10-06,product,44
+2025-10-06,products,29
 2025-10-06,progress,3
-2025-10-06,project,4
+2025-10-06,project,7
 2025-10-06,promise,7
+2025-10-06,promises,4
 2025-10-06,prompt,6
 2025-10-06,prompting,3
+2025-10-06,prompts,3
 2025-10-06,prototype,1
 2025-10-06,provide,4
 2025-10-06,psychology,17
-2025-10-06,published,6
-2025-10-06,published collective,5
-2025-10-06,published collective medium,5
-2025-10-06,publishing,6
-2025-10-06,publishing practical,4
-2025-10-06,publishing practical webdesign,4
+2025-10-06,published,7
+2025-10-06,published collective,6
+2025-10-06,published collective medium,6
+2025-10-06,publishing,5
+2025-10-06,publishing practical,3
+2025-10-06,publishing practical webdesign,3
+2025-10-06,queries,5
+2025-10-06,query,6
 2025-10-06,question,9
 2025-10-06,questions,5
 2025-10-06,quick,1
 2025-10-06,quickly,10
 2025-10-06,read,6
-2025-10-06,reading,8
-2025-10-06,reading collective,5
-2025-10-06,reading collective div,5
+2025-10-06,reading,7
+2025-10-06,reading collective,4
+2025-10-06,reading collective div,4
 2025-10-06,ready,2
 2025-10-06,real,17
 2025-10-06,real time,3
@@ -872,67 +919,75 @@ period,Term,Count
 2025-10-06,recommendations,5
 2025-10-06,reduce,1
 2025-10-06,remembering,3
+2025-10-06,requires,3
 2025-10-06,research,25
-2025-10-06,responding,6
-2025-10-06,responding story,5
+2025-10-06,responding,7
+2025-10-06,responding story,6
 2025-10-06,result,4
 2025-10-06,results,15
-2025-10-06,right,13
+2025-10-06,right,14
 2025-10-06,risks,3
-2025-10-06,say,4
-2025-10-06,search,37
+2025-10-06,safe,3
+2025-10-06,say,7
+2025-10-06,search,40
 2025-10-06,search results,6
 2025-10-06,searching,3
 2025-10-06,second,4
 2025-10-06,seconds,5
 2025-10-06,security,9
 2025-10-06,seeing,3
-2025-10-06,sense,10
+2025-10-06,seen,3
+2025-10-06,sense,14
 2025-10-06,services,5
+2025-10-06,set,4
 2025-10-06,shape,8
-2025-10-06,shapes,3
-2025-10-06,shaping,7
+2025-10-06,shapes,4
+2025-10-06,shaping,8
 2025-10-06,shaping modern,2
 2025-10-06,shaping modern graphic,2
-2025-10-06,share,1
+2025-10-06,share,2
 2025-10-06,shared,3
-2025-10-06,shift,10
+2025-10-06,shift,11
 2025-10-06,shifting,3
-2025-10-06,short,5
+2025-10-06,short,6
 2025-10-06,shorts,18
-2025-10-06,showing,11
+2025-10-06,showing,14
 2025-10-06,shown,5
-2025-10-06,shows,3
+2025-10-06,shows,4
 2025-10-06,signals,9
 2025-10-06,similar,6
-2025-10-06,simple,4
+2025-10-06,simple,6
 2025-10-06,single,6
 2025-10-06,sites,3
 2025-10-06,skills,3
 2025-10-06,slow,2
 2025-10-06,small,4
-2025-10-06,snippet,5
+2025-10-06,snippet,4
 2025-10-06,social,15
-2025-10-06,source,4
+2025-10-06,solution,6
+2025-10-06,source,6
 2025-10-06,space,8
-2025-10-06,specific,13
-2025-10-06,src,53
-2025-10-06,src figcaption,26
+2025-10-06,specific,15
+2025-10-06,src,62
+2025-10-06,src figcaption,33
+2025-10-06,src figure,19
 2025-10-06,src width,10
-2025-10-06,src width class,5
-2025-10-06,start,13
-2025-10-06,started,5
+2025-10-06,src width class,4
+2025-10-06,start,14
+2025-10-06,started,6
 2025-10-06,states,11
-2025-10-06,step,11
-2025-10-06,step step,4
-2025-10-06,steps,2
+2025-10-06,step,17
+2025-10-06,step step,6
+2025-10-06,steps,3
 2025-10-06,stop,8
-2025-10-06,story,8
+2025-10-06,story,9
 2025-10-06,storytelling,1
-2025-10-06,strategic,5
+2025-10-06,strategic,7
 2025-10-06,strategies,14
+2025-10-06,strategy,4
 2025-10-06,strong,300
 2025-10-06,strong users,7
+2025-10-06,structure,3
 2025-10-06,studies,8
 2025-10-06,stunning,18
 2025-10-06,stunning animations,16
@@ -942,34 +997,41 @@ period,Term,Count
 2025-10-06,suggests,5
 2025-10-06,support,10
 2025-10-06,supporting,3
+2025-10-06,sure,4
 2025-10-06,systems,11
 2025-10-06,tactile,1
+2025-10-06,takes,3
 2025-10-06,taking,5
-2025-10-06,techniques,5
-2025-10-06,technology,17
+2025-10-06,talking,3
+2025-10-06,team,4
+2025-10-06,techniques,6
+2025-10-06,technology,20
+2025-10-06,tell,3
 2025-10-06,term,12
-2025-10-06,things,14
-2025-10-06,think,10
-2025-10-06,time,28
+2025-10-06,text,5
+2025-10-06,things,19
+2025-10-06,think,13
+2025-10-06,time,33
 2025-10-06,tips,7
 2025-10-06,tips animation,1
 2025-10-06,tips animation techniques,1
-2025-10-06,today,6
-2025-10-06,tool,7
-2025-10-06,tools,9
+2025-10-06,today,7
+2025-10-06,tool,8
+2025-10-06,tools,13
 2025-10-06,tools case,3
 2025-10-06,traditional,21
 2025-10-06,trend,6
 2025-10-06,trending,2
-2025-10-06,trends,22
+2025-10-06,trends,25
 2025-10-06,trends photography,1
 2025-10-06,trends photography tips,1
 2025-10-06,trends watch,1
 2025-10-06,truly,6
-2025-10-06,trust,48
-2025-10-06,try,14
+2025-10-06,trust,49
+2025-10-06,truth,14
+2025-10-06,try,18
 2025-10-06,turn,3
-2025-10-06,tutorial,23
+2025-10-06,tutorial,24
 2025-10-06,tutorial create,8
 2025-10-06,tutorial create stunning,8
 2025-10-06,tutorial unlock,8
@@ -978,57 +1040,59 @@ period,Term,Count
 2025-10-06,typing,2
 2025-10-06,typography,1
 2025-10-06,uncertainty,5
-2025-10-06,understand,16
-2025-10-06,understanding,8
+2025-10-06,understand,18
+2025-10-06,understanding,10
 2025-10-06,understood,2
 2025-10-06,unified,3
 2025-10-06,unlike,4
 2025-10-06,unlock,9
 2025-10-06,unlock power,8
 2025-10-06,unlock power web,8
-2025-10-06,use,43
-2025-10-06,used,15
+2025-10-06,use,53
+2025-10-06,use product,3
+2025-10-06,used,18
 2025-10-06,useful,3
-2025-10-06,user,44
+2025-10-06,user,50
 2025-10-06,user experiences,3
 2025-10-06,user flows,1
-2025-10-06,users,57
-2025-10-06,using,14
+2025-10-06,users,61
+2025-10-06,using,17
 2025-10-06,value,2
 2025-10-06,video,3
 2025-10-06,view,9
 2025-10-06,viral,8
 2025-10-06,visual,1
-2025-10-06,want,9
+2025-10-06,want,10
 2025-10-06,wasn,7
 2025-10-06,watch,1
 2025-10-06,wave,2
-2025-10-06,way,18
-2025-10-06,ways,8
-2025-10-06,web,47
+2025-10-06,way,21
+2025-10-06,ways,16
+2025-10-06,web,48
 2025-10-06,web animations,8
 2025-10-06,web design,24
 2025-10-06,web design tutorial,16
-2025-10-06,web designing,4
-2025-10-06,web designing publishing,4
-2025-10-06,web development,8
-2025-10-06,web development trends,3
-2025-10-06,webdesign,6
-2025-10-06,webdesign olevel,4
-2025-10-06,webdesign olevel ngi,4
+2025-10-06,web designing,3
+2025-10-06,web designing publishing,3
+2025-10-06,web development,10
+2025-10-06,web development trends,5
+2025-10-06,webdesign,7
+2025-10-06,webdesign olevel,3
+2025-10-06,webdesign olevel ngi,3
 2025-10-06,website,9
 2025-10-06,welcome,2
 2025-10-06,width,10
-2025-10-06,width class,5
-2025-10-06,width class medium,5
+2025-10-06,width class,4
+2025-10-06,width class medium,4
 2025-10-06,word,5
-2025-10-06,words,4
-2025-10-06,work,13
+2025-10-06,words,7
+2025-10-06,work,17
 2025-10-06,workflows,2
 2025-10-06,working,7
-2025-10-06,works,5
-2025-10-06,world,7
-2025-10-06,writing,3
+2025-10-06,works,6
+2025-10-06,world,5
+2025-10-06,write,9
+2025-10-06,writing,19
 2025-10-06,wrong,6
 2025-10-06,year,3
 2025-10-06,years,8
