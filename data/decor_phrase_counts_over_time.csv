@@ -17,6 +17,8 @@ period,Term,Count
 2025-09-01,beautiful,8
 2025-09-01,believe,2
 2025-09-01,better,4
+2025-09-01,better homes,4
+2025-09-01,better homes gardens,4
 2025-09-01,biggest,4
 2025-09-01,comeback,2
 2025-09-01,decor,10
@@ -48,8 +50,7 @@ period,Term,Count
 2025-09-01,interior design,2
 2025-09-01,interior design trends,2
 2025-09-01,interior trends,4
-2025-09-01,living,2
-2025-09-01,living room,2
+2025-09-01,look,2
 2025-09-01,love,4
 2025-09-01,making,2
 2025-09-01,minimalist,2
@@ -58,12 +59,8 @@ period,Term,Count
 2025-09-01,parisian,2
 2025-09-01,quietly,4
 2025-09-01,quietly retiring,4
-2025-09-01,real,2
-2025-09-01,real simple,2
 2025-09-01,retiring,4
-2025-09-01,room,2
 2025-09-01,say,4
-2025-09-01,simple,2
 2025-09-01,small,2
 2025-09-01,small space,2
 2025-09-01,space,2
@@ -80,11 +77,14 @@ period,Term,Count
 2025-09-01,trends,28
 2025-09-01,trends designers,4
 2025-09-01,trends designers quietly,4
+2025-09-01,trends making,2
+2025-09-01,veranda,2
 2025-09-01,won,2
+2025-09-01,won believe,2
 2025-09-01,year,2
 2025-09-08,according,2
 2025-09-08,best,2
-2025-09-08,capture,2
+2025-09-08,capture,4
 2025-09-08,cozy,6
 2025-09-08,decor,4
 2025-09-08,decor trends,2
@@ -92,8 +92,8 @@ period,Term,Count
 2025-09-08,design,2
 2025-09-08,design trends,2
 2025-09-08,designer,2
-2025-09-08,designers,4
-2025-09-08,designers say,2
+2025-09-08,designers,6
+2025-09-08,designers say,4
 2025-09-08,elle,2
 2025-09-08,fall,14
 2025-09-08,fall decor,2
@@ -101,28 +101,29 @@ period,Term,Count
 2025-09-08,fall decorating,2
 2025-09-08,feel,2
 2025-09-08,gardens,4
-2025-09-08,good,2
-2025-09-08,good housekeeping,2
+2025-09-08,good,4
+2025-09-08,good housekeeping,4
 2025-09-08,home,4
 2025-09-08,home design,2
 2025-09-08,home design trends,2
 2025-09-08,homes,4
 2025-09-08,homes gardens,4
-2025-09-08,housekeeping,2
+2025-09-08,housekeeping,4
 2025-09-08,ideas,6
 2025-09-08,ideas transform,2
 2025-09-08,ideas transform small,2
-2025-09-08,interior,4
-2025-09-08,interior designers,4
+2025-09-08,interior,6
+2025-09-08,interior designers,6
 2025-09-08,living,4
 2025-09-08,living room,2
+2025-09-08,look,4
 2025-09-08,make,2
 2025-09-08,new,2
 2025-09-08,real,2
 2025-09-08,real simple,2
 2025-09-08,retreat,2
 2025-09-08,room,2
-2025-09-08,say,2
+2025-09-08,say,4
 2025-09-08,season,6
 2025-09-08,simple,2
 2025-09-08,small,4
@@ -138,28 +139,31 @@ period,Term,Count
 2025-09-08,trends,8
 2025-09-08,trends taking,6
 2025-09-08,trends taking fall,6
-2025-09-15,apartment,2
-2025-09-15,apartment therapy,2
 2025-09-15,architects,4
+2025-09-15,asked,2
 2025-09-15,beautiful,4
 2025-09-15,bedroom,6
 2025-09-15,bedroom trends,4
+2025-09-15,believe,2
 2025-09-15,colors,4
 2025-09-15,comeback,2
 2025-09-15,cozy,2
 2025-09-15,decor,4
-2025-09-15,decor trends,2
-2025-09-15,design,8
+2025-09-15,decor trends,4
+2025-09-15,design,10
 2025-09-15,design trends,8
-2025-09-15,designers,16
+2025-09-15,designers,18
+2025-09-15,designers reveal,2
 2025-09-15,designers say,16
 2025-09-15,discover,2
 2025-09-15,elle,4
-2025-09-15,fall,4
+2025-09-15,experts,2
+2025-09-15,fall,6
 2025-09-15,fall trends,4
-2025-09-15,good,4
-2025-09-15,good housekeeping,4
-2025-09-15,halloween,4
+2025-09-15,good,6
+2025-09-15,good housekeeping,6
+2025-09-15,good housekeeping designers,3
+2025-09-15,halloween,2
 2025-09-15,home,10
 2025-09-15,home design,4
 2025-09-15,home design trends,4
@@ -167,7 +171,8 @@ period,Term,Count
 2025-09-15,home trends designers,4
 2025-09-15,house,4
 2025-09-15,house beautiful,4
-2025-09-15,housekeeping,4
+2025-09-15,housekeeping,6
+2025-09-15,housekeeping designers,3
 2025-09-15,ideas,2
 2025-09-15,interior,2
 2025-09-15,interior design,2
@@ -177,6 +182,7 @@ period,Term,Count
 2025-09-15,paint,4
 2025-09-15,real,4
 2025-09-15,real simple,4
+2025-09-15,reveal,2
 2025-09-15,say,16
 2025-09-15,simple,4
 2025-09-15,southern,4
@@ -186,22 +192,26 @@ period,Term,Count
 2025-09-15,spruce bedroom,2
 2025-09-15,spruce bedroom trends,2
 2025-09-15,tacky,4
-2025-09-15,taking,2
-2025-09-15,therapy,2
-2025-09-15,trends,24
+2025-09-15,taking,4
+2025-09-15,trend,2
+2025-09-15,trends,26
 2025-09-15,trends designers,12
 2025-09-15,trends designers say,12
+2025-09-15,trends making,2
 2025-09-15,trends taking,2
-2025-09-15,won,4
+2025-09-15,veranda,2
+2025-09-15,won,6
+2025-09-15,won believe,2
 2025-09-15,year,2
+2025-09-22,aol,2
 2025-09-22,apartment,4
 2025-09-22,apartment therapy,2
-2025-09-22,beautiful,2
 2025-09-22,best,2
 2025-09-22,biggest,4
 2025-09-22,decor,8
 2025-09-22,decor trends,6
 2025-09-22,decorating,2
+2025-09-22,decorating trend,2
 2025-09-22,design,8
 2025-09-22,design trend,6
 2025-09-22,design trends,2
@@ -220,8 +230,6 @@ period,Term,Count
 2025-09-22,homes,4
 2025-09-22,homes gardens,4
 2025-09-22,homes gardens trends,2
-2025-09-22,house,2
-2025-09-22,house beautiful,2
 2025-09-22,housekeeping,4
 2025-09-22,interior,4
 2025-09-22,interior design,4
@@ -236,7 +244,6 @@ period,Term,Count
 2025-09-22,southern,2
 2025-09-22,southern living,2
 2025-09-22,space,2
-2025-09-22,spaces,2
 2025-09-22,spruce,4
 2025-09-22,spruce designers,2
 2025-09-22,tacky,4
@@ -246,77 +253,90 @@ period,Term,Count
 2025-09-22,trends,12
 2025-09-22,trends designers,2
 2025-09-22,trends designers say,2
+2025-09-22,veranda,2
 2025-09-22,want,2
 2025-09-22,work,2
 2025-09-22,year,4
 2025-09-29,according,2
 2025-09-29,autumn,2
-2025-09-29,decor,2
+2025-09-29,better,2
+2025-09-29,better homes,2
+2025-09-29,better homes gardens,2
+2025-09-29,comes,4
+2025-09-29,decor,4
 2025-09-29,decor trends,2
-2025-09-29,decorating,4
+2025-09-29,decorating,6
+2025-09-29,decorating trend,4
 2025-09-29,decorating trends,2
-2025-09-29,design,10
-2025-09-29,design trends,10
+2025-09-29,design,14
+2025-09-29,design trends,12
 2025-09-29,design trends modern,2
 2025-09-29,designers,2
 2025-09-29,experts,2
 2025-09-29,fall,2
 2025-09-29,feels,2
-2025-09-29,gardens,2
+2025-09-29,gardens,4
+2025-09-29,gardens trends,1
 2025-09-29,home,8
 2025-09-29,home design,2
 2025-09-29,home design trends,2
 2025-09-29,home interior,2
 2025-09-29,home interior design,2
-2025-09-29,homes,2
-2025-09-29,homes gardens,2
+2025-09-29,homes,4
+2025-09-29,homes gardens,4
+2025-09-29,homes gardens trends,1
 2025-09-29,interior,8
 2025-09-29,interior design,8
 2025-09-29,interior design trends,8
-2025-09-29,latest,2
+2025-09-29,latest,4
 2025-09-29,leave,2
 2025-09-29,like,2
-2025-09-29,living,6
+2025-09-29,living,8
 2025-09-29,luxury,2
 2025-09-29,modern,2
 2025-09-29,modern luxury,2
 2025-09-29,officially,2
-2025-09-29,southern,6
-2025-09-29,southern living,6
+2025-09-29,project,2
+2025-09-29,southern,8
+2025-09-29,southern living,8
 2025-09-29,space,2
-2025-09-29,trend,2
-2025-09-29,trends,14
+2025-09-29,style,2
+2025-09-29,trend,4
+2025-09-29,trends,18
 2025-09-29,trends designers,2
 2025-09-29,trends modern,2
-2025-09-29,want,2
-2025-10-06,according,8
-2025-10-06,according designers,8
+2025-09-29,veranda,2
+2025-09-29,want,4
+2025-10-06,according,10
+2025-10-06,according designers,10
 2025-10-06,according designers spruce,6
+2025-10-06,aol,2
 2025-10-06,apartments,2
 2025-10-06,asked,2
 2025-10-06,asked designers,2
 2025-10-06,autumn,2
-2025-10-06,beautiful,4
+2025-10-06,beautiful,6
 2025-10-06,bedroom,2
 2025-10-06,bedroom trends,2
 2025-10-06,best,2
 2025-10-06,chic,2
+2025-10-06,comeback,2
 2025-10-06,cozy,2
 2025-10-06,decor,14
 2025-10-06,decor ideas,2
 2025-10-06,decor trend,2
-2025-10-06,decor trends,4
+2025-10-06,decor trends,6
 2025-10-06,decorating,2
-2025-10-06,design,8
-2025-10-06,design trends,4
+2025-10-06,design,6
+2025-10-06,design trends,2
 2025-10-06,designer,4
-2025-10-06,designers,16
+2025-10-06,designers,18
 2025-10-06,designers say,2
 2025-10-06,designers spruce,6
 2025-10-06,diwali,2
 2025-10-06,fall,2
-2025-10-06,features,4
-2025-10-06,feel,2
+2025-10-06,features,2
+2025-10-06,feel,4
 2025-10-06,flooring,6
 2025-10-06,flooring trends,6
 2025-10-06,friendly,2
@@ -324,15 +344,13 @@ period,Term,Count
 2025-10-06,good,4
 2025-10-06,good housekeeping,4
 2025-10-06,halloween,2
-2025-10-06,home,12
+2025-10-06,home,10
 2025-10-06,home decor,8
 2025-10-06,home decor trend,2
-2025-10-06,home design,2
-2025-10-06,home design trends,2
 2025-10-06,homes,6
 2025-10-06,homes gardens,6
-2025-10-06,house,6
-2025-10-06,house beautiful,4
+2025-10-06,house,8
+2025-10-06,house beautiful,6
 2025-10-06,housekeeping,4
 2025-10-06,ideas,2
 2025-10-06,ideas small,2
@@ -342,9 +360,10 @@ period,Term,Count
 2025-10-06,interior trends,2
 2025-10-06,key,2
 2025-10-06,kitchen,4
-2025-10-06,living,14
+2025-10-06,living,12
 2025-10-06,living room,4
-2025-10-06,make,2
+2025-10-06,make,4
+2025-10-06,making,2
 2025-10-06,minimalist,2
 2025-10-06,need,2
 2025-10-06,new,6
@@ -353,7 +372,8 @@ period,Term,Count
 2025-10-06,paint trend,4
 2025-10-06,room,8
 2025-10-06,say,2
-2025-10-06,short,8
+2025-10-06,secret,4
+2025-10-06,short,4
 2025-10-06,small,4
 2025-10-06,small space,2
 2025-10-06,southern,8
@@ -366,16 +386,17 @@ period,Term,Count
 2025-10-06,spruce bedroom trends,1
 2025-10-06,trend,8
 2025-10-06,trend fall,2
-2025-10-06,trending,2
+2025-10-06,trending,4
 2025-10-06,trends,26
 2025-10-06,trends designers,6
 2025-10-06,trends designers say,2
-2025-10-06,years,4
+2025-10-06,trends making,2
 2025-10-13,align,10
 2025-10-13,align center,10
 2025-10-13,alt,10
 2025-10-13,alt class,10
 2025-10-13,alt class attachment,10
+2025-10-13,aol,2
 2025-10-13,apartment,24
 2025-10-13,apartment decor,8
 2025-10-13,apartment decor ideas,5
@@ -384,13 +405,12 @@ period,Term,Count
 2025-10-13,apartments,5
 2025-10-13,apartments decors,5
 2025-10-13,apartments decors studio,5
-2025-10-13,architects,6
+2025-10-13,architects,5
 2025-10-13,architectural,10
 2025-10-13,architecture,6
 2025-10-13,area,5
 2025-10-13,art,5
 2025-10-13,asked,3
-2025-10-13,atelier,5
 2025-10-13,attachment,10
 2025-10-13,attachment post,10
 2025-10-13,attachment post thumbnail,10
@@ -398,11 +418,10 @@ period,Term,Count
 2025-10-13,beautiful,18
 2025-10-13,bedroom,20
 2025-10-13,believe,2
-2025-10-13,best,18
-2025-10-13,better,1
+2025-10-13,best,15
 2025-10-13,biggest,4
 2025-10-13,bring,3
-2025-10-13,building,4
+2025-10-13,building,7
 2025-10-13,capture,2
 2025-10-13,cardboard,4
 2025-10-13,center,17
@@ -418,7 +437,7 @@ period,Term,Count
 2025-10-13,class rws title,10
 2025-10-13,collection,2
 2025-10-13,colors,2
-2025-10-13,comeback,3
+2025-10-13,comes,1
 2025-10-13,comfort,7
 2025-10-13,compact,7
 2025-10-13,concept,6
@@ -454,7 +473,8 @@ period,Term,Count
 2025-10-13,designers,12
 2025-10-13,designers quietly,2
 2025-10-13,designers quietly retiring,2
-2025-10-13,designs,10
+2025-10-13,designers reveal,4
+2025-10-13,designs,11
 2025-10-13,discover,5
 2025-10-13,div,20
 2025-10-13,div class,10
@@ -500,7 +520,7 @@ period,Term,Count
 2025-10-13,height,10
 2025-10-13,height src,10
 2025-10-13,height src width,10
-2025-10-13,home,77
+2025-10-13,home,78
 2025-10-13,home decor,25
 2025-10-13,home decor idea,6
 2025-10-13,home decor ideas,8
@@ -538,7 +558,7 @@ period,Term,Count
 2025-10-13,img,10
 2025-10-13,img alt,10
 2025-10-13,img alt class,10
-2025-10-13,inside,5
+2025-10-13,inside,8
 2025-10-13,inspiration,4
 2025-10-13,inspired,10
 2025-10-13,inspired small,5
@@ -561,7 +581,7 @@ period,Term,Count
 2025-10-13,leave,2
 2025-10-13,life,5
 2025-10-13,like,8
-2025-10-13,living,12
+2025-10-13,living,15
 2025-10-13,living room,5
 2025-10-13,located,6
 2025-10-13,long,7
@@ -570,7 +590,7 @@ period,Term,Count
 2025-10-13,luxury home,8
 2025-10-13,make,3
 2025-10-13,makeover,6
-2025-10-13,making,4
+2025-10-13,making,1
 2025-10-13,materials,3
 2025-10-13,medium,3
 2025-10-13,meets,5
@@ -613,6 +633,7 @@ period,Term,Count
 2025-10-13,rws img alt,10
 2025-10-13,rws title,10
 2025-10-13,rws title style,10
+2025-10-13,secret,3
 2025-10-13,set,5
 2025-10-13,shaping,4
 2025-10-13,short,2
@@ -620,6 +641,7 @@ period,Term,Count
 2025-10-13,shorts diwali,3
 2025-10-13,shorts diy,4
 2025-10-13,shortvideo,3
+2025-10-13,showcases,5
 2025-10-13,simple,4
 2025-10-13,site,7
 2025-10-13,situated,3
@@ -673,8 +695,7 @@ period,Term,Count
 2025-10-13,title,11
 2025-10-13,title style,10
 2025-10-13,title style text,10
-2025-10-13,today,4
-2025-10-13,touch,4
+2025-10-13,today,3
 2025-10-13,tour,6
 2025-10-13,transform,10
 2025-10-13,transform small,7
@@ -698,7 +719,7 @@ period,Term,Count
 2025-10-13,width class,10
 2025-10-13,width class rws,10
 2025-10-13,won,2
+2025-10-13,won believe,1
 2025-10-13,work,2
 2025-10-13,world,3
-2025-10-13,years,1
 2025-10-13,youtubeshorts,10
