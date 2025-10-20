@@ -1,34 +1,56 @@
 period,Term,Count
+2025-09-01,dress,2
+2025-09-01,fashion,2
+2025-09-01,fashion trend,2
+2025-09-01,gen,2
+2025-09-01,good,2
+2025-09-01,teenvogue,2
+2025-09-01,trend,4
+2025-09-01,vintage,2
+2025-09-08,according,2
 2025-09-08,city,4
-2025-09-08,claire,2
-2025-09-08,fall,10
+2025-09-08,claire,4
+2025-09-08,color,2
+2025-09-08,fall,14
 2025-09-08,fall fashion,6
 2025-09-08,fall fashion trends,2
+2025-09-08,fall pioneer,2
+2025-09-08,fall pioneer woman,2
 2025-09-08,fall purewow,2
-2025-09-08,fashion,8
-2025-09-08,fashion trend,2
+2025-09-08,fashion,12
+2025-09-08,fashion month,2
+2025-09-08,fashion trend,4
 2025-09-08,fashion trends,2
 2025-09-08,finds,4
 2025-09-08,girl,4
 2025-09-08,glamour,2
 2025-09-08,glamour fall,1
+2025-09-08,going,2
 2025-09-08,inspired,4
 2025-09-08,instyle,4
 2025-09-08,just,2
 2025-09-08,know,2
-2025-09-08,marie,2
-2025-09-08,marie claire,2
+2025-09-08,magazine,2
+2025-09-08,marie,4
+2025-09-08,marie claire,4
+2025-09-08,month,2
+2025-09-08,pioneer,2
+2025-09-08,pioneer woman,2
 2025-09-08,purewow,2
 2025-09-08,right,2
+2025-09-08,runway,2
+2025-09-08,runway trends,2
 2025-09-08,season,2
 2025-09-08,spring,2
 2025-09-08,start,4
 2025-09-08,streetwear,2
-2025-09-08,trend,8
-2025-09-08,trends,2
+2025-09-08,trend,10
+2025-09-08,trends,6
+2025-09-08,viral,2
 2025-09-08,wear,2
 2025-09-08,western,4
 2025-09-08,western inspired,4
+2025-09-08,woman,2
 2025-09-15,bazaar,4
 2025-09-15,fall,4
 2025-09-15,fall trends,4
@@ -76,54 +98,40 @@ period,Term,Count
 2025-09-22,winter fashion,2
 2025-09-22,winter fashion trends,2
 2025-09-22,woman,4
+2025-09-29,according,4
 2025-09-29,autumn,2
 2025-09-29,autumn wear,2
 2025-09-29,burgundy,4
-2025-09-29,cherie,6
-2025-09-29,cherie paris,6
-2025-09-29,cherie paris fashion,6
 2025-09-29,coats,2
 2025-09-29,cotton,2
-2025-09-29,coucou,6
-2025-09-29,coucou cherie,6
-2025-09-29,coucou cherie paris,6
 2025-09-29,fall,10
-2025-09-29,fashion,18
-2025-09-29,fashion week,10
-2025-09-29,fashion week street,6
+2025-09-29,fall pioneer,4
+2025-09-29,fall pioneer woman,4
+2025-09-29,fashion,16
+2025-09-29,fashion week,8
 2025-09-29,girl,4
 2025-09-29,girls,2
 2025-09-29,just,2
 2025-09-29,milan,4
-2025-09-29,paris,8
-2025-09-29,paris fashion,6
-2025-09-29,paris fashion week,6
+2025-09-29,paris,6
 2025-09-29,perfect,4
+2025-09-29,pioneer,4
+2025-09-29,pioneer woman,4
 2025-09-29,recent,2
-2025-09-29,recreate,6
-2025-09-29,recreate vogue,6
-2025-09-29,recreate vogue coucou,3
-2025-09-29,street,8
-2025-09-29,street style,8
-2025-09-29,street style trends,8
+2025-09-29,street,6
+2025-09-29,street style,6
+2025-09-29,street style trends,6
 2025-09-29,streetwear,2
-2025-09-29,style,8
-2025-09-29,style trends,8
-2025-09-29,style trends recreate,6
+2025-09-29,style,6
+2025-09-29,style trends,6
 2025-09-29,styles,2
 2025-09-29,sun,2
 2025-09-29,trend,8
-2025-09-29,trends,12
-2025-09-29,trends recreate,6
-2025-09-29,trends recreate vogue,6
-2025-09-29,vogue,6
-2025-09-29,vogue coucou,3
-2025-09-29,vogue coucou cherie,3
+2025-09-29,trends,10
+2025-09-29,vogue,4
 2025-09-29,wear,14
 2025-09-29,wearing,2
-2025-09-29,week,10
-2025-09-29,week street,6
-2025-09-29,week street style,6
+2025-09-29,week,8
 2025-09-29,white,2
 2025-09-29,winter,2
 2025-09-29,woman,6
@@ -196,8 +204,7 @@ period,Term,Count
 2025-10-13,beckham,6
 2025-10-13,best,14
 2025-10-13,boots,6
-2025-10-13,bridal,8
-2025-10-13,bridal trends,6
+2025-10-13,bridal,6
 2025-10-13,bring,4
 2025-10-13,brown,8
 2025-10-13,burgundy,4
@@ -240,7 +247,7 @@ period,Term,Count
 2025-10-13,elderly,3
 2025-10-13,elderly women,3
 2025-10-13,elegant,6
-2025-10-13,elle,12
+2025-10-13,elle,10
 2025-10-13,fall,57
 2025-10-13,fall fashion,12
 2025-10-13,fall fashion trends,4
@@ -268,11 +275,13 @@ period,Term,Count
 2025-10-13,fresh,9
 2025-10-13,gala,4
 2025-10-13,game,4
+2025-10-13,gen,4
 2025-10-13,girl,2
 2025-10-13,girls,14
 2025-10-13,glamour,6
 2025-10-13,glamour fall,2
 2025-10-13,global,9
+2025-10-13,going,4
 2025-10-13,good,5
 2025-10-13,guide,7
 2025-10-13,handbag,4
@@ -286,7 +295,7 @@ period,Term,Count
 2025-10-13,inspiration,4
 2025-10-13,inspired,7
 2025-10-13,instyle,4
-2025-10-13,irish,8
+2025-10-13,irish,6
 2025-10-13,jacket,9
 2025-10-13,jacket trend,6
 2025-10-13,jeans,14
@@ -336,7 +345,7 @@ period,Term,Count
 2025-10-13,office,3
 2025-10-13,office wear,3
 2025-10-13,office wear party,3
-2025-10-13,old,7
+2025-10-13,old,5
 2025-10-13,ootd,3
 2025-10-13,outdated,4
 2025-10-13,outfit,20
@@ -357,6 +366,7 @@ period,Term,Count
 2025-10-13,right,4
 2025-10-13,runway,11
 2025-10-13,runway trend,6
+2025-10-13,runway trends,4
 2025-10-13,say,5
 2025-10-13,season,8
 2025-10-13,secret,9
@@ -423,7 +433,7 @@ period,Term,Count
 2025-10-13,trend taking,4
 2025-10-13,trend woman,2
 2025-10-13,trending,18
-2025-10-13,trends,85
+2025-10-13,trends,83
 2025-10-13,trends fashion,6
 2025-10-13,trends start,2
 2025-10-13,trends straight,4
@@ -439,6 +449,8 @@ period,Term,Count
 2025-10-13,victoria secret,9
 2025-10-13,victoria secret fashion,7
 2025-10-13,video,12
+2025-10-13,vintage,3
+2025-10-13,viral,2
 2025-10-13,vocal,4
 2025-10-13,vocal media,4
 2025-10-13,vogue,18
@@ -479,3 +491,5 @@ period,Term,Count
 2025-10-20,museum,2
 2025-10-20,museum gala,2
 2025-10-20,news,2
+2025-10-20,spring,2
+2025-10-20,trend,2
