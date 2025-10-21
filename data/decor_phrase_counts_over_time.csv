@@ -1,22 +1,4 @@
 period,Term,Count
-2025-09-01,apartment,4
-2025-09-01,apartment therapy,4
-2025-09-01,asked,2
-2025-09-01,asked designers,2
-2025-09-01,designers,6
-2025-09-01,home,4
-2025-09-01,home trends,4
-2025-09-01,home trends designers,4
-2025-09-01,homes,2
-2025-09-01,regret,2
-2025-09-01,spruce,2
-2025-09-01,spruce asked,1
-2025-09-01,spruce asked designers,1
-2025-09-01,taking,2
-2025-09-01,therapy,4
-2025-09-01,trends,6
-2025-09-01,trends designers,4
-2025-09-01,trends regret,2
 2025-09-08,according,2
 2025-09-08,according interior,2
 2025-09-08,according interior designers,2
@@ -45,6 +27,7 @@ period,Term,Count
 2025-09-08,homes gardens,4
 2025-09-08,housekeeping,4
 2025-09-08,ideas,6
+2025-09-08,ideas make,2
 2025-09-08,ideas transform,2
 2025-09-08,ideas transform small,2
 2025-09-08,interior,6
@@ -68,6 +51,7 @@ period,Term,Count
 2025-09-08,space,2
 2025-09-08,spruce,2
 2025-09-08,storage,2
+2025-09-08,storage ideas,2
 2025-09-08,summer,8
 2025-09-08,taking,6
 2025-09-08,taking fall,6
@@ -95,7 +79,6 @@ period,Term,Count
 2025-09-15,home design,4
 2025-09-15,home design trends,4
 2025-09-15,home trends,4
-2025-09-15,home trends designers,4
 2025-09-15,house,4
 2025-09-15,house beautiful,4
 2025-09-15,housekeeping,2
@@ -104,7 +87,6 @@ period,Term,Count
 2025-09-15,making,2
 2025-09-15,real,4
 2025-09-15,real simple,4
-2025-09-15,reveal,2
 2025-09-15,right,2
 2025-09-15,say,8
 2025-09-15,simple,4
@@ -164,7 +146,6 @@ period,Term,Count
 2025-09-22,look,4
 2025-09-22,making,4
 2025-09-22,marthastewart,2
-2025-09-22,maximize,2
 2025-09-22,new,2
 2025-09-22,outdated,2
 2025-09-22,say,10
@@ -178,6 +159,7 @@ period,Term,Count
 2025-09-22,spaces,2
 2025-09-22,spruce,8
 2025-09-22,storage,2
+2025-09-22,storage ideas,2
 2025-09-22,swear,4
 2025-09-22,tacky,4
 2025-09-22,therapy,4
@@ -214,8 +196,6 @@ period,Term,Count
 2025-09-29,home decor trends,2
 2025-09-29,home design,2
 2025-09-29,home design trends,2
-2025-09-29,home interior,2
-2025-09-29,home interior design,2
 2025-09-29,homes,4
 2025-09-29,homes gardens,4
 2025-09-29,homes gardens trends,1
@@ -248,11 +228,10 @@ period,Term,Count
 2025-09-29,trend,6
 2025-09-29,trends,20
 2025-09-29,trends designers,4
+2025-09-29,value,2
 2025-09-29,want,4
 2025-10-06,according,2
 2025-10-06,aol,2
-2025-10-06,asked,4
-2025-10-06,asked designers,4
 2025-10-06,beautiful,4
 2025-10-06,bedroom,2
 2025-10-06,bedroom trends,2
@@ -278,6 +257,7 @@ period,Term,Count
 2025-10-06,interior,2
 2025-10-06,interior design,2
 2025-10-06,interior design trends,2
+2025-10-06,know,2
 2025-10-06,living,2
 2025-10-06,make,2
 2025-10-06,making,2
@@ -291,229 +271,113 @@ period,Term,Count
 2025-10-06,southern living,2
 2025-10-06,space,2
 2025-10-06,spruce,6
-2025-10-06,spruce asked,2
-2025-10-06,spruce asked designers,2
 2025-10-06,trend,2
 2025-10-06,trending,2
 2025-10-06,trends,12
 2025-10-06,trends home,2
-2025-10-13,according,14
+2025-10-13,according,12
 2025-10-13,according interior,8
 2025-10-13,according interior designers,8
 2025-10-13,aol,2
-2025-10-13,apartment,13
-2025-10-13,apartment interior,3
-2025-10-13,apartment interior design,3
+2025-10-13,apartment,6
 2025-10-13,apartment therapy,6
-2025-10-13,apartments,3
-2025-10-13,apartments decors,3
-2025-10-13,apartments decors studio,3
-2025-10-13,architects,2
-2025-10-13,architecture,2
-2025-10-13,asked,1
 2025-10-13,beautiful,2
 2025-10-13,bedroom,4
 2025-10-13,bedroom trends,4
-2025-10-13,better,6
-2025-10-13,better homes,6
-2025-10-13,better homes gardens,6
-2025-10-13,big,4
+2025-10-13,better,4
+2025-10-13,better homes,4
+2025-10-13,better homes gardens,4
+2025-10-13,big,2
 2025-10-13,bold,4
-2025-10-13,casa,6
-2025-10-13,casa estilo,6
-2025-10-13,casa estilo estilodevida,6
-2025-10-13,christmas,18
-2025-10-13,christmas casa,6
-2025-10-13,christmas casa estilo,6
-2025-10-13,christmas trends,6
-2025-10-13,christmas trends tendencias,6
-2025-10-13,color,2
-2025-10-13,community,1
-2025-10-13,como,6
-2025-10-13,como decorar,6
-2025-10-13,como decorar decor,6
-2025-10-13,contemporaneo,6
-2025-10-13,contemporaneo estilocontemporaneo,6
-2025-10-13,contemporary,7
-2025-10-13,contemporary contemporaneo,6
-2025-10-13,contemporary contemporaneo estilocontemporaneo,6
-2025-10-13,cozy,5
-2025-10-13,cozy homes,3
-2025-10-13,cozy homes smart,3
+2025-10-13,christmas,6
+2025-10-13,cozy,2
 2025-10-13,currently,2
 2025-10-13,dated,2
-2025-10-13,decor,39
-2025-10-13,decor christmas,6
-2025-10-13,decor christmas casa,6
-2025-10-13,decor design,6
-2025-10-13,decor design trends,6
+2025-10-13,decor,22
 2025-10-13,decor trend,14
 2025-10-13,decor trends,2
-2025-10-13,decorar,6
-2025-10-13,decorar decor,6
-2025-10-13,decorar decor design,6
 2025-10-13,decorating,6
 2025-10-13,decorating trend,2
 2025-10-13,decorating trends,4
-2025-10-13,decors,3
-2025-10-13,decors studio,3
-2025-10-13,decors studio apartment,3
-2025-10-13,design,30
-2025-10-13,design ideas,6
-2025-10-13,design ideas studio,3
-2025-10-13,design ideas transform,3
-2025-10-13,design trends,12
-2025-10-13,design trends home,6
+2025-10-13,design,14
+2025-10-13,design trends,6
 2025-10-13,designers,22
 2025-10-13,designers marthastewart,4
 2025-10-13,designers say,10
 2025-10-13,digest,6
 2025-10-13,dominate,4
-2025-10-13,elegant,2
-2025-10-13,estilo,6
-2025-10-13,estilo estilodevida,6
-2025-10-13,estilo estilodevida moderno,6
-2025-10-13,estilocontemporaneo,6
-2025-10-13,estilodevida,6
-2025-10-13,estilodevida moderno,6
-2025-10-13,estilodevida moderno modern,6
 2025-10-13,experts,4
 2025-10-13,fall,4
-2025-10-13,feel,2
-2025-10-13,feeling,1
 2025-10-13,festive,4
-2025-10-13,functional,3
-2025-10-13,functional cozy,3
-2025-10-13,functional cozy homes,3
-2025-10-13,furniture,3
 2025-10-13,garden,4
-2025-10-13,gardens,18
-2025-10-13,gardens home,3
-2025-10-13,gardens home trends,3
+2025-10-13,gardens,16
 2025-10-13,gardens kitchen,3
 2025-10-13,good,4
 2025-10-13,good housekeeping,4
-2025-10-13,hold,1
-2025-10-13,home,37
-2025-10-13,home decor,17
-2025-10-13,home decor christmas,6
+2025-10-13,home,28
+2025-10-13,home decor,10
 2025-10-13,home decor trend,6
 2025-10-13,home design,4
 2025-10-13,home design trends,4
-2025-10-13,home trends,8
-2025-10-13,homes,21
-2025-10-13,homes gardens,18
-2025-10-13,homes gardens home,3
+2025-10-13,home trends,6
+2025-10-13,homes,16
+2025-10-13,homes gardens,16
 2025-10-13,homes gardens kitchen,3
-2025-10-13,homes smart,3
-2025-10-13,homes smart layouts,3
-2025-10-13,house,10
+2025-10-13,house,8
 2025-10-13,house beautiful,2
 2025-10-13,house digest,6
 2025-10-13,housekeeping,4
-2025-10-13,idea,1
-2025-10-13,ideas,6
-2025-10-13,ideas studio,3
-2025-10-13,ideas studio apartments,3
-2025-10-13,ideas transform,3
-2025-10-13,ideas transform small,3
+2025-10-13,influence,4
 2025-10-13,instead,2
-2025-10-13,interior,22
-2025-10-13,interior design,12
-2025-10-13,interior design ideas,6
+2025-10-13,interior,14
+2025-10-13,interior design,4
 2025-10-13,interior designers,10
 2025-10-13,interior designers marthastewart,4
-2025-10-13,just,1
 2025-10-13,kitchen,8
-2025-10-13,layers,3
-2025-10-13,layouts,3
-2025-10-13,life,1
-2025-10-13,like,2
-2025-10-13,living,15
-2025-10-13,living room,11
+2025-10-13,living,12
+2025-10-13,living room,8
 2025-10-13,living room trend,4
-2025-10-13,located,1
 2025-10-13,look,2
 2025-10-13,love,4
-2025-10-13,make,1
 2025-10-13,marthastewart,4
-2025-10-13,modern,8
-2025-10-13,modern contemporary,6
-2025-10-13,modern contemporary contemporaneo,6
-2025-10-13,moderno,6
-2025-10-13,moderno modern,6
-2025-10-13,moderno modern contemporary,6
-2025-10-13,navidad,10
-2025-10-13,navidad como,6
-2025-10-13,navidad como decorar,6
-2025-10-13,new,5
+2025-10-13,modern,2
+2025-10-13,new,4
 2025-10-13,outdated,4
 2025-10-13,overdone,2
 2025-10-13,parade,6
 2025-10-13,parade home,4
-2025-10-13,parisian,3
 2025-10-13,people,2
 2025-10-13,real,2
 2025-10-13,real simple,2
-2025-10-13,reveal,2
 2025-10-13,right,4
-2025-10-13,room,11
+2025-10-13,room,8
 2025-10-13,room trend,4
 2025-10-13,say,10
 2025-10-13,season,2
-2025-10-13,shorts,1
+2025-10-13,set,2
 2025-10-13,simple,2
-2025-10-13,small,10
-2025-10-13,small apartment,2
-2025-10-13,small spaces,3
-2025-10-13,small spaces stylish,3
-2025-10-13,smart,3
-2025-10-13,smart layouts,3
-2025-10-13,southern,5
+2025-10-13,southern,4
 2025-10-13,southern living,4
-2025-10-13,spaces,3
-2025-10-13,spaces stylish,3
-2025-10-13,spaces stylish functional,3
 2025-10-13,spruce,4
 2025-10-13,step,2
-2025-10-13,studio,6
-2025-10-13,studio apartment,3
-2025-10-13,studio apartment interior,3
-2025-10-13,studio apartments,3
-2025-10-13,studio apartments decors,3
-2025-10-13,style,5
-2025-10-13,stylish,3
-2025-10-13,stylish functional,3
-2025-10-13,stylish functional cozy,3
+2025-10-13,style,4
 2025-10-13,taking,2
 2025-10-13,target,2
-2025-10-13,tendencias,9
-2025-10-13,tendencias navidad,8
-2025-10-13,tendencias navidad como,6
 2025-10-13,therapy,6
-2025-10-13,time,3
-2025-10-13,timeless,1
-2025-10-13,today,1
-2025-10-13,transform,3
-2025-10-13,transform small,3
-2025-10-13,transform small spaces,3
-2025-10-13,trend,28
-2025-10-13,trends,50
+2025-10-13,time,2
+2025-10-13,trend,26
+2025-10-13,trends,36
 2025-10-13,trends designers,4
 2025-10-13,trends designers say,4
-2025-10-13,trends home,8
-2025-10-13,trends home decor,6
-2025-10-13,trends tendencias,6
-2025-10-13,trends tendencias navidad,6
+2025-10-13,trends home,2
 2025-10-13,turn,2
-2025-10-13,turns,1
-2025-10-13,vibrant,1
 2025-10-13,vintage,4
+2025-10-13,viral,2
 2025-10-13,wall,2
 2025-10-13,walls,2
 2025-10-13,want,2
-2025-10-13,work,2
 2025-10-13,year,4
+2025-10-20,aesthetic,7
 2025-10-20,align,10
 2025-10-20,align center,10
 2025-10-20,alt,10
@@ -521,28 +385,38 @@ period,Term,Count
 2025-10-20,alt class attachment,10
 2025-10-20,aol,2
 2025-10-20,apartment,27
-2025-10-20,apartment decor,11
-2025-10-20,apartment decor ideas,6
-2025-10-20,apartment interior,4
-2025-10-20,apartment interior design,4
-2025-10-20,apartments,3
-2025-10-20,apartments decors,2
-2025-10-20,apartments decors studio,2
-2025-10-20,architects,9
-2025-10-20,architecture,9
-2025-10-20,art,12
+2025-10-20,apartment decor,7
+2025-10-20,apartment interior,9
+2025-10-20,apartment interior design,9
+2025-10-20,apartments,8
+2025-10-20,apartments decors,5
+2025-10-20,apartments decors studio,5
+2025-10-20,architects,12
+2025-10-20,architecture,10
+2025-10-20,art,4
 2025-10-20,attachment,10
 2025-10-20,attachment post,10
 2025-10-20,attachment post thumbnail,10
-2025-10-20,beautiful,12
-2025-10-20,bedroom,7
+2025-10-20,beautiful,13
+2025-10-20,bedroom,4
 2025-10-20,best,8
-2025-10-20,big,4
-2025-10-20,blends,3
-2025-10-20,building,9
+2025-10-20,big,5
+2025-10-20,bold,1
+2025-10-20,building,13
+2025-10-20,built,3
+2025-10-20,campus,3
+2025-10-20,candle,8
+2025-10-20,casa,6
+2025-10-20,casa estilo,6
+2025-10-20,casa estilo estilodevida,6
 2025-10-20,center,18
-2025-10-20,christmas,4
+2025-10-20,christmas,16
+2025-10-20,christmas casa,6
+2025-10-20,christmas casa estilo,6
+2025-10-20,christmas trends,6
+2025-10-20,christmas trends tendencias,6
 2025-10-20,city,9
+2025-10-20,civic,5
 2025-10-20,class,40
 2025-10-20,class attachment,10
 2025-10-20,class attachment post,10
@@ -550,149 +424,174 @@ period,Term,Count
 2025-10-20,class rws excerpt,10
 2025-10-20,class rws img,10
 2025-10-20,class rws title,10
-2025-10-20,color,4
 2025-10-20,comes,2
 2025-10-20,community,3
+2025-10-20,como,6
+2025-10-20,como decorar,6
+2025-10-20,como decorar decor,6
+2025-10-20,compact,3
 2025-10-20,conceived,4
-2025-10-20,contemporary,3
-2025-10-20,cozy,6
-2025-10-20,cozy homes,2
-2025-10-20,cozy homes smart,2
-2025-10-20,craft,14
+2025-10-20,contemporaneo,6
+2025-10-20,contemporaneo estilocontemporaneo,6
+2025-10-20,contemporary,8
+2025-10-20,contemporary contemporaneo,6
+2025-10-20,contemporary contemporaneo estilocontemporaneo,6
+2025-10-20,cozy,11
+2025-10-20,cozy homes,5
+2025-10-20,cozy homes smart,5
+2025-10-20,craft,11
 2025-10-20,create,3
 2025-10-20,currently,1
-2025-10-20,decor,54
-2025-10-20,decor idea,6
+2025-10-20,decor,71
+2025-10-20,decor christmas,6
+2025-10-20,decor christmas casa,6
+2025-10-20,decor design,6
+2025-10-20,decor design trends,6
+2025-10-20,decor idea,9
 2025-10-20,decor ideas,22
-2025-10-20,decor trends,2
-2025-10-20,decoration,41
-2025-10-20,decoration home,5
-2025-10-20,decoration ideas,14
-2025-10-20,decoration ideas diwali,4
-2025-10-20,decoration wall,3
-2025-10-20,decors,2
-2025-10-20,decors studio,2
-2025-10-20,decors studio apartment,2
-2025-10-20,design,63
-2025-10-20,design ideas,18
-2025-10-20,design ideas studio,2
-2025-10-20,design ideas transform,2
-2025-10-20,design trends,15
-2025-10-20,designed,8
+2025-10-20,decor trends,4
+2025-10-20,decorar,6
+2025-10-20,decorar decor,6
+2025-10-20,decorar decor design,6
+2025-10-20,decoration,22
+2025-10-20,decoration ideas,13
+2025-10-20,decoration ideas diwali,3
+2025-10-20,decors,5
+2025-10-20,decors studio,5
+2025-10-20,decors studio apartment,5
+2025-10-20,design,75
+2025-10-20,design ideas,27
+2025-10-20,design ideas studio,5
+2025-10-20,design ideas transform,5
+2025-10-20,design trends,20
+2025-10-20,design trends home,6
+2025-10-20,designed,10
 2025-10-20,designers,4
 2025-10-20,designers say,2
 2025-10-20,designers swear,2
-2025-10-20,designs,5
+2025-10-20,destination,3
 2025-10-20,digest,4
-2025-10-20,discover,4
+2025-10-20,discover,6
 2025-10-20,div,20
 2025-10-20,div class,10
 2025-10-20,div class rws,10
-2025-10-20,diwali,40
-2025-10-20,diwali decoration,20
-2025-10-20,diwali decoration ideas,9
-2025-10-20,diwali home,7
+2025-10-20,diwali,42
+2025-10-20,diwali decoration,16
+2025-10-20,diwali decoration ideas,10
+2025-10-20,diwali home,6
 2025-10-20,diwali home decor,6
-2025-10-20,diy,29
+2025-10-20,diy,23
+2025-10-20,diya,5
 2025-10-20,dominate,2
-2025-10-20,easy,12
-2025-10-20,elegance,6
-2025-10-20,elegant,5
+2025-10-20,dream,3
+2025-10-20,easy,10
+2025-10-20,easy home,3
+2025-10-20,easy home decor,3
+2025-10-20,elegance,4
+2025-10-20,elegant,6
+2025-10-20,estilo,6
+2025-10-20,estilo estilodevida,6
+2025-10-20,estilo estilodevida moderno,6
+2025-10-20,estilocontemporaneo,6
+2025-10-20,estilodevida,6
+2025-10-20,estilodevida moderno,6
+2025-10-20,estilodevida moderno modern,6
 2025-10-20,excerpt,10
-2025-10-20,experience,7
-2025-10-20,fall,2
+2025-10-20,explores,3
+2025-10-20,fall,3
 2025-10-20,fall decor,2
 2025-10-20,fall decor trends,2
 2025-10-20,family,3
-2025-10-20,feel,1
+2025-10-20,feel,2
 2025-10-20,feeling,1
 2025-10-20,festive,6
-2025-10-20,functional,3
-2025-10-20,functional cozy,2
-2025-10-20,functional cozy homes,2
-2025-10-20,furniture,2
-2025-10-20,green,10
+2025-10-20,french,4
+2025-10-20,functional,7
+2025-10-20,functional cozy,5
+2025-10-20,functional cozy homes,5
+2025-10-20,furniture,8
+2025-10-20,green,13
 2025-10-20,handmade,4
-2025-10-20,hanging,8
+2025-10-20,hanging,5
 2025-10-20,height,10
 2025-10-20,height src,10
 2025-10-20,height src width,10
 2025-10-20,hold,1
-2025-10-20,home,85
-2025-10-20,home decor,27
-2025-10-20,home decor idea,5
-2025-10-20,home decor ideas,9
-2025-10-20,home decoration,5
-2025-10-20,home design,3
-2025-10-20,home design trends,1
-2025-10-20,home interior,6
-2025-10-20,home interior design,2
+2025-10-20,home,82
+2025-10-20,home decor,41
+2025-10-20,home decor christmas,6
+2025-10-20,home decor idea,7
+2025-10-20,home decor ideas,11
+2025-10-20,home decor trends,2
+2025-10-20,home decoration,4
 2025-10-20,home renovation,6
-2025-10-20,homedecor,13
-2025-10-20,homes,5
-2025-10-20,homes smart,2
-2025-10-20,homes smart layouts,2
-2025-10-20,house,17
+2025-10-20,home trends,1
+2025-10-20,homedecor,15
+2025-10-20,homes,8
+2025-10-20,homes smart,5
+2025-10-20,homes smart layouts,5
+2025-10-20,house,19
+2025-10-20,house design,6
 2025-10-20,house digest,4
-2025-10-20,idea,10
-2025-10-20,ideas,70
-2025-10-20,ideas diwali,5
-2025-10-20,ideas home,5
-2025-10-20,ideas shorts,4
-2025-10-20,ideas studio,2
-2025-10-20,ideas studio apartments,2
-2025-10-20,ideas transform,4
-2025-10-20,ideas transform small,2
+2025-10-20,idea,12
+2025-10-20,ideas,74
+2025-10-20,ideas diwali,7
+2025-10-20,ideas home,4
+2025-10-20,ideas make,2
+2025-10-20,ideas studio,5
+2025-10-20,ideas studio apartments,5
+2025-10-20,ideas transform,6
+2025-10-20,ideas transform small,5
 2025-10-20,image,10
 2025-10-20,image height,10
 2025-10-20,image height src,10
 2025-10-20,img,10
 2025-10-20,img alt,10
 2025-10-20,img alt class,10
-2025-10-20,inspiration,3
-2025-10-20,inspired,4
+2025-10-20,influence,1
+2025-10-20,inspiration,7
+2025-10-20,inspired,6
 2025-10-20,instead,5
-2025-10-20,interior,34
-2025-10-20,interior design,23
-2025-10-20,interior design ideas,15
-2025-10-20,interior design trends,2
-2025-10-20,interiordesign,8
-2025-10-20,just,2
-2025-10-20,kitchen,13
-2025-10-20,kitchen design,9
-2025-10-20,kitchen design trends,4
-2025-10-20,landscape,4
-2025-10-20,latest,10
-2025-10-20,layers,1
-2025-10-20,layouts,3
+2025-10-20,interior,37
+2025-10-20,interior design,35
+2025-10-20,interior design ideas,20
+2025-10-20,interior design trends,6
+2025-10-20,interiordesign,5
+2025-10-20,interiors,4
+2025-10-20,just,3
+2025-10-20,kitchen,11
+2025-10-20,kitchen design,6
+2025-10-20,know,2
+2025-10-20,landscape,3
+2025-10-20,latest,9
+2025-10-20,layouts,6
 2025-10-20,life,4
 2025-10-20,light,4
 2025-10-20,lighting,5
-2025-10-20,like,11
-2025-10-20,living,20
-2025-10-20,living room,13
-2025-10-20,living room decor,4
-2025-10-20,living room design,5
-2025-10-20,located,2
-2025-10-20,love,4
-2025-10-20,luxury,17
-2025-10-20,make,4
+2025-10-20,like,12
+2025-10-20,living,9
+2025-10-20,living room,2
+2025-10-20,look,2
+2025-10-20,love,5
+2025-10-20,luxury,6
+2025-10-20,make,5
 2025-10-20,makeover,4
-2025-10-20,maximize,4
-2025-10-20,meets,3
-2025-10-20,modern,30
-2025-10-20,modern home,5
-2025-10-20,modern kitchen,3
-2025-10-20,modern kitchen design,3
-2025-10-20,modern luxury,5
-2025-10-20,nature,3
+2025-10-20,minimalist,4
+2025-10-20,modern,24
+2025-10-20,modern contemporary,6
+2025-10-20,modern contemporary contemporaneo,6
+2025-10-20,moderno,6
+2025-10-20,moderno modern,6
+2025-10-20,moderno modern contemporary,6
+2025-10-20,navidad,6
+2025-10-20,navidad como,6
+2025-10-20,navidad como decorar,6
 2025-10-20,need,4
-2025-10-20,new,6
+2025-10-20,new,10
 2025-10-20,outdated,2
-2025-10-20,paper,5
-2025-10-20,parisian,5
+2025-10-20,paris,6
+2025-10-20,parisian,6
 2025-10-20,people,5
-2025-10-20,place,4
 2025-10-20,post,30
 2025-10-20,post image,10
 2025-10-20,post image height,10
@@ -700,20 +599,16 @@ period,Term,Count
 2025-10-20,post thumbnail post,10
 2025-10-20,post thumbnail size,10
 2025-10-20,project,6
-2025-10-20,public,9
+2025-10-20,public,10
 2025-10-20,quiet,5
-2025-10-20,ready,6
 2025-10-20,real,2
 2025-10-20,real simple,2
 2025-10-20,reflects,3
-2025-10-20,regret,4
-2025-10-20,renovation,6
+2025-10-20,renovation,8
 2025-10-20,responding,3
 2025-10-20,retreat,2
-2025-10-20,reveal,1
-2025-10-20,room,16
-2025-10-20,room decor,5
-2025-10-20,room design,5
+2025-10-20,right,1
+2025-10-20,room,5
 2025-10-20,rooms,3
 2025-10-20,rws,30
 2025-10-20,rws excerpt,10
@@ -723,46 +618,52 @@ period,Term,Count
 2025-10-20,rws title style,10
 2025-10-20,say,6
 2025-10-20,season,1
-2025-10-20,shorts,25
-2025-10-20,showcases,3
+2025-10-20,set,2
+2025-10-20,shorts,18
 2025-10-20,simple,6
 2025-10-20,size,10
 2025-10-20,size post,10
 2025-10-20,size post thumbnail,10
-2025-10-20,small,25
-2025-10-20,small apartment,9
+2025-10-20,small,31
+2025-10-20,small apartment,11
+2025-10-20,small apartments,3
+2025-10-20,small house,4
 2025-10-20,small space,5
-2025-10-20,small spaces,5
-2025-10-20,small spaces stylish,2
-2025-10-20,smart,5
-2025-10-20,smart layouts,2
-2025-10-20,southern,1
-2025-10-20,space,24
-2025-10-20,spaces,10
-2025-10-20,spaces stylish,2
-2025-10-20,spaces stylish functional,2
+2025-10-20,small spaces,6
+2025-10-20,small spaces stylish,5
+2025-10-20,smart,8
+2025-10-20,smart layouts,5
+2025-10-20,sofa,8
+2025-10-20,space,29
+2025-10-20,spaces,13
+2025-10-20,spaces stylish,5
+2025-10-20,spaces stylish functional,5
 2025-10-20,spruce,4
 2025-10-20,src,10
 2025-10-20,src width,10
 2025-10-20,src width class,10
-2025-10-20,step,7
-2025-10-20,step step,3
-2025-10-20,storage,1
-2025-10-20,studio,10
-2025-10-20,studio apartment,2
-2025-10-20,studio apartment interior,2
-2025-10-20,studio apartments,2
-2025-10-20,studio apartments decors,2
-2025-10-20,stunning,8
-2025-10-20,style,15
+2025-10-20,step,4
+2025-10-20,storage,3
+2025-10-20,storage ideas,1
+2025-10-20,studio,17
+2025-10-20,studio apartment,5
+2025-10-20,studio apartment interior,5
+2025-10-20,studio apartments,5
+2025-10-20,studio apartments decors,5
+2025-10-20,stunning,5
+2025-10-20,style,16
 2025-10-20,style text,10
 2025-10-20,style text align,10
-2025-10-20,stylish,10
-2025-10-20,stylish functional,2
-2025-10-20,stylish functional cozy,2
+2025-10-20,stylish,12
+2025-10-20,stylish functional,5
+2025-10-20,stylish functional cozy,5
 2025-10-20,summer,5
 2025-10-20,swear,2
+2025-10-20,taking,1
 2025-10-20,target,14
+2025-10-20,tendencias,6
+2025-10-20,tendencias navidad,6
+2025-10-20,tendencias navidad como,6
 2025-10-20,text,10
 2025-10-20,text align,10
 2025-10-20,text align center,10
@@ -772,39 +673,41 @@ period,Term,Count
 2025-10-20,thumbnail size,10
 2025-10-20,thumbnail size post,10
 2025-10-20,time,2
-2025-10-20,timeless,4
-2025-10-20,tiny,7
-2025-10-20,tiny apartment,6
+2025-10-20,timeless,6
 2025-10-20,title,10
 2025-10-20,title style,10
 2025-10-20,title style text,10
-2025-10-20,today,3
-2025-10-20,transform,16
-2025-10-20,transform small,6
+2025-10-20,transform,19
+2025-10-20,transform small,9
 2025-10-20,transform small apartment,4
-2025-10-20,transform small spaces,2
+2025-10-20,transform small spaces,5
+2025-10-20,transformed,3
 2025-10-20,trend,4
-2025-10-20,trending,5
-2025-10-20,trends,23
+2025-10-20,trending,9
+2025-10-20,trends,36
 2025-10-20,trends designers,2
-2025-10-20,trends regret,4
-2025-10-20,turn,3
-2025-10-20,turns,3
+2025-10-20,trends home,6
+2025-10-20,trends home decor,6
+2025-10-20,trends taking,1
+2025-10-20,trends tendencias,6
+2025-10-20,trends tendencias navidad,6
+2025-10-20,turn,2
 2025-10-20,urban,4
 2025-10-20,use,4
-2025-10-20,vibrant,2
-2025-10-20,video,11
+2025-10-20,value,4
+2025-10-20,video,12
+2025-10-20,video explores,3
 2025-10-20,vintage,1
-2025-10-20,wall,13
-2025-10-20,wall hanging,8
-2025-10-20,walldecor,3
+2025-10-20,viral,3
+2025-10-20,wall,8
+2025-10-20,wall hanging,5
 2025-10-20,walls,4
 2025-10-20,welcome,4
 2025-10-20,width,10
 2025-10-20,width class,10
 2025-10-20,width class rws,10
 2025-10-20,work,3
-2025-10-20,world,3
+2025-10-20,world,4
 2025-10-20,year,4
+2025-10-20,youtube,3
 2025-10-20,youtubeshorts,5
-2025-10-20,youtubeshorts diy,3
