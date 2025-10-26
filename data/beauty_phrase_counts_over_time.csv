@@ -29,6 +29,7 @@ period,Term,Count
 2025-09-15,biggest,6
 2025-09-15,biggest beauty,2
 2025-09-15,biggest beauty trend,2
+2025-09-15,black,2
 2025-09-15,claire,4
 2025-09-15,color,2
 2025-09-15,come,4
@@ -48,6 +49,7 @@ period,Term,Count
 2025-09-15,girl,2
 2025-09-15,glam,2
 2025-09-15,glamour,8
+2025-09-15,going,2
 2025-09-15,harper,4
 2025-09-15,harper bazaar,4
 2025-09-15,hottest,2
@@ -65,12 +67,14 @@ period,Term,Count
 2025-09-15,marie claire,4
 2025-09-15,new,4
 2025-09-15,new york,4
-2025-09-15,nyfw,4
+2025-09-15,nyfw,6
 2025-09-15,party,2
+2025-09-15,photos,2
 2025-09-15,play,2
 2025-09-15,prettiest,6
 2025-09-15,prettiest trend,6
 2025-09-15,prettiest trend vogue,6
+2025-09-15,report,2
 2025-09-15,runways,2
 2025-09-15,skin,2
 2025-09-15,skincare,2
@@ -97,12 +101,14 @@ period,Term,Count
 2025-09-15,vogue fall,3
 2025-09-15,vogue fall toasted,3
 2025-09-15,warm,4
-2025-09-15,wear,2
+2025-09-15,wear,4
 2025-09-15,wearing,2
 2025-09-15,week,6
 2025-09-15,welcome,4
-2025-09-15,year,2
+2025-09-15,year,4
 2025-09-15,york,4
+2025-09-15,zoe,2
+2025-09-15,zoe report,2
 2025-09-22,arabia,4
 2025-09-22,beauty,4
 2025-09-22,beauty trends,4
@@ -125,6 +131,7 @@ period,Term,Count
 2025-09-22,nyfw,4
 2025-09-22,obsessed,2
 2025-09-22,pros,2
+2025-09-22,report,2
 2025-09-22,skincare,2
 2025-09-22,skincare trends,2
 2025-09-22,spring,4
@@ -140,6 +147,8 @@ period,Term,Count
 2025-09-22,try,2
 2025-09-22,vogue,4
 2025-09-22,warm,2
+2025-09-22,zoe,2
+2025-09-22,zoe report,2
 2025-09-29,bare,6
 2025-09-29,bazaar,2
 2025-09-29,beauty,18
@@ -230,11 +239,14 @@ period,Term,Count
 2025-10-06,huge makeup trend,4
 2025-10-06,iconic,2
 2025-10-06,look,2
-2025-10-06,makeup,6
+2025-10-06,makeup,8
 2025-10-06,makeup trend,6
+2025-10-06,makeup trends,2
+2025-10-06,making,2
 2025-10-06,mintel,4
 2025-10-06,obsessed,4
 2025-10-06,personal,4
+2025-10-06,photos,2
 2025-10-06,pinterest,4
 2025-10-06,pinterest tiktok,4
 2025-10-06,pinterest tiktok agree,4
@@ -252,7 +264,7 @@ period,Term,Count
 2025-10-06,trend,14
 2025-10-06,trend gen,4
 2025-10-06,trend gen obsessed,4
-2025-10-06,trends,4
+2025-10-06,trends,6
 2025-10-06,watch,2
 2025-10-06,wear,6
 2025-10-06,wear pinterest,2
@@ -263,17 +275,11 @@ period,Term,Count
 2025-10-13,beauty trends,6
 2025-10-13,beauty trends spring,4
 2025-10-13,best,4
-2025-10-13,black,2
-2025-10-13,black women,2
 2025-10-13,eyes,2
-2025-10-13,fall,2
 2025-10-13,fashion,2
 2025-10-13,hair,2
 2025-10-13,harper,4
 2025-10-13,harper bazaar,4
-2025-10-13,look,2
-2025-10-13,makeup,2
-2025-10-13,makeup look,2
 2025-10-13,month,2
 2025-10-13,runways,4
 2025-10-13,secret,2
@@ -282,15 +288,11 @@ period,Term,Count
 2025-10-13,skincare,2
 2025-10-13,skincare trend,2
 2025-10-13,spring,4
-2025-10-13,toasty,2
-2025-10-13,toasty makeup,2
 2025-10-13,trend,2
-2025-10-13,trending,2
 2025-10-13,trends,6
 2025-10-13,trends spring,4
 2025-10-13,wear,2
 2025-10-13,winter,2
-2025-10-13,women,2
 2025-10-20,abercrombie,6
 2025-10-20,abercrombie fitch,6
 2025-10-20,according,7
@@ -326,7 +328,6 @@ period,Term,Count
 2025-10-20,big,3
 2025-10-20,biggest,1
 2025-10-20,black,29
-2025-10-20,black women,4
 2025-10-20,blush,5
 2025-10-20,blush huge,4
 2025-10-20,blush huge makeup,4
@@ -339,7 +340,6 @@ period,Term,Count
 2025-10-20,came,3
 2025-10-20,care,2
 2025-10-20,carry,3
-2025-10-20,cat,5
 2025-10-20,celebrity,5
 2025-10-20,change,2
 2025-10-20,changed,3
@@ -404,11 +404,11 @@ period,Term,Count
 2025-10-20,events,3
 2025-10-20,excited,3
 2025-10-20,experience,3
-2025-10-20,eye,9
+2025-10-20,eye,7
 2025-10-20,eyes,3
 2025-10-20,face,10
 2025-10-20,facial,7
-2025-10-20,fall,35
+2025-10-20,fall,33
 2025-10-20,fall beauty,4
 2025-10-20,family,17
 2025-10-20,fashion,12
@@ -536,7 +536,7 @@ period,Term,Count
 2025-10-20,local,3
 2025-10-20,long,10
 2025-10-20,longer,3
-2025-10-20,look,31
+2025-10-20,look,29
 2025-10-20,look like,7
 2025-10-20,looking,4
 2025-10-20,looks,12
@@ -577,7 +577,6 @@ period,Term,Count
 2025-10-20,month,3
 2025-10-20,morning,3
 2025-10-20,movie,38
-2025-10-20,nail,4
 2025-10-20,nails,11
 2025-10-20,named,3
 2025-10-20,natural,4
@@ -605,6 +604,7 @@ period,Term,Count
 2025-10-20,perfect,13
 2025-10-20,period,3
 2025-10-20,personal,3
+2025-10-20,photos,1
 2025-10-20,picks,3
 2025-10-20,piece,4
 2025-10-20,pinterest,6
@@ -632,10 +632,11 @@ period,Term,Count
 2025-10-20,rates,5
 2025-10-20,read,5
 2025-10-20,ready,8
-2025-10-20,real,10
+2025-10-20,real,8
 2025-10-20,reality,4
 2025-10-20,really,10
 2025-10-20,release,5
+2025-10-20,report,2
 2025-10-20,review,3
 2025-10-20,right,29
 2025-10-20,right strong,10
@@ -664,7 +665,6 @@ period,Term,Count
 2025-10-20,shortvideo trending,3
 2025-10-20,shows,4
 2025-10-20,sign,14
-2025-10-20,simple,5
 2025-10-20,single,4
 2025-10-20,skin,29
 2025-10-20,skin ndtv,6
@@ -789,3 +789,5 @@ period,Term,Count
 2025-10-20,york,1
 2025-10-20,youtube,5
 2025-10-20,youtubeshorts,4
+2025-10-20,zoe,2
+2025-10-20,zoe report,2
