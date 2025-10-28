@@ -33,7 +33,6 @@ period,Term,Count
 2025-09-15,shopping,4
 2025-09-15,spring,4
 2025-09-15,store,2
-2025-09-15,straight,2
 2025-09-15,summer,2
 2025-09-15,trend,2
 2025-09-15,trends,12
@@ -62,7 +61,6 @@ period,Term,Count
 2025-09-22,woman,2
 2025-09-29,autumn,4
 2025-09-29,burgundy,4
-2025-09-29,casual,2
 2025-09-29,cherie,6
 2025-09-29,cherie paris,6
 2025-09-29,cherie paris fashion,6
@@ -70,7 +68,6 @@ period,Term,Count
 2025-09-29,coucou,6
 2025-09-29,coucou cherie,6
 2025-09-29,coucou cherie paris,6
-2025-09-29,denim,2
 2025-09-29,fall,8
 2025-09-29,fashion,16
 2025-09-29,fashion week,8
@@ -80,13 +77,9 @@ period,Term,Count
 2025-09-29,girls,2
 2025-09-29,got,2
 2025-09-29,jacket,2
-2025-09-29,jeans,4
+2025-09-29,jackets,2
 2025-09-29,just,2
 2025-09-29,know,4
-2025-09-29,long,2
-2025-09-29,men,2
-2025-09-29,men fashion,2
-2025-09-29,pants,2
 2025-09-29,paris,8
 2025-09-29,paris fashion,6
 2025-09-29,paris fashion week,6
@@ -97,7 +90,6 @@ period,Term,Count
 2025-09-29,recreate vogue,6
 2025-09-29,recreate vogue coucou,3
 2025-09-29,season,2
-2025-09-29,straight,2
 2025-09-29,street,6
 2025-09-29,street style,6
 2025-09-29,street style trends,6
@@ -107,11 +99,9 @@ period,Term,Count
 2025-09-29,style trends recreate,6
 2025-09-29,stylish,2
 2025-09-29,trend,10
-2025-09-29,trend streetwear,2
 2025-09-29,trends,12
 2025-09-29,trends recreate,6
 2025-09-29,trends recreate vogue,6
-2025-09-29,trousers,2
 2025-09-29,vogue,8
 2025-09-29,vogue coucou,3
 2025-09-29,vogue coucou cherie,3
@@ -120,7 +110,10 @@ period,Term,Count
 2025-09-29,week,8
 2025-09-29,week street,6
 2025-09-29,week street style,6
-2025-09-29,woman,4
+2025-09-29,winter,2
+2025-09-29,woman,6
+2025-09-29,women,2
+2025-09-29,women fashion,2
 2025-10-06,actually,2
 2025-10-06,bazaar,4
 2025-10-06,best,4
@@ -137,6 +130,7 @@ period,Term,Count
 2025-10-06,girl,2
 2025-10-06,harper,4
 2025-10-06,harper bazaar,4
+2025-10-06,instyle,2
 2025-10-06,live,4
 2025-10-06,marie,6
 2025-10-06,marie claire,6
@@ -172,14 +166,7 @@ period,Term,Count
 2025-10-06,winter fashion,4
 2025-10-06,winter fashion trends,4
 2025-10-06,york,2
-2025-10-13,apparel,6
-2025-10-13,apparel collection,6
-2025-10-13,apparel collection launch,6
-2025-10-13,athletics,6
-2025-10-13,athletics sets,6
-2025-10-13,athletics sets new,6
-2025-10-13,collection,6
-2025-10-13,collection launch,6
+2025-10-13,collection,4
 2025-10-13,daily,2
 2025-10-13,fall,6
 2025-10-13,fall fashion,2
@@ -187,31 +174,17 @@ period,Term,Count
 2025-10-13,fashion,8
 2025-10-13,fashion trend,2
 2025-10-13,fashion trends,2
-2025-10-13,fitness,6
-2025-10-13,fitness apparel,6
-2025-10-13,fitness apparel collection,6
+2025-10-13,fitness,4
 2025-10-13,just,4
-2025-10-13,launch,6
 2025-10-13,media,2
 2025-10-13,nail,6
-2025-10-13,new,6
-2025-10-13,new trend,6
-2025-10-13,new trend streetwear,6
-2025-10-13,news,6
+2025-10-13,new,4
+2025-10-13,new trend,4
+2025-10-13,news,4
 2025-10-13,pieces,4
 2025-10-13,runway,2
-2025-10-13,sets,6
-2025-10-13,sets new,6
-2025-10-13,sets new trend,6
-2025-10-13,streetwear,8
-2025-10-13,streetwear fitness,6
-2025-10-13,streetwear fitness apparel,6
-2025-10-13,tical,6
-2025-10-13,tical athletics,6
-2025-10-13,tical athletics sets,6
-2025-10-13,trend,16
-2025-10-13,trend streetwear,6
-2025-10-13,trend streetwear fitness,6
+2025-10-13,streetwear,6
+2025-10-13,trend,14
 2025-10-13,trends,2
 2025-10-13,vocal,2
 2025-10-13,vocal media,2
@@ -223,13 +196,11 @@ period,Term,Count
 2025-10-20,american,6
 2025-10-20,aside,6
 2025-10-20,autumn,4
-2025-10-20,bag,4
-2025-10-20,bazaar,2
 2025-10-20,best,2
 2025-10-20,body,5
-2025-10-20,brand,7
+2025-10-20,brand,5
 2025-10-20,burgundy,4
-2025-10-20,buy,6
+2025-10-20,buy,4
 2025-10-20,casual,9
 2025-10-20,chic,11
 2025-10-20,chinese,2
@@ -264,7 +235,7 @@ period,Term,Count
 2025-10-20,fall fashion trend,4
 2025-10-20,fall fashion trends,2
 2025-10-20,fall trends,2
-2025-10-20,fashion,96
+2025-10-20,fashion,94
 2025-10-20,fashion fashiontrends,1
 2025-10-20,fashion outfit,1
 2025-10-20,fashion shanghai,1
@@ -293,8 +264,6 @@ period,Term,Count
 2025-10-20,got,4
 2025-10-20,guide,6
 2025-10-20,hair,6
-2025-10-20,harper,2
-2025-10-20,harper bazaar,2
 2025-10-20,high,7
 2025-10-20,home,8
 2025-10-20,hottest,5
@@ -303,7 +272,9 @@ period,Term,Count
 2025-10-20,inspiration fashiontrends,1
 2025-10-20,inspiration fashiontrends chinesestreetfashion,1
 2025-10-20,instead,8
+2025-10-20,instyle,2
 2025-10-20,jacket,3
+2025-10-20,jackets,4
 2025-10-20,jeans,3
 2025-10-20,jewelry,2
 2025-10-20,just,13
@@ -318,7 +289,7 @@ period,Term,Count
 2025-10-20,look,6
 2025-10-20,louvre,6
 2025-10-20,love,17
-2025-10-20,luxury,5
+2025-10-20,luxury,3
 2025-10-20,make,3
 2025-10-20,making,7
 2025-10-20,man,3
@@ -344,7 +315,6 @@ period,Term,Count
 2025-10-20,outfit ideas,2
 2025-10-20,outfitideas,1
 2025-10-20,outfits,3
-2025-10-20,pants,2
 2025-10-20,paris,4
 2025-10-20,paris short,1
 2025-10-20,paris short showcases,1
@@ -358,7 +328,7 @@ period,Term,Count
 2025-10-20,reader,3
 2025-10-20,real,9
 2025-10-20,recent,3
-2025-10-20,right,4
+2025-10-20,right,2
 2025-10-20,season,10
 2025-10-20,seoul,1
 2025-10-20,seoul new,1
@@ -383,7 +353,6 @@ period,Term,Count
 2025-10-20,step aside,6
 2025-10-20,step world,2
 2025-10-20,store,1
-2025-10-20,straight,2
 2025-10-20,street,11
 2025-10-20,street style,3
 2025-10-20,streetwear,18
@@ -397,7 +366,6 @@ period,Term,Count
 2025-10-20,summer,3
 2025-10-20,sustainable,4
 2025-10-20,taking,5
-2025-10-20,things,5
 2025-10-20,tips,5
 2025-10-20,today,4
 2025-10-20,tokyo,1
@@ -408,7 +376,6 @@ period,Term,Count
 2025-10-20,trending,5
 2025-10-20,trends,34
 2025-10-20,trends actually,2
-2025-10-20,trousers,1
 2025-10-20,try,6
 2025-10-20,video,5
 2025-10-20,viral,5
@@ -417,7 +384,7 @@ period,Term,Count
 2025-10-20,vogue,2
 2025-10-20,wants,7
 2025-10-20,wardrobe,5
-2025-10-20,wear,28
+2025-10-20,wear,26
 2025-10-20,wearing,6
 2025-10-20,week,8
 2025-10-20,welcome,4
@@ -426,6 +393,7 @@ period,Term,Count
 2025-10-20,woman,6
 2025-10-20,woman home,6
 2025-10-20,women,4
+2025-10-20,women fashion,1
 2025-10-20,world,5
 2025-10-20,years,6
 2025-10-20,york,8
@@ -433,7 +401,7 @@ period,Term,Count
 2025-10-20,york paris short,1
 2025-10-20,youtube,1
 2025-10-20,ytshorts,2
-2025-10-27,bag,2
+2025-10-27,autumn,2
 2025-10-27,best,5
 2025-10-27,body,5
 2025-10-27,casual,1
@@ -446,6 +414,7 @@ period,Term,Count
 2025-10-27,chinesestreetfashion experience future,2
 2025-10-27,clothing,3
 2025-10-27,collection,5
+2025-10-27,colour,2
 2025-10-27,confidence,1
 2025-10-27,daily,2
 2025-10-27,day,4
@@ -457,9 +426,9 @@ period,Term,Count
 2025-10-27,experience future,2
 2025-10-27,experience future chinese,2
 2025-10-27,expert,1
-2025-10-27,fall,3
+2025-10-27,fall,7
 2025-10-27,fall fashion,3
-2025-10-27,fashion,59
+2025-10-27,fashion,61
 2025-10-27,fashion fashiontrends,6
 2025-10-27,fashion outfit,2
 2025-10-27,fashion shanghai,2
@@ -475,20 +444,23 @@ period,Term,Count
 2025-10-27,future,2
 2025-10-27,future chinese,2
 2025-10-27,future chinese fashion,2
-2025-10-27,girls,7
+2025-10-27,girls,9
 2025-10-27,good,1
 2025-10-27,guide,2
 2025-10-27,high,1
+2025-10-27,home,2
 2025-10-27,ideas,2
 2025-10-27,inspiration,3
 2025-10-27,inspiration fashiontrends,2
 2025-10-27,inspiration fashiontrends chinesestreetfashion,2
+2025-10-27,instyle,2
 2025-10-27,jeans,1
 2025-10-27,jewelry,1
-2025-10-27,just,2
+2025-10-27,just,4
 2025-10-27,know,2
 2025-10-27,latest,4
 2025-10-27,level,1
+2025-10-27,like,2
 2025-10-27,long,1
 2025-10-27,look,2
 2025-10-27,love,6
@@ -513,15 +485,16 @@ period,Term,Count
 2025-10-27,outfit ideas,2
 2025-10-27,outfitideas,4
 2025-10-27,outfits,4
-2025-10-27,pants,2
-2025-10-27,paris,2
+2025-10-27,paris,4
 2025-10-27,paris short,2
 2025-10-27,paris short showcases,2
-2025-10-27,people,2
+2025-10-27,party,4
+2025-10-27,people,4
+2025-10-27,perfect,2
 2025-10-27,pink,2
 2025-10-27,pioneer,1
 2025-10-27,report,2
-2025-10-27,season,3
+2025-10-27,season,5
 2025-10-27,seoul,2
 2025-10-27,seoul new,2
 2025-10-27,seoul new york,2
@@ -554,10 +527,9 @@ period,Term,Count
 2025-10-27,tokyo,2
 2025-10-27,tokyo seoul,2
 2025-10-27,tokyo seoul new,2
-2025-10-27,trend,1
+2025-10-27,trend,3
 2025-10-27,trending,8
 2025-10-27,trends,5
-2025-10-27,trousers,1
 2025-10-27,video,4
 2025-10-27,viral,8
 2025-10-27,viral streetwear,2
@@ -566,8 +538,11 @@ period,Term,Count
 2025-10-27,wear,8
 2025-10-27,week,1
 2025-10-27,welcome,2
-2025-10-27,woman,1
+2025-10-27,winter,2
+2025-10-27,woman,3
+2025-10-27,woman home,2
 2025-10-27,women,2
+2025-10-27,women fashion,1
 2025-10-27,world,3
 2025-10-27,years,3
 2025-10-27,york,2
