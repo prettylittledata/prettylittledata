@@ -1,10 +1,7 @@
 period,Term,Count
-2025-09-15,bazaar,2
 2025-09-15,fashion,2
 2025-09-15,fashion trends,2
-2025-09-15,harper,2
-2025-09-15,harper bazaar,2
-2025-09-15,harpersbazaar,2
+2025-09-15,harpersbazaar,4
 2025-09-15,know,2
 2025-09-15,runway,4
 2025-09-15,spring,4
@@ -25,24 +22,17 @@ period,Term,Count
 2025-09-29,according,4
 2025-09-29,autumn,2
 2025-09-29,burgundy,4
-2025-09-29,casual,2
 2025-09-29,colour,2
-2025-09-29,denim,2
 2025-09-29,designer,2
-2025-09-29,fall,8
-2025-09-29,fashion,16
+2025-09-29,fall,10
+2025-09-29,fashion,14
 2025-09-29,fashion week,8
 2025-09-29,girl,4
 2025-09-29,girl fashion,4
 2025-09-29,girls,2
 2025-09-29,got,2
-2025-09-29,jeans,4
 2025-09-29,just,2
 2025-09-29,know,2
-2025-09-29,long,2
-2025-09-29,men,2
-2025-09-29,men fashion,2
-2025-09-29,pants,2
 2025-09-29,paris,6
 2025-09-29,paris fashion,4
 2025-09-29,paris fashion week,4
@@ -51,24 +41,20 @@ period,Term,Count
 2025-09-29,street,6
 2025-09-29,street style,6
 2025-09-29,street style trends,6
-2025-09-29,streetwear,2
 2025-09-29,style,6
 2025-09-29,style trends,6
 2025-09-29,styles,2
 2025-09-29,stylish,2
 2025-09-29,stylists,4
-2025-09-29,sun,2
 2025-09-29,trend,12
-2025-09-29,trend streetwear,2
 2025-09-29,trends,8
 2025-09-29,vogue,4
-2025-09-29,wear,16
+2025-09-29,wear,18
 2025-09-29,wear fall,4
 2025-09-29,wearing,2
 2025-09-29,week,8
 2025-09-29,woman,4
 2025-10-06,actually,4
-2025-10-06,bazaar,2
 2025-10-06,best,4
 2025-10-06,burgundy,4
 2025-10-06,chat,4
@@ -78,15 +64,13 @@ period,Term,Count
 2025-10-06,fall fashion,6
 2025-10-06,fall fashion trend,2
 2025-10-06,fall trends,4
-2025-10-06,fashion,22
-2025-10-06,fashion trend,4
+2025-10-06,fashion,20
+2025-10-06,fashion trend,2
 2025-10-06,fashion trends,12
 2025-10-06,fashion week,2
 2025-10-06,girls,4
 2025-10-06,got,2
-2025-10-06,harper,2
-2025-10-06,harper bazaar,2
-2025-10-06,harpersbazaar,2
+2025-10-06,harpersbazaar,4
 2025-10-06,instyle,2
 2025-10-06,just,2
 2025-10-06,know,2
@@ -115,7 +99,7 @@ period,Term,Count
 2025-10-06,summer,2
 2025-10-06,talking,2
 2025-10-06,tips,2
-2025-10-06,trend,10
+2025-10-06,trend,8
 2025-10-06,trends,24
 2025-10-06,trends shop,4
 2025-10-06,try,4
@@ -136,7 +120,6 @@ period,Term,Count
 2025-10-13,athletics,6
 2025-10-13,athletics sets,6
 2025-10-13,athletics sets new,6
-2025-10-13,bazaar,2
 2025-10-13,collection,6
 2025-10-13,collection launch,6
 2025-10-13,daily,2
@@ -150,8 +133,7 @@ period,Term,Count
 2025-10-13,fitness,6
 2025-10-13,fitness apparel,6
 2025-10-13,fitness apparel collection,6
-2025-10-13,harper,2
-2025-10-13,harper bazaar,2
+2025-10-13,harpersbazaar,2
 2025-10-13,inspired,4
 2025-10-13,just,2
 2025-10-13,launch,6
@@ -196,13 +178,11 @@ period,Term,Count
 2025-10-13,western,6
 2025-10-13,yahoo,2
 2025-10-20,amazon,2
-2025-10-20,american,2
 2025-10-20,brands,1
 2025-10-20,casual,2
 2025-10-20,chic,1
 2025-10-20,clothes,4
 2025-10-20,colour,2
-2025-10-20,denim,2
 2025-10-20,fall,6
 2025-10-20,fall fashion,4
 2025-10-20,fall fashion trend,4
@@ -247,7 +227,6 @@ period,Term,Count
 2025-10-20,stylish,2
 2025-10-20,stylist,2
 2025-10-20,summer,2
-2025-10-20,sun,2
 2025-10-20,talking,1
 2025-10-20,today,4
 2025-10-20,trend,8
@@ -264,11 +243,10 @@ period,Term,Count
 2025-10-20,winter,2
 2025-10-20,women,2
 2025-10-20,world,1
-2025-10-20,years,2
+2025-10-20,years,1
 2025-10-27,according,2
 2025-10-27,actually,2
 2025-10-27,amazon,4
-2025-10-27,american,1
 2025-10-27,autumn,6
 2025-10-27,autumn winter,6
 2025-10-27,bag,6
@@ -295,18 +273,19 @@ period,Term,Count
 2025-10-27,chinesefashion,3
 2025-10-27,chinesefashion experience,3
 2025-10-27,chinesefashion experience rise,3
-2025-10-27,claire,20
+2025-10-27,claire,22
 2025-10-27,clothes,2
 2025-10-27,clothing,8
 2025-10-27,club,4
+2025-10-27,coat,6
+2025-10-27,coat trends,6
 2025-10-27,collaboration,4
 2025-10-27,collection,9
 2025-10-27,color,2
-2025-10-27,colour,4
+2025-10-27,colour,6
 2025-10-27,comment,4
 2025-10-27,cosmopolitan,14
 2025-10-27,daily,3
-2025-10-27,denim,2
 2025-10-27,designer,4
 2025-10-27,designs,4
 2025-10-27,designs shanghai,3
@@ -333,7 +312,7 @@ period,Term,Count
 2025-10-27,fashiontrends,51
 2025-10-27,fashiontrends chinesefashion,3
 2025-10-27,fashiontrends chinesefashion experience,3
-2025-10-27,girl,4
+2025-10-27,girl,6
 2025-10-27,girl fashion,1
 2025-10-27,girls,4
 2025-10-27,glamour,2
@@ -349,7 +328,7 @@ period,Term,Count
 2025-10-27,halloween,9
 2025-10-27,harpersbazaar,8
 2025-10-27,haul,9
-2025-10-27,high,3
+2025-10-27,high,4
 2025-10-27,hoodies,10
 2025-10-27,hottest,3
 2025-10-27,ideas,10
@@ -376,8 +355,8 @@ period,Term,Count
 2025-10-27,love,13
 2025-10-27,magazine,6
 2025-10-27,making,3
-2025-10-27,marie,20
-2025-10-27,marie claire,20
+2025-10-27,marie,22
+2025-10-27,marie claire,22
 2025-10-27,market,11
 2025-10-27,meesho,4
 2025-10-27,men,37
@@ -387,10 +366,9 @@ period,Term,Count
 2025-10-27,menswear,2
 2025-10-27,met,1
 2025-10-27,model,7
-2025-10-27,modern,4
+2025-10-27,modern,5
 2025-10-27,needs,4
-2025-10-27,new,40
-2025-10-27,new trend,2
+2025-10-27,new,36
 2025-10-27,new york,4
 2025-10-27,news,10
 2025-10-27,obsession,2
@@ -409,7 +387,7 @@ period,Term,Count
 2025-10-27,red,2
 2025-10-27,reels,5
 2025-10-27,report,2
-2025-10-27,right,2
+2025-10-27,right,4
 2025-10-27,rise,3
 2025-10-27,rise chinese,3
 2025-10-27,rise chinese streetwear,3
@@ -455,19 +433,19 @@ period,Term,Count
 2025-10-27,style inspiration fashiontrends,3
 2025-10-27,style trends,3
 2025-10-27,styles,6
+2025-10-27,styling,6
 2025-10-27,stylish,13
 2025-10-27,stylist,6
 2025-10-27,stylists,2
 2025-10-27,subscribe,3
-2025-10-27,summer,2
-2025-10-27,sun,2
+2025-10-27,summer,4
 2025-10-27,talking,1
 2025-10-27,tips,3
-2025-10-27,trend,39
+2025-10-27,trend,37
 2025-10-27,trending,20
 2025-10-27,trending shorts,6
 2025-10-27,trendingshorts,6
-2025-10-27,trends,43
+2025-10-27,trends,47
 2025-10-27,trends shop,2
 2025-10-27,trendy,7
 2025-10-27,try,2
