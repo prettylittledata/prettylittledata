@@ -31,9 +31,10 @@ period,Term,Count
 2025-09-15,summer,2
 2025-09-15,think,2
 2025-09-15,tired,2
+2025-09-15,toasty,4
+2025-09-15,toasty makeup,4
 2025-09-15,trend,12
 2025-09-15,trend beauty,2
-2025-09-15,trend newbeauty,2
 2025-09-15,trends,8
 2025-09-15,vogue,2
 2025-09-15,warm,4
@@ -47,76 +48,65 @@ period,Term,Count
 2025-09-22,beauty trends,4
 2025-09-22,biggest,4
 2025-09-22,biggest beauty,4
-2025-09-22,cosmopolitan,2
 2025-09-22,elle,4
-2025-09-22,fall,6
-2025-09-22,fall cosmopolitan,2
-2025-09-22,fall makeup,4
+2025-09-22,fall,4
 2025-09-22,gen,4
 2025-09-22,gen obsessed,4
 2025-09-22,girl,4
-2025-09-22,glam,4
+2025-09-22,glam,2
 2025-09-22,just,4
-2025-09-22,makeup,16
-2025-09-22,makeup trend,14
-2025-09-22,new,2
-2025-09-22,newbeauty,4
+2025-09-22,makeup,12
+2025-09-22,makeup trend,12
+2025-09-22,newbeauty,2
 2025-09-22,nyfw,4
 2025-09-22,obsessed,4
-2025-09-22,report,4
 2025-09-22,skincare,2
 2025-09-22,spring,4
 2025-09-22,thing,4
-2025-09-22,tiktok,2
 2025-09-22,tired,4
-2025-09-22,trend,16
+2025-09-22,trend,12
 2025-09-22,trend gen,4
 2025-09-22,trend gen obsessed,4
-2025-09-22,trend newbeauty,4
 2025-09-22,trends,6
 2025-09-22,try,2
 2025-09-22,vogue,4
 2025-09-29,add,4
-2025-09-29,allure,2
-2025-09-29,antoinette,2
-2025-09-29,antoinette blush,2
-2025-09-29,bare,6
+2025-09-29,antoinette,4
+2025-09-29,antoinette blush,4
+2025-09-29,bare,4
 2025-09-29,bazaar,2
 2025-09-29,beauty,16
-2025-09-29,beauty trend,12
-2025-09-29,beauty trends,4
+2025-09-29,beauty trend,14
+2025-09-29,beauty trends,2
 2025-09-29,best,2
 2025-09-29,better,2
 2025-09-29,biggest,2
 2025-09-29,biggest beauty,2
 2025-09-29,biggest beauty trend,2
-2025-09-29,blush,2
+2025-09-29,blush,4
 2025-09-29,bold,2
+2025-09-29,claire,2
 2025-09-29,club,2
-2025-09-29,cosmopolitan,4
 2025-09-29,defining,4
 2025-09-29,dermatologists,2
 2025-09-29,did,4
-2025-09-29,eyeshadow,4
 2025-09-29,face,4
-2025-09-29,fall,10
-2025-09-29,fall cosmopolitan,4
-2025-09-29,glamour,2
+2025-09-29,fall,8
+2025-09-29,glamour,4
 2025-09-29,good,2
-2025-09-29,goodbye,4
 2025-09-29,harper,2
 2025-09-29,harper bazaar,2
 2025-09-29,jelly,4
 2025-09-29,know,2
 2025-09-29,look,4
-2025-09-29,looks,4
+2025-09-29,looks,2
 2025-09-29,make,2
 2025-09-29,makes,2
-2025-09-29,makeup,4
-2025-09-29,makeup looks,2
-2025-09-29,marie,4
-2025-09-29,marie antoinette,2
-2025-09-29,marie antoinette blush,2
+2025-09-29,makeup,2
+2025-09-29,marie,6
+2025-09-29,marie antoinette,4
+2025-09-29,marie antoinette blush,4
+2025-09-29,marie claire,2
 2025-09-29,need,6
 2025-09-29,newbeauty,4
 2025-09-29,nss,2
@@ -126,18 +116,18 @@ period,Term,Count
 2025-09-29,season,2
 2025-09-29,skincare,4
 2025-09-29,skincare trend,2
-2025-09-29,trend,16
-2025-09-29,trends,6
-2025-09-29,try,4
+2025-09-29,trend,18
+2025-09-29,trends,4
+2025-09-29,try,6
 2025-09-29,vogue,4
-2025-09-29,wearing,4
+2025-09-29,wearing,2
 2025-09-29,winter,2
 2025-09-29,year,2
 2025-09-29,years,4
-2025-10-06,allure,2
 2025-10-06,arabia,2
+2025-10-06,artists,2
 2025-10-06,bazaar,6
-2025-10-06,beauty,38
+2025-10-06,beauty,36
 2025-10-06,beauty trend,14
 2025-10-06,beauty trend fashion,6
 2025-10-06,beauty trends,8
@@ -146,7 +136,7 @@ period,Term,Count
 2025-10-06,book season,3
 2025-10-06,book season hottest,3
 2025-10-06,bustle,2
-2025-10-06,care,4
+2025-10-06,care,2
 2025-10-06,change,4
 2025-10-06,clean,2
 2025-10-06,club,4
@@ -161,7 +151,7 @@ period,Term,Count
 2025-10-06,gen,4
 2025-10-06,gen obsessed,4
 2025-10-06,glamour,2
-2025-10-06,global,4
+2025-10-06,global,2
 2025-10-06,hair,2
 2025-10-06,harmful,4
 2025-10-06,harper,6
@@ -174,27 +164,31 @@ period,Term,Count
 2025-10-06,india,4
 2025-10-06,look,2
 2025-10-06,makeup,10
+2025-10-06,makeup artists,2
 2025-10-06,makeup trend,8
-2025-10-06,making,2
 2025-10-06,natural,2
 2025-10-06,nss,4
 2025-10-06,nss club,4
 2025-10-06,obsessed,4
+2025-10-06,parade,2
 2025-10-06,perfect,2
-2025-10-06,personal,4
+2025-10-06,personal,2
 2025-10-06,products,2
 2025-10-06,season,8
 2025-10-06,season hottest,6
 2025-10-06,season hottest beauty,6
 2025-10-06,shopping,2
 2025-10-06,shows,2
+2025-10-06,skin,2
 2025-10-06,skincare,2
 2025-10-06,skincare trend,2
 2025-10-06,spend,2
 2025-10-06,spooky,2
 2025-10-06,spring,2
 2025-10-06,standards,4
+2025-10-06,stop,2
 2025-10-06,summer,2
+2025-10-06,talking,2
 2025-10-06,tiktok,6
 2025-10-06,toasted,4
 2025-10-06,trend,24
@@ -203,7 +197,7 @@ period,Term,Count
 2025-10-06,trend fashion book,6
 2025-10-06,trend gen,4
 2025-10-06,trend gen obsessed,4
-2025-10-06,trends,10
+2025-10-06,trends,8
 2025-10-06,viral,2
 2025-10-06,vogue,4
 2025-10-06,vogue beauty,2
@@ -211,41 +205,69 @@ period,Term,Count
 2025-10-06,wear,6
 2025-10-06,week,4
 2025-10-13,according,6
-2025-10-13,allure,2
+2025-10-13,artists,2
 2025-10-13,bazaar,4
 2025-10-13,beauty,10
 2025-10-13,beauty trends,8
 2025-10-13,best,4
+2025-10-13,black,2
+2025-10-13,black women,2
 2025-10-13,celebrity,2
+2025-10-13,celebrity makeup,2
+2025-10-13,claire,2
 2025-10-13,eyes,4
-2025-10-13,fall,2
-2025-10-13,fall makeup,2
+2025-10-13,fall,4
 2025-10-13,fashion,4
 2025-10-13,gentle,2
 2025-10-13,hair,4
 2025-10-13,harper,4
 2025-10-13,harper bazaar,4
+2025-10-13,keeping,2
+2025-10-13,look,2
 2025-10-13,looks,2
+2025-10-13,looks according,2
 2025-10-13,major,4
-2025-10-13,makeup,6
+2025-10-13,makeup,8
+2025-10-13,makeup artists,2
+2025-10-13,makeup look,2
 2025-10-13,makeup looks,2
+2025-10-13,makeup looks according,2
+2025-10-13,marie,2
+2025-10-13,marie claire,2
 2025-10-13,month,4
+2025-10-13,parade,2
+2025-10-13,quiet,2
 2025-10-13,runways,4
 2025-10-13,set,4
 2025-10-13,skincare,2
 2025-10-13,skincare trend,2
 2025-10-13,spring,4
+2025-10-13,toasty,2
+2025-10-13,toasty makeup,2
 2025-10-13,trend,2
+2025-10-13,trending,2
 2025-10-13,trends,8
 2025-10-13,wear,6
-2025-10-20,beauty,6
-2025-10-20,beauty trend,6
+2025-10-13,women,2
+2025-10-20,according,2
+2025-10-20,artist,2
+2025-10-20,beauty,4
+2025-10-20,beauty trend,4
+2025-10-20,best,2
+2025-10-20,celebrity,2
+2025-10-20,celebrity makeup,2
 2025-10-20,dermatologists,4
 2025-10-20,glowy,4
 2025-10-20,goes,2
-2025-10-20,makeup,4
+2025-10-20,looks,2
+2025-10-20,looks according,2
+2025-10-20,makeup,8
+2025-10-20,makeup artist,2
+2025-10-20,makeup looks,2
+2025-10-20,makeup looks according,2
 2025-10-20,news,4
 2025-10-20,officially,4
+2025-10-20,parade,2
 2025-10-20,right,2
 2025-10-20,shop,4
 2025-10-20,skin,2
@@ -253,11 +275,10 @@ period,Term,Count
 2025-10-20,skincare trend,6
 2025-10-20,slugging,4
 2025-10-20,tiktok,2
-2025-10-20,trend,12
+2025-10-20,trend,10
 2025-10-20,trying,2
 2025-10-20,type,2
 2025-10-20,viral,2
-2025-10-20,vogue,4
 2025-10-20,works,2
 2025-10-20,worth,2
 2025-10-27,according,5
@@ -267,7 +288,6 @@ period,Term,Count
 2025-10-27,ahead,5
 2025-10-27,align,6
 2025-10-27,allowed,5
-2025-10-27,allure,1
 2025-10-27,ancestral,4
 2025-10-27,antoinette,4
 2025-10-27,antoinette blush,4
@@ -275,6 +295,7 @@ period,Term,Count
 2025-10-27,aren,5
 2025-10-27,art,6
 2025-10-27,artist,6
+2025-10-27,artists,2
 2025-10-27,ask,7
 2025-10-27,asked,6
 2025-10-27,asking,6
@@ -308,6 +329,7 @@ period,Term,Count
 2025-10-27,bit,5
 2025-10-27,bizarre,4
 2025-10-27,black,21
+2025-10-27,black women,3
 2025-10-27,blue,3
 2025-10-27,blush,14
 2025-10-27,bold,7
@@ -327,6 +349,7 @@ period,Term,Count
 2025-10-27,calling,7
 2025-10-27,care,4
 2025-10-27,celebrity,5
+2025-10-27,celebrity makeup,2
 2025-10-27,center,4
 2025-10-27,change,4
 2025-10-27,changed,4
@@ -335,6 +358,7 @@ period,Term,Count
 2025-10-27,child,5
 2025-10-27,choose,5
 2025-10-27,circles,3
+2025-10-27,claire,2
 2025-10-27,class,8
 2025-10-27,classic,9
 2025-10-27,clean,3
@@ -413,7 +437,6 @@ period,Term,Count
 2025-10-27,extra,14
 2025-10-27,eye,6
 2025-10-27,eyes,2
-2025-10-27,eyeshadow,1
 2025-10-27,face,12
 2025-10-27,fall,20
 2025-10-27,fallen,3
@@ -461,7 +484,6 @@ period,Term,Count
 2025-10-27,goes,7
 2025-10-27,going,14
 2025-10-27,good,17
-2025-10-27,goodbye,1
 2025-10-27,goodness,10
 2025-10-27,goodness right,10
 2025-10-27,goodness right strong,10
@@ -516,6 +538,7 @@ period,Term,Count
 2025-10-27,job,3
 2025-10-27,journey,10
 2025-10-27,just,82
+2025-10-27,keeping,2
 2025-10-27,keeps,4
 2025-10-27,kick,4
 2025-10-27,knit,6
@@ -553,6 +576,7 @@ period,Term,Count
 2025-10-27,look perfect,6
 2025-10-27,looking,6
 2025-10-27,looks,13
+2025-10-27,looks according,2
 2025-10-27,love,44
 2025-10-27,loved,7
 2025-10-27,luxe,6
@@ -563,11 +587,14 @@ period,Term,Count
 2025-10-27,make,21
 2025-10-27,makes,5
 2025-10-27,makeup,87
+2025-10-27,makeup artist,4
+2025-10-27,makeup artists,2
 2025-10-27,makeup beauty,5
 2025-10-27,makeup hack,4
 2025-10-27,makeup halloween,3
 2025-10-27,makeup look,11
 2025-10-27,makeup looks,5
+2025-10-27,makeup looks according,2
 2025-10-27,makeup makeuptransformation,3
 2025-10-27,makeup makeuptransformation powerofmakeup,3
 2025-10-27,makeup trend,15
@@ -585,6 +612,7 @@ period,Term,Count
 2025-10-27,marie,6
 2025-10-27,marie antoinette,4
 2025-10-27,marie antoinette blush,4
+2025-10-27,marie claire,2
 2025-10-27,matters,3
 2025-10-27,maybe,24
 2025-10-27,mean,7
@@ -635,6 +663,7 @@ period,Term,Count
 2025-10-27,order,3
 2025-10-27,outfit,4
 2025-10-27,pair,16
+2025-10-27,parade,2
 2025-10-27,parts,3
 2025-10-27,party,3
 2025-10-27,passion,6
@@ -669,6 +698,7 @@ period,Term,Count
 2025-10-27,pull,18
 2025-10-27,pulling,3
 2025-10-27,push,4
+2025-10-27,quiet,2
 2025-10-27,rare,7
 2025-10-27,reach,6
 2025-10-27,reaching,3
@@ -684,7 +714,6 @@ period,Term,Count
 2025-10-27,rel noreferrer noopener,11
 2025-10-27,release,9
 2025-10-27,remember,12
-2025-10-27,report,1
 2025-10-27,represents,5
 2025-10-27,rest,13
 2025-10-27,retreat,3
