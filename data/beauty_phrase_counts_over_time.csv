@@ -11,40 +11,36 @@ period,Term,Count
 2025-09-15,trend,4
 2025-09-15,warm,4
 2025-09-15,welcome,4
-2025-09-22,arabia,6
 2025-09-22,beauty,4
 2025-09-22,beauty trends,4
 2025-09-22,biggest,4
 2025-09-22,biggest beauty,4
 2025-09-22,biggest beauty trends,4
 2025-09-22,elle,4
-2025-09-22,fall,4
-2025-09-22,fall makeup,2
-2025-09-22,fall makeup trend,2
+2025-09-22,fall,6
+2025-09-22,fall makeup,4
+2025-09-22,fall makeup trend,4
 2025-09-22,gen,4
 2025-09-22,gen obsessed,4
-2025-09-22,glam,2
+2025-09-22,glam,4
 2025-09-22,just,4
+2025-09-22,kit,4
 2025-09-22,makeup,14
 2025-09-22,makeup trend,14
 2025-09-22,newbeauty,2
 2025-09-22,obsessed,4
-2025-09-22,report,2
+2025-09-22,report,4
 2025-09-22,skincare,2
 2025-09-22,spring,4
 2025-09-22,thing,4
-2025-09-22,toasty,2
-2025-09-22,toasty makeup,2
 2025-09-22,trend,14
 2025-09-22,trend gen,4
 2025-09-22,trend gen obsessed,4
 2025-09-22,trends,6
 2025-09-22,try,2
-2025-09-22,vogue,6
-2025-09-22,vogue arabia,6
-2025-09-22,warm,2
-2025-09-22,zoe,2
-2025-09-22,zoe report,2
+2025-09-22,vogue,4
+2025-09-22,zoe,4
+2025-09-22,zoe report,4
 2025-09-29,add,4
 2025-09-29,asap,4
 2025-09-29,bazaar,2
@@ -100,9 +96,9 @@ period,Term,Count
 2025-10-06,bazaar,2
 2025-10-06,beauty,34
 2025-10-06,beauty products,2
-2025-10-06,beauty trend,12
+2025-10-06,beauty trend,14
 2025-10-06,beauty trend fashion,6
-2025-10-06,beauty trends,10
+2025-10-06,beauty trends,8
 2025-10-06,biggest,2
 2025-10-06,biggest beauty,2
 2025-10-06,biggest beauty trends,2
@@ -118,7 +114,7 @@ period,Term,Count
 2025-10-06,express,2
 2025-10-06,eyes,2
 2025-10-06,fall,6
-2025-10-06,fashion,12
+2025-10-06,fashion,10
 2025-10-06,fashion book,6
 2025-10-06,fashion book season,3
 2025-10-06,fashion month,2
@@ -134,6 +130,7 @@ period,Term,Count
 2025-10-06,iconic,2
 2025-10-06,london,4
 2025-10-06,look,2
+2025-10-06,loved,2
 2025-10-06,makeup,8
 2025-10-06,makeup trend,8
 2025-10-06,month,2
@@ -141,7 +138,6 @@ period,Term,Count
 2025-10-06,nss,4
 2025-10-06,nss club,4
 2025-10-06,obsessed,4
-2025-10-06,paris,4
 2025-10-06,perfect,2
 2025-10-06,products,2
 2025-10-06,season,8
@@ -156,19 +152,19 @@ period,Term,Count
 2025-10-06,summer,2
 2025-10-06,tiktok,6
 2025-10-06,toasted,4
-2025-10-06,trend,22
+2025-10-06,trend,24
 2025-10-06,trend fashion,6
 2025-10-06,trend fashion book,6
 2025-10-06,trend gen,4
 2025-10-06,trend gen obsessed,4
-2025-10-06,trends,10
+2025-10-06,trends,8
 2025-10-06,viral,2
-2025-10-06,vogue,4
+2025-10-06,vogue,2
 2025-10-06,watch,2
 2025-10-06,watercolor,2
 2025-10-06,watercolor eyes,2
 2025-10-06,wear,6
-2025-10-06,week,4
+2025-10-06,week,2
 2025-10-13,according,6
 2025-10-13,achieve,2
 2025-10-13,artists,2
@@ -178,10 +174,12 @@ period,Term,Count
 2025-10-13,best,4
 2025-10-13,best beauty,4
 2025-10-13,black,2
+2025-10-13,care,2
 2025-10-13,celebrity,2
 2025-10-13,celebrity makeup,2
 2025-10-13,claire,2
 2025-10-13,essence,2
+2025-10-13,experts,2
 2025-10-13,eyes,4
 2025-10-13,fall,4
 2025-10-13,fall makeup,2
@@ -207,8 +205,10 @@ period,Term,Count
 2025-10-13,red,2
 2025-10-13,red wine,2
 2025-10-13,runways,4
+2025-10-13,say,2
 2025-10-13,season,2
 2025-10-13,set,4
+2025-10-13,skin,2
 2025-10-13,skincare,2
 2025-10-13,skincare trend,2
 2025-10-13,spring,4
@@ -217,7 +217,8 @@ period,Term,Count
 2025-10-13,toasty makeup,2
 2025-10-13,trend,2
 2025-10-13,trending,2
-2025-10-13,trends,8
+2025-10-13,trends,10
+2025-10-13,viral,2
 2025-10-13,watercolor,4
 2025-10-13,watercolor eyes,4
 2025-10-13,wear,6
@@ -225,10 +226,13 @@ period,Term,Count
 2025-10-13,women,2
 2025-10-20,according,2
 2025-10-20,artist,2
-2025-10-20,beauty,10
-2025-10-20,beauty trend,10
+2025-10-20,beauty,12
+2025-10-20,beauty trend,12
+2025-10-20,beauty trend tracker,6
 2025-10-20,best,2
-2025-10-20,business,4
+2025-10-20,business,6
+2025-10-20,business beauty,6
+2025-10-20,business beauty trend,6
 2025-10-20,celebrity,2
 2025-10-20,celebrity makeup,2
 2025-10-20,dermatologist,2
@@ -257,9 +261,18 @@ period,Term,Count
 2025-10-20,skincare trend,6
 2025-10-20,slugging,4
 2025-10-20,tiktok,2
-2025-10-20,trend,16
+2025-10-20,tracker,6
+2025-10-20,tracker vogue,6
+2025-10-20,tracker vogue vogue,3
+2025-10-20,trend,18
+2025-10-20,trend tracker,6
+2025-10-20,trend tracker vogue,6
 2025-10-20,viral,2
-2025-10-20,vogue,8
+2025-10-20,vogue,12
+2025-10-20,vogue business,6
+2025-10-20,vogue business beauty,6
+2025-10-20,vogue vogue,3
+2025-10-20,vogue vogue business,3
 2025-10-20,works,2
 2025-10-20,worth,2
 2025-10-27,according,6
@@ -480,6 +493,7 @@ period,Term,Count
 2025-11-03,charm,5
 2025-11-03,chic,3
 2025-11-03,choose,4
+2025-11-03,claire,2
 2025-11-03,clear,3
 2025-11-03,club,1
 2025-11-03,code,7
@@ -536,6 +550,7 @@ period,Term,Count
 2025-11-03,edition,10
 2025-11-03,editor,5
 2025-11-03,editorial,5
+2025-11-03,elegant,4
 2025-11-03,elle,2
 2025-11-03,end,3
 2025-11-03,essence,2
@@ -605,7 +620,7 @@ period,Term,Count
 2025-11-03,gift set available,6
 2025-11-03,gift sets,4
 2025-11-03,gifting,6
-2025-11-03,girls,4
+2025-11-03,girls,6
 2025-11-03,gives,2
 2025-11-03,glam,7
 2025-11-03,glamour,1
@@ -731,6 +746,8 @@ period,Term,Count
 2025-11-03,makeup trend,14
 2025-11-03,makeupideas,3
 2025-11-03,making,10
+2025-11-03,marie,2
+2025-11-03,marie claire,2
 2025-11-03,mask,7
 2025-11-03,massage,4
 2025-11-03,mean,3
@@ -743,7 +760,7 @@ period,Term,Count
 2025-11-03,moment,4
 2025-11-03,month,3
 2025-11-03,morning,5
-2025-11-03,nail,6
+2025-11-03,nail,8
 2025-11-03,natural,6
 2025-11-03,naturalbeauty,2
 2025-11-03,naturalbeauty hairtreatment,2
@@ -767,7 +784,6 @@ period,Term,Count
 2025-11-03,pack,11
 2025-11-03,packed,8
 2025-11-03,pants,8
-2025-11-03,paris,1
 2025-11-03,pencils,4
 2025-11-03,people,18
 2025-11-03,people strong,4
@@ -806,6 +822,7 @@ period,Term,Count
 2025-11-03,right strong best,3
 2025-11-03,room,3
 2025-11-03,routine,5
+2025-11-03,say,4
 2025-11-03,season,14
 2025-11-03,secret,11
 2025-11-03,seen,4
@@ -826,6 +843,7 @@ period,Term,Count
 2025-11-03,shop,41
 2025-11-03,shop strong,34
 2025-11-03,shopping,6
+2025-11-03,short,4
 2025-11-03,shorts,23
 2025-11-03,shortsfeed,4
 2025-11-03,shortvideo,7
@@ -972,7 +990,7 @@ period,Term,Count
 2025-11-03,width figcaption kiehl,3
 2025-11-03,width figcaption voluspa,3
 2025-11-03,wine,8
-2025-11-03,winter,4
+2025-11-03,winter,6
 2025-11-03,wish,5
 2025-11-03,women,1
 2025-11-03,won,5
