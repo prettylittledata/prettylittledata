@@ -83,6 +83,7 @@ period,Term,Count
 2025-09-29,latest,2
 2025-09-29,leave,4
 2025-09-29,living,8
+2025-09-29,living home,1
 2025-09-29,look,2
 2025-09-29,make,2
 2025-09-29,make small,2
@@ -94,6 +95,7 @@ period,Term,Count
 2025-09-29,small apartment,2
 2025-09-29,southern,8
 2025-09-29,southern living,8
+2025-09-29,southern living home,1
 2025-09-29,spruce,4
 2025-09-29,style,2
 2025-09-29,trend,4
@@ -174,7 +176,6 @@ period,Term,Count
 2025-10-13,gen,4
 2025-10-13,good,8
 2025-10-13,good housekeeping,8
-2025-10-13,good housekeeping verdict,2
 2025-10-13,heritage,4
 2025-10-13,home,22
 2025-10-13,home according,2
@@ -188,7 +189,6 @@ period,Term,Count
 2025-10-13,house beautiful,4
 2025-10-13,house beautiful designers,2
 2025-10-13,housekeeping,8
-2025-10-13,housekeeping verdict,2
 2025-10-13,instead,2
 2025-10-13,interior,10
 2025-10-13,interior designers,10
@@ -219,7 +219,6 @@ period,Term,Count
 2025-10-13,trends,24
 2025-10-13,truly,4
 2025-10-13,unexpected,2
-2025-10-13,verdict,4
 2025-10-13,want,4
 2025-10-13,won,4
 2025-10-13,year,4
@@ -346,6 +345,7 @@ period,Term,Count
 2025-10-27,interior designers,2
 2025-10-27,living,2
 2025-10-27,luxury,2
+2025-10-27,making,2
 2025-10-27,marthastewart,2
 2025-10-27,modern,2
 2025-10-27,needs,2
@@ -380,8 +380,8 @@ period,Term,Count
 2025-10-27,trying,2
 2025-10-27,wall,2
 2025-10-27,warn,2
-2025-11-03,according,8
-2025-11-03,according designers,6
+2025-11-03,according,10
+2025-11-03,according designers,8
 2025-11-03,according interior,2
 2025-11-03,according interior designers,2
 2025-11-03,align,10
@@ -396,8 +396,8 @@ period,Term,Count
 2025-11-03,apartment feel spacious,3
 2025-11-03,apartments,4
 2025-11-03,architects,12
-2025-11-03,architectural,9
-2025-11-03,architectural digest,6
+2025-11-03,architectural,7
+2025-11-03,architectural digest,4
 2025-11-03,architecture,24
 2025-11-03,area,4
 2025-11-03,art,14
@@ -406,7 +406,7 @@ period,Term,Count
 2025-11-03,attachment post thumbnail,10
 2025-11-03,autumn,2
 2025-11-03,bathroom,11
-2025-11-03,beautiful,18
+2025-11-03,beautiful,20
 2025-11-03,bedroom,10
 2025-11-03,best,20
 2025-11-03,best waste,7
@@ -424,10 +424,10 @@ period,Term,Count
 2025-11-03,center,16
 2025-11-03,century,1
 2025-11-03,charm,4
-2025-11-03,christmas,30
+2025-11-03,christmas,28
 2025-11-03,christmas casa,4
 2025-11-03,christmas casa estilo,4
-2025-11-03,christmas tree,8
+2025-11-03,christmas tree,6
 2025-11-03,christmas trends,4
 2025-11-03,christmas trends tendencias,4
 2025-11-03,class,40
@@ -437,7 +437,6 @@ period,Term,Count
 2025-11-03,class rws excerpt,10
 2025-11-03,class rws img,10
 2025-11-03,class rws title,10
-2025-11-03,coffee,5
 2025-11-03,color,4
 2025-11-03,comeback,6
 2025-11-03,comes,4
@@ -472,7 +471,7 @@ period,Term,Count
 2025-11-03,decorar,4
 2025-11-03,decorar decor,4
 2025-11-03,decorar decor design,4
-2025-11-03,decorating,8
+2025-11-03,decorating,6
 2025-11-03,decorating trends,4
 2025-11-03,decorating trends designers,4
 2025-11-03,decoration,8
@@ -485,12 +484,12 @@ period,Term,Count
 2025-11-03,design trends home,4
 2025-11-03,design trends watch,6
 2025-11-03,designed,10
-2025-11-03,designers,36
+2025-11-03,designers,38
 2025-11-03,designers marthastewart,2
 2025-11-03,designers say,6
 2025-11-03,designers say spruce,6
 2025-11-03,designers wait,2
-2025-11-03,digest,8
+2025-11-03,digest,6
 2025-11-03,dining,5
 2025-11-03,discover,10
 2025-11-03,discover stunning,3
@@ -506,7 +505,7 @@ period,Term,Count
 2025-11-03,easy,6
 2025-11-03,easy home,3
 2025-11-03,easy home decor,3
-2025-11-03,elegance,10
+2025-11-03,elegance,8
 2025-11-03,elegant,8
 2025-11-03,elegant interior,3
 2025-11-03,end,4
@@ -528,7 +527,6 @@ period,Term,Count
 2025-11-03,festive season,4
 2025-11-03,foot,5
 2025-11-03,forbes,4
-2025-11-03,free,6
 2025-11-03,friendly,5
 2025-11-03,furniture,14
 2025-11-03,garden,1
@@ -536,9 +534,6 @@ period,Term,Count
 2025-11-03,glass,3
 2025-11-03,global,5
 2025-11-03,going,5
-2025-11-03,good,2
-2025-11-03,good housekeeping,2
-2025-11-03,good housekeeping verdict,1
 2025-11-03,handmade,4
 2025-11-03,height,10
 2025-11-03,height src,10
@@ -567,16 +562,14 @@ period,Term,Count
 2025-11-03,homes gardens,10
 2025-11-03,hope,4
 2025-11-03,hope comes,4
-2025-11-03,house,25
-2025-11-03,house beautiful,8
+2025-11-03,house,27
+2025-11-03,house beautiful,10
 2025-11-03,house design,5
-2025-11-03,housekeeping,2
-2025-11-03,housekeeping verdict,1
 2025-11-03,huge,4
 2025-11-03,idea,18
 2025-11-03,idea diy,5
 2025-11-03,idea shorts,5
-2025-11-03,ideas,62
+2025-11-03,ideas,60
 2025-11-03,ideas diy,2
 2025-11-03,image,11
 2025-11-03,image height,10
@@ -586,7 +579,7 @@ period,Term,Count
 2025-11-03,img alt class,10
 2025-11-03,india,5
 2025-11-03,inspiration,5
-2025-11-03,inspired,9
+2025-11-03,inspired,7
 2025-11-03,instead,7
 2025-11-03,interior,58
 2025-11-03,interior design,37
@@ -596,17 +589,18 @@ period,Term,Count
 2025-11-03,interior designers marthastewart,2
 2025-11-03,interiordesign,8
 2025-11-03,interiors,4
-2025-11-03,just,8
-2025-11-03,kitchen,15
+2025-11-03,just,9
+2025-11-03,kitchen,18
 2025-11-03,kitchen trends,6
-2025-11-03,know,3
+2025-11-03,know,4
 2025-11-03,landscape,7
 2025-11-03,larger,4
 2025-11-03,latest,7
 2025-11-03,lauren,12
 2025-11-03,lauren christmas,12
 2025-11-03,life,5
-2025-11-03,living,31
+2025-11-03,living,33
+2025-11-03,living home,2
 2025-11-03,living magazine,8
 2025-11-03,living room,9
 2025-11-03,livingetc,6
@@ -616,11 +610,12 @@ period,Term,Count
 2025-11-03,love,1
 2025-11-03,luxury,14
 2025-11-03,magazine,12
-2025-11-03,make,20
+2025-11-03,make,17
 2025-11-03,make small,9
 2025-11-03,make small apartment,7
 2025-11-03,makeover,6
 2025-11-03,makes,5
+2025-11-03,making,4
 2025-11-03,market,5
 2025-11-03,marthastewart,6
 2025-11-03,materials,5
@@ -648,12 +643,10 @@ period,Term,Count
 2025-11-03,noopener target,17
 2025-11-03,old,4
 2025-11-03,open,3
-2025-11-03,ornament,6
 2025-11-03,outdated,4
 2025-11-03,paint,2
 2025-11-03,paper,8
 2025-11-03,perfect,7
-2025-11-03,pieces,3
 2025-11-03,point,5
 2025-11-03,popular,6
 2025-11-03,post,30
@@ -675,7 +668,7 @@ period,Term,Count
 2025-11-03,rel noopener target,17
 2025-11-03,renovation,1
 2025-11-03,residence,4
-2025-11-03,retro,2
+2025-11-03,retro,4
 2025-11-03,reuse,4
 2025-11-03,reveals,5
 2025-11-03,room,20
@@ -692,7 +685,7 @@ period,Term,Count
 2025-11-03,season,4
 2025-11-03,secretly,4
 2025-11-03,seeing,4
-2025-11-03,set,4
+2025-11-03,set,3
 2025-11-03,shaping,5
 2025-11-03,shells,5
 2025-11-03,shorts,41
@@ -712,8 +705,9 @@ period,Term,Count
 2025-11-03,small space,7
 2025-11-03,smart,4
 2025-11-03,social,2
-2025-11-03,southern,8
-2025-11-03,southern living,6
+2025-11-03,southern,10
+2025-11-03,southern living,8
+2025-11-03,southern living home,2
 2025-11-03,space,22
 2025-11-03,spaces,9
 2025-11-03,spacious,3
@@ -756,7 +750,7 @@ period,Term,Count
 2025-11-03,transform,15
 2025-11-03,transform home,4
 2025-11-03,transforming,4
-2025-11-03,tree,8
+2025-11-03,tree,6
 2025-11-03,trend,28
 2025-11-03,trend defining,5
 2025-11-03,trending,15
@@ -770,12 +764,10 @@ period,Term,Count
 2025-11-03,trends watch,6
 2025-11-03,truly,2
 2025-11-03,trying,4
-2025-11-03,ultimate,5
 2025-11-03,urban,6
 2025-11-03,use,3
 2025-11-03,using,6
 2025-11-03,veranda,4
-2025-11-03,verdict,2
 2025-11-03,video,6
 2025-11-03,vintage,4
 2025-11-03,viral,19
