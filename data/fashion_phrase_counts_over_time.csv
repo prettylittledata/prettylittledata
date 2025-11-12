@@ -65,8 +65,6 @@ period,Term,Count
 2025-10-06,media,2
 2025-10-06,need,2
 2025-10-06,new,6
-2025-10-06,new york,2
-2025-10-06,new york times,2
 2025-10-06,news,4
 2025-10-06,night,2
 2025-10-06,paris,4
@@ -91,7 +89,6 @@ period,Term,Count
 2025-10-06,style,8
 2025-10-06,style trends,2
 2025-10-06,summer,4
-2025-10-06,times,2
 2025-10-06,trend,12
 2025-10-06,trends,24
 2025-10-06,trends know,6
@@ -105,8 +102,6 @@ period,Term,Count
 2025-10-06,winter,2
 2025-10-06,winter fashion,2
 2025-10-06,winter fashion trends,2
-2025-10-06,york,2
-2025-10-06,york times,2
 2025-10-13,aesthetic,2
 2025-10-13,apparel,4
 2025-10-13,autumn,2
@@ -174,25 +169,31 @@ period,Term,Count
 2025-10-13,wearing,2
 2025-10-13,week,2
 2025-10-20,clothes,4
+2025-10-20,dominate,2
 2025-10-20,fall,2
-2025-10-20,fashion,8
+2025-10-20,fashion,10
 2025-10-20,fashion trends,4
+2025-10-20,feel,2
 2025-10-20,glamour,4
 2025-10-20,just,2
 2025-10-20,leisure,2
+2025-10-20,making,2
 2025-10-20,new,4
 2025-10-20,news,2
 2025-10-20,pieces,2
-2025-10-20,stylish,2
+2025-10-20,stylish,4
 2025-10-20,tiktok,2
 2025-10-20,travel,2
 2025-10-20,trend,2
-2025-10-20,trends,4
+2025-10-20,trends,8
+2025-10-20,trends dominate,2
+2025-10-20,trends making,2
+2025-10-20,try,2
 2025-10-20,vogue,4
-2025-10-20,wear,4
+2025-10-20,wear,8
 2025-10-20,wearing,2
-2025-10-20,winter,2
-2025-10-20,winter fashion,2
+2025-10-20,winter,6
+2025-10-20,winter fashion,4
 2025-10-20,winter fashion trends,2
 2025-10-20,women,2
 2025-10-27,claire,4
@@ -219,6 +220,7 @@ period,Term,Count
 2025-10-27,trend,10
 2025-10-27,trends,6
 2025-10-27,trends know,2
+2025-10-27,trends making,4
 2025-10-27,vogue,2
 2025-11-03,actually,6
 2025-11-03,apparel,4
@@ -240,6 +242,7 @@ period,Term,Count
 2025-11-03,culture,2
 2025-11-03,digest,2
 2025-11-03,does,2
+2025-11-03,dominate,4
 2025-11-03,don,1
 2025-11-03,dress,2
 2025-11-03,dresses,2
@@ -251,8 +254,8 @@ period,Term,Count
 2025-11-03,fall fashion trends,4
 2025-11-03,fall trends,10
 2025-11-03,fall trends staffers,6
-2025-11-03,fashion,36
-2025-11-03,fashion trend,16
+2025-11-03,fashion,38
+2025-11-03,fashion trend,18
 2025-11-03,fashion trends,12
 2025-11-03,featuring,1
 2025-11-03,feel,1
@@ -260,7 +263,7 @@ period,Term,Count
 2025-11-03,forget,1
 2025-11-03,gen,6
 2025-11-03,girl,4
-2025-11-03,girls,6
+2025-11-03,girls,12
 2025-11-03,girls life,4
 2025-11-03,golf,6
 2025-11-03,golf digest,2
@@ -292,9 +295,7 @@ period,Term,Count
 2025-11-03,modern,1
 2025-11-03,nail,4
 2025-11-03,need,4
-2025-11-03,new,12
-2025-11-03,new york,3
-2025-11-03,new york times,2
+2025-11-03,new,10
 2025-11-03,night,2
 2025-11-03,nyc,8
 2025-11-03,offers,2
@@ -329,9 +330,9 @@ period,Term,Count
 2025-11-03,suits,3
 2025-11-03,tiktok,6
 2025-11-03,time,3
-2025-11-03,times,2
-2025-11-03,trend,22
+2025-11-03,trend,24
 2025-11-03,trends,32
+2025-11-03,trends dominate,4
 2025-11-03,trends staffers,6
 2025-11-03,trends staffers shopping,6
 2025-11-03,trends start,4
@@ -340,18 +341,17 @@ period,Term,Count
 2025-11-03,turns,5
 2025-11-03,vibe,4
 2025-11-03,video,2
-2025-11-03,vintage,4
+2025-11-03,vintage,2
 2025-11-03,vogue,6
 2025-11-03,wants,2
-2025-11-03,wear,14
+2025-11-03,wear,12
 2025-11-03,wearing,10
 2025-11-03,winter,12
 2025-11-03,winter fashion,4
 2025-11-03,winter fashion trends,4
 2025-11-03,world,2
 2025-11-03,year,2
-2025-11-03,york,3
-2025-11-03,york times,2
+2025-11-03,years,5
 2025-11-03,young,1
 2025-11-03,zohran,7
 2025-11-03,zohran mamdani,7
@@ -459,9 +459,7 @@ period,Term,Count
 2025-11-10,met,1
 2025-11-10,modern,3
 2025-11-10,need,2
-2025-11-10,new,23
-2025-11-10,new york,2
-2025-11-10,new york times,2
+2025-11-10,new,21
 2025-11-10,night,2
 2025-11-10,november,3
 2025-11-10,offers,7
@@ -477,6 +475,7 @@ period,Term,Count
 2025-11-10,red,1
 2025-11-10,runway,13
 2025-11-10,runway trends,2
+2025-11-10,scarf,6
 2025-11-10,season,4
 2025-11-10,secret,8
 2025-11-10,shoe,2
@@ -505,9 +504,8 @@ period,Term,Count
 2025-11-10,summer,4
 2025-11-10,tiktok,2
 2025-11-10,time,1
-2025-11-10,times,2
 2025-11-10,travel,2
-2025-11-10,trend,24
+2025-11-10,trend,26
 2025-11-10,trending,22
 2025-11-10,trendingshorts,6
 2025-11-10,trends,24
@@ -530,8 +528,6 @@ period,Term,Count
 2025-11-10,women,6
 2025-11-10,world,4
 2025-11-10,year,4
-2025-11-10,york,2
-2025-11-10,york times,2
 2025-11-10,young,8
 2025-11-10,youtube,6
 2025-11-10,youtubeshorts,8
