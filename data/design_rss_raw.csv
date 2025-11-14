@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/,1763125200,CSS Gamepad API Visual Debugging With CSS Layers,"CSS Gamepad API Visual Debugging With CSS Layers
+
+Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects."
 rss,smashingmagazine.com,https://smashingmagazine.com/2025/11/older-tech-browser-stack/,1763020800,Older Tech In The Browser Stack,"Older Tech In The Browser Stack
 
 There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements."
