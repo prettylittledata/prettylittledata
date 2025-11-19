@@ -4,7 +4,6 @@ period,Term,Count
 2025-10-06,agree toasted blush,2
 2025-10-06,bazaar,2
 2025-10-06,beauty,20
-2025-10-06,beauty deals,2
 2025-10-06,beauty trend,10
 2025-10-06,beauty trend fashion,6
 2025-10-06,beauty trends,4
@@ -25,13 +24,12 @@ period,Term,Count
 2025-10-06,eye,2
 2025-10-06,eyes,2
 2025-10-06,fall,4
+2025-10-06,fall wear,2
+2025-10-06,fall wear pinterest,1
 2025-10-06,fashion,10
 2025-10-06,fashion book,6
 2025-10-06,fashion book season,3
 2025-10-06,fashion month,2
-2025-10-06,gen,2
-2025-10-06,giving,2
-2025-10-06,harmful,2
 2025-10-06,harper,2
 2025-10-06,harper bazaar,2
 2025-10-06,hottest,6
@@ -43,6 +41,7 @@ period,Term,Count
 2025-10-06,india,2
 2025-10-06,makeup,6
 2025-10-06,makeup trend,4
+2025-10-06,makeup trend fall,2
 2025-10-06,marie,2
 2025-10-06,marie claire,2
 2025-10-06,month,2
@@ -62,6 +61,8 @@ period,Term,Count
 2025-10-06,toasted blush,2
 2025-10-06,toasted blush huge,2
 2025-10-06,trend,14
+2025-10-06,trend fall,2
+2025-10-06,trend fall wear,2
 2025-10-06,trend fashion,6
 2025-10-06,trend fashion book,6
 2025-10-06,trends,4
@@ -111,24 +112,23 @@ period,Term,Count
 2025-10-20,agree,4
 2025-10-20,agree toasted,4
 2025-10-20,agree toasted blush,4
-2025-10-20,baked,4
 2025-10-20,beauty,14
 2025-10-20,beauty trend,4
 2025-10-20,beauty trends,6
 2025-10-20,blush,4
 2025-10-20,blush huge,4
 2025-10-20,blush huge makeup,4
-2025-10-20,fall,4
+2025-10-20,fall,8
+2025-10-20,fall wear,4
+2025-10-20,fall wear pinterest,2
 2025-10-20,girl,2
 2025-10-20,glass,2
-2025-10-20,glowy,4
-2025-10-20,harmful,2
 2025-10-20,huge,4
 2025-10-20,huge makeup,4
 2025-10-20,huge makeup trend,4
-2025-10-20,kosas,4
 2025-10-20,makeup,16
 2025-10-20,makeup trend,4
+2025-10-20,makeup trend fall,4
 2025-10-20,makeup trending,4
 2025-10-20,nail,2
 2025-10-20,need,2
@@ -155,6 +155,8 @@ period,Term,Count
 2025-10-20,toasted blush,4
 2025-10-20,toasted blush huge,4
 2025-10-20,trend,14
+2025-10-20,trend fall,4
+2025-10-20,trend fall wear,4
 2025-10-20,trending,4
 2025-10-20,trends,6
 2025-10-20,try,4
@@ -163,7 +165,6 @@ period,Term,Count
 2025-10-20,wear,6
 2025-10-20,wear pinterest,2
 2025-10-20,wear pinterest tiktok,2
-2025-10-20,winter,4
 2025-10-20,worth,2
 2025-10-27,according,4
 2025-10-27,approved,2
@@ -191,7 +192,6 @@ period,Term,Count
 2025-10-27,makeup trends,2
 2025-10-27,making,2
 2025-10-27,marie,2
-2025-10-27,means,2
 2025-10-27,new,2
 2025-10-27,real,4
 2025-10-27,return,2
@@ -199,7 +199,6 @@ period,Term,Count
 2025-10-27,simple,4
 2025-10-27,skin,2
 2025-10-27,soft,2
-2025-10-27,spice,2
 2025-10-27,stop,2
 2025-10-27,talking,2
 2025-10-27,trend,10
@@ -241,7 +240,6 @@ period,Term,Count
 2025-11-03,skincare trend,6
 2025-11-03,slugging,4
 2025-11-03,stop,2
-2025-11-03,study,2
 2025-11-03,talking,4
 2025-11-03,thanksgiving,2
 2025-11-03,trend,24
@@ -251,396 +249,536 @@ period,Term,Count
 2025-11-03,viral beauty,4
 2025-11-03,works,2
 2025-11-03,worth,2
-2025-11-10,access,4
-2025-11-10,according,2
-2025-11-10,actually,7
+2025-11-10,according,1
+2025-11-10,actually,4
 2025-11-10,adding,1
 2025-11-10,adds,3
-2025-11-10,agree,1
-2025-11-10,ahead,3
-2025-11-10,air,2
-2025-11-10,align,4
+2025-11-10,ahead,2
+2025-11-10,align,2
+2025-11-10,align center,2
+2025-11-10,align center rel,1
+2025-11-10,align center text,1
 2025-11-10,allure,4
 2025-11-10,approved,3
+2025-11-10,arial,3
+2025-11-10,arial sans,3
+2025-11-10,arial sans serif,3
 2025-11-10,art,2
-2025-11-10,asking,5
-2025-11-10,available,56
-2025-11-10,away,8
+2025-11-10,ask,2
+2025-11-10,asking,4
+2025-11-10,auto,2
+2025-11-10,auto div,1
+2025-11-10,auto div style,1
+2025-11-10,auto width,1
+2025-11-10,auto width div,1
+2025-11-10,available,55
+2025-11-10,available height,31
+2025-11-10,available height src,31
+2025-11-10,background,10
+2025-11-10,background color,10
+2025-11-10,background color height,10
+2025-11-10,backward,1
 2025-11-10,bag,28
-2025-11-10,baked,1
-2025-11-10,beautiful,2
-2025-11-10,beauty,42
+2025-11-10,beautiful,1
+2025-11-10,beauty,32
 2025-11-10,beauty boom,6
 2025-11-10,beauty boom global,6
-2025-11-10,beauty deals,1
 2025-11-10,beauty trend,11
 2025-11-10,beauty trend tracker,6
-2025-11-10,beauty trends,8
+2025-11-10,beauty trends,6
 2025-11-10,beauty trends going,6
 2025-11-10,beautymatter,6
 2025-11-10,beautymatter inside,3
 2025-11-10,beautymatter inside middle,3
 2025-11-10,beautytips,1
-2025-11-10,best,11
-2025-11-10,bestie,4
-2025-11-10,better,7
+2025-11-10,best,7
+2025-11-10,best fashion,1
+2025-11-10,better,6
 2025-11-10,big,2
-2025-11-10,biggest,7
-2025-11-10,black,62
-2025-11-10,black friday,26
-2025-11-10,black friday deals,11
-2025-11-10,black friday fashion,2
-2025-11-10,blockquote,10
-2025-11-10,blockquote class,5
-2025-11-10,blue,3
+2025-11-10,biggest,6
+2025-11-10,black,5
+2025-11-10,black friday,2
+2025-11-10,black friday deals,2
+2025-11-10,blend,1
+2025-11-10,blockquote,4
+2025-11-10,blockquote class,2
+2025-11-10,blockquote class instagram,1
+2025-11-10,blue,5
 2025-11-10,blush,4
 2025-11-10,bold,3
 2025-11-10,book,9
 2025-11-10,boom,6
 2025-11-10,boom global,6
 2025-11-10,boom global brands,6
-2025-11-10,brand,14
-2025-11-10,brands,10
+2025-11-10,border,6
+2025-11-10,border left,2
+2025-11-10,border left solid,2
+2025-11-10,border margin,1
+2025-11-10,border margin padding,1
+2025-11-10,border right,1
+2025-11-10,border right solid,1
+2025-11-10,border solid,2
+2025-11-10,border solid transparent,2
+2025-11-10,brand,9
+2025-11-10,brands,8
 2025-11-10,brands predict,6
 2025-11-10,brands predict beautymatter,6
 2025-11-10,bring,3
-2025-11-10,brings,4
-2025-11-10,brown,2
-2025-11-10,building,4
-2025-11-10,bundles,4
+2025-11-10,brings,3
+2025-11-10,building,3
 2025-11-10,business,6
 2025-11-10,business beauty,6
 2025-11-10,business beauty trend,6
 2025-11-10,bustle,2
-2025-11-10,calendar,3
-2025-11-10,care,8
-2025-11-10,career,4
+2025-11-10,care,7
 2025-11-10,carpet,5
-2025-11-10,challenge,1
+2025-11-10,center,2
+2025-11-10,center rel,1
+2025-11-10,center rel noopener,1
+2025-11-10,center text,1
+2025-11-10,center text decoration,1
+2025-11-10,certain,2
 2025-11-10,change,9
 2025-11-10,chaos,3
 2025-11-10,chic,9
 2025-11-10,choose,3
-2025-11-10,choosing,5
 2025-11-10,claire,6
-2025-11-10,class,8
+2025-11-10,class,2
+2025-11-10,class instagram,1
+2025-11-10,class instagram media,1
+2025-11-10,classic,5
 2025-11-10,clean,3
 2025-11-10,clear,2
 2025-11-10,clothing,1
-2025-11-10,coat,5
-2025-11-10,color,24
+2025-11-10,coat,4
+2025-11-10,coat available,1
+2025-11-10,color,16
+2025-11-10,color font,3
+2025-11-10,color font family,3
+2025-11-10,color height,10
+2025-11-10,color height margin,3
+2025-11-10,color height width,7
+2025-11-10,colors,1
 2025-11-10,come,5
-2025-11-10,comes,9
-2025-11-10,coming,3
-2025-11-10,consider,4
-2025-11-10,cosmetics,1
-2025-11-10,course,3
+2025-11-10,comes,7
+2025-11-10,comfort,2
+2025-11-10,coming,1
+2025-11-10,consider,3
+2025-11-10,cool,2
+2025-11-10,cost,4
 2025-11-10,cozy,4
-2025-11-10,create,9
-2025-11-10,current,2
+2025-11-10,create,7
+2025-11-10,current,1
 2025-11-10,daily,4
-2025-11-10,day,11
-2025-11-10,deals,19
-2025-11-10,december,3
-2025-11-10,decision,2
+2025-11-10,dark,1
+2025-11-10,day,5
+2025-11-10,deals,2
+2025-11-10,december,1
+2025-11-10,decoration,2
+2025-11-10,decoration target,1
+2025-11-10,decoration target post,1
+2025-11-10,decoration width,1
+2025-11-10,decoration width target,1
 2025-11-10,deep,6
-2025-11-10,deserve,4
-2025-11-10,design,4
-2025-11-10,did,3
-2025-11-10,didn,2
-2025-11-10,different,9
+2025-11-10,design,3
+2025-11-10,designs,2
+2025-11-10,did,1
+2025-11-10,didn,1
+2025-11-10,different,8
 2025-11-10,different elle,6
 2025-11-10,different elle korean,3
-2025-11-10,director,5
-2025-11-10,div,129
-2025-11-10,div div,49
+2025-11-10,div,106
+2025-11-10,div blockquote,1
+2025-11-10,div div,41
 2025-11-10,div div div,9
-2025-11-10,div div figure,13
-2025-11-10,div figure,18
-2025-11-10,div figure img,18
-2025-11-10,does,3
-2025-11-10,doesn,3
+2025-11-10,div div style,19
+2025-11-10,div figure,14
+2025-11-10,div figure img,14
+2025-11-10,div style,24
+2025-11-10,div style background,10
+2025-11-10,div style color,2
+2025-11-10,div style height,1
+2025-11-10,div style margin,4
+2025-11-10,div style padding,4
+2025-11-10,div style width,3
+2025-11-10,does,2
+2025-11-10,doesn,1
 2025-11-10,doing,1
-2025-11-10,don,14
+2025-11-10,don,13
 2025-11-10,dramatic,2
-2025-11-10,drop,2
-2025-11-10,early,12
-2025-11-10,early black,4
-2025-11-10,early black friday,4
+2025-11-10,early,2
 2025-11-10,earn,1
-2025-11-10,earth,3
 2025-11-10,east,6
 2025-11-10,east beauty,6
 2025-11-10,east beauty boom,6
+2025-11-10,easy,2
 2025-11-10,edit,2
-2025-11-10,editor,12
-2025-11-10,effort,5
+2025-11-10,editor,8
+2025-11-10,effort,4
 2025-11-10,effortlessly,1
 2025-11-10,elle,12
 2025-11-10,elle korean,3
 2025-11-10,elle korean beauty,3
-2025-11-10,end,2
-2025-11-10,especially,7
-2025-11-10,event,2
+2025-11-10,end,1
+2025-11-10,especially,6
 2025-11-10,exosomes,2
-2025-11-10,extra,7
+2025-11-10,extra,5
 2025-11-10,eye,3
-2025-11-10,eyes,2
-2025-11-10,face,8
+2025-11-10,face,4
+2025-11-10,fact,1
 2025-11-10,fall,2
 2025-11-10,family,5
-2025-11-10,far,9
-2025-11-10,fashion,27
+2025-11-10,family arial,3
+2025-11-10,family arial sans,3
+2025-11-10,far,5
+2025-11-10,fashion,23
 2025-11-10,fashion book,1
-2025-11-10,fashion deals,2
 2025-11-10,fashion gifts,3
-2025-11-10,favorite,6
-2025-11-10,features,6
-2025-11-10,feel,26
+2025-11-10,faux,7
+2025-11-10,favorite,5
+2025-11-10,feel,21
 2025-11-10,feel like,6
-2025-11-10,feeling,3
-2025-11-10,feels,5
-2025-11-10,feels like,2
-2025-11-10,felt,4
-2025-11-10,festive,7
-2025-11-10,figure,110
-2025-11-10,figure div,18
-2025-11-10,figure img,50
-2025-11-10,figure img src,27
+2025-11-10,feeling,2
+2025-11-10,feels,2
+2025-11-10,felt,3
+2025-11-10,festive,6
+2025-11-10,figcaption,77
+2025-11-10,figure,79
+2025-11-10,figure div,14
+2025-11-10,figure img,38
+2025-11-10,figure img height,23
+2025-11-10,figure img src,15
 2025-11-10,finish,1
 2025-11-10,follow,1
-2025-11-10,force,3
-2025-11-10,forward,4
-2025-11-10,free,11
-2025-11-10,friday,27
-2025-11-10,friday deals,11
-2025-11-10,friday fashion,2
-2025-11-10,friday fashion deals,2
-2025-11-10,friendly,5
+2025-11-10,font,10
+2025-11-10,font family,3
+2025-11-10,font family arial,3
+2025-11-10,font size,3
+2025-11-10,font size font,2
+2025-11-10,font size line,1
+2025-11-10,font style,2
+2025-11-10,font style normal,2
+2025-11-10,font weight,2
+2025-11-10,font weight line,1
+2025-11-10,font weight normal,1
+2025-11-10,free,9
+2025-11-10,french,2
+2025-11-10,friday,2
+2025-11-10,friday deals,2
+2025-11-10,friend,14
 2025-11-10,friends,3
 2025-11-10,frosty,4
-2025-11-10,future,19
+2025-11-10,fun,3
+2025-11-10,fur,8
 2025-11-10,fyp,2
-2025-11-10,gen,2
-2025-11-10,gift,21
-2025-11-10,gifting,4
-2025-11-10,gifts,9
+2025-11-10,gift,19
+2025-11-10,gifting,2
+2025-11-10,gifts,8
 2025-11-10,girl,5
-2025-11-10,gives,3
-2025-11-10,giving,5
-2025-11-10,glam,1
-2025-11-10,glass,3
+2025-11-10,gives,1
+2025-11-10,glass,2
 2025-11-10,global,6
 2025-11-10,global brands,6
 2025-11-10,global brands predict,6
+2025-11-10,glossy,3
 2025-11-10,glow,1
-2025-11-10,glowy,1
-2025-11-10,going,12
+2025-11-10,going,11
 2025-11-10,going look,6
 2025-11-10,going look different,6
 2025-11-10,gold,7
-2025-11-10,good,8
-2025-11-10,goodness,6
-2025-11-10,goodness right,6
-2025-11-10,goodness right strong,6
-2025-11-10,got,1
+2025-11-10,good,6
+2025-11-10,goodness,3
+2025-11-10,goodness right,3
+2025-11-10,goodness right strong,3
 2025-11-10,great,3
 2025-11-10,green,1
 2025-11-10,grwm,3
-2025-11-10,guide,3
-2025-11-10,hair,7
-2025-11-10,hand,6
-2025-11-10,handle,3
-2025-11-10,happening,3
-2025-11-10,happens,4
-2025-11-10,hard,4
-2025-11-10,harmful,2
-2025-11-10,health,6
+2025-11-10,guide,1
+2025-11-10,hair,6
+2025-11-10,hand,5
+2025-11-10,hard,2
+2025-11-10,health,5
+2025-11-10,heart,2
 2025-11-10,height,71
+2025-11-10,height border,2
+2025-11-10,height border left,1
+2025-11-10,height border solid,1
+2025-11-10,height margin,5
+2025-11-10,height margin auto,1
+2025-11-10,height margin margin,1
+2025-11-10,height margin right,1
+2025-11-10,height margin width,2
+2025-11-10,height padding,1
+2025-11-10,height padding text,1
+2025-11-10,height src,54
+2025-11-10,height src width,54
+2025-11-10,height text,1
+2025-11-10,height text decoration,1
+2025-11-10,height view,1
+2025-11-10,height view post,1
+2025-11-10,height width,7
+2025-11-10,height width div,6
+2025-11-10,height width margin,1
 2025-11-10,help,4
+2025-11-10,hidden,1
+2025-11-10,hidden padding,1
+2025-11-10,hidden padding text,1
 2025-11-10,high,10
 2025-11-10,high impact,4
-2025-11-10,holiday,21
-2025-11-10,holiday season,5
-2025-11-10,home,13
-2025-11-10,honor,2
+2025-11-10,holiday,19
+2025-11-10,holiday season,4
+2025-11-10,home,10
+2025-11-10,hot,1
 2025-11-10,hottest,4
 2025-11-10,hottest holiday,4
-2025-11-10,human,3
 2025-11-10,hypebae,4
 2025-11-10,ideas,3
-2025-11-10,img,50
-2025-11-10,img src,27
-2025-11-10,img src figure,27
+2025-11-10,img,38
+2025-11-10,img height,23
+2025-11-10,img height src,23
+2025-11-10,img src,15
+2025-11-10,img src figure,15
 2025-11-10,impact,10
-2025-11-10,independent,1
-2025-11-10,independently,2
 2025-11-10,inside,7
 2025-11-10,inside middle,6
 2025-11-10,inside middle east,6
 2025-11-10,inspiration,4
 2025-11-10,inspired,1
-2025-11-10,isn,13
+2025-11-10,instagram,2
+2025-11-10,instagram div,1
+2025-11-10,instagram div div,1
+2025-11-10,instagram media,1
+2025-11-10,instagram media style,1
+2025-11-10,jacket,7
+2025-11-10,jacket available,2
 2025-11-10,jackets,2
-2025-11-10,just,37
+2025-11-10,just,23
 2025-11-10,key,2
 2025-11-10,kids,9
 2025-11-10,kind,4
-2025-11-10,know,10
+2025-11-10,knit,1
+2025-11-10,know,8
 2025-11-10,korean,6
 2025-11-10,korean beauty,6
 2025-11-10,korean beauty trends,6
-2025-11-10,kosas,1
-2025-11-10,lands,3
-2025-11-10,latest,2
-2025-11-10,left,8
-2025-11-10,let,14
-2025-11-10,level,1
-2025-11-10,life,9
-2025-11-10,light,3
+2025-11-10,left,6
+2025-11-10,left auto,1
+2025-11-10,left auto div,1
+2025-11-10,left div,2
+2025-11-10,left div div,1
+2025-11-10,left div style,1
+2025-11-10,left solid,2
+2025-11-10,left solid border,1
+2025-11-10,left solid transparent,1
+2025-11-10,let,12
+2025-11-10,life,6
+2025-11-10,light,1
 2025-11-10,lighter,5
-2025-11-10,like,44
-2025-11-10,like goodness,6
-2025-11-10,like goodness right,6
+2025-11-10,like,31
+2025-11-10,like goodness,3
+2025-11-10,like goodness right,3
 2025-11-10,limited,2
+2025-11-10,line,4
+2025-11-10,line height,4
+2025-11-10,line height margin,1
+2025-11-10,line height padding,1
+2025-11-10,line height text,1
+2025-11-10,line height view,1
+2025-11-10,lines,1
 2025-11-10,lips,4
 2025-11-10,lipstick,4
+2025-11-10,list,4
 2025-11-10,little,1
 2025-11-10,live,2
 2025-11-10,living,1
-2025-11-10,long,15
-2025-11-10,longer,5
-2025-11-10,look,27
+2025-11-10,long,13
+2025-11-10,longer,4
+2025-11-10,look,29
 2025-11-10,look different,6
 2025-11-10,look different elle,6
 2025-11-10,looking,7
-2025-11-10,looks,8
-2025-11-10,lot,1
-2025-11-10,love,14
-2025-11-10,loves,3
-2025-11-10,luxe,5
-2025-11-10,luxury,3
-2025-11-10,main,2
+2025-11-10,looks,6
+2025-11-10,love,11
+2025-11-10,lover,3
+2025-11-10,low,1
+2025-11-10,luxe,3
+2025-11-10,luxury,1
+2025-11-10,main,1
 2025-11-10,major,1
-2025-11-10,make,6
-2025-11-10,makes,3
-2025-11-10,makeup,20
+2025-11-10,make,4
+2025-11-10,makes,1
+2025-11-10,makeup,19
 2025-11-10,makeup look,2
-2025-11-10,makeup trending,2
+2025-11-10,makeup trending,4
 2025-11-10,makeup trends,4
-2025-11-10,making,5
+2025-11-10,making,4
+2025-11-10,manicure,2
 2025-11-10,margin,13
+2025-11-10,margin auto,1
+2025-11-10,margin auto width,1
+2025-11-10,margin div,2
+2025-11-10,margin div div,1
+2025-11-10,margin div style,1
+2025-11-10,margin left,3
+2025-11-10,margin left auto,1
+2025-11-10,margin left div,2
+2025-11-10,margin margin,1
+2025-11-10,margin margin overflow,1
+2025-11-10,margin overflow,1
+2025-11-10,margin overflow hidden,1
 2025-11-10,margin padding,1
+2025-11-10,margin padding width,1
+2025-11-10,margin right,2
+2025-11-10,margin right margin,1
+2025-11-10,margin right width,1
+2025-11-10,margin width,2
+2025-11-10,margin width div,2
 2025-11-10,marie,6
 2025-11-10,marie claire,6
 2025-11-10,match,2
-2025-11-10,matter,3
-2025-11-10,means,1
-2025-11-10,media,6
+2025-11-10,matter,1
+2025-11-10,maximalist,2
+2025-11-10,media,2
+2025-11-10,media style,1
+2025-11-10,media style border,1
 2025-11-10,meet,3
 2025-11-10,men,4
+2025-11-10,metallic,3
 2025-11-10,middle,6
 2025-11-10,middle east,6
 2025-11-10,middle east beauty,6
+2025-11-10,mind,2
 2025-11-10,minimal,6
-2025-11-10,moment,5
-2025-11-10,monday,1
-2025-11-10,month,4
-2025-11-10,months,5
-2025-11-10,moving,3
-2025-11-10,nbc,1
-2025-11-10,nbc news,1
-2025-11-10,need,7
-2025-11-10,new,40
-2025-11-10,news,5
-2025-11-10,non,3
-2025-11-10,noopener,21
-2025-11-10,noopener target,19
-2025-11-10,noreferrer,21
-2025-11-10,noreferrer noopener,19
-2025-11-10,noreferrer noopener target,19
-2025-11-10,november,21
+2025-11-10,modern,1
+2025-11-10,moment,3
+2025-11-10,nails,2
+2025-11-10,need,6
+2025-11-10,new,34
+2025-11-10,news,4
+2025-11-10,noopener,4
+2025-11-10,noopener noreferrer,2
+2025-11-10,noopener noreferrer style,2
+2025-11-10,noopener target,2
+2025-11-10,noreferrer,4
+2025-11-10,noreferrer noopener,2
+2025-11-10,noreferrer noopener target,2
+2025-11-10,noreferrer style,2
+2025-11-10,noreferrer style color,1
+2025-11-10,noreferrer style line,1
+2025-11-10,normal,3
+2025-11-10,normal font,2
+2025-11-10,normal font weight,2
+2025-11-10,normal line,1
+2025-11-10,normal line height,1
+2025-11-10,november,16
 2025-11-10,obsessed,6
+2025-11-10,offers,6
 2025-11-10,official,5
 2025-11-10,old,13
-2025-11-10,outlet,4
+2025-11-10,open,1
+2025-11-10,outerwear,4
+2025-11-10,outfit,2
+2025-11-10,overflow,1
+2025-11-10,overflow hidden,1
+2025-11-10,overflow hidden padding,1
 2025-11-10,padding,7
+2025-11-10,padding div,3
+2025-11-10,padding div div,2
+2025-11-10,padding div style,1
+2025-11-10,padding rel,1
+2025-11-10,padding rel noopener,1
+2025-11-10,padding text,2
+2025-11-10,padding text align,2
+2025-11-10,padding width,1
+2025-11-10,padding width div,1
 2025-11-10,pair,1
+2025-11-10,pairing,1
+2025-11-10,party,2
 2025-11-10,past,3
-2025-11-10,people,24
+2025-11-10,people,18
 2025-11-10,perfect,8
 2025-11-10,perfectly,2
 2025-11-10,perfume,2
-2025-11-10,perspective,3
+2025-11-10,personal,5
 2025-11-10,photos,2
-2025-11-10,piece,6
-2025-11-10,place,4
-2025-11-10,platforms,5
-2025-11-10,play,3
+2025-11-10,pieces,2
+2025-11-10,plaid,3
 2025-11-10,point,1
-2025-11-10,pop,3
-2025-11-10,post,3
+2025-11-10,post,2
+2025-11-10,post instagram,1
+2025-11-10,post instagram div,1
+2025-11-10,post shared,1
+2025-11-10,post shared div,1
 2025-11-10,power,6
 2025-11-10,predict,6
 2025-11-10,predict beautymatter,6
 2025-11-10,predict beautymatter inside,3
-2025-11-10,process,1
-2025-11-10,product,2
-2025-11-10,products,15
-2025-11-10,project,3
-2025-11-10,questions,5
+2025-11-10,print,2
+2025-11-10,products,6
+2025-11-10,professional,2
 2025-11-10,quiet,2
-2025-11-10,rack,2
+2025-11-10,quilted,1
 2025-11-10,ready,7
 2025-11-10,real,6
-2025-11-10,really,7
+2025-11-10,really,3
 2025-11-10,red,7
 2025-11-10,red carpet,5
-2025-11-10,rel,21
-2025-11-10,rel noreferrer,19
-2025-11-10,rel noreferrer noopener,19
-2025-11-10,remember,3
+2025-11-10,reflects,2
+2025-11-10,rel,4
+2025-11-10,rel noopener,2
+2025-11-10,rel noopener noreferrer,2
+2025-11-10,rel noreferrer,2
+2025-11-10,rel noreferrer noopener,2
 2025-11-10,return,2
 2025-11-10,review,2
-2025-11-10,right,16
-2025-11-10,right strong,6
-2025-11-10,rolling,5
+2025-11-10,right,12
+2025-11-10,right margin,1
+2025-11-10,right margin left,1
+2025-11-10,right solid,1
+2025-11-10,right solid transparent,1
+2025-11-10,right strong,3
+2025-11-10,right width,1
+2025-11-10,right width div,1
 2025-11-10,romantic,3
 2025-11-10,routine,6
 2025-11-10,routine skincareroutine,1
-2025-11-10,sale,6
-2025-11-10,sale styles,4
-2025-11-10,sales,2
-2025-11-10,save,7
-2025-11-10,say,5
-2025-11-10,says,17
-2025-11-10,score,2
-2025-11-10,season,22
-2025-11-10,second,3
+2025-11-10,sans,3
+2025-11-10,sans serif,3
+2025-11-10,sans serif font,3
+2025-11-10,say,3
+2025-11-10,says,8
+2025-11-10,season,20
 2025-11-10,secret,1
 2025-11-10,secrets,4
-2025-11-10,section,1
-2025-11-10,seen,5
-2025-11-10,select,9
-2025-11-10,self,4
-2025-11-10,sense,2
-2025-11-10,serum,6
+2025-11-10,seen,2
+2025-11-10,self,3
+2025-11-10,serif,3
+2025-11-10,serif font,3
+2025-11-10,serif font size,3
 2025-11-10,set,27
-2025-11-10,shades,1
+2025-11-10,set perfect,2
+2025-11-10,shaped,4
+2025-11-10,shared,1
+2025-11-10,shared div,1
+2025-11-10,shared div blockquote,1
 2025-11-10,shimmering,1
 2025-11-10,shine,3
-2025-11-10,shop,61
-2025-11-10,shopping,11
+2025-11-10,shop,58
+2025-11-10,shopping,7
 2025-11-10,short,1
 2025-11-10,shorts,4
 2025-11-10,shortsfeed,1
 2025-11-10,shortvideo,1
-2025-11-10,silk,6
+2025-11-10,shoulder,10
 2025-11-10,silver,1
-2025-11-10,single,2
+2025-11-10,size,3
+2025-11-10,size font,2
+2025-11-10,size font style,2
+2025-11-10,size line,1
+2025-11-10,size line height,1
 2025-11-10,skims,3
-2025-11-10,skin,11
-2025-11-10,skincare,24
+2025-11-10,skin,9
+2025-11-10,skincare,21
 2025-11-10,skincare routine,2
 2025-11-10,skincare skincareroutine,3
 2025-11-10,skincare trend,4
@@ -648,144 +786,214 @@ period,Term,Count
 2025-11-10,skincareroutine skin,2
 2025-11-10,skincaretips,1
 2025-11-10,sky,2
-2025-11-10,sleep,3
-2025-11-10,social,4
-2025-11-10,soft,3
+2025-11-10,slip,1
+2025-11-10,small,3
+2025-11-10,soft,2
+2025-11-10,solid,5
+2025-11-10,solid border,1
+2025-11-10,solid border solid,1
+2025-11-10,solid transparent,4
+2025-11-10,solid transparent border,1
+2025-11-10,solid transparent div,3
 2025-11-10,space,4
-2025-11-10,spade,6
-2025-11-10,speak,7
-2025-11-10,special,2
-2025-11-10,spice,2
 2025-11-10,spirit,2
 2025-11-10,spring,1
-2025-11-10,src,81
-2025-11-10,src figure,27
-2025-11-10,src figure div,18
-2025-11-10,start,3
-2025-11-10,starting,4
-2025-11-10,statement,4
+2025-11-10,src,69
+2025-11-10,src figure,15
+2025-11-10,src figure div,14
+2025-11-10,src width,54
+2025-11-10,src width figcaption,54
+2025-11-10,start,1
 2025-11-10,stay,5
-2025-11-10,step,2
+2025-11-10,step,1
 2025-11-10,stop,5
-2025-11-10,stories,8
-2025-11-10,story,5
-2025-11-10,strong,185
-2025-11-10,strong black,2
-2025-11-10,strong early,1
-2025-11-10,strong like,6
-2025-11-10,strong like goodness,6
+2025-11-10,street,2
+2025-11-10,strong,171
+2025-11-10,strong like,3
+2025-11-10,strong like goodness,3
 2025-11-10,strong skims,1
-2025-11-10,strong strong,29
-2025-11-10,study,2
-2025-11-10,style,50
+2025-11-10,strong strong,28
+2025-11-10,style,48
+2025-11-10,style background,10
+2025-11-10,style background color,10
+2025-11-10,style border,1
+2025-11-10,style border margin,1
+2025-11-10,style color,3
+2025-11-10,style color font,3
+2025-11-10,style height,1
+2025-11-10,style height margin,1
+2025-11-10,style line,1
+2025-11-10,style line height,1
 2025-11-10,style margin,4
-2025-11-10,styles,14
+2025-11-10,style margin div,2
+2025-11-10,style margin left,2
+2025-11-10,style normal,2
+2025-11-10,style normal font,2
+2025-11-10,style padding,4
+2025-11-10,style padding div,3
+2025-11-10,style padding rel,1
+2025-11-10,style width,3
+2025-11-10,style width border,1
+2025-11-10,style width height,2
+2025-11-10,styles,4
 2025-11-10,stylish,6
+2025-11-10,subtle,1
 2025-11-10,summer,1
-2025-11-10,support,2
-2025-11-10,sure,3
+2025-11-10,sure,2
 2025-11-10,sweater,5
-2025-11-10,takes,4
+2025-11-10,takes,2
+2025-11-10,taking,1
 2025-11-10,talking,1
-2025-11-10,target,21
-2025-11-10,team,3
+2025-11-10,target,4
+2025-11-10,target div,1
+2025-11-10,target div div,1
+2025-11-10,target post,1
+2025-11-10,target post shared,1
 2025-11-10,tech,2
-2025-11-10,text,10
-2025-11-10,text align,4
-2025-11-10,thanksgiving,1
-2025-11-10,think,8
+2025-11-10,text,5
+2025-11-10,text align,2
+2025-11-10,text align center,2
+2025-11-10,text decoration,2
+2025-11-10,text decoration target,1
+2025-11-10,text decoration width,1
+2025-11-10,thing,3
+2025-11-10,think,5
 2025-11-10,thinking,4
-2025-11-10,thought,5
+2025-11-10,thought,4
 2025-11-10,tiktok,5
-2025-11-10,time,23
+2025-11-10,time,15
 2025-11-10,tips,1
-2025-11-10,told,3
+2025-11-10,told,2
 2025-11-10,tote,1
 2025-11-10,tracker,6
 2025-11-10,tracker vogue,6
 2025-11-10,tracker vogue vogue,3
+2025-11-10,traditional,2
 2025-11-10,transition,1
-2025-11-10,travel,13
-2025-11-10,trend,31
+2025-11-10,transparent,4
+2025-11-10,transparent border,1
+2025-11-10,transparent border left,1
+2025-11-10,transparent div,3
+2025-11-10,transparent div div,3
+2025-11-10,travel,10
+2025-11-10,trend,30
 2025-11-10,trend skincare,2
 2025-11-10,trend tracker,6
 2025-11-10,trend tracker vogue,6
 2025-11-10,trend vogue,2
-2025-11-10,trending,11
+2025-11-10,trending,13
 2025-11-10,trending trend,2
 2025-11-10,trending viral,1
 2025-11-10,trendingshorts,1
-2025-11-10,trends,13
+2025-11-10,trends,11
 2025-11-10,trends going,6
 2025-11-10,trends going look,6
-2025-11-10,tried,4
+2025-11-10,trendy,2
+2025-11-10,tried,3
+2025-11-10,true,2
 2025-11-10,truly,1
-2025-11-10,try,5
-2025-11-10,trying,4
+2025-11-10,try,3
+2025-11-10,trying,2
+2025-11-10,twist,1
 2025-11-10,ultimate,3
-2025-11-10,unique,8
+2025-11-10,unique,5
 2025-11-10,unique fashion,2
 2025-11-10,unique fashion gifts,2
 2025-11-10,upgrade,2
 2025-11-10,use,2
-2025-11-10,using,4
-2025-11-10,vegan,3
+2025-11-10,usually,3
 2025-11-10,version,8
-2025-11-10,vibe,6
-2025-11-10,videos,1
+2025-11-10,vibe,3
+2025-11-10,view,1
+2025-11-10,view post,1
+2025-11-10,view post instagram,1
 2025-11-10,viral,8
 2025-11-10,viral shorts,1
 2025-11-10,viral trending,1
 2025-11-10,viral trending trend,1
 2025-11-10,viral viralvideo,1
 2025-11-10,viralvideo,1
-2025-11-10,vogue,23
+2025-11-10,vogue,14
 2025-11-10,vogue business,6
 2025-11-10,vogue business beauty,6
 2025-11-10,vogue vogue,3
 2025-11-10,vogue vogue business,3
 2025-11-10,waiting,2
-2025-11-10,want,22
+2025-11-10,want,11
 2025-11-10,wants,12
+2025-11-10,wardrobe,5
 2025-11-10,warm,5
 2025-11-10,watch,7
 2025-11-10,watching,2
 2025-11-10,water,2
-2025-11-10,way,19
-2025-11-10,wear,1
+2025-11-10,way,17
 2025-11-10,wearing,1
 2025-11-10,weeks,1
 2025-11-10,weight,3
-2025-11-10,wellness,2
-2025-11-10,white,5
+2025-11-10,weight line,1
+2025-11-10,weight line height,1
+2025-11-10,weight normal,1
+2025-11-10,weight normal line,1
+2025-11-10,wellness,1
 2025-11-10,width,70
-2025-11-10,winter,25
-2025-11-10,women,20
-2025-11-10,work,2
+2025-11-10,width border,1
+2025-11-10,width border right,1
+2025-11-10,width div,11
+2025-11-10,width div div,10
+2025-11-10,width div style,1
+2025-11-10,width figcaption,54
+2025-11-10,width height,2
+2025-11-10,width height border,2
+2025-11-10,width margin,1
+2025-11-10,width margin right,1
+2025-11-10,width target,1
+2025-11-10,width target div,1
+2025-11-10,winter,22
+2025-11-10,women,3
 2025-11-10,works,2
-2025-11-10,world,8
-2025-11-10,worth,5
+2025-11-10,world,6
+2025-11-10,worth,4
 2025-11-10,worthy,4
-2025-11-10,year,23
+2025-11-10,wrong,1
+2025-11-10,year,14
 2025-11-10,years,2
-2025-11-10,zero,2
-2025-11-17,actually,2
+2025-11-10,zero,1
+2025-11-17,actually,3
 2025-11-17,adding,7
-2025-11-17,adds,1
+2025-11-17,adds,5
 2025-11-17,ahead,8
 2025-11-17,ahead black,6
 2025-11-17,ahead black friday,6
-2025-11-17,air,1
-2025-11-17,align,30
-2025-11-17,application,1
+2025-11-17,align,48
+2025-11-17,align center,48
+2025-11-17,align center rel,24
+2025-11-17,align center text,24
+2025-11-17,application,4
 2025-11-17,approved,1
-2025-11-17,art,4
+2025-11-17,arial,72
+2025-11-17,arial sans,72
+2025-11-17,arial sans serif,72
+2025-11-17,art,8
+2025-11-17,art fall,3
+2025-11-17,artist,7
+2025-11-17,ask,2
 2025-11-17,asking,1
-2025-11-17,available,29
-2025-11-17,bag,6
-2025-11-17,beautiful,2
-2025-11-17,beauty,52
-2025-11-17,beauty deals,1
+2025-11-17,auto,48
+2025-11-17,auto div,24
+2025-11-17,auto div style,24
+2025-11-17,auto width,24
+2025-11-17,auto width div,24
+2025-11-17,available,40
+2025-11-17,available height,31
+2025-11-17,available height src,31
+2025-11-17,background,240
+2025-11-17,background color,240
+2025-11-17,background color height,240
+2025-11-17,backward,2
+2025-11-17,bag,11
+2025-11-17,base,3
+2025-11-17,beautiful,3
+2025-11-17,beauty,54
 2025-11-17,beauty moisturizer,6
 2025-11-17,beauty moisturizer percent,6
 2025-11-17,beauty trend,11
@@ -793,158 +1001,229 @@ period,Term,Count
 2025-11-17,beauty trends,11
 2025-11-17,beautytips,4
 2025-11-17,beautytrends,11
-2025-11-17,best,17
+2025-11-17,best,23
+2025-11-17,best fashion,2
+2025-11-17,better,1
 2025-11-17,big,4
-2025-11-17,biggest,2
-2025-11-17,black,25
-2025-11-17,black friday,20
+2025-11-17,biggest,3
+2025-11-17,black,29
+2025-11-17,black friday,21
 2025-11-17,black friday deals,4
 2025-11-17,black friday elle,6
-2025-11-17,black friday fashion,7
 2025-11-17,blackpink,3
 2025-11-17,blackpink usa,3
 2025-11-17,blackpink usa challenge,3
-2025-11-17,blockquote,30
-2025-11-17,blockquote class,15
-2025-11-17,blue,2
+2025-11-17,blend,6
+2025-11-17,blockquote,52
+2025-11-17,blockquote class,24
+2025-11-17,blockquote class instagram,24
+2025-11-17,blue,3
 2025-11-17,blush,7
-2025-11-17,bold,6
-2025-11-17,brand,2
+2025-11-17,bold,7
+2025-11-17,border,144
+2025-11-17,border left,48
+2025-11-17,border left solid,48
+2025-11-17,border margin,24
+2025-11-17,border margin padding,24
+2025-11-17,border right,24
+2025-11-17,border right solid,24
+2025-11-17,border solid,48
+2025-11-17,border solid transparent,48
+2025-11-17,boyce,3
+2025-11-17,boyce coolest,3
+2025-11-17,boyce coolest nail,3
+2025-11-17,brand,3
 2025-11-17,brands,1
 2025-11-17,bring,3
+2025-11-17,brings,2
 2025-11-17,brown,6
-2025-11-17,bundles,1
+2025-11-17,building,2
 2025-11-17,business,2
 2025-11-17,bustle,1
 2025-11-17,care,3
-2025-11-17,challenge,7
-2025-11-17,change,1
+2025-11-17,center,48
+2025-11-17,center rel,24
+2025-11-17,center rel noopener,24
+2025-11-17,center text,24
+2025-11-17,center text decoration,24
+2025-11-17,certain,2
+2025-11-17,challenge,8
+2025-11-17,change,2
 2025-11-17,channel,5
 2025-11-17,chaos,1
-2025-11-17,chic,2
+2025-11-17,chic,4
 2025-11-17,choose,4
 2025-11-17,choose influencer,3
 2025-11-17,choose influencer did,3
 2025-11-17,claire,6
-2025-11-17,class,15
-2025-11-17,clean,2
+2025-11-17,class,26
+2025-11-17,class instagram,24
+2025-11-17,class instagram media,24
+2025-11-17,classic,5
+2025-11-17,clean,3
 2025-11-17,clear,1
 2025-11-17,clothing,3
-2025-11-17,coat,9
-2025-11-17,color,199
+2025-11-17,coat,14
+2025-11-17,coat available,4
+2025-11-17,color,318
+2025-11-17,color font,72
+2025-11-17,color font family,72
+2025-11-17,color height,240
+2025-11-17,color height margin,72
+2025-11-17,color height width,168
+2025-11-17,colors,2
 2025-11-17,come,3
-2025-11-17,coming,1
-2025-11-17,consider,1
+2025-11-17,comes,1
+2025-11-17,comfort,2
+2025-11-17,coming,2
+2025-11-17,consider,3
+2025-11-17,cool,3
+2025-11-17,coolest,3
+2025-11-17,coolest nail,3
+2025-11-17,coolest nail art,3
 2025-11-17,cosmetics,1
-2025-11-17,course,1
-2025-11-17,cozy,6
-2025-11-17,create,2
-2025-11-17,current,1
+2025-11-17,cost,3
+2025-11-17,cozy,12
+2025-11-17,create,6
+2025-11-17,current,2
 2025-11-17,cute,4
 2025-11-17,daily,1
 2025-11-17,dance,5
 2025-11-17,dance trend,3
+2025-11-17,dark,3
 2025-11-17,day,5
 2025-11-17,deals,18
-2025-11-17,december,5
-2025-11-17,decision,1
+2025-11-17,december,6
+2025-11-17,decoration,48
+2025-11-17,decoration target,24
+2025-11-17,decoration target post,24
+2025-11-17,decoration width,24
+2025-11-17,decoration width target,24
 2025-11-17,deep,4
 2025-11-17,design,6
+2025-11-17,designs,4
+2025-11-17,detailing,3
 2025-11-17,did,3
 2025-11-17,did trend,3
 2025-11-17,did trend perfectly,3
-2025-11-17,didn,1
+2025-11-17,didn,3
 2025-11-17,different,1
-2025-11-17,div,795
-2025-11-17,div div,410
-2025-11-17,div div div,120
-2025-11-17,div div figure,1
-2025-11-17,div figure,3
-2025-11-17,div figure img,3
-2025-11-17,does,5
-2025-11-17,doesn,2
-2025-11-17,doing,1
-2025-11-17,don,4
+2025-11-17,div,1269
+2025-11-17,div blockquote,24
+2025-11-17,div div,654
+2025-11-17,div div div,192
+2025-11-17,div div style,456
+2025-11-17,div figure,5
+2025-11-17,div figure img,5
+2025-11-17,div style,576
+2025-11-17,div style background,240
+2025-11-17,div style color,48
+2025-11-17,div style height,24
+2025-11-17,div style margin,96
+2025-11-17,div style padding,96
+2025-11-17,div style width,72
+2025-11-17,does,7
+2025-11-17,doesn,3
+2025-11-17,doing,2
+2025-11-17,don,5
 2025-11-17,douyin,5
 2025-11-17,douyin makeup,4
 2025-11-17,douyinmkaeup,3
 2025-11-17,douyinmkaeup viral,3
 2025-11-17,douyinmkaeup viral trending,3
-2025-11-17,dramatic,1
-2025-11-17,drop,1
+2025-11-17,dramatic,2
 2025-11-17,early,11
-2025-11-17,early black,6
-2025-11-17,early black friday,6
 2025-11-17,earn,2
-2025-11-17,earth,1
+2025-11-17,easy,2
 2025-11-17,edit,1
 2025-11-17,editor,1
 2025-11-17,effort,1
+2025-11-17,effortless,5
 2025-11-17,effortlessly,2
 2025-11-17,elle,10
 2025-11-17,elle meghan,3
 2025-11-17,elle meghan markle,3
 2025-11-17,end,3
-2025-11-17,especially,1
-2025-11-17,event,5
+2025-11-17,especially,3
 2025-11-17,extra,2
-2025-11-17,eye,7
+2025-11-17,eye,11
 2025-11-17,eyemakeup,3
 2025-11-17,eyes,1
 2025-11-17,face,1
-2025-11-17,fall,12
-2025-11-17,family,47
-2025-11-17,fashion,17
-2025-11-17,fashion deals,6
+2025-11-17,fact,2
+2025-11-17,fall,15
+2025-11-17,family,74
+2025-11-17,family arial,72
+2025-11-17,family arial sans,72
+2025-11-17,far,1
+2025-11-17,fashion,22
 2025-11-17,fashion gifts,2
+2025-11-17,faux,6
 2025-11-17,favorite,9
 2025-11-17,favorite beauty,6
 2025-11-17,favorite beauty moisturizer,6
-2025-11-17,feel,4
+2025-11-17,feel,7
 2025-11-17,feel like,1
-2025-11-17,feeling,2
-2025-11-17,feels,1
-2025-11-17,feels like,1
-2025-11-17,festive,4
-2025-11-17,figure,15
-2025-11-17,figure div,3
-2025-11-17,figure img,8
-2025-11-17,figure img src,7
-2025-11-17,finish,2
+2025-11-17,feeling,3
+2025-11-17,feels,2
+2025-11-17,felt,1
+2025-11-17,festive,6
+2025-11-17,figcaption,33
+2025-11-17,figure,22
+2025-11-17,figure div,5
+2025-11-17,figure img,12
+2025-11-17,figure img height,2
+2025-11-17,figure img src,10
+2025-11-17,finish,3
 2025-11-17,flawless,4
 2025-11-17,follow,6
 2025-11-17,follow beauty,6
 2025-11-17,follow beauty trend,6
-2025-11-17,force,1
+2025-11-17,font,240
+2025-11-17,font family,72
+2025-11-17,font family arial,72
+2025-11-17,font size,72
+2025-11-17,font size font,48
+2025-11-17,font size line,24
+2025-11-17,font style,48
+2025-11-17,font style normal,48
+2025-11-17,font weight,48
+2025-11-17,font weight line,24
+2025-11-17,font weight normal,24
 2025-11-17,free,4
-2025-11-17,friday,23
+2025-11-17,french,5
+2025-11-17,french tip,3
+2025-11-17,fresh,3
+2025-11-17,friday,24
 2025-11-17,friday deals,4
 2025-11-17,friday elle,6
 2025-11-17,friday elle meghan,3
-2025-11-17,friday fashion,7
-2025-11-17,friday fashion deals,5
-2025-11-17,friendly,1
+2025-11-17,friend,3
 2025-11-17,friends,3
 2025-11-17,frosty,1
-2025-11-17,fyp,4
-2025-11-17,gel,4
+2025-11-17,fun,1
+2025-11-17,fur,6
+2025-11-17,fyp,5
+2025-11-17,gel,14
+2025-11-17,gel polish,4
 2025-11-17,gift,2
-2025-11-17,gifting,1
-2025-11-17,gifts,7
-2025-11-17,girl,2
+2025-11-17,gifting,3
+2025-11-17,gifts,9
+2025-11-17,girl,5
 2025-11-17,girls,3
-2025-11-17,gives,1
+2025-11-17,gives,3
 2025-11-17,glam,8
+2025-11-17,glass,1
+2025-11-17,glossy,1
 2025-11-17,glow,4
-2025-11-17,going,6
+2025-11-17,going,7
 2025-11-17,gold,5
-2025-11-17,good,16
+2025-11-17,good,19
 2025-11-17,good skin,6
 2025-11-17,good skin times,6
-2025-11-17,goodness,4
-2025-11-17,goodness right,4
-2025-11-17,goodness right strong,4
-2025-11-17,got,2
+2025-11-17,goodness,7
+2025-11-17,goodness right,7
+2025-11-17,goodness right strong,7
 2025-11-17,great,1
 2025-11-17,green,3
 2025-11-17,grwm,2
@@ -953,183 +1232,329 @@ period,Term,Count
 2025-11-17,guarantees good skin,6
 2025-11-17,guide,2
 2025-11-17,hair,2
-2025-11-17,hard,1
+2025-11-17,hand,2
+2025-11-17,hard,24
 2025-11-17,health,1
-2025-11-17,height,283
+2025-11-17,heart,1
+2025-11-17,height,441
+2025-11-17,height border,48
+2025-11-17,height border left,24
+2025-11-17,height border solid,24
+2025-11-17,height margin,120
+2025-11-17,height margin auto,24
+2025-11-17,height margin margin,24
+2025-11-17,height margin right,24
+2025-11-17,height margin width,48
+2025-11-17,height padding,24
+2025-11-17,height padding text,24
+2025-11-17,height src,33
+2025-11-17,height src width,33
+2025-11-17,height text,24
+2025-11-17,height text decoration,24
+2025-11-17,height view,24
+2025-11-17,height view post,24
+2025-11-17,height width,168
+2025-11-17,height width div,144
+2025-11-17,height width margin,24
 2025-11-17,help,2
+2025-11-17,hidden,24
+2025-11-17,hidden padding,24
+2025-11-17,hidden padding text,24
 2025-11-17,high,3
 2025-11-17,high impact,1
 2025-11-17,holiday,11
 2025-11-17,holiday season,1
-2025-11-17,honor,1
+2025-11-17,hot,2
 2025-11-17,hottest,2
 2025-11-17,hottest holiday,2
 2025-11-17,huge,1
-2025-11-17,ideas,5
-2025-11-17,img,8
-2025-11-17,img src,7
-2025-11-17,img src figure,7
-2025-11-17,impact,2
+2025-11-17,ideas,7
+2025-11-17,img,12
+2025-11-17,img height,2
+2025-11-17,img height src,2
+2025-11-17,img src,10
+2025-11-17,img src figure,10
+2025-11-17,impact,3
 2025-11-17,independent,6
-2025-11-17,independently,1
 2025-11-17,india,6
 2025-11-17,india skinimalism,3
 2025-11-17,india skinimalism step,3
 2025-11-17,influencer,3
 2025-11-17,influencer did,3
 2025-11-17,influencer did trend,3
-2025-11-17,inspiration,1
-2025-11-17,inspired,3
+2025-11-17,inspiration,2
+2025-11-17,inspired,4
+2025-11-17,instagram,51
+2025-11-17,instagram div,24
+2025-11-17,instagram div div,24
+2025-11-17,instagram media,24
+2025-11-17,instagram media style,24
+2025-11-17,jacket,6
+2025-11-17,jacket available,3
 2025-11-17,jackets,3
 2025-11-17,jeans,11
-2025-11-17,just,8
+2025-11-17,just,16
+2025-11-17,key,3
 2025-11-17,kind,1
-2025-11-17,know,1
+2025-11-17,knit,3
+2025-11-17,know,2
 2025-11-17,korean,1
-2025-11-17,lands,2
-2025-11-17,latest,1
-2025-11-17,left,76
-2025-11-17,let,2
-2025-11-17,level,2
+2025-11-17,layer,3
+2025-11-17,left,122
+2025-11-17,left auto,24
+2025-11-17,left auto div,24
+2025-11-17,left div,48
+2025-11-17,left div div,24
+2025-11-17,left div style,24
+2025-11-17,left solid,48
+2025-11-17,left solid border,24
+2025-11-17,left solid transparent,24
+2025-11-17,let,3
 2025-11-17,light,3
 2025-11-17,lighter,1
-2025-11-17,like,13
-2025-11-17,like goodness,3
-2025-11-17,like goodness right,3
+2025-11-17,like,20
+2025-11-17,like goodness,5
+2025-11-17,like goodness right,5
 2025-11-17,limited,7
-2025-11-17,link,3
+2025-11-17,line,97
+2025-11-17,line height,96
+2025-11-17,line height margin,24
+2025-11-17,line height padding,24
+2025-11-17,line height text,24
+2025-11-17,line height view,24
+2025-11-17,lines,4
+2025-11-17,link,4
 2025-11-17,lips,6
 2025-11-17,lipstick,6
-2025-11-17,little,5
+2025-11-17,list,2
+2025-11-17,little,6
 2025-11-17,live,1
-2025-11-17,long,7
-2025-11-17,look,16
-2025-11-17,looking,3
-2025-11-17,lot,3
-2025-11-17,love,7
-2025-11-17,luxe,1
-2025-11-17,luxury,1
-2025-11-17,main,4
+2025-11-17,long,12
+2025-11-17,longer,1
+2025-11-17,look,17
+2025-11-17,looking,4
+2025-11-17,looks,1
+2025-11-17,lot,5
+2025-11-17,loungewear,3
+2025-11-17,love,11
+2025-11-17,lover,1
+2025-11-17,low,3
+2025-11-17,luxe,2
+2025-11-17,luxury,2
+2025-11-17,main,5
 2025-11-17,major,1
-2025-11-17,make,8
-2025-11-17,makes,3
+2025-11-17,make,13
+2025-11-17,makes,6
 2025-11-17,makeup,52
 2025-11-17,makeup beauty,2
 2025-11-17,makeup look,8
 2025-11-17,makeup trend,18
 2025-11-17,makeup trend blackpink,3
 2025-11-17,makeuptrend,4
-2025-11-17,margin,196
-2025-11-17,margin padding,16
+2025-11-17,manicure,18
+2025-11-17,manicures,3
+2025-11-17,margin,313
+2025-11-17,margin auto,24
+2025-11-17,margin auto width,24
+2025-11-17,margin div,48
+2025-11-17,margin div div,24
+2025-11-17,margin div style,24
+2025-11-17,margin left,72
+2025-11-17,margin left auto,24
+2025-11-17,margin left div,48
+2025-11-17,margin margin,24
+2025-11-17,margin margin overflow,24
+2025-11-17,margin overflow,24
+2025-11-17,margin overflow hidden,24
+2025-11-17,margin padding,25
+2025-11-17,margin padding width,24
+2025-11-17,margin right,48
+2025-11-17,margin right margin,24
+2025-11-17,margin right width,24
+2025-11-17,margin width,48
+2025-11-17,margin width div,48
 2025-11-17,marie,6
 2025-11-17,marie claire,6
 2025-11-17,markle,6
 2025-11-17,markle favorite,6
 2025-11-17,markle favorite beauty,6
-2025-11-17,match,1
-2025-11-17,matter,2
-2025-11-17,means,1
-2025-11-17,media,15
-2025-11-17,meet,1
+2025-11-17,match,2
+2025-11-17,matter,4
+2025-11-17,maximalist,2
+2025-11-17,media,24
+2025-11-17,media style,24
+2025-11-17,media style border,24
+2025-11-17,meet,2
 2025-11-17,meghan,6
 2025-11-17,meghan markle,6
 2025-11-17,meghan markle favorite,6
 2025-11-17,men,1
+2025-11-17,metallic,3
+2025-11-17,mind,2
+2025-11-17,minutes,4
+2025-11-17,mix,3
+2025-11-17,modern,2
 2025-11-17,moisturizer,6
 2025-11-17,moisturizer percent,6
 2025-11-17,moisturizer percent ahead,6
-2025-11-17,moment,2
-2025-11-17,monday,4
-2025-11-17,nail,23
-2025-11-17,natural,3
-2025-11-17,need,5
+2025-11-17,moment,3
+2025-11-17,month,1
+2025-11-17,nail,44
+2025-11-17,nail art,8
+2025-11-17,nail art fall,3
+2025-11-17,nail artist,6
+2025-11-17,nail ideas,4
+2025-11-17,nail salon,3
+2025-11-17,nails,37
+2025-11-17,natural,7
+2025-11-17,need,7
 2025-11-17,need nail,4
-2025-11-17,new,26
+2025-11-17,new,30
 2025-11-17,news,1
-2025-11-17,noopener,42
-2025-11-17,noopener target,12
-2025-11-17,noreferrer,42
-2025-11-17,noreferrer noopener,12
-2025-11-17,noreferrer noopener target,12
+2025-11-17,noopener,82
+2025-11-17,noopener noreferrer,62
+2025-11-17,noopener noreferrer style,48
+2025-11-17,noopener target,20
+2025-11-17,noreferrer,82
+2025-11-17,noreferrer noopener,20
+2025-11-17,noreferrer noopener target,20
+2025-11-17,noreferrer style,48
+2025-11-17,noreferrer style color,24
+2025-11-17,noreferrer style line,24
+2025-11-17,normal,72
+2025-11-17,normal font,48
+2025-11-17,normal font weight,48
+2025-11-17,normal line,24
+2025-11-17,normal line height,24
 2025-11-17,november,32
 2025-11-17,obsessed,1
+2025-11-17,offers,1
 2025-11-17,official,1
 2025-11-17,officially,2
 2025-11-17,old,2
-2025-11-17,outlet,1
-2025-11-17,padding,106
+2025-11-17,open,2
+2025-11-17,outerwear,4
+2025-11-17,outfit,4
+2025-11-17,overflow,24
+2025-11-17,overflow hidden,24
+2025-11-17,overflow hidden padding,24
+2025-11-17,padding,169
+2025-11-17,padding div,72
+2025-11-17,padding div div,48
+2025-11-17,padding div style,24
+2025-11-17,padding rel,24
+2025-11-17,padding rel noopener,24
+2025-11-17,padding text,48
+2025-11-17,padding text align,48
+2025-11-17,padding width,24
+2025-11-17,padding width div,24
 2025-11-17,pair,4
-2025-11-17,past,1
+2025-11-17,pairing,4
+2025-11-17,palette,4
+2025-11-17,party,3
+2025-11-17,past,3
 2025-11-17,people,1
 2025-11-17,percent,6
 2025-11-17,percent ahead,6
 2025-11-17,percent ahead black,6
-2025-11-17,perfect,8
-2025-11-17,perfectly,4
+2025-11-17,perfect,15
+2025-11-17,perfection,3
+2025-11-17,perfectly,5
 2025-11-17,perfectly douyinmkaeup,3
 2025-11-17,perfectly douyinmkaeup viral,3
 2025-11-17,perfume,1
+2025-11-17,personal,1
 2025-11-17,photos,1
-2025-11-17,piece,1
-2025-11-17,point,4
-2025-11-17,pop,1
-2025-11-17,post,30
+2025-11-17,pieces,3
+2025-11-17,pink,4
+2025-11-17,plaid,4
+2025-11-17,point,5
+2025-11-17,polish,5
+2025-11-17,post,48
+2025-11-17,post instagram,24
+2025-11-17,post instagram div,24
+2025-11-17,post shared,24
+2025-11-17,post shared div,2
 2025-11-17,power,4
-2025-11-17,process,6
+2025-11-17,print,5
+2025-11-17,pro,3
+2025-11-17,process,9
 2025-11-17,process follow,6
 2025-11-17,process follow beauty,6
 2025-11-17,product,5
 2025-11-17,products,3
+2025-11-17,professional,2
 2025-11-17,pros,1
-2025-11-17,questions,1
-2025-11-17,quiet,3
-2025-11-17,rack,2
+2025-11-17,quiet,4
+2025-11-17,quilted,3
 2025-11-17,ready,2
-2025-11-17,really,3
-2025-11-17,red,9
-2025-11-17,rel,42
-2025-11-17,rel noreferrer,12
-2025-11-17,rel noreferrer noopener,12
-2025-11-17,remember,1
+2025-11-17,real,1
+2025-11-17,really,4
+2025-11-17,red,10
+2025-11-17,reflects,1
+2025-11-17,rel,82
+2025-11-17,rel noopener,62
+2025-11-17,rel noopener noreferrer,62
+2025-11-17,rel noreferrer,20
+2025-11-17,rel noreferrer noopener,20
 2025-11-17,review,3
-2025-11-17,right,53
-2025-11-17,right strong,4
+2025-11-17,right,84
+2025-11-17,right margin,24
+2025-11-17,right margin left,24
+2025-11-17,right solid,24
+2025-11-17,right solid transparent,24
+2025-11-17,right strong,7
+2025-11-17,right width,24
+2025-11-17,right width div,24
 2025-11-17,romantic,2
-2025-11-17,routine,7
+2025-11-17,routine,8
 2025-11-17,routine skincareroutine,2
-2025-11-17,sale,52
-2025-11-17,sale styles,3
-2025-11-17,sales,3
+2025-11-17,sale,54
+2025-11-17,salon,10
+2025-11-17,sans,72
+2025-11-17,sans serif,72
+2025-11-17,sans serif font,72
 2025-11-17,say,3
-2025-11-17,score,2
-2025-11-17,season,6
-2025-11-17,second,1
+2025-11-17,says,6
+2025-11-17,season,11
 2025-11-17,secret,4
 2025-11-17,secrets,1
-2025-11-17,section,2
+2025-11-17,section,6
 2025-11-17,seen,1
-2025-11-17,select,9
-2025-11-17,self,2
-2025-11-17,sense,1
-2025-11-17,serum,1
-2025-11-17,set,11
-2025-11-17,shades,2
+2025-11-17,self,3
+2025-11-17,serif,72
+2025-11-17,serif font,72
+2025-11-17,serif font size,72
+2025-11-17,set,16
+2025-11-17,set perfect,1
+2025-11-17,shade,5
+2025-11-17,shades,5
+2025-11-17,shaped,1
+2025-11-17,shared,24
+2025-11-17,shared div,2
+2025-11-17,shared div blockquote,2
 2025-11-17,shimmering,3
-2025-11-17,shine,1
-2025-11-17,shop,13
-2025-11-17,shopping,2
-2025-11-17,short,9
+2025-11-17,shine,2
+2025-11-17,shop,14
+2025-11-17,shopping,3
+2025-11-17,short,10
 2025-11-17,shorts,17
 2025-11-17,shortsfeed,3
 2025-11-17,shortvideo,4
-2025-11-17,silk,3
-2025-11-17,silver,5
+2025-11-17,shoulder,5
+2025-11-17,silver,9
 2025-11-17,simple,4
+2025-11-17,single,1
+2025-11-17,size,72
+2025-11-17,size font,48
+2025-11-17,size font style,48
+2025-11-17,size line,24
+2025-11-17,size line height,24
 2025-11-17,skims,5
-2025-11-17,skin,16
+2025-11-17,skin,17
 2025-11-17,skin times,6
 2025-11-17,skin times india,6
-2025-11-17,skincare,23
+2025-11-17,skincare,24
 2025-11-17,skincare routine,5
 2025-11-17,skincare skincareroutine,4
 2025-11-17,skincare trend,3
@@ -1140,58 +1565,108 @@ period,Term,Count
 2025-11-17,skinimalism step,6
 2025-11-17,skinimalism step step,6
 2025-11-17,sky,1
+2025-11-17,slip,3
 2025-11-17,slugging,2
-2025-11-17,soft,9
-2025-11-17,space,1
-2025-11-17,spade,2
-2025-11-17,special,2
-2025-11-17,spice,1
+2025-11-17,small,3
+2025-11-17,soft,11
+2025-11-17,solid,121
+2025-11-17,solid border,24
+2025-11-17,solid border solid,24
+2025-11-17,solid transparent,96
+2025-11-17,solid transparent border,24
+2025-11-17,solid transparent div,72
+2025-11-17,space,3
 2025-11-17,spirit,2
-2025-11-17,src,35
-2025-11-17,src figure,7
-2025-11-17,src figure div,3
-2025-11-17,start,3
-2025-11-17,starting,9
-2025-11-17,statement,1
+2025-11-17,src,43
+2025-11-17,src figure,10
+2025-11-17,src figure div,5
+2025-11-17,src width,33
+2025-11-17,src width figcaption,33
+2025-11-17,standard,4
+2025-11-17,start,5
 2025-11-17,stay,1
-2025-11-17,step,15
+2025-11-17,step,16
 2025-11-17,step process,6
 2025-11-17,step process follow,6
 2025-11-17,step step,7
 2025-11-17,step step process,6
-2025-11-17,strong,175
-2025-11-17,strong black,1
-2025-11-17,strong early,2
-2025-11-17,strong like,3
-2025-11-17,strong like goodness,3
+2025-11-17,street,2
+2025-11-17,strong,201
+2025-11-17,strong like,5
+2025-11-17,strong like goodness,5
 2025-11-17,strong skims,2
 2025-11-17,strong strong,17
-2025-11-17,style,438
-2025-11-17,style margin,61
+2025-11-17,style,702
+2025-11-17,style background,240
+2025-11-17,style background color,240
+2025-11-17,style border,24
+2025-11-17,style border margin,24
+2025-11-17,style color,72
+2025-11-17,style color font,72
+2025-11-17,style height,24
+2025-11-17,style height margin,24
+2025-11-17,style line,24
+2025-11-17,style line height,24
+2025-11-17,style margin,97
+2025-11-17,style margin div,48
+2025-11-17,style margin left,48
+2025-11-17,style normal,48
+2025-11-17,style normal font,48
+2025-11-17,style padding,96
+2025-11-17,style padding div,72
+2025-11-17,style padding rel,24
+2025-11-17,style width,72
+2025-11-17,style width border,24
+2025-11-17,style width height,48
 2025-11-17,styles,14
 2025-11-17,stylish,4
+2025-11-17,subtle,5
+2025-11-17,subtle nail,4
+2025-11-17,subtle nail ideas,4
 2025-11-17,summer,4
-2025-11-17,support,2
-2025-11-17,sweater,19
+2025-11-17,sure,1
+2025-11-17,sweater,24
+2025-11-17,sweaters,3
 2025-11-17,takes,4
+2025-11-17,taking,2
 2025-11-17,talking,1
-2025-11-17,target,43
-2025-11-17,team,1
-2025-11-17,text,62
-2025-11-17,text align,30
-2025-11-17,thanksgiving,8
-2025-11-17,think,1
+2025-11-17,target,83
+2025-11-17,target div,24
+2025-11-17,target div div,24
+2025-11-17,target post,24
+2025-11-17,target post shared,24
+2025-11-17,tech,2
+2025-11-17,teddy,3
+2025-11-17,text,98
+2025-11-17,text align,48
+2025-11-17,text align center,48
+2025-11-17,text decoration,48
+2025-11-17,text decoration target,24
+2025-11-17,text decoration width,24
+2025-11-17,thanksgiving,10
+2025-11-17,thing,1
+2025-11-17,think,2
 2025-11-17,thinking,1
-2025-11-17,tiktok,8
-2025-11-17,time,11
+2025-11-17,thought,1
+2025-11-17,tiktok,10
+2025-11-17,time,13
 2025-11-17,times,8
 2025-11-17,times india,6
 2025-11-17,times india skinimalism,3
-2025-11-17,tips,5
-2025-11-17,tote,6
+2025-11-17,tip,4
+2025-11-17,tips,6
+2025-11-17,told,1
+2025-11-17,tones,5
+2025-11-17,tote,13
+2025-11-17,traditional,2
 2025-11-17,transition,5
+2025-11-17,transparent,96
+2025-11-17,transparent border,24
+2025-11-17,transparent border left,24
+2025-11-17,transparent div,72
+2025-11-17,transparent div div,72
 2025-11-17,travel,2
-2025-11-17,trend,67
+2025-11-17,trend,73
 2025-11-17,trend blackpink,3
 2025-11-17,trend blackpink usa,3
 2025-11-17,trend guarantees,6
@@ -1206,21 +1681,27 @@ period,Term,Count
 2025-11-17,trending trend,3
 2025-11-17,trending viral,2
 2025-11-17,trendingshorts,5
-2025-11-17,trends,20
-2025-11-17,tried,2
-2025-11-17,truly,3
-2025-11-17,try,1
+2025-11-17,trends,21
+2025-11-17,trendy,3
+2025-11-17,tried,4
+2025-11-17,true,1
+2025-11-17,truly,4
+2025-11-17,try,2
 2025-11-17,trying,2
-2025-11-17,ultimate,5
+2025-11-17,twist,3
+2025-11-17,ultimate,6
 2025-11-17,unique,2
 2025-11-17,unique fashion,2
 2025-11-17,unique fashion gifts,2
-2025-11-17,upgrade,1
+2025-11-17,upgrade,2
 2025-11-17,usa,4
 2025-11-17,usa challenge,3
-2025-11-17,use,3
+2025-11-17,use,5
+2025-11-17,usually,1
 2025-11-17,vibe,3
-2025-11-17,videos,3
+2025-11-17,view,24
+2025-11-17,view post,24
+2025-11-17,view post instagram,24
 2025-11-17,viral,29
 2025-11-17,viral beauty,1
 2025-11-17,viral shorts,2
@@ -1230,26 +1711,45 @@ period,Term,Count
 2025-11-17,viral viralvideo,2
 2025-11-17,viralvideo,7
 2025-11-17,waiting,1
-2025-11-17,want,2
+2025-11-17,want,4
+2025-11-17,wants,1
+2025-11-17,wardrobe,3
 2025-11-17,warm,4
 2025-11-17,watch,1
 2025-11-17,watching,1
 2025-11-17,water,3
-2025-11-17,way,6
+2025-11-17,way,7
 2025-11-17,wearing,3
-2025-11-17,weeks,2
-2025-11-17,weight,30
+2025-11-17,weeks,4
+2025-11-17,weight,48
+2025-11-17,weight line,24
+2025-11-17,weight line height,24
+2025-11-17,weight normal,24
+2025-11-17,weight normal line,24
 2025-11-17,wellness,2
-2025-11-17,white,2
-2025-11-17,width,268
-2025-11-17,winter,10
+2025-11-17,white,7
+2025-11-17,width,417
+2025-11-17,width border,24
+2025-11-17,width border right,24
+2025-11-17,width div,264
+2025-11-17,width div div,240
+2025-11-17,width div style,24
+2025-11-17,width figcaption,33
+2025-11-17,width height,48
+2025-11-17,width height border,48
+2025-11-17,width margin,24
+2025-11-17,width margin right,24
+2025-11-17,width target,24
+2025-11-17,width target div,24
+2025-11-17,winter,17
 2025-11-17,women,4
 2025-11-17,work,5
 2025-11-17,world,1
 2025-11-17,worth,3
-2025-11-17,worthy,2
-2025-11-17,year,4
-2025-11-17,years,1
+2025-11-17,worthy,4
+2025-11-17,wrong,2
+2025-11-17,year,5
+2025-11-17,years,2
 2025-11-17,youtube,3
 2025-11-17,youtubeshorts,4
 2025-11-17,zero,2
