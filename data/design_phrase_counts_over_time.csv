@@ -1,6 +1,5 @@
 period,Term,Count
 2025-10-13,content,1
-2025-10-13,creation,1
 2025-10-13,design,1
 2025-10-13,development,1
 2025-10-13,don,1
@@ -36,11 +35,11 @@ period,Term,Count
 2025-10-20,website,5
 2025-10-20,website design,3
 2025-10-27,article,1
-2025-10-27,design,6
-2025-10-27,design trends,6
-2025-10-27,design trends designmodo,6
+2025-10-27,design,8
+2025-10-27,design trends,8
+2025-10-27,design trends designmodo,8
 2025-10-27,designed,1
-2025-10-27,designmodo,6
+2025-10-27,designmodo,8
 2025-10-27,edition,2
 2025-10-27,email,4
 2025-10-27,free,1
@@ -48,11 +47,11 @@ period,Term,Count
 2025-10-27,just,1
 2025-10-27,new,2
 2025-10-27,time,1
-2025-10-27,trends,6
-2025-10-27,trends designmodo,6
-2025-10-27,web,2
-2025-10-27,web design,2
-2025-10-27,web design trends,2
+2025-10-27,trends,8
+2025-10-27,trends designmodo,8
+2025-10-27,web,4
+2025-10-27,web design,4
+2025-10-27,web design trends,4
 2025-11-03,aesthetics,1
 2025-11-03,animations,2
 2025-11-03,art,3
@@ -60,6 +59,7 @@ period,Term,Count
 2025-11-03,attention,1
 2025-11-03,bloq,2
 2025-11-03,building,1
+2025-11-03,business,3
 2025-11-03,case,1
 2025-11-03,clear,1
 2025-11-03,code,3
@@ -67,8 +67,8 @@ period,Term,Count
 2025-11-03,creative,3
 2025-11-03,creative bloq,2
 2025-11-03,css,2
-2025-11-03,design,9
-2025-11-03,design trends,4
+2025-11-03,design,11
+2025-11-03,design trends,6
 2025-11-03,designer,1
 2025-11-03,designers,1
 2025-11-03,designs,3
@@ -77,9 +77,10 @@ period,Term,Count
 2025-11-03,elements,1
 2025-11-03,episode,1
 2025-11-03,feel,1
-2025-11-03,graphic,3
-2025-11-03,graphic design,3
-2025-11-03,graphic design trends,3
+2025-11-03,future,2
+2025-11-03,graphic,5
+2025-11-03,graphic design,5
+2025-11-03,graphic design trends,5
 2025-11-03,graphics,1
 2025-11-03,ideas,1
 2025-11-03,ignore,1
@@ -102,9 +103,8 @@ period,Term,Count
 2025-11-03,systems,1
 2025-11-03,tips,2
 2025-11-03,today,1
-2025-11-03,tool,1
 2025-11-03,tools,1
-2025-11-03,trends,6
+2025-11-03,trends,8
 2025-11-03,trends ignore,1
 2025-11-03,unique,1
 2025-11-03,use,3
@@ -170,30 +170,29 @@ period,Term,Count
 2025-11-10,world,1
 2025-11-17,addiction,5
 2025-11-17,animation,2
-2025-11-17,animations,2
+2025-11-17,animations,3
 2025-11-17,best,3
 2025-11-17,bloq,2
 2025-11-17,brain,2
-2025-11-17,build,3
+2025-11-17,build,2
 2025-11-17,building,2
+2025-11-17,business,1
 2025-11-17,class,8
 2025-11-17,class medium,8
 2025-11-17,class medium feed,8
 2025-11-17,clear,1
 2025-11-17,collective,2
 2025-11-17,collective div,2
-2025-11-17,creation,1
 2025-11-17,creative,3
 2025-11-17,creative bloq,2
 2025-11-17,css,1
-2025-11-17,design,30
-2025-11-17,design tips,1
-2025-11-17,design trends,7
+2025-11-17,design,32
+2025-11-17,design tips,2
+2025-11-17,design trends,8
 2025-11-17,designer,2
 2025-11-17,designers,1
 2025-11-17,designmodo,8
-2025-11-17,development,6
-2025-11-17,development trends,6
+2025-11-17,development,4
 2025-11-17,discover,1
 2025-11-17,discover latest,1
 2025-11-17,div,4
@@ -201,8 +200,9 @@ period,Term,Count
 2025-11-17,div class medium,2
 2025-11-17,dive,1
 2025-11-17,doesn,1
-2025-11-17,episode,1
+2025-11-17,episode,2
 2025-11-17,examples,5
+2025-11-17,explores,2
 2025-11-17,feed,8
 2025-11-17,feed image,2
 2025-11-17,feed image src,2
@@ -214,9 +214,9 @@ period,Term,Count
 2025-11-17,font,2
 2025-11-17,fonts,2
 2025-11-17,free,5
-2025-11-17,fresh,3
+2025-11-17,fresh,4
 2025-11-17,frontend,3
-2025-11-17,generative,1
+2025-11-17,generative,2
 2025-11-17,graphic,3
 2025-11-17,graphic design,3
 2025-11-17,graphic design trends,2
@@ -231,8 +231,8 @@ period,Term,Count
 2025-11-17,item class,2
 2025-11-17,item class medium,2
 2025-11-17,just,2
-2025-11-17,know,2
-2025-11-17,latest,6
+2025-11-17,know,1
+2025-11-17,latest,5
 2025-11-17,latest web,4
 2025-11-17,learn,1
 2025-11-17,level,1
@@ -248,65 +248,61 @@ period,Term,Count
 2025-11-17,medium feed link,2
 2025-11-17,medium feed snippet,2
 2025-11-17,modern,5
-2025-11-17,new,2
+2025-11-17,new,3
 2025-11-17,online,1
 2025-11-17,patterns,2
 2025-11-17,people,1
 2025-11-17,poster,1
-2025-11-17,powerful,2
-2025-11-17,practical,1
+2025-11-17,powerful,1
+2025-11-17,practical,2
 2025-11-17,projects,2
 2025-11-17,reading,2
 2025-11-17,reading collective,2
 2025-11-17,reading collective div,2
 2025-11-17,ready,2
-2025-11-17,real,1
 2025-11-17,screen,5
-2025-11-17,short,2
+2025-11-17,short,3
 2025-11-17,shorts,1
 2025-11-17,snippet,2
 2025-11-17,social,2
 2025-11-17,src,2
 2025-11-17,src width,2
 2025-11-17,src width class,2
-2025-11-17,step,4
-2025-11-17,step step,2
+2025-11-17,step,2
 2025-11-17,stop,1
 2025-11-17,tech,2
-2025-11-17,tips,3
+2025-11-17,tips,4
 2025-11-17,today,2
-2025-11-17,tool,1
 2025-11-17,tools,5
 2025-11-17,transform,1
 2025-11-17,trend,4
-2025-11-17,trends,20
+2025-11-17,trends,19
 2025-11-17,trends ignore,1
 2025-11-17,trends modern,1
 2025-11-17,turn,1
-2025-11-17,tutorial,5
-2025-11-17,type,2
-2025-11-17,typography,3
+2025-11-17,tutorial,3
+2025-11-17,type,3
+2025-11-17,typography,4
 2025-11-17,use,3
 2025-11-17,usually,1
 2025-11-17,video,1
 2025-11-17,want,2
 2025-11-17,watch,1
-2025-11-17,web,19
+2025-11-17,web,17
 2025-11-17,web design,11
 2025-11-17,web design trends,3
-2025-11-17,web development,6
-2025-11-17,web development trends,6
+2025-11-17,web development,4
 2025-11-17,webdesign,1
-2025-11-17,website,5
+2025-11-17,website,4
 2025-11-17,website design,4
-2025-11-17,websites,4
+2025-11-17,websites,3
 2025-11-17,width,2
 2025-11-17,width class,2
 2025-11-17,width class medium,2
 2025-11-17,work,1
 2025-11-24,accessibility,6
 2025-11-24,addiction,2
-2025-11-24,adobe,4
+2025-11-24,adobe,5
 2025-11-24,aesthetics,2
 2025-11-24,alt,17
 2025-11-24,alt height,3
@@ -314,7 +310,7 @@ period,Term,Count
 2025-11-24,animation,3
 2025-11-24,animations,2
 2025-11-24,apps,4
-2025-11-24,art,12
+2025-11-24,art,14
 2025-11-24,attention,2
 2025-11-24,background,5
 2025-11-24,best,5
@@ -342,8 +338,7 @@ period,Term,Count
 2025-11-24,conversation,3
 2025-11-24,conversation highlighting,3
 2025-11-24,conversation highlighting responding,3
-2025-11-24,create,6
-2025-11-24,creation,1
+2025-11-24,create,7
 2025-11-24,creative,2
 2025-11-24,creativity,3
 2025-11-24,critical,3
@@ -353,12 +348,13 @@ period,Term,Count
 2025-11-24,day,6
 2025-11-24,deep,3
 2025-11-24,deep dive,2
-2025-11-24,design,100
+2025-11-24,design,102
 2025-11-24,design century,3
 2025-11-24,design evolution,3
 2025-11-24,design explore,3
+2025-11-24,design graphic,3
 2025-11-24,design tips,2
-2025-11-24,design trends,23
+2025-11-24,design trends,22
 2025-11-24,design trends modern,3
 2025-11-24,design typeone,3
 2025-11-24,design typography,3
@@ -389,6 +385,7 @@ period,Term,Count
 2025-11-24,experience,3
 2025-11-24,explore,12
 2025-11-24,explore latest,3
+2025-11-24,explores,1
 2025-11-24,exploring,3
 2025-11-24,fascinating,3
 2025-11-24,feed,21
@@ -408,9 +405,10 @@ period,Term,Count
 2025-11-24,future,3
 2025-11-24,generative,2
 2025-11-24,good,4
-2025-11-24,graphic,27
-2025-11-24,graphic design,24
-2025-11-24,graphic design trends,11
+2025-11-24,graphic,30
+2025-11-24,graphic design,26
+2025-11-24,graphic design graphic,3
+2025-11-24,graphic design trends,10
 2025-11-24,graphicdesign,7
 2025-11-24,graphics,2
 2025-11-24,hand,3
@@ -424,7 +422,7 @@ period,Term,Count
 2025-11-24,highlighting responding story,3
 2025-11-24,human,8
 2025-11-24,ideas,2
-2025-11-24,illustrator,3
+2025-11-24,illustrator,4
 2025-11-24,image,10
 2025-11-24,image src,5
 2025-11-24,image src width,5
@@ -434,7 +432,7 @@ period,Term,Count
 2025-11-24,impact,3
 2025-11-24,influence,2
 2025-11-24,inspiration,6
-2025-11-24,instead,9
+2025-11-24,instead,5
 2025-11-24,isn,7
 2025-11-24,issue,16
 2025-11-24,item,5
@@ -450,19 +448,19 @@ period,Term,Count
 2025-11-24,learn,2
 2025-11-24,let,3
 2025-11-24,level,2
-2025-11-24,like,9
+2025-11-24,like,12
 2025-11-24,link,5
 2025-11-24,link reading,5
 2025-11-24,link reading collective,5
 2025-11-24,little,3
-2025-11-24,logo,12
-2025-11-24,logo design,7
-2025-11-24,look,7
+2025-11-24,logo,14
+2025-11-24,logo design,9
+2025-11-24,look,9
 2025-11-24,looks,2
 2025-11-24,lot,4
 2025-11-24,magazine,11
 2025-11-24,magazine issue,4
-2025-11-24,make,6
+2025-11-24,make,7
 2025-11-24,makes,2
 2025-11-24,making,9
 2025-11-24,marketing,3
@@ -484,10 +482,10 @@ period,Term,Count
 2025-11-24,originally published,3
 2025-11-24,originally published collective,3
 2025-11-24,patterns,3
-2025-11-24,people,23
+2025-11-24,people,21
 2025-11-24,people continuing,3
 2025-11-24,people continuing conversation,3
-2025-11-24,photoshop,14
+2025-11-24,photoshop,11
 2025-11-24,poster,2
 2025-11-24,powerful,1
 2025-11-24,practical,2
@@ -512,7 +510,7 @@ period,Term,Count
 2025-11-24,save,2
 2025-11-24,screen,1
 2025-11-24,short,3
-2025-11-24,shorts,6
+2025-11-24,shorts,3
 2025-11-24,snippet,5
 2025-11-24,social,3
 2025-11-24,src,22
@@ -521,7 +519,6 @@ period,Term,Count
 2025-11-24,started,3
 2025-11-24,starts,4
 2025-11-24,step,6
-2025-11-24,step step,1
 2025-11-24,stop,1
 2025-11-24,story,6
 2025-11-24,strategy,4
@@ -532,17 +529,16 @@ period,Term,Count
 2025-11-24,tech,3
 2025-11-24,tenth,7
 2025-11-24,tenth issue,7
-2025-11-24,think,5
+2025-11-24,think,6
 2025-11-24,time,3
 2025-11-24,tips,4
 2025-11-24,today,2
-2025-11-24,tool,4
 2025-11-24,tools,5
 2025-11-24,training,5
 2025-11-24,transform,2
 2025-11-24,trend,1
 2025-11-24,trending,8
-2025-11-24,trends,39
+2025-11-24,trends,38
 2025-11-24,trends explore,3
 2025-11-24,trends graphic,3
 2025-11-24,trends graphic design,3
@@ -573,7 +569,7 @@ period,Term,Count
 2025-11-24,user,4
 2025-11-24,users,5
 2025-11-24,usually,2
-2025-11-24,video,22
+2025-11-24,video,21
 2025-11-24,view,3
 2025-11-24,viral,2
 2025-11-24,viralvideo,5
@@ -594,4 +590,4 @@ period,Term,Count
 2025-11-24,width class medium,5
 2025-11-24,work,15
 2025-11-24,world,5
-2025-11-24,years,8
+2025-11-24,years,10
