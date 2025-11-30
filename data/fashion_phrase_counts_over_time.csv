@@ -1,5 +1,6 @@
 period,Term,Count
 2025-10-13,claire,2
+2025-10-13,color,2
 2025-10-13,elle,2
 2025-10-13,elle fashion,1
 2025-10-13,fall,4
@@ -12,7 +13,6 @@ period,Term,Count
 2025-10-13,nyc,2
 2025-10-13,runways,2
 2025-10-13,say,2
-2025-10-13,shaping,2
 2025-10-13,spring,2
 2025-10-13,spring fashion,2
 2025-10-13,spring fashion trends,2
@@ -38,31 +38,29 @@ period,Term,Count
 2025-10-27,claire,2
 2025-10-27,colour,2
 2025-10-27,fall,4
-2025-10-27,fashion,4
-2025-10-27,fashion trend,4
-2025-10-27,glamour,2
-2025-10-27,help,2
+2025-10-27,fashion,6
+2025-10-27,fashion trend,6
+2025-10-27,glamour,4
 2025-10-27,hunter,2
+2025-10-27,inspired,4
 2025-10-27,making,2
 2025-10-27,marie,2
 2025-10-27,marie claire,2
-2025-10-27,print,2
+2025-10-27,print,4
 2025-10-27,runway,2
 2025-10-27,spring,2
-2025-10-27,stop,2
 2025-10-27,streetwear,2
-2025-10-27,trend,6
+2025-10-27,trend,8
 2025-10-27,trend hunter,2
 2025-10-27,trends,6
 2025-10-27,vogue,2
 2025-10-27,wardrobe,2
 2025-10-27,wear,4
 2025-10-27,winter,2
-2025-11-03,autumn,4
 2025-11-03,business,2
 2025-11-03,claire,4
 2025-11-03,dominate,4
-2025-11-03,elle,4
+2025-11-03,elle,6
 2025-11-03,elle fashion,2
 2025-11-03,fall,10
 2025-11-03,fall trends,6
@@ -73,6 +71,7 @@ period,Term,Count
 2025-11-03,fashion trends,14
 2025-11-03,gen,2
 2025-11-03,girls,4
+2025-11-03,home,2
 2025-11-03,marie,4
 2025-11-03,marie claire,4
 2025-11-03,media,4
@@ -91,8 +90,9 @@ period,Term,Count
 2025-11-03,staffers,6
 2025-11-03,staffers shopping,6
 2025-11-03,staffers shopping right,6
+2025-11-03,straight,2
 2025-11-03,tiktok,4
-2025-11-03,trend,10
+2025-11-03,trend,12
 2025-11-03,trends,24
 2025-11-03,trends staffers,6
 2025-11-03,trends staffers shopping,6
@@ -108,15 +108,19 @@ period,Term,Count
 2025-11-10,vogue,4
 2025-11-10,winter,2
 2025-11-10,winter trends,2
+2025-11-17,beautiful,2
+2025-11-17,change,4
 2025-11-17,christmas,4
 2025-11-17,claire,2
 2025-11-17,coat,2
+2025-11-17,different,1
 2025-11-17,fall,4
-2025-11-17,fashion,24
+2025-11-17,fall winter,4
+2025-11-17,fall winter fashion,4
+2025-11-17,fashion,22
 2025-11-17,fashion trend,4
 2025-11-17,fashion trends,14
 2025-11-17,glamour,4
-2025-11-17,global,2
 2025-11-17,hunter,2
 2025-11-17,latest,2
 2025-11-17,life,1
@@ -134,10 +138,8 @@ period,Term,Count
 2025-11-17,online,1
 2025-11-17,runway,2
 2025-11-17,say,2
-2025-11-17,shaping,2
-2025-11-17,star,1
 2025-11-17,streetwear,4
-2025-11-17,style,4
+2025-11-17,style,2
 2025-11-17,times,1
 2025-11-17,trend,8
 2025-11-17,trend hunter,2
@@ -148,315 +150,252 @@ period,Term,Count
 2025-11-17,winter fashion trends,4
 2025-11-17,women,4
 2025-11-17,women fashion,2
-2025-11-17,women fashion trends,2
 2025-11-17,year,5
-2025-11-24,aesthetic,7
-2025-11-24,album,3
-2025-11-24,album las,3
-2025-11-24,album las mujeres,3
-2025-11-24,autumn,2
-2025-11-24,beauty,6
-2025-11-24,best,14
-2025-11-24,black,4
-2025-11-24,black friday,4
+2025-11-24,aesthetic,6
+2025-11-24,ahead,3
+2025-11-24,ahead curve,3
+2025-11-24,ahead curve latest,3
+2025-11-24,article,4
+2025-11-24,article talk,4
+2025-11-24,article talk language,4
+2025-11-24,beautiful,4
+2025-11-24,best,22
+2025-11-24,best color,4
+2025-11-24,black,8
+2025-11-24,black friday,7
 2025-11-24,boots,5
-2025-11-24,brand,5
-2025-11-24,brands,5
-2025-11-24,budget,5
+2025-11-24,brings,3
 2025-11-24,business,4
-2025-11-24,buy,5
-2025-11-24,buy product,5
-2025-11-24,buy product link,5
-2025-11-24,casual,5
-2025-11-24,check,7
-2025-11-24,christmas,4
-2025-11-24,claire,2
-2025-11-24,clothes,2
-2025-11-24,clothing,14
-2025-11-24,clothing items,3
-2025-11-24,clothing items shirts,3
-2025-11-24,clothing rkymart,3
-2025-11-24,clothing rkymart product,3
-2025-11-24,clothingbrand,4
+2025-11-24,change,1
+2025-11-24,chinese,8
+2025-11-24,chinese street,6
+2025-11-24,chinese street fashion,6
+2025-11-24,christmas,2
+2025-11-24,clothes,5
+2025-11-24,clothing,6
 2025-11-24,coat,6
-2025-11-24,collection,9
-2025-11-24,colour,4
+2025-11-24,collection,6
+2025-11-24,color,6
+2025-11-24,colour,5
 2025-11-24,couture,4
-2025-11-24,design,5
-2025-11-24,discover,7
+2025-11-24,curve,3
+2025-11-24,curve latest,3
+2025-11-24,curve latest men,3
+2025-11-24,designer,4
+2025-11-24,different,3
+2025-11-24,disambiguation,4
+2025-11-24,discover,5
 2025-11-24,dominate,2
-2025-11-24,don,6
-2025-11-24,don lie,3
-2025-11-24,don lie shakira,3
-2025-11-24,dress,12
-2025-11-24,dresses,6
-2025-11-24,dresses skirts,3
+2025-11-24,download,4
+2025-11-24,download pdf,4
+2025-11-24,download pdf watch,4
+2025-11-24,dress,14
 2025-11-24,dressing,6
-2025-11-24,driven,5
-2025-11-24,elegant,4
+2025-11-24,elegant,6
+2025-11-24,evolution,4
+2025-11-24,explore,3
 2025-11-24,exploring,4
-2025-11-24,fall,2
-2025-11-24,fashion,132
-2025-11-24,fashion buy,3
-2025-11-24,fashion buy product,3
-2025-11-24,fashion clothing,3
-2025-11-24,fashion clothing rkymart,3
-2025-11-24,fashion fashiontrends,5
+2025-11-24,fall,4
+2025-11-24,fall winter,4
+2025-11-24,fall winter fashion,2
+2025-11-24,fashion,152
+2025-11-24,fashion article,4
+2025-11-24,fashion article talk,4
+2025-11-24,fashion disambiguation,4
+2025-11-24,fashion fashionstyle,6
 2025-11-24,fashion girls,2
-2025-11-24,fashion looks,4
-2025-11-24,fashion mensfashion,3
-2025-11-24,fashion stylish,3
-2025-11-24,fashion trend,14
-2025-11-24,fashion trends,34
+2025-11-24,fashion outfit,3
+2025-11-24,fashion trend,16
+2025-11-24,fashion trends,41
 2025-11-24,fashion trends hindustan,6
-2025-11-24,fashion trendy,3
-2025-11-24,fashion vogue,3
-2025-11-24,fashion vogue runway,3
-2025-11-24,fashionstyle,7
+2025-11-24,fashion trends taking,4
+2025-11-24,fashion vogue,4
+2025-11-24,fashion vogue runway,4
+2025-11-24,fashionstyle,13
+2025-11-24,fashionstyle fashion,3
 2025-11-24,fashionstyle lovelife,3
-2025-11-24,fashionstyle lovelife official,3
-2025-11-24,fashiontrends,45
-2025-11-24,fashiontrends fashionstyle,3
+2025-11-24,fashionstyle lovelife search,3
+2025-11-24,fashiontrends,37
+2025-11-24,fashiontrends fashionstyle,4
 2025-11-24,fashiontrends fashionstyle lovelife,3
-2025-11-24,fine,4
-2025-11-24,fit,6
-2025-11-24,friday,4
+2025-11-24,fine,5
+2025-11-24,footwear,4
+2025-11-24,friday,7
+2025-11-24,funny,4
 2025-11-24,gen,4
 2025-11-24,girl,4
-2025-11-24,girls,6
-2025-11-24,global,6
+2025-11-24,girls,10
+2025-11-24,global,5
 2025-11-24,good,5
-2025-11-24,help,3
-2025-11-24,high,5
+2025-11-24,haul,7
+2025-11-24,high,6
 2025-11-24,hindustan,12
 2025-11-24,hindustan times,12
-2025-11-24,hips,3
-2025-11-24,hips don,3
-2025-11-24,hips don lie,3
 2025-11-24,holiday,5
-2025-11-24,home,7
+2025-11-24,home,6
+2025-11-24,hoodies,3
 2025-11-24,hunter,3
-2025-11-24,ideas,7
+2025-11-24,ideas,10
 2025-11-24,ideas aesthetic,4
-2025-11-24,ignore,4
-2025-11-24,includes,3
-2025-11-24,includes wide,3
-2025-11-24,includes wide variety,3
 2025-11-24,india,9
-2025-11-24,inspo,4
+2025-11-24,inspired,1
+2025-11-24,inspo,6
 2025-11-24,instead,4
 2025-11-24,instyle,10
-2025-11-24,items,6
-2025-11-24,items shirts,3
-2025-11-24,items shirts trousers,3
-2025-11-24,jacket,13
-2025-11-24,jackets,8
-2025-11-24,jackets suits,3
-2025-11-24,jackets suits jeans,3
-2025-11-24,jean,3
-2025-11-24,jean shakira,3
-2025-11-24,jean shakira new,3
-2025-11-24,jeans,4
-2025-11-24,jeans dresses,3
-2025-11-24,jeans dresses skirts,3
-2025-11-24,just,6
+2025-11-24,items,3
+2025-11-24,jacket,9
+2025-11-24,jackets,5
 2025-11-24,know,5
-2025-11-24,las,3
-2025-11-24,las mujeres,3
-2025-11-24,las mujeres lloran,3
-2025-11-24,latest,7
-2025-11-24,lie,3
-2025-11-24,lie shakira,3
-2025-11-24,lie shakira wyclef,3
-2025-11-24,life,6
-2025-11-24,like,8
-2025-11-24,link,5
-2025-11-24,link check,5
-2025-11-24,listen,3
+2025-11-24,language,4
+2025-11-24,language download,4
+2025-11-24,language download pdf,4
+2025-11-24,latest,10
+2025-11-24,latest men,3
+2025-11-24,latest men fashion,3
+2025-11-24,life,8
+2025-11-24,like,7
+2025-11-24,link,3
 2025-11-24,living,3
-2025-11-24,lloran,3
-2025-11-24,lloran listen,3
-2025-11-24,look,9
-2025-11-24,looks,6
-2025-11-24,love,12
+2025-11-24,look,11
+2025-11-24,looks,8
+2025-11-24,love,9
 2025-11-24,lovelife,3
-2025-11-24,lovelife official,3
-2025-11-24,lovelife official video,3
+2025-11-24,lovelife search,3
+2025-11-24,lovelife search fashion,3
 2025-11-24,luxury,3
 2025-11-24,make,5
 2025-11-24,making,3
+2025-11-24,man,4
 2025-11-24,marie,2
-2025-11-24,marie claire,2
 2025-11-24,media,2
-2025-11-24,men,34
-2025-11-24,men fashion,11
-2025-11-24,men fashion trends,8
-2025-11-24,men printed,3
-2025-11-24,men tshirt,3
+2025-11-24,men,37
+2025-11-24,men fashion,13
+2025-11-24,men fashion trends,10
 2025-11-24,mens,6
-2025-11-24,mens omens,3
-2025-11-24,mens omens fashion,3
-2025-11-24,mensfashion,10
-2025-11-24,mensfashion fashiontrends,4
-2025-11-24,menswear,3
-2025-11-24,miss,10
+2025-11-24,mens fashion,3
+2025-11-24,mens style,3
+2025-11-24,mensfashion,11
+2025-11-24,menswear,2
+2025-11-24,miss,8
 2025-11-24,modeling,3
 2025-11-24,modeling models,3
 2025-11-24,modeling models fashion,3
-2025-11-24,models,3
-2025-11-24,models fashion,3
-2025-11-24,models fashion vogue,3
-2025-11-24,modern,6
-2025-11-24,mujeres,3
-2025-11-24,mujeres lloran,3
-2025-11-24,mujeres lloran listen,3
-2025-11-24,myntra,5
-2025-11-24,myntra myntrahaul,3
-2025-11-24,myntrafinds,4
-2025-11-24,myntrafinds myntra,3
-2025-11-24,myntrahaul,5
+2025-11-24,models,4
+2025-11-24,models fashion,4
+2025-11-24,models fashion vogue,4
+2025-11-24,modern,5
 2025-11-24,nail,2
-2025-11-24,need,11
-2025-11-24,new,46
-2025-11-24,new album,3
-2025-11-24,new album las,3
-2025-11-24,new fashion,6
-2025-11-24,new fashion trend,6
-2025-11-24,new way,6
-2025-11-24,new way life,6
+2025-11-24,need,9
+2025-11-24,new,57
+2025-11-24,new fashion,12
+2025-11-24,new fashion trend,8
+2025-11-24,new way,8
+2025-11-24,new way life,8
 2025-11-24,new york,9
-2025-11-24,newest,5
 2025-11-24,nyc,4
 2025-11-24,obsession,2
-2025-11-24,official,5
-2025-11-24,official video,3
-2025-11-24,official video hips,3
-2025-11-24,old,6
-2025-11-24,omens,3
-2025-11-24,omens fashion,3
-2025-11-24,omens fashion clothing,3
-2025-11-24,online,5
+2025-11-24,old,4
+2025-11-24,oldmoney,3
+2025-11-24,online,2
+2025-11-24,onlineshopping,3
+2025-11-24,ootd,4
 2025-11-24,outfit,27
-2025-11-24,outfit ideas,7
+2025-11-24,outfit ideas,9
 2025-11-24,outfit ideas aesthetic,4
 2025-11-24,outfitideas,6
-2025-11-24,outfitinspo,3
-2025-11-24,outfits,9
-2025-11-24,oversized,5
-2025-11-24,party,7
-2025-11-24,perfect,5
+2025-11-24,outfits,14
+2025-11-24,outfits style,3
+2025-11-24,party,5
+2025-11-24,pdf,4
+2025-11-24,pdf watch,4
+2025-11-24,pdf watch view,4
 2025-11-24,print,8
-2025-11-24,printed,4
-2025-11-24,product,8
-2025-11-24,product link,5
-2025-11-24,product link check,5
-2025-11-24,product range,3
-2025-11-24,product range includes,3
 2025-11-24,quarter,5
-2025-11-24,range,5
-2025-11-24,range includes,3
-2025-11-24,range includes wide,3
-2025-11-24,refresh,4
-2025-11-24,right,2
-2025-11-24,rkymart,3
-2025-11-24,rkymart product,3
-2025-11-24,rkymart product range,3
-2025-11-24,runway,3
-2025-11-24,runway fashiontrends,3
-2025-11-24,runway fashiontrends fashionstyle,3
+2025-11-24,queries,3
+2025-11-24,reels,6
+2025-11-24,right,1
+2025-11-24,runway,4
+2025-11-24,runway fashiontrends,4
+2025-11-24,runway fashiontrends fashionstyle,4
 2025-11-24,runways,2
-2025-11-24,sale,8
+2025-11-24,sale,13
 2025-11-24,say,4
-2025-11-24,season,7
-2025-11-24,shakira,6
-2025-11-24,shakira new,3
-2025-11-24,shakira new album,3
-2025-11-24,shakira wyclef,3
-2025-11-24,shakira wyclef jean,3
-2025-11-24,shaping,1
+2025-11-24,search,4
+2025-11-24,search fashion,4
+2025-11-24,search fashion article,4
+2025-11-24,season,8
 2025-11-24,shirt,4
-2025-11-24,shirts,5
-2025-11-24,shirts trousers,3
-2025-11-24,shirts trousers jackets,3
-2025-11-24,shopping,5
-2025-11-24,shorts,16
-2025-11-24,shorts fashiontrends,4
-2025-11-24,shortvideo,5
-2025-11-24,simple,4
-2025-11-24,skirts,4
-2025-11-24,star,4
-2025-11-24,stop,4
-2025-11-24,store,5
-2025-11-24,street,15
-2025-11-24,street fashion,7
-2025-11-24,street style,7
-2025-11-24,streetwear,21
-2025-11-24,stunning,3
-2025-11-24,style,42
+2025-11-24,shopping,3
+2025-11-24,short,4
+2025-11-24,shorts,20
+2025-11-24,shorts fashion,6
+2025-11-24,shorts fashion outfit,3
+2025-11-24,shorts trending,4
+2025-11-24,source,4
+2025-11-24,source uses,4
+2025-11-24,source uses fashion,4
+2025-11-24,stay,3
+2025-11-24,stay ahead,3
+2025-11-24,stay ahead curve,3
+2025-11-24,straight,3
+2025-11-24,street,13
+2025-11-24,street fashion,9
+2025-11-24,streetwear,23
+2025-11-24,stunning,4
+2025-11-24,style,48
 2025-11-24,style inspo,4
 2025-11-24,stylish,8
-2025-11-24,subscribe,3
-2025-11-24,suits,3
-2025-11-24,suits jeans,3
-2025-11-24,suits jeans dresses,3
-2025-11-24,tiktok,8
+2025-11-24,taking,4
+2025-11-24,talk,5
+2025-11-24,talk language,4
+2025-11-24,talk language download,4
+2025-11-24,tiktok,10
 2025-11-24,times,19
 2025-11-24,travel,2
-2025-11-24,trend,38
+2025-11-24,trend,37
 2025-11-24,trend hunter,2
-2025-11-24,trending,11
-2025-11-24,trendingshorts,4
-2025-11-24,trends,57
+2025-11-24,trending,14
+2025-11-24,trendingshorts,6
+2025-11-24,trends,61
 2025-11-24,trends hindustan,6
 2025-11-24,trends hindustan times,6
+2025-11-24,trends taking,4
 2025-11-24,trendy,11
-2025-11-24,trendy outfits,4
-2025-11-24,trousers,3
-2025-11-24,trousers jackets,3
-2025-11-24,trousers jackets suits,3
-2025-11-24,try,6
-2025-11-24,tshirt,7
-2025-11-24,tshirt men,3
-2025-11-24,tshirt men tshirt,3
-2025-11-24,tshirtmen,3
-2025-11-24,tshirts,3
-2025-11-24,variety,3
-2025-11-24,variety clothing,3
-2025-11-24,variety clothing items,3
-2025-11-24,video,8
-2025-11-24,video hips,3
-2025-11-24,video hips don,3
-2025-11-24,viral,20
-2025-11-24,viral fashion,6
+2025-11-24,try,8
+2025-11-24,try shorts,4
+2025-11-24,uses,4
+2025-11-24,uses fashion,4
+2025-11-24,uses fashion disambiguation,4
+2025-11-24,video,5
+2025-11-24,view,4
+2025-11-24,view source,4
+2025-11-24,view source uses,4
+2025-11-24,viral,19
 2025-11-24,viralvideo,3
-2025-11-24,vogue,7
-2025-11-24,vogue runway,3
-2025-11-24,vogue runway fashiontrends,3
+2025-11-24,vogue,6
+2025-11-24,vogue runway,4
+2025-11-24,vogue runway fashiontrends,4
 2025-11-24,wardrobe,9
-2025-11-24,wavy,6
-2025-11-24,wavy new,3
-2025-11-24,wavy new fashion,3
-2025-11-24,way,8
-2025-11-24,way life,6
-2025-11-24,wear,19
-2025-11-24,wearing,8
+2025-11-24,watch,4
+2025-11-24,watch view,4
+2025-11-24,watch view source,4
+2025-11-24,wavy,8
+2025-11-24,wavy new,4
+2025-11-24,wavy new fashion,4
+2025-11-24,way,10
+2025-11-24,way life,8
+2025-11-24,wear,18
+2025-11-24,wearing,6
 2025-11-24,wedding,5
-2025-11-24,welcome,5
-2025-11-24,wide,3
-2025-11-24,wide variety,3
-2025-11-24,wide variety clothing,3
-2025-11-24,winter,32
-2025-11-24,winter fashion,6
-2025-11-24,winter fashion trends,6
+2025-11-24,welcome,4
+2025-11-24,winter,38
+2025-11-24,winter fashion,8
+2025-11-24,winter fashion trends,8
 2025-11-24,winter trends,3
 2025-11-24,woman,9
 2025-11-24,woman home,6
-2025-11-24,women,11
-2025-11-24,women fashion,1
-2025-11-24,women fashion trends,1
-2025-11-24,wyclef,3
-2025-11-24,wyclef jean,3
-2025-11-24,wyclef jean shakira,3
+2025-11-24,women,14
+2025-11-24,women fashion,2
 2025-11-24,york,9
 2025-11-24,young,6
 2025-11-24,youtube,3
