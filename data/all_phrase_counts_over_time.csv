@@ -23,7 +23,7 @@ period,Term,Count
 2025-10-20,details,1
 2025-10-20,digest,2
 2025-10-20,diy,2
-2025-10-20,fall,2
+2025-10-20,fall,4
 2025-10-20,fashion,4
 2025-10-20,fashion trends,2
 2025-10-20,feels,1
@@ -42,7 +42,7 @@ period,Term,Count
 2025-10-20,interior designers,4
 2025-10-20,leave,4
 2025-10-20,little,1
-2025-10-20,makeup,6
+2025-10-20,makeup,8
 2025-10-20,makeup trend,2
 2025-10-20,middle,1
 2025-10-20,motion,1
@@ -113,7 +113,9 @@ period,Term,Count
 2025-10-27,comeback,2
 2025-10-27,coming,2
 2025-10-27,community,2
-2025-10-27,decor,4
+2025-10-27,cozy,2
+2025-10-27,decor,6
+2025-10-27,decor trends,2
 2025-10-27,define,4
 2025-10-27,design,14
 2025-10-27,design trend,2
@@ -143,7 +145,7 @@ period,Term,Count
 2025-10-27,good housekeeping,6
 2025-10-27,good housekeeping designers,1
 2025-10-27,group,2
-2025-10-27,home,8
+2025-10-27,home,10
 2025-10-27,home design,2
 2025-10-27,home design trends,2
 2025-10-27,home trend,2
@@ -165,12 +167,14 @@ period,Term,Count
 2025-10-27,living,4
 2025-10-27,living room,2
 2025-10-27,look,2
+2025-10-27,make,2
 2025-10-27,makeup,2
 2025-10-27,making,4
 2025-10-27,marie,2
 2025-10-27,marie claire,2
 2025-10-27,means,1
 2025-10-27,modern,2
+2025-10-27,modern home,2
 2025-10-27,month,1
 2025-10-27,needs,2
 2025-10-27,new,6
@@ -181,8 +185,8 @@ period,Term,Count
 2025-10-27,people,2
 2025-10-27,predict,6
 2025-10-27,print,4
-2025-10-27,real,8
-2025-10-27,real simple,8
+2025-10-27,real,10
+2025-10-27,real simple,10
 2025-10-27,retro,2
 2025-10-27,room,2
 2025-10-27,runway,2
@@ -190,7 +194,7 @@ period,Term,Count
 2025-10-27,secretly,2
 2025-10-27,shaped,2
 2025-10-27,share,2
-2025-10-27,simple,8
+2025-10-27,simple,10
 2025-10-27,skin,2
 2025-10-27,small,2
 2025-10-27,soft,2
@@ -199,6 +203,7 @@ period,Term,Count
 2025-10-27,southern living,2
 2025-10-27,spaces,2
 2025-10-27,spring,2
+2025-10-27,stay,2
 2025-10-27,stop,2
 2025-10-27,streetwear,2
 2025-10-27,style,2
@@ -208,7 +213,7 @@ period,Term,Count
 2025-10-27,times,2
 2025-10-27,trend,16
 2025-10-27,trend hunter,2
-2025-10-27,trends,26
+2025-10-27,trends,28
 2025-10-27,trends according,4
 2025-10-27,veranda,2
 2025-10-27,vogue,6
@@ -216,6 +221,7 @@ period,Term,Count
 2025-10-27,web,2
 2025-10-27,web design,2
 2025-10-27,web design trends,2
+2025-10-27,winter,2
 2025-10-27,york,2
 2025-10-27,york times,2
 2025-11-03,according,14
@@ -233,11 +239,10 @@ period,Term,Count
 2025-11-03,attention,1
 2025-11-03,autumn,4
 2025-11-03,beautiful,2
-2025-11-03,beauty,12
-2025-11-03,beauty trend,10
+2025-11-03,beauty,10
+2025-11-03,beauty trend,8
 2025-11-03,biggest,4
 2025-11-03,black,2
-2025-11-03,british,2
 2025-11-03,building,1
 2025-11-03,built,1
 2025-11-03,business,7
@@ -251,30 +256,27 @@ period,Term,Count
 2025-11-03,code,3
 2025-11-03,comeback,4
 2025-11-03,comes,2
+2025-11-03,comment,1
 2025-11-03,company,1
 2025-11-03,component,4
 2025-11-03,components,3
 2025-11-03,consistent,1
 2025-11-03,cosmetics,2
 2025-11-03,cosmopolitan,2
-2025-11-03,country,2
-2025-11-03,country living,2
-2025-11-03,country living magazine,2
 2025-11-03,create,1
-2025-11-03,creative,3
+2025-11-03,creative,5
 2025-11-03,css,2
-2025-11-03,dark,2
-2025-11-03,decor,18
-2025-11-03,decor trends,12
+2025-11-03,decor,16
+2025-11-03,decor trends,10
 2025-11-03,decorating,2
 2025-11-03,decoration,2
 2025-11-03,decoration ideas,2
-2025-11-03,design,27
+2025-11-03,design,29
 2025-11-03,design systems,1
 2025-11-03,design trend,2
-2025-11-03,design trends,18
+2025-11-03,design trends,20
 2025-11-03,designer,1
-2025-11-03,designers,19
+2025-11-03,designers,17
 2025-11-03,designers say,4
 2025-11-03,designs,3
 2025-11-03,digest,4
@@ -305,7 +307,7 @@ period,Term,Count
 2025-11-03,forbes,6
 2025-11-03,future,2
 2025-11-03,gen,2
-2025-11-03,girl,4
+2025-11-03,girl,2
 2025-11-03,girls,4
 2025-11-03,going,4
 2025-11-03,good,4
@@ -334,6 +336,7 @@ period,Term,Count
 2025-11-03,ideas,5
 2025-11-03,ignore,1
 2025-11-03,impact,2
+2025-11-03,inside,2
 2025-11-03,inspired,6
 2025-11-03,instead,2
 2025-11-03,interior,10
@@ -344,17 +347,17 @@ period,Term,Count
 2025-11-03,katie,4
 2025-11-03,key,4
 2025-11-03,language,1
+2025-11-03,latest,2
 2025-11-03,let,1
 2025-11-03,like,2
 2025-11-03,lip,2
-2025-11-03,living,8
-2025-11-03,living magazine,2
+2025-11-03,living,6
 2025-11-03,living room,2
 2025-11-03,logo,2
 2025-11-03,look,1
-2025-11-03,magazine,4
+2025-11-03,magazine,2
 2025-11-03,magical,2
-2025-11-03,make,12
+2025-11-03,make,10
 2025-11-03,manage,1
 2025-11-03,marie,2
 2025-11-03,marie claire,2
@@ -384,6 +387,7 @@ period,Term,Count
 2025-11-03,real world,1
 2025-11-03,released,2
 2025-11-03,reveal,1
+2025-11-03,review,2
 2025-11-03,right,8
 2025-11-03,room,2
 2025-11-03,save,1
@@ -411,7 +415,7 @@ period,Term,Count
 2025-11-03,start,2
 2025-11-03,state,1
 2025-11-03,stay,4
-2025-11-03,stop,4
+2025-11-03,stop,2
 2025-11-03,straight,2
 2025-11-03,strategy,4
 2025-11-03,streetwear,4
@@ -428,18 +432,16 @@ period,Term,Count
 2025-11-03,think,2
 2025-11-03,times,1
 2025-11-03,tips,2
-2025-11-03,tired,2
 2025-11-03,today,1
 2025-11-03,tool,1
 2025-11-03,tools,1
-2025-11-03,trend,30
+2025-11-03,trend,28
 2025-11-03,trend hunter,4
 2025-11-03,trends,70
 2025-11-03,trends actually,4
 2025-11-03,trends designers,2
 2025-11-03,trends dominate,4
 2025-11-03,trends high,4
-2025-11-03,trends homes,4
 2025-11-03,tricks,2
 2025-11-03,try,2
 2025-11-03,unique,1
@@ -468,18 +470,16 @@ period,Term,Count
 2025-11-03,youtube,1
 2025-11-03,ytshorts,1
 2025-11-10,able,1
-2025-11-10,according,10
-2025-11-10,according designers,10
-2025-11-10,actually,2
-2025-11-10,age,2
+2025-11-10,according,8
+2025-11-10,according designers,8
 2025-11-10,apartment,4
 2025-11-10,apartment therapy,4
 2025-11-10,asked,4
 2025-11-10,asked designers,4
 2025-11-10,beautiful,2
 2025-11-10,beauty,16
-2025-11-10,beauty trend,6
-2025-11-10,beauty trends,8
+2025-11-10,beauty trend,8
+2025-11-10,beauty trends,6
 2025-11-10,best,1
 2025-11-10,biggest,8
 2025-11-10,blue,3
@@ -488,8 +488,7 @@ period,Term,Count
 2025-11-10,build,1
 2025-11-10,bustle,4
 2025-11-10,buy,4
-2025-11-10,canada,4
-2025-11-10,care,2
+2025-11-10,canada,2
 2025-11-10,check,4
 2025-11-10,chic,4
 2025-11-10,christmas,2
@@ -498,10 +497,10 @@ period,Term,Count
 2025-11-10,claire winter,2
 2025-11-10,clean,1
 2025-11-10,closer,2
-2025-11-10,color,6
-2025-11-10,color trends,6
+2025-11-10,color,4
+2025-11-10,color trends,4
 2025-11-10,comeback,2
-2025-11-10,confident,2
+2025-11-10,comment,1
 2025-11-10,create,2
 2025-11-10,creativity,2
 2025-11-10,css,6
@@ -517,12 +516,12 @@ period,Term,Count
 2025-11-10,decorating trends,4
 2025-11-10,deep,1
 2025-11-10,deeply,1
-2025-11-10,design,19
-2025-11-10,design trend,6
+2025-11-10,design,17
+2025-11-10,design trend,4
 2025-11-10,design trends,12
 2025-11-10,design trends know,2
 2025-11-10,designer,1
-2025-11-10,designers,33
+2025-11-10,designers,31
 2025-11-10,designers say,8
 2025-11-10,development,1
 2025-11-10,did,4
@@ -536,16 +535,15 @@ period,Term,Count
 2025-11-10,effort,4
 2025-11-10,elements,2
 2025-11-10,elle,6
-2025-11-10,encourages,2
 2025-11-10,era,4
 2025-11-10,explains,1
 2025-11-10,eye,4
+2025-11-10,fall,2
 2025-11-10,far,2
 2025-11-10,fashion,2
 2025-11-10,fashion trends,2
 2025-11-10,favorite,1
 2025-11-10,features,1
-2025-11-10,feel,2
 2025-11-10,finally,2
 2025-11-10,finds,4
 2025-11-10,follow,1
@@ -554,31 +552,30 @@ period,Term,Count
 2025-11-10,forbes,4
 2025-11-10,fun,2
 2025-11-10,future,2
-2025-11-10,gardens,6
+2025-11-10,gardens,4
 2025-11-10,glossy,5
 2025-11-10,going,4
-2025-11-10,good,4
-2025-11-10,good housekeeping,2
+2025-11-10,gone,2
 2025-11-10,graphic,4
 2025-11-10,graphic design,4
 2025-11-10,graphic design trends,3
 2025-11-10,growth,2
 2025-11-10,hand,1
 2025-11-10,health,2
+2025-11-10,heard,2
 2025-11-10,helps,1
 2025-11-10,high,4
 2025-11-10,hold,4
-2025-11-10,holiday,8
+2025-11-10,holiday,6
 2025-11-10,holiday decor,2
 2025-11-10,holiday decorating,2
 2025-11-10,home,18
 2025-11-10,home decor,6
 2025-11-10,home design,4
-2025-11-10,homes,6
-2025-11-10,homes gardens,6
+2025-11-10,homes,4
+2025-11-10,homes gardens,4
 2025-11-10,house,4
 2025-11-10,house beautiful,2
-2025-11-10,housekeeping,2
 2025-11-10,ignore,4
 2025-11-10,impact,4
 2025-11-10,instead,6
@@ -586,7 +583,6 @@ period,Term,Count
 2025-11-10,interior design,2
 2025-11-10,interior design trends,2
 2025-11-10,interior designers,2
-2025-11-10,interior trends,4
 2025-11-10,just,2
 2025-11-10,kid,2
 2025-11-10,kids,2
@@ -600,10 +596,8 @@ period,Term,Count
 2025-11-10,living room,2
 2025-11-10,look,12
 2025-11-10,looking,1
-2025-11-10,looks,3
-2025-11-10,make,2
-2025-11-10,makeup,12
-2025-11-10,makeup trend,2
+2025-11-10,looks,1
+2025-11-10,makeup,8
 2025-11-10,makeup trends,4
 2025-11-10,making,4
 2025-11-10,marie,4
@@ -612,15 +606,13 @@ period,Term,Count
 2025-11-10,marthastewart,2
 2025-11-10,marthastewart home,1
 2025-11-10,meet,4
-2025-11-10,men,2
 2025-11-10,minimal,5
-2025-11-10,mistletoe,2
 2025-11-10,named,4
 2025-11-10,new,5
 2025-11-10,new year,2
-2025-11-10,news,6
+2025-11-10,news,2
 2025-11-10,officially,2
-2025-11-10,outdated,6
+2025-11-10,outdated,4
 2025-11-10,pages,1
 2025-11-10,parents,2
 2025-11-10,performance,4
@@ -632,14 +624,12 @@ period,Term,Count
 2025-11-10,projects,1
 2025-11-10,real,13
 2025-11-10,real simple,12
-2025-11-10,red,2
 2025-11-10,renovation,2
 2025-11-10,require,1
 2025-11-10,rich,2
 2025-11-10,right,1
 2025-11-10,room,2
 2025-11-10,say,8
-2025-11-10,self,2
 2025-11-10,shopping,2
 2025-11-10,simple,12
 2025-11-10,simply,1
@@ -661,50 +651,45 @@ period,Term,Count
 2025-11-10,technologies,1
 2025-11-10,therapy,4
 2025-11-10,tips,1
-2025-11-10,tired,2
 2025-11-10,tools,1
 2025-11-10,touch,1
-2025-11-10,trend,20
+2025-11-10,trend,18
 2025-11-10,trending,2
-2025-11-10,trends,67
+2025-11-10,trends,63
 2025-11-10,trends according,4
 2025-11-10,trends designers,8
 2025-11-10,trends high,4
-2025-11-10,trends homes,4
 2025-11-10,trends interior,2
 2025-11-10,trends know,2
 2025-11-10,trends year,4
-2025-11-10,trendy,4
+2025-11-10,trendy,2
 2025-11-10,tried,2
-2025-11-10,try,2
 2025-11-10,types,1
 2025-11-10,typography,2
 2025-11-10,used,1
 2025-11-10,using,2
 2025-11-10,veranda,2
+2025-11-10,vibrant,1
 2025-11-10,vintage,2
 2025-11-10,visual,5
 2025-11-10,vogue,6
-2025-11-10,want,4
+2025-11-10,want,2
 2025-11-10,wear,6
 2025-11-10,wear winter,2
 2025-11-10,web,5
 2025-11-10,website,1
-2025-11-10,winter,24
-2025-11-10,winter beauty,2
-2025-11-10,winter beauty trends,2
+2025-11-10,winter,22
 2025-11-10,winter biggest,4
 2025-11-10,winter fashion,2
 2025-11-10,winter fashion trends,2
 2025-11-10,woman,2
-2025-11-10,women,4
+2025-11-10,women,2
 2025-11-10,work,1
 2025-11-10,world,1
-2025-11-10,wwd,2
-2025-11-10,yahoo,4
+2025-11-10,yahoo,2
 2025-11-10,yahoo lifestyle,2
 2025-11-10,yahoo lifestyle canada,2
-2025-11-10,year,12
+2025-11-10,year,10
 2025-11-17,according,2
 2025-11-17,according designers,2
 2025-11-17,actually,2
@@ -719,7 +704,6 @@ period,Term,Count
 2025-11-17,beauty trend,4
 2025-11-17,beauty trends,2
 2025-11-17,benefits,2
-2025-11-17,better,2
 2025-11-17,biggest,1
 2025-11-17,blood,6
 2025-11-17,blood face,6
@@ -730,7 +714,6 @@ period,Term,Count
 2025-11-17,brown,2
 2025-11-17,building,1
 2025-11-17,business,4
-2025-11-17,buzzfeed,2
 2025-11-17,canada,2
 2025-11-17,card,2
 2025-11-17,change,4
@@ -738,23 +721,20 @@ period,Term,Count
 2025-11-17,check,1
 2025-11-17,chocolate,2
 2025-11-17,choices,4
-2025-11-17,christmas,2
 2025-11-17,clarity,3
 2025-11-17,clear,1
 2025-11-17,community,2
 2025-11-17,company,4
 2025-11-17,cosmopolitan,2
 2025-11-17,daily,2
-2025-11-17,day,4
+2025-11-17,day,2
 2025-11-17,decor,2
 2025-11-17,decorating,2
-2025-11-17,decoration,2
-2025-11-17,decoration ideas,2
-2025-11-17,define,4
+2025-11-17,define,2
 2025-11-17,defined,2
-2025-11-17,design,28
+2025-11-17,design,26
 2025-11-17,design tips,1
-2025-11-17,design trends,13
+2025-11-17,design trends,11
 2025-11-17,designer,4
 2025-11-17,designers,6
 2025-11-17,designers agree,4
@@ -792,25 +772,20 @@ period,Term,Count
 2025-11-17,healthy,2
 2025-11-17,holiday,2
 2025-11-17,holiday decorating,2
-2025-11-17,home,14
-2025-11-17,home design,2
-2025-11-17,home design trends,2
-2025-11-17,home trends,12
+2025-11-17,home,10
+2025-11-17,home trends,10
 2025-11-17,homes,2
 2025-11-17,homes gardens,2
 2025-11-17,housekeeping,6
 2025-11-17,housekeeping designers,2
 2025-11-17,hunter,2
-2025-11-17,ideas,2
 2025-11-17,india,2
 2025-11-17,infrastructure,1
-2025-11-17,inspired,2
 2025-11-17,interfaces,1
 2025-11-17,interior,12
 2025-11-17,interior design,10
 2025-11-17,interior design trends,8
-2025-11-17,just,6
-2025-11-17,katie,2
+2025-11-17,just,4
 2025-11-17,keeping,2
 2025-11-17,know,2
 2025-11-17,korean,2
@@ -824,25 +799,22 @@ period,Term,Count
 2025-11-17,long,2
 2025-11-17,luxury,2
 2025-11-17,make,6
-2025-11-17,makeup,8
-2025-11-17,makeup makeup,2
+2025-11-17,makeup,4
 2025-11-17,makeup trend,2
 2025-11-17,makeup trends,2
 2025-11-17,manage,1
-2025-11-17,marthastewart,6
+2025-11-17,marthastewart,4
 2025-11-17,mask,2
 2025-11-17,menstrual,10
 2025-11-17,micro,1
-2025-11-17,modern,2
 2025-11-17,need,2
 2025-11-17,need know,2
-2025-11-17,new,11
-2025-11-17,new york,4
+2025-11-17,new,9
+2025-11-17,new york,2
 2025-11-17,new york times,2
 2025-11-17,news,2
-2025-11-17,night,2
 2025-11-17,officially,4
-2025-11-17,outdated,4
+2025-11-17,outdated,2
 2025-11-17,patterns,2
 2025-11-17,people,2
 2025-11-17,performance,1
@@ -894,7 +866,7 @@ period,Term,Count
 2025-11-17,trees,2
 2025-11-17,trend,21
 2025-11-17,trend hunter,2
-2025-11-17,trends,50
+2025-11-17,trends,42
 2025-11-17,trends actually,2
 2025-11-17,trends dominate,2
 2025-11-17,trends interior,2
@@ -920,12 +892,11 @@ period,Term,Count
 2025-11-17,women,6
 2025-11-17,work,3
 2025-11-17,worth,2
-2025-11-17,wwd,2
 2025-11-17,yahoo,2
 2025-11-17,yahoo lifestyle,2
 2025-11-17,yahoo lifestyle canada,2
 2025-11-17,year,4
-2025-11-17,york,4
+2025-11-17,york,2
 2025-11-17,york times,2
 2025-11-24,accessibility,4
 2025-11-24,accessible,1
@@ -939,7 +910,6 @@ period,Term,Count
 2025-11-24,animations,2
 2025-11-24,avoid,2
 2025-11-24,based,1
-2025-11-24,basically,4
 2025-11-24,bazaar,6
 2025-11-24,beauty,34
 2025-11-24,beauty trend,22
@@ -949,17 +919,14 @@ period,Term,Count
 2025-11-24,better,4
 2025-11-24,big,3
 2025-11-24,biggest,2
-2025-11-24,bit,2
 2025-11-24,blood,8
 2025-11-24,blood face,4
 2025-11-24,bold,1
 2025-11-24,book,2
-2025-11-24,boots,1
 2025-11-24,brand,1
 2025-11-24,brands,2
 2025-11-24,breaks,1
 2025-11-24,business,7
-2025-11-24,bustle,6
 2025-11-24,calling,2
 2025-11-24,came,1
 2025-11-24,case,1
@@ -969,14 +936,14 @@ period,Term,Count
 2025-11-24,challenges,1
 2025-11-24,check,1
 2025-11-24,chic,4
-2025-11-24,children,5
+2025-11-24,children,2
 2025-11-24,christmas,7
 2025-11-24,christmas tree,5
 2025-11-24,clean,4
 2025-11-24,click,1
 2025-11-24,code,3
-2025-11-24,collection,3
-2025-11-24,color,6
+2025-11-24,collection,1
+2025-11-24,color,4
 2025-11-24,color trends,2
 2025-11-24,comfort,1
 2025-11-24,connected,1
@@ -999,15 +966,15 @@ period,Term,Count
 2025-11-24,decor,8
 2025-11-24,decor ideas,2
 2025-11-24,decor trends,2
-2025-11-24,decorating,6
-2025-11-24,decorating trends,2
+2025-11-24,decorating,8
+2025-11-24,decorating trends,6
 2025-11-24,deep,1
 2025-11-24,define,1
 2025-11-24,defining,2
-2025-11-24,design,37
+2025-11-24,design,38
 2025-11-24,design ideas,1
 2025-11-24,design systems,1
-2025-11-24,design trends,16
+2025-11-24,design trends,18
 2025-11-24,design trends know,1
 2025-11-24,designers,10
 2025-11-24,designers say,6
@@ -1026,8 +993,8 @@ period,Term,Count
 2025-11-24,evolution,4
 2025-11-24,examples,1
 2025-11-24,excerpt,3
-2025-11-24,expect,4
-2025-11-24,experts,6
+2025-11-24,expect,2
+2025-11-24,experts,4
 2025-11-24,explore,9
 2025-11-24,exploring,2
 2025-11-24,eye,2
@@ -1042,28 +1009,23 @@ period,Term,Count
 2025-11-24,featuring,1
 2025-11-24,feel,4
 2025-11-24,figure,1
-2025-11-24,focus,1
 2025-11-24,fonts,3
 2025-11-24,forecast,6
 2025-11-24,french,2
 2025-11-24,fun,1
 2025-11-24,futures,1
-2025-11-24,gardens,10
+2025-11-24,gardens,8
 2025-11-24,generative,1
-2025-11-24,gift,2
-2025-11-24,gifts,2
 2025-11-24,girls,2
-2025-11-24,giving,3
-2025-11-24,glam,2
 2025-11-24,glow,2
 2025-11-24,going,4
 2025-11-24,good,10
 2025-11-24,good housekeeping,10
 2025-11-24,good housekeeping designers,2
 2025-11-24,got,1
-2025-11-24,graphic,4
-2025-11-24,graphic design,3
-2025-11-24,graphic design trends,2
+2025-11-24,graphic,6
+2025-11-24,graphic design,5
+2025-11-24,graphic design trends,4
 2025-11-24,great,2
 2025-11-24,grow,1
 2025-11-24,harper,6
@@ -1071,27 +1033,27 @@ period,Term,Count
 2025-11-24,health,6
 2025-11-24,hear,2
 2025-11-24,help,1
-2025-11-24,high,1
 2025-11-24,highlighting,1
 2025-11-24,highlights,1
 2025-11-24,history,1
-2025-11-24,holiday,12
+2025-11-24,holiday,7
 2025-11-24,holiday decor,2
 2025-11-24,holiday decorating,2
 2025-11-24,home,12
 2025-11-24,home decor,2
 2025-11-24,home decor trends,2
 2025-11-24,home trends,6
-2025-11-24,homes,10
-2025-11-24,homes gardens,10
+2025-11-24,homes,8
+2025-11-24,homes gardens,8
 2025-11-24,house,4
 2025-11-24,house digest,2
 2025-11-24,housekeeping,10
 2025-11-24,housekeeping designers,2
 2025-11-24,huge,4
-2025-11-24,human,3
+2025-11-24,human,1
 2025-11-24,hunter,2
 2025-11-24,ideas,5
+2025-11-24,ignore,4
 2025-11-24,image,1
 2025-11-24,impact,2
 2025-11-24,important,1
@@ -1100,17 +1062,16 @@ period,Term,Count
 2025-11-24,influence,1
 2025-11-24,inspiration,2
 2025-11-24,inspiration modern,2
+2025-11-24,instead,2
 2025-11-24,interaction,1
 2025-11-24,interface,1
-2025-11-24,interior,10
+2025-11-24,interior,8
 2025-11-24,interior design,4
 2025-11-24,interior design trends,4
 2025-11-24,interior designers,2
-2025-11-24,interior trends,4
 2025-11-24,isn,1
 2025-11-24,issue,8
-2025-11-24,items,2
-2025-11-24,jackets,1
+2025-11-24,items,1
 2025-11-24,just,1
 2025-11-24,key,2
 2025-11-24,kid,1
@@ -1120,12 +1081,11 @@ period,Term,Count
 2025-11-24,layout,1
 2025-11-24,lead,2
 2025-11-24,led,3
-2025-11-24,library,1
 2025-11-24,life,10
 2025-11-24,like,3
 2025-11-24,line,1
 2025-11-24,live,2
-2025-11-24,living,8
+2025-11-24,living,12
 2025-11-24,living room,4
 2025-11-24,look,3
 2025-11-24,love,7
@@ -1133,8 +1093,6 @@ period,Term,Count
 2025-11-24,magic,2
 2025-11-24,make,3
 2025-11-24,makes,2
-2025-11-24,makeup,6
-2025-11-24,makeup trend,6
 2025-11-24,market,4
 2025-11-24,marthastewart,2
 2025-11-24,mask,4
@@ -1146,7 +1104,6 @@ period,Term,Count
 2025-11-24,minimal,1
 2025-11-24,minimalist,2
 2025-11-24,miss,3
-2025-11-24,mistletoe,4
 2025-11-24,modern,11
 2025-11-24,modern design,1
 2025-11-24,modern web,1
@@ -1161,7 +1118,6 @@ period,Term,Count
 2025-11-24,new way,8
 2025-11-24,new way life,8
 2025-11-24,newest,4
-2025-11-24,oil,1
 2025-11-24,old,5
 2025-11-24,online,1
 2025-11-24,open,1
@@ -1169,36 +1125,31 @@ period,Term,Count
 2025-11-24,paper,1
 2025-11-24,party,1
 2025-11-24,patterns,1
-2025-11-24,people,3
+2025-11-24,people,5
 2025-11-24,perfect,3
 2025-11-24,period,6
 2025-11-24,period blood,6
 2025-11-24,period blood face,4
 2025-11-24,person,1
-2025-11-24,personality,4
+2025-11-24,personality,2
 2025-11-24,places,1
-2025-11-24,plenty,4
+2025-11-24,plenty,2
 2025-11-24,points,2
 2025-11-24,post,2
 2025-11-24,powerful,1
 2025-11-24,practical,2
 2025-11-24,premium,4
-2025-11-24,print,4
+2025-11-24,print,2
 2025-11-24,problem,2
-2025-11-24,problems,3
 2025-11-24,products,1
 2025-11-24,quite,1
-2025-11-24,range,1
-2025-11-24,rare,1
 2025-11-24,read,2
 2025-11-24,ready,2
-2025-11-24,real,6
+2025-11-24,real,10
 2025-11-24,real simple,2
 2025-11-24,real world,1
-2025-11-24,recently,1
-2025-11-24,recommendations,1
+2025-11-24,reason,4
 2025-11-24,red,2
-2025-11-24,released,1
 2025-11-24,requires,2
 2025-11-24,residence,1
 2025-11-24,reveal,3
@@ -1206,7 +1157,6 @@ period,Term,Count
 2025-11-24,review,1
 2025-11-24,right,10
 2025-11-24,rise,2
-2025-11-24,romance,4
 2025-11-24,room,6
 2025-11-24,safe,4
 2025-11-24,save,1
@@ -1216,7 +1166,6 @@ period,Term,Count
 2025-11-24,scroll animation inspiration,2
 2025-11-24,season,3
 2025-11-24,second,1
-2025-11-24,selling,2
 2025-11-24,sense,1
 2025-11-24,series,1
 2025-11-24,shape,1
@@ -1231,8 +1180,8 @@ period,Term,Count
 2025-11-24,small,5
 2025-11-24,smooth,4
 2025-11-24,soon,1
-2025-11-24,southern,2
-2025-11-24,southern living,2
+2025-11-24,southern,6
+2025-11-24,southern living,6
 2025-11-24,space,2
 2025-11-24,spaces,2
 2025-11-24,spruce,2
@@ -1245,7 +1194,7 @@ period,Term,Count
 2025-11-24,storytelling,1
 2025-11-24,strengthening,4
 2025-11-24,studio,2
-2025-11-24,style,3
+2025-11-24,style,2
 2025-11-24,styles,1
 2025-11-24,styling,1
 2025-11-24,surprisingly,2
@@ -1262,20 +1211,20 @@ period,Term,Count
 2025-11-24,thing,1
 2025-11-24,think,1
 2025-11-24,thought,1
-2025-11-24,tiktok,8
+2025-11-24,tiktok,6
 2025-11-24,time,1
 2025-11-24,times,12
 2025-11-24,tips,1
 2025-11-24,today,7
-2025-11-24,touch,6
+2025-11-24,touch,4
 2025-11-24,transform,1
 2025-11-24,travel,2
 2025-11-24,tree,5
-2025-11-24,trend,54
+2025-11-24,trend,48
 2025-11-24,trend forecast,6
 2025-11-24,trend hunter,2
 2025-11-24,trending,2
-2025-11-24,trends,63
+2025-11-24,trends,67
 2025-11-24,trends country,2
 2025-11-24,trends designers,2
 2025-11-24,trends explore,4
@@ -1295,15 +1244,15 @@ period,Term,Count
 2025-11-24,typography,8
 2025-11-24,understanding,1
 2025-11-24,unexpected,2
+2025-11-24,upgrade,1
 2025-11-24,use,1
 2025-11-24,user,1
 2025-11-24,using,3
 2025-11-24,video,10
-2025-11-24,vintage,2
-2025-11-24,viral,9
+2025-11-24,viral,3
 2025-11-24,visuals,1
 2025-11-24,vogue,14
-2025-11-24,want,5
+2025-11-24,want,2
 2025-11-24,wavy,8
 2025-11-24,wavy new,4
 2025-11-24,wavy new fashion,4
@@ -1335,19 +1284,18 @@ period,Term,Count
 2025-12-01,access,8
 2025-12-01,accessibility,8
 2025-12-01,accessible,6
-2025-12-01,according,13
+2025-12-01,according,11
 2025-12-01,according experts,4
 2025-12-01,act,8
 2025-12-01,action,12
-2025-12-01,actually,32
+2025-12-01,actually,28
 2025-12-01,adapt,7
 2025-12-01,add,15
 2025-12-01,addition,7
 2025-12-01,adds,7
 2025-12-01,adobe,8
-2025-12-01,aesthetic,18
+2025-12-01,aesthetic,21
 2025-12-01,affordable,12
-2025-12-01,age,9
 2025-12-01,agni,8
 2025-12-01,agni batch,8
 2025-12-01,agni batch level,4
@@ -1370,10 +1318,10 @@ period,Term,Count
 2025-12-01,animation inspiration modern,2
 2025-12-01,animations,4
 2025-12-01,anti,6
-2025-12-01,apartment,37
+2025-12-01,apartment,35
 2025-12-01,apartment decor,5
 2025-12-01,apartment decor ideas,5
-2025-12-01,apartment therapy,6
+2025-12-01,apartment therapy,4
 2025-12-01,approach,8
 2025-12-01,approved,5
 2025-12-01,architects,20
@@ -1381,9 +1329,9 @@ period,Term,Count
 2025-12-01,architecture,19
 2025-12-01,area,9
 2025-12-01,areas,9
-2025-12-01,art,41
+2025-12-01,art,40
 2025-12-01,article,17
-2025-12-01,artist,7
+2025-12-01,artist,5
 2025-12-01,asia,3
 2025-12-01,ask,6
 2025-12-01,asked,5
@@ -1401,29 +1349,29 @@ period,Term,Count
 2025-12-01,bag,7
 2025-12-01,base,13
 2025-12-01,based,8
-2025-12-01,basically,4
 2025-12-01,batch,12
 2025-12-01,batch agni,4
 2025-12-01,batch agni batch,4
 2025-12-01,batch level,4
 2025-12-01,batch level new,4
-2025-12-01,bazaar,10
-2025-12-01,beautiful,27
-2025-12-01,beauty,103
+2025-12-01,bazaar,12
+2025-12-01,beautiful,26
+2025-12-01,beauty,102
 2025-12-01,beauty trend,1
 2025-12-01,beauty trends,12
-2025-12-01,beautytrends,8
+2025-12-01,beautytrends,7
 2025-12-01,bedroom,5
 2025-12-01,believe,6
 2025-12-01,benefits,4
-2025-12-01,best,94
+2025-12-01,best,90
 2025-12-01,better,17
 2025-12-01,big,29
 2025-12-01,biggest,22
 2025-12-01,bit,6
-2025-12-01,black,22
+2025-12-01,black,25
 2025-12-01,black friday,8
 2025-12-01,blend,4
+2025-12-01,blends,4
 2025-12-01,blockquote,62
 2025-12-01,blood,1
 2025-12-01,blue,3
@@ -1432,14 +1380,13 @@ period,Term,Count
 2025-12-01,boost,5
 2025-12-01,boots,8
 2025-12-01,boring,7
-2025-12-01,brand,55
+2025-12-01,brand,54
 2025-12-01,brands,8
 2025-12-01,break,11
 2025-12-01,breaking,5
 2025-12-01,breaks,3
-2025-12-01,bright,4
+2025-12-01,bright,7
 2025-12-01,brightskin,5
-2025-12-01,brilliant,7
 2025-12-01,bring,11
 2025-12-01,bringing,8
 2025-12-01,brings,14
@@ -1451,7 +1398,7 @@ period,Term,Count
 2025-12-01,built,17
 2025-12-01,business,27
 2025-12-01,bustle,6
-2025-12-01,buy,11
+2025-12-01,buy,13
 2025-12-01,buzzfeed,6
 2025-12-01,called,5
 2025-12-01,calling,7
@@ -1463,11 +1410,11 @@ period,Term,Count
 2025-12-01,care,14
 2025-12-01,carry,6
 2025-12-01,cart,7
-2025-12-01,casa,9
-2025-12-01,casa estilo,6
-2025-12-01,casa estilo estilodevida,6
+2025-12-01,casa,8
+2025-12-01,casa estilo,5
+2025-12-01,casa estilo estilodevida,5
 2025-12-01,case,8
-2025-12-01,celebrity,12
+2025-12-01,celebrity,10
 2025-12-01,center,41
 2025-12-01,central,7
 2025-12-01,centre,7
@@ -1482,26 +1429,26 @@ period,Term,Count
 2025-12-01,channel,8
 2025-12-01,chaos,3
 2025-12-01,check,7
-2025-12-01,chic,8
+2025-12-01,chic,7
 2025-12-01,children,12
-2025-12-01,china,12
+2025-12-01,china,14
 2025-12-01,chocolate,4
 2025-12-01,choice,13
 2025-12-01,choices,8
 2025-12-01,choose,12
-2025-12-01,christmas,194
-2025-12-01,christmas casa,6
-2025-12-01,christmas casa estilo,6
+2025-12-01,christmas,191
+2025-12-01,christmas casa,5
+2025-12-01,christmas casa estilo,5
 2025-12-01,christmas decor,11
 2025-12-01,christmas tree,4
-2025-12-01,christmas trends,6
-2025-12-01,christmas trends tendencias,6
+2025-12-01,christmas trends,5
+2025-12-01,christmas trends tendencias,5
 2025-12-01,cities,12
-2025-12-01,city,25
-2025-12-01,claire,8
+2025-12-01,city,24
+2025-12-01,claire,10
 2025-12-01,claire winter,1
 2025-12-01,clarity,7
-2025-12-01,class,63
+2025-12-01,class,65
 2025-12-01,class attachment,10
 2025-12-01,class attachment post,10
 2025-12-01,class rws,30
@@ -1509,14 +1456,15 @@ period,Term,Count
 2025-12-01,class rws img,10
 2025-12-01,class rws title,10
 2025-12-01,classic,9
-2025-12-01,clean,10
+2025-12-01,clean,11
 2025-12-01,clear,12
 2025-12-01,click,3
 2025-12-01,closer,6
-2025-12-01,clothing,14
-2025-12-01,coat,10
+2025-12-01,clothing,15
+2025-12-01,clothingbrand,5
+2025-12-01,coat,12
 2025-12-01,code,37
-2025-12-01,cold,10
+2025-12-01,cold,12
 2025-12-01,collaboration,8
 2025-12-01,collection,37
 2025-12-01,collective,16
@@ -1527,14 +1475,15 @@ period,Term,Count
 2025-12-01,combo,11
 2025-12-01,come,21
 2025-12-01,comeback,2
-2025-12-01,comes,13
+2025-12-01,comes,12
 2025-12-01,comfort,5
 2025-12-01,coming,6
+2025-12-01,comment,2
 2025-12-01,common,11
 2025-12-01,community,7
-2025-12-01,como,8
-2025-12-01,como decorar,6
-2025-12-01,como decorar decor,6
+2025-12-01,como,7
+2025-12-01,como decorar,5
+2025-12-01,como decorar decor,5
 2025-12-01,company,8
 2025-12-01,complex,14
 2025-12-01,complexity,10
@@ -1542,18 +1491,17 @@ period,Term,Count
 2025-12-01,components,15
 2025-12-01,concrete,4
 2025-12-01,conditions,5
-2025-12-01,confidence,12
-2025-12-01,confident,4
+2025-12-01,confidence,11
 2025-12-01,connect,9
 2025-12-01,connected,8
 2025-12-01,connection,8
 2025-12-01,consider,9
 2025-12-01,consistent,3
-2025-12-01,contemporaneo,6
-2025-12-01,contemporaneo estilocontemporaneo,6
-2025-12-01,contemporary,10
-2025-12-01,contemporary contemporaneo,6
-2025-12-01,contemporary contemporaneo estilocontemporaneo,6
+2025-12-01,contemporaneo,5
+2025-12-01,contemporaneo estilocontemporaneo,5
+2025-12-01,contemporary,9
+2025-12-01,contemporary contemporaneo,5
+2025-12-01,contemporary contemporaneo estilocontemporaneo,5
 2025-12-01,content,10
 2025-12-01,context,22
 2025-12-01,continue,5
@@ -1570,18 +1518,16 @@ period,Term,Count
 2025-12-01,cosmopolitan,6
 2025-12-01,countless,4
 2025-12-01,country,10
-2025-12-01,country living,6
-2025-12-01,country living magazine,6
 2025-12-01,couple,7
 2025-12-01,course,11
 2025-12-01,couture,3
-2025-12-01,cozy,19
+2025-12-01,cozy,18
 2025-12-01,craft,14
 2025-12-01,create,39
 2025-12-01,created,10
 2025-12-01,creates,4
 2025-12-01,creating,13
-2025-12-01,creative,19
+2025-12-01,creative,18
 2025-12-01,creativity,4
 2025-12-01,credit,8
 2025-12-01,critical,7
@@ -1589,35 +1535,38 @@ period,Term,Count
 2025-12-01,css practical,4
 2025-12-01,css practical webdesign,4
 2025-12-01,cultural,7
-2025-12-01,culture,6
+2025-12-01,culture,7
 2025-12-01,curated,6
-2025-12-01,currently,4
+2025-12-01,currently,6
 2025-12-01,customer,8
 2025-12-01,customers,7
+2025-12-01,cyber,44
+2025-12-01,cyber monday,42
 2025-12-01,daily,14
 2025-12-01,dark,5
 2025-12-01,data,29
 2025-12-01,dating,2
-2025-12-01,day,34
+2025-12-01,day,31
 2025-12-01,deal,4
-2025-12-01,december,57
+2025-12-01,december,58
 2025-12-01,decide,6
 2025-12-01,decision,19
 2025-12-01,decisions,16
-2025-12-01,decor,82
-2025-12-01,decor christmas,6
-2025-12-01,decor christmas casa,6
-2025-12-01,decor design,7
-2025-12-01,decor design trends,6
-2025-12-01,decor ideas,29
-2025-12-01,decor trends,10
-2025-12-01,decorar,6
-2025-12-01,decorar decor,6
-2025-12-01,decorar decor design,6
-2025-12-01,decorating,7
+2025-12-01,decor,90
+2025-12-01,decor christmas,5
+2025-12-01,decor christmas casa,5
+2025-12-01,decor design,6
+2025-12-01,decor design trends,5
+2025-12-01,decor idea,8
+2025-12-01,decor ideas,28
+2025-12-01,decor trends,12
+2025-12-01,decorar,5
+2025-12-01,decorar decor,5
+2025-12-01,decorar decor design,5
+2025-12-01,decorating,6
 2025-12-01,decorating trends,2
-2025-12-01,decoration,41
-2025-12-01,decoration ideas,7
+2025-12-01,decoration,38
+2025-12-01,decoration ideas,6
 2025-12-01,deep,6
 2025-12-01,deeper,6
 2025-12-01,deeply,3
@@ -1626,26 +1575,26 @@ period,Term,Count
 2025-12-01,defining,7
 2025-12-01,delivery,7
 2025-12-01,department,7
-2025-12-01,design,344
-2025-12-01,design ideas,12
+2025-12-01,design,336
+2025-12-01,design ideas,9
 2025-12-01,design product,4
 2025-12-01,design systems,17
 2025-12-01,design tips,3
 2025-12-01,design trend,13
-2025-12-01,design trends,34
-2025-12-01,design trends home,6
+2025-12-01,design trends,32
+2025-12-01,design trends home,5
 2025-12-01,design trends know,4
 2025-12-01,design villa,8
 2025-12-01,design villa trend,8
 2025-12-01,designed,15
 2025-12-01,designer,20
-2025-12-01,designers,53
+2025-12-01,designers,55
 2025-12-01,designers agree,2
 2025-12-01,designers say,6
 2025-12-01,designing,19
 2025-12-01,designing publishing,4
 2025-12-01,designing publishing css,4
-2025-12-01,designs,20
+2025-12-01,designs,21
 2025-12-01,desktop,7
 2025-12-01,details,11
 2025-12-01,development,10
@@ -1658,6 +1607,7 @@ period,Term,Count
 2025-12-01,direction,13
 2025-12-01,directly,7
 2025-12-01,discover,21
+2025-12-01,district,6
 2025-12-01,div,827
 2025-12-01,div class,12
 2025-12-01,div class rws,10
@@ -1669,12 +1619,12 @@ period,Term,Count
 2025-12-01,does,13
 2025-12-01,doesn,11
 2025-12-01,doing,11
-2025-12-01,dominate,3
-2025-12-01,don,32
+2025-12-01,dominate,5
+2025-12-01,don,33
 2025-12-01,dose,2
 2025-12-01,doubt,4
 2025-12-01,drawing,5
-2025-12-01,dress,17
+2025-12-01,dress,16
 2025-12-01,dresses,5
 2025-12-01,drive,4
 2025-12-01,driven,10
@@ -1697,8 +1647,7 @@ period,Term,Count
 2025-12-01,elle,14
 2025-12-01,email,2
 2025-12-01,emerging,4
-2025-12-01,encourages,4
-2025-12-01,end,14
+2025-12-01,end,16
 2025-12-01,ends,5
 2025-12-01,energy,12
 2025-12-01,ensure,6
@@ -1708,29 +1657,30 @@ period,Term,Count
 2025-12-01,environment,8
 2025-12-01,environments,5
 2025-12-01,episode,3
-2025-12-01,era,27
+2025-12-01,era,26
 2025-12-01,especially,10
 2025-12-01,essential,6
 2025-12-01,essentially,6
-2025-12-01,estilo,6
-2025-12-01,estilo estilodevida,6
-2025-12-01,estilo estilodevida moderno,6
-2025-12-01,estilocontemporaneo,6
-2025-12-01,estilodevida,6
-2025-12-01,estilodevida moderno,6
-2025-12-01,estilodevida moderno modern,6
+2025-12-01,estilo,5
+2025-12-01,estilo estilodevida,5
+2025-12-01,estilo estilodevida moderno,5
+2025-12-01,estilocontemporaneo,5
+2025-12-01,estilodevida,5
+2025-12-01,estilodevida moderno,5
+2025-12-01,estilodevida moderno modern,5
 2025-12-01,evidence,8
+2025-12-01,exactly,4
 2025-12-01,example,22
 2025-12-01,examples,11
 2025-12-01,excellent,4
 2025-12-01,excerpt,10
 2025-12-01,expect,7
 2025-12-01,expensive,7
-2025-12-01,experience,16
+2025-12-01,experience,17
 2025-12-01,experiences,21
 2025-12-01,experts,7
 2025-12-01,explains,4
-2025-12-01,explore,16
+2025-12-01,explore,14
 2025-12-01,exploring,8
 2025-12-01,express,6
 2025-12-01,extends,4
@@ -1744,19 +1694,21 @@ period,Term,Count
 2025-12-01,falling,4
 2025-12-01,family,52
 2025-12-01,far,4
-2025-12-01,fashion,123
+2025-12-01,fashion,130
 2025-12-01,fashion awards,8
+2025-12-01,fashion clothing,4
 2025-12-01,fashion fashiontrends,6
 2025-12-01,fashion style,6
 2025-12-01,fashion trend,8
-2025-12-01,fashion trends,21
+2025-12-01,fashion trends,19
 2025-12-01,fashionstyle,8
-2025-12-01,fashiontrends,37
-2025-12-01,fast,4
+2025-12-01,fashiontrends,39
+2025-12-01,fast,6
+2025-12-01,faux,8
 2025-12-01,favorite,10
 2025-12-01,feature,14
 2025-12-01,features,16
-2025-12-01,featuring,10
+2025-12-01,featuring,11
 2025-12-01,feel,21
 2025-12-01,feeling,9
 2025-12-01,feels,12
@@ -1778,7 +1730,6 @@ period,Term,Count
 2025-12-01,finally,5
 2025-12-01,finding,9
 2025-12-01,finds,5
-2025-12-01,flattering,8
 2025-12-01,flawless,4
 2025-12-01,flow,8
 2025-12-01,focus,17
@@ -1794,9 +1745,10 @@ period,Term,Count
 2025-12-01,forms,7
 2025-12-01,forward,9
 2025-12-01,founder,4
+2025-12-01,frame,4
 2025-12-01,frameworks,5
-2025-12-01,free,16
-2025-12-01,french,8
+2025-12-01,free,15
+2025-12-01,french,6
 2025-12-01,fresh,9
 2025-12-01,friday,10
 2025-12-01,friend,8
@@ -1805,16 +1757,16 @@ period,Term,Count
 2025-12-01,fun,6
 2025-12-01,function,8
 2025-12-01,functional,6
-2025-12-01,funny,5
-2025-12-01,future,30
+2025-12-01,funny,4
+2025-12-01,future,31
 2025-12-01,futures,6
-2025-12-01,fyp,9
+2025-12-01,fyp,7
 2025-12-01,gardens,9
 2025-12-01,gen,10
-2025-12-01,generated,6
+2025-12-01,generated,7
 2025-12-01,generative,16
 2025-12-01,genius,13
-2025-12-01,gets,6
+2025-12-01,gets,5
 2025-12-01,getting,6
 2025-12-01,gift,24
 2025-12-01,gifts,15
@@ -1822,16 +1774,17 @@ period,Term,Count
 2025-12-01,girls,3
 2025-12-01,given,13
 2025-12-01,gives,6
-2025-12-01,giving,7
-2025-12-01,glam,3
+2025-12-01,giving,9
+2025-12-01,glam,4
 2025-12-01,glass,6
-2025-12-01,global,13
+2025-12-01,global,12
 2025-12-01,glossy,2
 2025-12-01,glow,7
-2025-12-01,glowing,5
-2025-12-01,goes,7
+2025-12-01,glowing,7
+2025-12-01,goes,9
 2025-12-01,going,10
 2025-12-01,gold,13
+2025-12-01,gone,3
 2025-12-01,good,32
 2025-12-01,good housekeeping,6
 2025-12-01,good housekeeping designers,2
@@ -1847,7 +1800,7 @@ period,Term,Count
 2025-12-01,graphicdesign,6
 2025-12-01,great,14
 2025-12-01,greater,6
-2025-12-01,green,11
+2025-12-01,green,14
 2025-12-01,group,6
 2025-12-01,grow,3
 2025-12-01,growing,4
@@ -1859,28 +1812,28 @@ period,Term,Count
 2025-12-01,happens,9
 2025-12-01,hard,18
 2025-12-01,harder,6
-2025-12-01,harper,10
-2025-12-01,harper bazaar,10
+2025-12-01,harper,12
+2025-12-01,harper bazaar,12
 2025-12-01,hats,7
 2025-12-01,haul,4
 2025-12-01,having,13
 2025-12-01,head,12
 2025-12-01,heading,5
-2025-12-01,health,13
+2025-12-01,health,14
 2025-12-01,healthy,4
 2025-12-01,hear,6
+2025-12-01,heard,7
 2025-12-01,heart,6
 2025-12-01,height,282
 2025-12-01,height src,42
 2025-12-01,height src width,42
 2025-12-01,hello,12
 2025-12-01,hello magazine,8
-2025-12-01,help,28
+2025-12-01,help,27
 2025-12-01,helping,9
 2025-12-01,helps,9
 2025-12-01,high,16
 2025-12-01,higher,8
-2025-12-01,highlight,5
 2025-12-01,highlighting,8
 2025-12-01,highlighting responding,8
 2025-12-01,highlighting responding story,8
@@ -1888,29 +1841,27 @@ period,Term,Count
 2025-12-01,highly,8
 2025-12-01,history,9
 2025-12-01,hold,7
-2025-12-01,holiday,38
-2025-12-01,holiday decor,6
-2025-12-01,home,134
-2025-12-01,home decor,33
-2025-12-01,home decor christmas,6
-2025-12-01,home decor ideas,18
+2025-12-01,holiday,42
+2025-12-01,holiday decor,8
+2025-12-01,home,130
+2025-12-01,home decor,35
+2025-12-01,home decor christmas,5
+2025-12-01,home decor ideas,17
 2025-12-01,home decor trends,4
 2025-12-01,home design,22
 2025-12-01,home design trends,8
 2025-12-01,home design villa,8
-2025-12-01,home ideas,5
 2025-12-01,home trend,4
 2025-12-01,home trends,4
-2025-12-01,homedecor,8
+2025-12-01,homedecor,14
 2025-12-01,homes,14
 2025-12-01,homes gardens,8
 2025-12-01,hoodies,4
 2025-12-01,hope,5
 2025-12-01,hot,9
 2025-12-01,hours,5
-2025-12-01,house,44
+2025-12-01,house,38
 2025-12-01,house beautiful,2
-2025-12-01,house design,12
 2025-12-01,house digest,14
 2025-12-01,housekeeping,6
 2025-12-01,housekeeping designers,2
@@ -1918,8 +1869,9 @@ period,Term,Count
 2025-12-01,human,23
 2025-12-01,hunter,2
 2025-12-01,iconic,5
-2025-12-01,idea,14
+2025-12-01,idea,20
 2025-12-01,ideas,104
+2025-12-01,ideas homedecor,5
 2025-12-01,ideas shorts,5
 2025-12-01,identity,10
 2025-12-01,ignore,2
@@ -1946,9 +1898,9 @@ period,Term,Count
 2025-12-01,information,27
 2025-12-01,infrastructure,4
 2025-12-01,inside,10
-2025-12-01,inspiration,14
+2025-12-01,inspiration,15
 2025-12-01,inspiration modern,3
-2025-12-01,inspired,24
+2025-12-01,inspired,22
 2025-12-01,instantly,6
 2025-12-01,instead,17
 2025-12-01,integrate,5
@@ -1956,12 +1908,11 @@ period,Term,Count
 2025-12-01,interactions,4
 2025-12-01,interface,7
 2025-12-01,interfaces,20
-2025-12-01,interior,34
-2025-12-01,interior design,24
-2025-12-01,interior design ideas,6
-2025-12-01,interior design trends,9
+2025-12-01,interior,31
+2025-12-01,interior design,20
+2025-12-01,interior design trends,8
 2025-12-01,interior designers,1
-2025-12-01,interiordesign,22
+2025-12-01,interiordesign,25
 2025-12-01,interiordesign luxury,8
 2025-12-01,interiordesign luxury realestate,8
 2025-12-01,international,8
@@ -1971,29 +1922,30 @@ period,Term,Count
 2025-12-01,issues,6
 2025-12-01,items,26
 2025-12-01,iteration,3
+2025-12-01,jacket,9
 2025-12-01,jackets,9
 2025-12-01,jeans,12
 2025-12-01,job,8
 2025-12-01,join,4
 2025-12-01,journey,11
 2025-12-01,judgement,6
-2025-12-01,just,59
-2025-12-01,katie,4
+2025-12-01,just,62
+2025-12-01,katie,6
 2025-12-01,keeping,3
 2025-12-01,key,17
 2025-12-01,kid,3
 2025-12-01,kids,9
-2025-12-01,kitchen,15
+2025-12-01,kitchen,18
 2025-12-01,know,38
 2025-12-01,knowledge,6
-2025-12-01,known,16
+2025-12-01,known,18
 2025-12-01,korean,5
 2025-12-01,landing,4
 2025-12-01,landscape,13
 2025-12-01,language,6
 2025-12-01,large,9
 2025-12-01,larger,9
-2025-12-01,latest,30
+2025-12-01,latest,31
 2025-12-01,layer,7
 2025-12-01,layout,4
 2025-12-01,lead,7
@@ -2004,42 +1956,40 @@ period,Term,Count
 2025-12-01,led,3
 2025-12-01,left,76
 2025-12-01,lessons,10
-2025-12-01,let,23
+2025-12-01,let,22
 2025-12-01,level,26
 2025-12-01,level new,4
 2025-12-01,level new batch,4
-2025-12-01,library,4
 2025-12-01,life,49
 2025-12-01,lifestyle,15
 2025-12-01,lifestyle canada,4
 2025-12-01,light,9
 2025-12-01,lights,7
-2025-12-01,like,149
+2025-12-01,like,148
 2025-12-01,like goodness,10
 2025-12-01,like goodness right,10
 2025-12-01,limited,14
 2025-12-01,line,59
 2025-12-01,lines,10
 2025-12-01,link,17
-2025-12-01,lip,6
-2025-12-01,list,12
+2025-12-01,lip,4
+2025-12-01,list,11
 2025-12-01,little,19
 2025-12-01,live,6
 2025-12-01,lives,8
-2025-12-01,living,20
-2025-12-01,living magazine,6
-2025-12-01,living room,6
+2025-12-01,living,22
+2025-12-01,living room,9
 2025-12-01,local,5
-2025-12-01,loft,5
+2025-12-01,loft,9
 2025-12-01,logo,12
 2025-12-01,logo design,7
-2025-12-01,london,7
-2025-12-01,long,21
+2025-12-01,london,10
+2025-12-01,long,22
 2025-12-01,longer,13
-2025-12-01,look,42
+2025-12-01,look,40
 2025-12-01,looking,8
-2025-12-01,looks,26
-2025-12-01,looks like,6
+2025-12-01,looks,27
+2025-12-01,looks like,7
 2025-12-01,lot,8
 2025-12-01,love,57
 2025-12-01,love home,8
@@ -2057,20 +2007,20 @@ period,Term,Count
 2025-12-01,magical,4
 2025-12-01,main,5
 2025-12-01,major,11
-2025-12-01,make,66
+2025-12-01,make,63
 2025-12-01,makeover,14
 2025-12-01,makes,15
 2025-12-01,makeup,66
 2025-12-01,makeup makeup,5
-2025-12-01,makeup trend,17
+2025-12-01,makeup trend,18
 2025-12-01,makeup trends,2
 2025-12-01,making,40
 2025-12-01,man,17
 2025-12-01,manage,6
 2025-12-01,manager,4
 2025-12-01,managing,12
-2025-12-01,marie,8
-2025-12-01,marie claire,8
+2025-12-01,marie,10
+2025-12-01,marie claire,10
 2025-12-01,marie claire winter,1
 2025-12-01,market,8
 2025-12-01,marthastewart,4
@@ -2092,30 +2042,32 @@ period,Term,Count
 2025-12-01,meet,12
 2025-12-01,memory,5
 2025-12-01,men,32
-2025-12-01,men fashion,5
+2025-12-01,men fashion,8
+2025-12-01,mensfashion,8
+2025-12-01,menswear,6
 2025-12-01,mentioned,4
 2025-12-01,micro,4
 2025-12-01,middle,4
 2025-12-01,mind,17
 2025-12-01,mindset,9
-2025-12-01,minimal,5
+2025-12-01,minimal,6
 2025-12-01,minimalist,5
 2025-12-01,miss,2
-2025-12-01,mistletoe,2
-2025-12-01,model,21
+2025-12-01,model,22
 2025-12-01,models,8
-2025-12-01,modern,57
-2025-12-01,modern contemporary,6
-2025-12-01,modern contemporary contemporaneo,6
+2025-12-01,modern,63
+2025-12-01,modern contemporary,5
+2025-12-01,modern contemporary contemporaneo,5
 2025-12-01,modern design,3
+2025-12-01,modern home,3
 2025-12-01,modern web,3
-2025-12-01,moderno,6
-2025-12-01,moderno modern,6
-2025-12-01,moderno modern contemporary,6
+2025-12-01,moderno,5
+2025-12-01,moderno modern,5
+2025-12-01,moderno modern contemporary,5
 2025-12-01,moment,16
-2025-12-01,monday,42
+2025-12-01,monday,44
 2025-12-01,month,3
-2025-12-01,morning,11
+2025-12-01,morning,13
 2025-12-01,motion,4
 2025-12-01,moving,9
 2025-12-01,multi,7
@@ -2123,27 +2075,27 @@ period,Term,Count
 2025-12-01,music,9
 2025-12-01,nail,17
 2025-12-01,named,6
-2025-12-01,natural,21
+2025-12-01,natural,22
 2025-12-01,nature,32
-2025-12-01,navidad,7
-2025-12-01,navidad como,6
-2025-12-01,navidad como decorar,6
+2025-12-01,navidad,6
+2025-12-01,navidad como,5
+2025-12-01,navidad como decorar,5
 2025-12-01,navigate,4
 2025-12-01,necessary,5
-2025-12-01,need,58
+2025-12-01,need,57
 2025-12-01,need know,10
 2025-12-01,needed,18
-2025-12-01,needs,16
-2025-12-01,new,120
+2025-12-01,needs,17
+2025-12-01,new,122
 2025-12-01,new batch,4
 2025-12-01,new batch agni,4
 2025-12-01,new fashion,3
 2025-12-01,new trending,6
 2025-12-01,new way,1
 2025-12-01,new year,6
-2025-12-01,new york,16
-2025-12-01,new york city,7
-2025-12-01,new york times,4
+2025-12-01,new york,15
+2025-12-01,new york city,6
+2025-12-01,new york times,6
 2025-12-01,newest,4
 2025-12-01,news,17
 2025-12-01,ngi,4
@@ -2162,7 +2114,6 @@ period,Term,Count
 2025-12-01,offering,32
 2025-12-01,offers,5
 2025-12-01,office,6
-2025-12-01,oil,9
 2025-12-01,old,17
 2025-12-01,olevel,4
 2025-12-01,olevel ngi,4
@@ -2180,9 +2131,9 @@ period,Term,Count
 2025-12-01,originally published collective,8
 2025-12-01,outdated,5
 2025-12-01,outerwear,7
-2025-12-01,outfit,15
+2025-12-01,outfit,18
 2025-12-01,outfitideas,5
-2025-12-01,outfits,16
+2025-12-01,outfits,10
 2025-12-01,overall,5
 2025-12-01,oversized,6
 2025-12-01,pages,3
@@ -2190,7 +2141,7 @@ period,Term,Count
 2025-12-01,paper,14
 2025-12-01,parent,7
 2025-12-01,parents,6
-2025-12-01,party,6
+2025-12-01,party,8
 2025-12-01,past,8
 2025-12-01,pattern,4
 2025-12-01,patterns,12
@@ -2198,20 +2149,20 @@ period,Term,Count
 2025-12-01,people,66
 2025-12-01,people continuing,8
 2025-12-01,people continuing conversation,8
-2025-12-01,perfect,35
+2025-12-01,perfect,34
 2025-12-01,perfectly,7
 2025-12-01,performance,5
 2025-12-01,period,7
 2025-12-01,person,9
-2025-12-01,personal,7
-2025-12-01,personality,1
+2025-12-01,personal,8
+2025-12-01,personality,2
 2025-12-01,pick,6
 2025-12-01,picture,5
 2025-12-01,piece,9
 2025-12-01,pieces,12
 2025-12-01,place,9
 2025-12-01,places,11
-2025-12-01,plan,14
+2025-12-01,plan,13
 2025-12-01,planning,9
 2025-12-01,plans,12
 2025-12-01,play,5
@@ -2224,14 +2175,14 @@ period,Term,Count
 2025-12-01,popular,8
 2025-12-01,positive,4
 2025-12-01,possible,11
-2025-12-01,post,67
+2025-12-01,post,69
 2025-12-01,post image,10
 2025-12-01,post image height,10
 2025-12-01,post thumbnail,20
 2025-12-01,post thumbnail post,10
 2025-12-01,post thumbnail size,10
 2025-12-01,potential,6
-2025-12-01,power,20
+2025-12-01,power,18
 2025-12-01,powered,7
 2025-12-01,powerful,6
 2025-12-01,practical,10
@@ -2275,8 +2226,7 @@ period,Term,Count
 2025-12-01,quickly,6
 2025-12-01,quite,3
 2025-12-01,range,6
-2025-12-01,rare,9
-2025-12-01,rarely,6
+2025-12-01,rarely,5
 2025-12-01,read,8
 2025-12-01,reader,9
 2025-12-01,reading,5
@@ -2319,11 +2269,10 @@ period,Term,Count
 2025-12-01,right strong,10
 2025-12-01,rise,7
 2025-12-01,role,13
-2025-12-01,romance,3
-2025-12-01,room,17
+2025-12-01,room,20
 2025-12-01,room makeover,5
 2025-12-01,routine,16
-2025-12-01,runway,5
+2025-12-01,runway,7
 2025-12-01,rws,30
 2025-12-01,rws excerpt,10
 2025-12-01,rws img,10
@@ -2343,13 +2292,12 @@ period,Term,Count
 2025-12-01,scroll animation inspiration,2
 2025-12-01,season,31
 2025-12-01,second,8
-2025-12-01,secret,13
+2025-12-01,secret,15
 2025-12-01,section,7
 2025-12-01,seeing,7
 2025-12-01,seen,10
 2025-12-01,sees,4
 2025-12-01,self,13
-2025-12-01,selling,7
 2025-12-01,sense,8
 2025-12-01,separate,6
 2025-12-01,sephora,8
@@ -2359,25 +2307,25 @@ period,Term,Count
 2025-12-01,set,44
 2025-12-01,sets,5
 2025-12-01,setting,4
-2025-12-01,shape,21
+2025-12-01,shape,20
 2025-12-01,shaped,39
 2025-12-01,shaping,7
 2025-12-01,share,7
 2025-12-01,shared,24
-2025-12-01,sharing,11
+2025-12-01,sharing,10
 2025-12-01,shift,18
 2025-12-01,shifting,10
 2025-12-01,shiny,5
 2025-12-01,shoe,6
-2025-12-01,shoes,9
+2025-12-01,shoes,7
 2025-12-01,shop,22
 2025-12-01,shopping,12
-2025-12-01,short,21
-2025-12-01,shorts,84
+2025-12-01,short,24
+2025-12-01,shorts,86
 2025-12-01,shorts love,8
 2025-12-01,shorts love home,8
 2025-12-01,shortsfeed,24
-2025-12-01,shortvideo,11
+2025-12-01,shortvideo,8
 2025-12-01,showing,18
 2025-12-01,shows,11
 2025-12-01,signal,9
@@ -2390,7 +2338,7 @@ period,Term,Count
 2025-12-01,size,59
 2025-12-01,size post,10
 2025-12-01,size post thumbnail,10
-2025-12-01,skin,43
+2025-12-01,skin,45
 2025-12-01,skincare,50
 2025-12-01,skincare trend,6
 2025-12-01,skincareroutine,20
@@ -2398,9 +2346,9 @@ period,Term,Count
 2025-12-01,sky,5
 2025-12-01,slow,6
 2025-12-01,small,43
-2025-12-01,small apartment,8
+2025-12-01,small apartment,9
 2025-12-01,small space,3
-2025-12-01,smart,5
+2025-12-01,smart,6
 2025-12-01,smooth,6
 2025-12-01,social,10
 2025-12-01,soft,4
@@ -2410,10 +2358,10 @@ period,Term,Count
 2025-12-01,soul,6
 2025-12-01,sounds,8
 2025-12-01,source,14
-2025-12-01,south,6
+2025-12-01,south,8
 2025-12-01,southern,2
 2025-12-01,southern living,2
-2025-12-01,space,26
+2025-12-01,space,27
 2025-12-01,spaces,21
 2025-12-01,special,8
 2025-12-01,specific,5
@@ -2421,7 +2369,7 @@ period,Term,Count
 2025-12-01,spirit,18
 2025-12-01,spot,6
 2025-12-01,spring,4
-2025-12-01,spruce,8
+2025-12-01,spruce,10
 2025-12-01,src,129
 2025-12-01,src figcaption,44
 2025-12-01,src figure,41
@@ -2432,14 +2380,14 @@ period,Term,Count
 2025-12-01,standard,5
 2025-12-01,star,13
 2025-12-01,stars,12
-2025-12-01,start,19
+2025-12-01,start,20
 2025-12-01,started,7
 2025-12-01,starting,10
 2025-12-01,starts,6
 2025-12-01,state,9
 2025-12-01,static,4
-2025-12-01,stay,6
-2025-12-01,step,17
+2025-12-01,stay,5
+2025-12-01,step,18
 2025-12-01,stop,13
 2025-12-01,store,11
 2025-12-01,stores,5
@@ -2448,8 +2396,8 @@ period,Term,Count
 2025-12-01,storytelling,3
 2025-12-01,straight,7
 2025-12-01,strategy,8
-2025-12-01,street,12
-2025-12-01,street fashion,6
+2025-12-01,street,14
+2025-12-01,street fashion,7
 2025-12-01,streets,4
 2025-12-01,streetwear,27
 2025-12-01,strengthening,2
@@ -2460,21 +2408,21 @@ period,Term,Count
 2025-12-01,structure,17
 2025-12-01,structures,10
 2025-12-01,struggle,4
-2025-12-01,studio,11
+2025-12-01,studio,12
 2025-12-01,study,4
-2025-12-01,stunning,8
-2025-12-01,style,465
+2025-12-01,stunning,9
+2025-12-01,style,469
 2025-12-01,style text,10
 2025-12-01,style text align,10
-2025-12-01,styles,25
-2025-12-01,styling,9
+2025-12-01,styles,26
+2025-12-01,styling,8
 2025-12-01,stylish,23
 2025-12-01,subscribe,6
 2025-12-01,subtle,3
 2025-12-01,suddenly,5
 2025-12-01,suits,4
 2025-12-01,sunscreen,5
-2025-12-01,support,13
+2025-12-01,support,15
 2025-12-01,sure,10
 2025-12-01,surface,8
 2025-12-01,surprisingly,7
@@ -2484,7 +2432,7 @@ period,Term,Count
 2025-12-01,systems,64
 2025-12-01,table,13
 2025-12-01,tacky,3
-2025-12-01,takes,11
+2025-12-01,takes,9
 2025-12-01,taking,12
 2025-12-01,talk,8
 2025-12-01,talking,4
@@ -2497,9 +2445,9 @@ period,Term,Count
 2025-12-01,technologies,2
 2025-12-01,technology,11
 2025-12-01,tell,3
-2025-12-01,tendencias,9
-2025-12-01,tendencias navidad,6
-2025-12-01,tendencias navidad como,6
+2025-12-01,tendencias,8
+2025-12-01,tendencias navidad,5
+2025-12-01,tendencias navidad como,5
 2025-12-01,terms,8
 2025-12-01,test,4
 2025-12-01,text,74
@@ -2508,10 +2456,10 @@ period,Term,Count
 2025-12-01,thanks,8
 2025-12-01,theme,6
 2025-12-01,theory,8
-2025-12-01,therapy,6
+2025-12-01,therapy,4
 2025-12-01,thing,20
-2025-12-01,things,45
-2025-12-01,think,29
+2025-12-01,things,44
+2025-12-01,think,28
 2025-12-01,thinking,23
 2025-12-01,thought,32
 2025-12-01,thumbnail,20
@@ -2522,11 +2470,10 @@ period,Term,Count
 2025-12-01,tiktok,12
 2025-12-01,time,72
 2025-12-01,timeline,9
-2025-12-01,times,16
+2025-12-01,times,18
 2025-12-01,tiny,11
 2025-12-01,tiny apartment,7
-2025-12-01,tips,20
-2025-12-01,tired,2
+2025-12-01,tips,19
 2025-12-01,title,13
 2025-12-01,title style,10
 2025-12-01,title style text,10
@@ -2540,42 +2487,42 @@ period,Term,Count
 2025-12-01,track,7
 2025-12-01,traditional,4
 2025-12-01,train,4
-2025-12-01,transform,12
+2025-12-01,transform,14
 2025-12-01,transformation,7
-2025-12-01,transforming,11
-2025-12-01,travel,4
+2025-12-01,transforming,10
+2025-12-01,travel,2
 2025-12-01,tree,17
 2025-12-01,trees,4
-2025-12-01,trend,156
+2025-12-01,trend,157
 2025-12-01,trend best,4
 2025-12-01,trend forecast,1
 2025-12-01,trend hunter,2
 2025-12-01,trend luxurious,4
 2025-12-01,trend luxurious villa,4
 2025-12-01,trend makeup,5
-2025-12-01,trending,57
+2025-12-01,trending,61
 2025-12-01,trending skincare,5
 2025-12-01,trendingshorts,12
-2025-12-01,trends,157
+2025-12-01,trends,156
 2025-12-01,trends actually,1
 2025-12-01,trends country,6
 2025-12-01,trends designers,1
-2025-12-01,trends dominate,2
+2025-12-01,trends dominate,4
 2025-12-01,trends explore,1
 2025-12-01,trends good,4
 2025-12-01,trends good housekeeping,4
-2025-12-01,trends home,6
-2025-12-01,trends home decor,6
+2025-12-01,trends home,5
+2025-12-01,trends home decor,5
 2025-12-01,trends interior,1
 2025-12-01,trends know,4
 2025-12-01,trends new,5
-2025-12-01,trends tendencias,6
-2025-12-01,trends tendencias navidad,6
+2025-12-01,trends tendencias,5
+2025-12-01,trends tendencias navidad,5
 2025-12-01,trends try,2
 2025-12-01,trends wear,8
 2025-12-01,trends year,2
-2025-12-01,trendy,6
-2025-12-01,tricks,6
+2025-12-01,trendy,7
+2025-12-01,tricks,4
 2025-12-01,tried,5
 2025-12-01,trousers,4
 2025-12-01,true,9
@@ -2590,8 +2537,9 @@ period,Term,Count
 2025-12-01,ultimately,5
 2025-12-01,understand,19
 2025-12-01,understanding,12
-2025-12-01,unexpected,2
+2025-12-01,unexpected,3
 2025-12-01,unique,7
+2025-12-01,upgrade,4
 2025-12-01,urban,12
 2025-12-01,usa,7
 2025-12-01,use,30
@@ -2606,6 +2554,7 @@ period,Term,Count
 2025-12-01,variety,4
 2025-12-01,version,4
 2025-12-01,vibes,7
+2025-12-01,vibrant,5
 2025-12-01,vid,4
 2025-12-01,video,23
 2025-12-01,view,23
@@ -2615,21 +2564,21 @@ period,Term,Count
 2025-12-01,villa trend,8
 2025-12-01,villa trend luxurious,4
 2025-12-01,vintage,7
-2025-12-01,viral,47
+2025-12-01,viral,50
 2025-12-01,viral shortsfeed,5
-2025-12-01,viralvideo,21
+2025-12-01,viralvideo,20
 2025-12-01,visible,8
 2025-12-01,visual,5
 2025-12-01,visuals,9
 2025-12-01,vogue,2
 2025-12-01,volume,7
 2025-12-01,wait,3
-2025-12-01,walk,8
-2025-12-01,wall,15
-2025-12-01,want,29
+2025-12-01,walk,10
+2025-12-01,wall,17
+2025-12-01,want,26
 2025-12-01,wants,5
-2025-12-01,wardrobe,9
-2025-12-01,warm,17
+2025-12-01,wardrobe,12
+2025-12-01,warm,18
 2025-12-01,wasn,5
 2025-12-01,watch,21
 2025-12-01,way,40
@@ -2646,23 +2595,22 @@ period,Term,Count
 2025-12-01,webdesign olevel,4
 2025-12-01,webdesign olevel ngi,4
 2025-12-01,website,16
-2025-12-01,wedding,8
+2025-12-01,wedding,9
 2025-12-01,week,8
-2025-12-01,welcome,12
+2025-12-01,welcome,13
 2025-12-01,white,10
 2025-12-01,wide,8
 2025-12-01,width,268
 2025-12-01,width class,12
 2025-12-01,width class rws,10
 2025-12-01,win,5
-2025-12-01,winter,69
+2025-12-01,winter,67
 2025-12-01,winter biggest,4
 2025-12-01,winter fashion,1
 2025-12-01,winter trends,4
-2025-12-01,winterfashion,6
 2025-12-01,woman,7
 2025-12-01,women,23
-2025-12-01,womensfashion,6
+2025-12-01,womensfashion,5
 2025-12-01,won,10
 2025-12-01,wonder,5
 2025-12-01,words,7
@@ -2670,7 +2618,7 @@ period,Term,Count
 2025-12-01,worked,5
 2025-12-01,working,11
 2025-12-01,works,10
-2025-12-01,world,37
+2025-12-01,world,38
 2025-12-01,worth,6
 2025-12-01,wrapped,8
 2025-12-01,writing,8
@@ -2681,10 +2629,10 @@ period,Term,Count
 2025-12-01,yahoo lifestyle canada,4
 2025-12-01,year,56
 2025-12-01,years,13
-2025-12-01,york,16
-2025-12-01,york city,7
-2025-12-01,york times,4
+2025-12-01,york,15
+2025-12-01,york city,6
+2025-12-01,york times,6
 2025-12-01,young,9
 2025-12-01,youtube,8
-2025-12-01,youtubeshorts,17
-2025-12-01,ytshorts,15
+2025-12-01,youtubeshorts,16
+2025-12-01,ytshorts,18
