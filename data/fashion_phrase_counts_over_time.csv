@@ -61,9 +61,11 @@ period,Term,Count
 2025-11-03,fashion trends,16
 2025-11-03,gen,2
 2025-11-03,girls,4
+2025-11-03,girls wearing,4
 2025-11-03,hunter,2
 2025-11-03,inspired,2
 2025-11-03,katie,4
+2025-11-03,look,2
 2025-11-03,magazine,4
 2025-11-03,marie,2
 2025-11-03,marie claire,2
@@ -84,7 +86,7 @@ period,Term,Count
 2025-11-03,start,2
 2025-11-03,start wearing,2
 2025-11-03,streetwear,2
-2025-11-03,trend,6
+2025-11-03,trend,8
 2025-11-03,trend hunter,2
 2025-11-03,trends,24
 2025-11-03,trends staffers,6
@@ -92,21 +94,26 @@ period,Term,Count
 2025-11-03,trends start,2
 2025-11-03,trends start wearing,2
 2025-11-03,vogue,2
-2025-11-03,wear,4
+2025-11-03,wear,6
 2025-11-03,wearable,4
 2025-11-03,wearing,6
 2025-11-03,winter,6
 2025-11-03,winter fashion,4
 2025-11-03,winter fashion trends,4
 2025-11-03,winter trends,2
+2025-11-10,aol,2
 2025-11-10,editors,2
-2025-11-10,fashion,2
+2025-11-10,fashion,4
+2025-11-10,fashion trend,2
 2025-11-10,fashion trends,2
 2025-11-10,new,2
+2025-11-10,old,2
 2025-11-10,shopping,2
+2025-11-10,trend,2
 2025-11-10,trends,4
 2025-11-10,vogue,4
 2025-11-10,wear,2
+2025-11-10,wearing,2
 2025-11-10,winter,4
 2025-11-10,winter fashion,2
 2025-11-10,winter fashion trends,2
@@ -117,10 +124,11 @@ period,Term,Count
 2025-11-17,fall,4
 2025-11-17,fall winter,4
 2025-11-17,fall winter fashion,4
-2025-11-17,fashion,14
-2025-11-17,fashion trends,8
+2025-11-17,fashion,16
+2025-11-17,fashion trends,10
 2025-11-17,glamour,4
 2025-11-17,hunter,2
+2025-11-17,make,2
 2025-11-17,marie,2
 2025-11-17,marie claire,2
 2025-11-17,runway,2
@@ -128,11 +136,13 @@ period,Term,Count
 2025-11-17,today,4
 2025-11-17,trend,6
 2025-11-17,trend hunter,2
-2025-11-17,trends,8
+2025-11-17,trends,10
+2025-11-17,trends make,2
 2025-11-17,wearing,4
 2025-11-17,winter,4
 2025-11-17,winter fashion,4
 2025-11-17,winter fashion trends,4
+2025-11-17,work,2
 2025-11-17,year,4
 2025-11-24,celebrity,4
 2025-11-24,chic,2
@@ -177,7 +187,8 @@ period,Term,Count
 2025-12-01,accessory trend,6
 2025-12-01,actually,1
 2025-12-01,aesthetic,8
-2025-12-01,art,8
+2025-12-01,aol,4
+2025-12-01,art,10
 2025-12-01,autumn,4
 2025-12-01,autumn winter,2
 2025-12-01,awards,11
@@ -193,7 +204,8 @@ period,Term,Count
 2025-12-01,buy,4
 2025-12-01,casual,6
 2025-12-01,celebrity,1
-2025-12-01,chanel,6
+2025-12-01,chanel,8
+2025-12-01,chanel art,6
 2025-12-01,chic,5
 2025-12-01,claire,14
 2025-12-01,claire winter,2
@@ -227,7 +239,8 @@ period,Term,Count
 2025-12-01,fashiontrends,34
 2025-12-01,fyp,5
 2025-12-01,gen,4
-2025-12-01,girls,2
+2025-12-01,girls,4
+2025-12-01,girls wearing,2
 2025-12-01,good,3
 2025-12-01,granny,2
 2025-12-01,guide,5
@@ -246,7 +259,7 @@ period,Term,Count
 2025-12-01,jacket,6
 2025-12-01,jackets,7
 2025-12-01,jeans,9
-2025-12-01,just,8
+2025-12-01,just,10
 2025-12-01,katie,8
 2025-12-01,katie holmes,8
 2025-12-01,key,5
@@ -262,6 +275,7 @@ period,Term,Count
 2025-12-01,low,5
 2025-12-01,luxury,6
 2025-12-01,magazine,10
+2025-12-01,make,4
 2025-12-01,marie,14
 2025-12-01,marie claire,14
 2025-12-01,marie claire winter,2
@@ -273,7 +287,7 @@ period,Term,Count
 2025-12-01,milan,5
 2025-12-01,model,6
 2025-12-01,modern,6
-2025-12-01,new,21
+2025-12-01,new,23
 2025-12-01,new fashion,2
 2025-12-01,new york,7
 2025-12-01,new york times,6
@@ -281,7 +295,7 @@ period,Term,Count
 2025-12-01,ootd,4
 2025-12-01,outerwear,9
 2025-12-01,outerwear trend,6
-2025-12-01,outfit,23
+2025-12-01,outfit,25
 2025-12-01,outfit ideas,7
 2025-12-01,outfitideas,3
 2025-12-01,outfits,14
@@ -333,7 +347,8 @@ period,Term,Count
 2025-12-01,trend,60
 2025-12-01,trend hunter,2
 2025-12-01,trending,15
-2025-12-01,trends,56
+2025-12-01,trends,58
+2025-12-01,trends make,4
 2025-12-01,trends start,4
 2025-12-01,trends start wearing,4
 2025-12-01,trends wear,8
@@ -348,10 +363,10 @@ period,Term,Count
 2025-12-01,vogue,4
 2025-12-01,wardrobe,7
 2025-12-01,way,2
-2025-12-01,wear,44
+2025-12-01,wear,46
 2025-12-01,wear winter,5
 2025-12-01,wearable,2
-2025-12-01,wearing,8
+2025-12-01,wearing,10
 2025-12-01,wedding,5
 2025-12-01,wide,4
 2025-12-01,winter,57
@@ -362,6 +377,7 @@ period,Term,Count
 2025-12-01,winterfashion,6
 2025-12-01,women,17
 2025-12-01,womensfashion,5
+2025-12-01,work,2
 2025-12-01,world,6
 2025-12-01,year,12
 2025-12-01,york,7
