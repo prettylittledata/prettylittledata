@@ -44,8 +44,6 @@ period,Term,Count
 2025-10-27,vogue,2
 2025-10-27,wardrobe,2
 2025-11-03,art,2
-2025-11-03,claire,4
-2025-11-03,claire winter,2
 2025-11-03,elle,4
 2025-11-03,fall,10
 2025-11-03,fall trends,6
@@ -58,9 +56,6 @@ period,Term,Count
 2025-11-03,hunter,4
 2025-11-03,inspired,4
 2025-11-03,katie,4
-2025-11-03,marie,4
-2025-11-03,marie claire,4
-2025-11-03,marie claire winter,2
 2025-11-03,right,6
 2025-11-03,right fall,3
 2025-11-03,right fall trends,3
@@ -74,24 +69,19 @@ period,Term,Count
 2025-11-03,staffers,6
 2025-11-03,staffers shopping,6
 2025-11-03,staffers shopping right,6
-2025-11-03,start,4
-2025-11-03,start wearing,4
 2025-11-03,streetwear,4
 2025-11-03,trend,8
 2025-11-03,trend hunter,4
-2025-11-03,trends,26
+2025-11-03,trends,22
 2025-11-03,trends staffers,6
 2025-11-03,trends staffers shopping,6
-2025-11-03,trends start,4
-2025-11-03,trends start wearing,4
 2025-11-03,vogue,2
 2025-11-03,wear,4
 2025-11-03,wearable,4
-2025-11-03,wearing,8
-2025-11-03,winter,8
+2025-11-03,wearing,4
+2025-11-03,winter,4
 2025-11-03,winter fashion,4
 2025-11-03,winter fashion trends,4
-2025-11-03,winter trends,4
 2025-11-10,editors,2
 2025-11-10,fashion,2
 2025-11-10,fashion trends,2
@@ -111,18 +101,21 @@ period,Term,Count
 2025-11-17,fall winter,4
 2025-11-17,fashion,16
 2025-11-17,fashion trends,10
-2025-11-17,glamour,4
+2025-11-17,glamour,6
+2025-11-17,holiday,2
 2025-11-17,hunter,2
 2025-11-17,make,2
 2025-11-17,marie,2
 2025-11-17,marie claire,2
 2025-11-17,runway,2
 2025-11-17,streetwear,2
+2025-11-17,style,2
 2025-11-17,today,4
 2025-11-17,trend,6
 2025-11-17,trend hunter,2
 2025-11-17,trends,10
 2025-11-17,trends make,2
+2025-11-17,trends wearing,4
 2025-11-17,wearing,4
 2025-11-17,winter,4
 2025-11-17,winter fashion,4
@@ -131,6 +124,7 @@ period,Term,Count
 2025-11-17,year,4
 2025-11-24,clothes,2
 2025-11-24,daily,2
+2025-11-24,denim,2
 2025-11-24,fashion,14
 2025-11-24,fashion trend,14
 2025-11-24,life,10
@@ -144,6 +138,7 @@ period,Term,Count
 2025-11-24,rise,2
 2025-11-24,shopping,1
 2025-11-24,stores,4
+2025-11-24,styles,2
 2025-11-24,trend,14
 2025-11-24,trends,2
 2025-11-24,vogue,2
@@ -152,37 +147,41 @@ period,Term,Count
 2025-11-24,wavy new fashion,4
 2025-11-24,way,8
 2025-11-24,way life,8
+2025-11-24,wear,2
 2025-12-01,aesthetic,4
 2025-12-01,affordable,4
 2025-12-01,american,10
 2025-12-01,aol,6
-2025-12-01,art,10
+2025-12-01,art,12
 2025-12-01,bag,8
 2025-12-01,bazaar,8
 2025-12-01,beautiful,7
 2025-12-01,best,22
 2025-12-01,best winter,7
 2025-12-01,biggest,6
-2025-12-01,black,6
+2025-12-01,black,8
 2025-12-01,brand,3
 2025-12-01,buying,6
 2025-12-01,casual,3
-2025-12-01,chanel,6
+2025-12-01,chanel,8
+2025-12-01,chanel art,6
 2025-12-01,chinese,7
 2025-12-01,chinese street,6
 2025-12-01,chinese street fashion,6
-2025-12-01,claire,10
-2025-12-01,claire winter,2
+2025-12-01,claire,12
+2025-12-01,claire winter,4
 2025-12-01,classy,3
 2025-12-01,clothes,7
 2025-12-01,clothing,6
 2025-12-01,coat,4
 2025-12-01,collection,9
-2025-12-01,color,11
+2025-12-01,color,13
+2025-12-01,color trends,6
 2025-12-01,colors,4
 2025-12-01,come,7
 2025-12-01,company,1
 2025-12-01,daily,3
+2025-12-01,denim,3
 2025-12-01,designer,7
 2025-12-01,discover,7
 2025-12-01,dress,4
@@ -211,8 +210,8 @@ period,Term,Count
 2025-12-01,holiday,8
 2025-12-01,host,3
 2025-12-01,ideas,12
-2025-12-01,inspired,8
-2025-12-01,jeans,6
+2025-12-01,inspired,6
+2025-12-01,jeans,4
 2025-12-01,just,5
 2025-12-01,katie,4
 2025-12-01,key,5
@@ -229,9 +228,9 @@ period,Term,Count
 2025-12-01,low,5
 2025-12-01,luxury,6
 2025-12-01,make,6
-2025-12-01,marie,10
-2025-12-01,marie claire,10
-2025-12-01,marie claire winter,2
+2025-12-01,marie,12
+2025-12-01,marie claire,12
+2025-12-01,marie claire winter,4
 2025-12-01,married,4
 2025-12-01,men,31
 2025-12-01,men fashion,12
@@ -244,11 +243,11 @@ period,Term,Count
 2025-12-01,music,5
 2025-12-01,need,5
 2025-12-01,need know,4
-2025-12-01,new,24
-2025-12-01,new york,12
+2025-12-01,new,26
+2025-12-01,new york,14
 2025-12-01,new york times,6
 2025-12-01,ootd,3
-2025-12-01,outfit,29
+2025-12-01,outfit,27
 2025-12-01,outfit ideas,9
 2025-12-01,outfits,14
 2025-12-01,party,8
@@ -261,7 +260,7 @@ period,Term,Count
 2025-12-01,right,4
 2025-12-01,rise,2
 2025-12-01,runway,6
-2025-12-01,season,12
+2025-12-01,season,10
 2025-12-01,shein,5
 2025-12-01,shopping,2
 2025-12-01,shorts,33
@@ -275,8 +274,8 @@ period,Term,Count
 2025-12-01,spring,4
 2025-12-01,spring trends,4
 2025-12-01,stars,4
-2025-12-01,start,6
-2025-12-01,start wearing,4
+2025-12-01,start,10
+2025-12-01,start wearing,8
 2025-12-01,stay,4
 2025-12-01,store,5
 2025-12-01,stores,3
@@ -286,21 +285,23 @@ period,Term,Count
 2025-12-01,streetwear,20
 2025-12-01,streetwear classy,3
 2025-12-01,style,33
+2025-12-01,styles,2
 2025-12-01,styling,7
 2025-12-01,stylish,18
 2025-12-01,taste,7
 2025-12-01,times,10
 2025-12-01,tips,8
 2025-12-01,today,1
-2025-12-01,trend,48
+2025-12-01,trend,44
 2025-12-01,trending,25
 2025-12-01,trending shorts,4
 2025-12-01,trendingshorts,11
-2025-12-01,trends,53
+2025-12-01,trends,59
 2025-12-01,trends make,4
-2025-12-01,trends start,4
-2025-12-01,trends start wearing,4
+2025-12-01,trends start,8
+2025-12-01,trends start wearing,8
 2025-12-01,trends wear,6
+2025-12-01,trends wearing,2
 2025-12-01,trendy,9
 2025-12-01,trendy outfits,4
 2025-12-01,ultra,5
@@ -308,28 +309,28 @@ period,Term,Count
 2025-12-01,video,12
 2025-12-01,viral,8
 2025-12-01,viralvideo,4
-2025-12-01,vogue,8
+2025-12-01,vogue,10
 2025-12-01,wardrobe,5
 2025-12-01,warm,3
 2025-12-01,way,2
-2025-12-01,wear,33
+2025-12-01,wear,35
 2025-12-01,wear fashion,3
 2025-12-01,wear winter,5
 2025-12-01,wearable,6
-2025-12-01,wearing,11
+2025-12-01,wearing,17
+2025-12-01,wearing wear,6
 2025-12-01,wedding,11
-2025-12-01,winter,53
+2025-12-01,winter,57
 2025-12-01,winter fashion,2
 2025-12-01,winter fashion trends,2
 2025-12-01,winter outfit,4
 2025-12-01,winter outfits,5
-2025-12-01,winter trends,4
+2025-12-01,winter trends,8
 2025-12-01,winter wear,6
-2025-12-01,woman,6
 2025-12-01,women,4
 2025-12-01,work,2
 2025-12-01,wrapped,6
 2025-12-01,year,10
-2025-12-01,york,12
+2025-12-01,york,14
 2025-12-01,york times,6
 2025-12-01,youtubeshorts,4
