@@ -27,7 +27,7 @@ period,Term,Count
 2025-11-03,article,2
 2025-11-03,building,1
 2025-11-03,built,1
-2025-11-03,business,3
+2025-11-03,business,1
 2025-11-03,code,3
 2025-11-03,code code,1
 2025-11-03,company,1
@@ -38,18 +38,17 @@ period,Term,Count
 2025-11-03,css,2
 2025-11-03,custom,2
 2025-11-03,demonstrates,1
-2025-11-03,design,10
+2025-11-03,design,8
 2025-11-03,design systems,1
-2025-11-03,design trends,6
+2025-11-03,design trends,4
 2025-11-03,designer,1
 2025-11-03,designs,2
 2025-11-03,digital,2
 2025-11-03,dive,1
 2025-11-03,elements,1
-2025-11-03,future,2
-2025-11-03,graphic,3
-2025-11-03,graphic design,3
-2025-11-03,graphic design trends,3
+2025-11-03,graphic,1
+2025-11-03,graphic design,1
+2025-11-03,graphic design trends,1
 2025-11-03,graphics,1
 2025-11-03,ignore,1
 2025-11-03,impact,2
@@ -76,7 +75,7 @@ period,Term,Count
 2025-11-03,today,1
 2025-11-03,tokens,1
 2025-11-03,tool,1
-2025-11-03,trends,6
+2025-11-03,trends,4
 2025-11-03,trends ignore,1
 2025-11-03,use,3
 2025-11-03,user,1
@@ -214,7 +213,6 @@ period,Term,Count
 2025-11-17,web design,4
 2025-11-17,work,1
 2025-11-24,accessibility,4
-2025-11-24,accessible,1
 2025-11-24,based,1
 2025-11-24,book,2
 2025-11-24,brand,1
@@ -305,9 +303,9 @@ period,Term,Count
 2025-11-24,solution,1
 2025-11-24,starting,1
 2025-11-24,starts,1
-2025-11-24,stress,2
 2025-11-24,systems,1
 2025-11-24,takes,1
+2025-11-24,technology,1
 2025-11-24,tenth,5
 2025-11-24,tenth issue,5
 2025-11-24,think,1
@@ -320,7 +318,9 @@ period,Term,Count
 2025-11-24,training,1
 2025-11-24,trends,13
 2025-11-24,trends explore,4
-2025-11-24,type,14
+2025-11-24,trends graphic,1
+2025-11-24,trends graphic design,1
+2025-11-24,type,16
 2025-11-24,type design,13
 2025-11-24,type design century,3
 2025-11-24,typeone,14
@@ -340,13 +340,12 @@ period,Term,Count
 2025-11-24,week,1
 2025-11-24,welcome,1
 2025-11-24,world,4
-2025-11-24,year,1
+2025-11-24,year,3
 2025-11-24,years,3
 2025-12-01,ability,3
 2025-12-01,able,6
 2025-12-01,abstract,4
 2025-12-01,accessibility,2
-2025-12-01,accessible,2
 2025-12-01,accountability,5
 2025-12-01,act,4
 2025-12-01,action,7
@@ -356,10 +355,12 @@ period,Term,Count
 2025-12-01,adapt,6
 2025-12-01,add,8
 2025-12-01,adobe,9
+2025-12-01,adobe fresco,2
+2025-12-01,adobe fresco vector,2
 2025-12-01,adopt,3
-2025-12-01,agni,12
-2025-12-01,agni batch,12
-2025-12-01,agni batch level,6
+2025-12-01,agni,8
+2025-12-01,agni batch,8
+2025-12-01,agni batch level,4
 2025-12-01,ahead,4
 2025-12-01,alignment,5
 2025-12-01,allowed,3
@@ -368,12 +369,20 @@ period,Term,Count
 2025-12-01,alt height,8
 2025-12-01,alt height src,8
 2025-12-01,analysis,5
-2025-12-01,animation,5
+2025-12-01,animation,6
 2025-12-01,animations,1
 2025-12-01,approach,10
-2025-12-01,architecture,4
+2025-12-01,architecture,5
 2025-12-01,art,11
-2025-12-01,article,9
+2025-12-01,art adobe,2
+2025-12-01,art adobe fresco,2
+2025-12-01,art create,2
+2025-12-01,art create vector,2
+2025-12-01,art ipad,2
+2025-12-01,art ipad make,2
+2025-12-01,art vector,4
+2025-12-01,art vector art,2
+2025-12-01,article,10
 2025-12-01,ask,11
 2025-12-01,assume,4
 2025-12-01,assumptions,14
@@ -385,14 +394,14 @@ period,Term,Count
 2025-12-01,background,3
 2025-12-01,balance,4
 2025-12-01,based,14
-2025-12-01,batch,18
-2025-12-01,batch agni,6
-2025-12-01,batch agni batch,6
-2025-12-01,batch level,6
-2025-12-01,batch level new,6
+2025-12-01,batch,12
+2025-12-01,batch agni,4
+2025-12-01,batch agni batch,4
+2025-12-01,batch level,4
+2025-12-01,batch level new,4
 2025-12-01,begins,4
 2025-12-01,behaves,4
-2025-12-01,behavior,8
+2025-12-01,behavior,7
 2025-12-01,believe,5
 2025-12-01,benefits,4
 2025-12-01,best,11
@@ -404,7 +413,7 @@ period,Term,Count
 2025-12-01,book,4
 2025-12-01,brand,4
 2025-12-01,brands,3
-2025-12-01,break,6
+2025-12-01,break,5
 2025-12-01,breaks,2
 2025-12-01,bring,5
 2025-12-01,broad,3
@@ -417,21 +426,23 @@ period,Term,Count
 2025-12-01,careful,3
 2025-12-01,case,2
 2025-12-01,certain,3
-2025-12-01,challenge,9
+2025-12-01,challenge,10
 2025-12-01,change,7
 2025-12-01,chaos,2
 2025-12-01,check,4
 2025-12-01,checks,2
-2025-12-01,clarity,8
+2025-12-01,clarity,7
 2025-12-01,clean,2
-2025-12-01,clear,11
+2025-12-01,clear,9
+2025-12-01,cloud,6
 2025-12-01,code,14
 2025-12-01,code code,1
 2025-12-01,collaboration,11
-2025-12-01,collection,11
+2025-12-01,collection,12
 2025-12-01,collective,17
 2025-12-01,collective medium,8
 2025-12-01,collective medium people,8
+2025-12-01,combines,2
 2025-12-01,comes,6
 2025-12-01,common,6
 2025-12-01,communicate,3
@@ -451,7 +462,6 @@ period,Term,Count
 2025-12-01,continuing,8
 2025-12-01,continuing conversation,8
 2025-12-01,continuing conversation highlighting,8
-2025-12-01,contribute,4
 2025-12-01,control,15
 2025-12-01,conversation,8
 2025-12-01,conversation highlighting,8
@@ -460,18 +470,20 @@ period,Term,Count
 2025-12-01,cost,6
 2025-12-01,costs,5
 2025-12-01,course,5
-2025-12-01,create,22
+2025-12-01,create,23
+2025-12-01,create vector,2
+2025-12-01,create vector art,2
 2025-12-01,created,5
 2025-12-01,creates,5
 2025-12-01,creating,9
 2025-12-01,creation,4
-2025-12-01,creative,10
+2025-12-01,creative,11
 2025-12-01,creativity,4
 2025-12-01,critical,12
 2025-12-01,cross,6
 2025-12-01,css,10
-2025-12-01,css practical,6
-2025-12-01,css practical webdesign,6
+2025-12-01,css practical,4
+2025-12-01,css practical webdesign,4
 2025-12-01,culture,2
 2025-12-01,cultures,3
 2025-12-01,curated,5
@@ -494,28 +506,30 @@ period,Term,Count
 2025-12-01,demonstrates,2
 2025-12-01,depends,4
 2025-12-01,describes,4
-2025-12-01,design,289
-2025-12-01,design challenge,6
+2025-12-01,design,278
+2025-12-01,design challenge,7
 2025-12-01,design design,5
 2025-12-01,design digital,4
 2025-12-01,design digital invitation,3
 2025-12-01,design explore,3
-2025-12-01,design ideas,5
+2025-12-01,design ideas,4
+2025-12-01,design illustrator,1
+2025-12-01,design illustrator shortsviral,1
 2025-12-01,design invite,3
 2025-12-01,design invite design,3
 2025-12-01,design shorts,5
 2025-12-01,design systems,17
 2025-12-01,design thinking,3
 2025-12-01,design tools,2
-2025-12-01,design trends,24
+2025-12-01,design trends,19
 2025-12-01,design trends explore,2
 2025-12-01,designed,6
 2025-12-01,designer,8
 2025-12-01,designers,40
-2025-12-01,designing,25
-2025-12-01,designing publishing,6
-2025-12-01,designing publishing css,6
-2025-12-01,designs,9
+2025-12-01,designing,23
+2025-12-01,designing publishing,4
+2025-12-01,designing publishing css,4
+2025-12-01,designs,6
 2025-12-01,designtrends,3
 2025-12-01,desktop,6
 2025-12-01,develop,6
@@ -535,27 +549,25 @@ period,Term,Count
 2025-12-01,direction,10
 2025-12-01,directly,7
 2025-12-01,discover,12
-2025-12-01,discover latest,3
 2025-12-01,discovery,31
-2025-12-01,dive,5
-2025-12-01,does,8
+2025-12-01,dive,4
+2025-12-01,does,6
 2025-12-01,doesn,9
 2025-12-01,doing,5
 2025-12-01,domain,5
 2025-12-01,don,21
 2025-12-01,driven,7
-2025-12-01,drop,4
 2025-12-01,early,14
 2025-12-01,easier,4
 2025-12-01,easily,3
-2025-12-01,effect,8
+2025-12-01,effect,7
 2025-12-01,effective,7
 2025-12-01,effectively,5
 2025-12-01,efficient,4
 2025-12-01,element,3
 2025-12-01,elements,1
 2025-12-01,email,1
-2025-12-01,emerge,4
+2025-12-01,emerge,3
 2025-12-01,emerging,4
 2025-12-01,enabled,4
 2025-12-01,end,11
@@ -566,7 +578,7 @@ period,Term,Count
 2025-12-01,enterprise,5
 2025-12-01,entire,4
 2025-12-01,entirely,3
-2025-12-01,episode,3
+2025-12-01,episode,2
 2025-12-01,error,4
 2025-12-01,errors,6
 2025-12-01,evidence,14
@@ -576,11 +588,11 @@ period,Term,Count
 2025-12-01,existing,3
 2025-12-01,expectations,6
 2025-12-01,experience,15
-2025-12-01,experiences,22
+2025-12-01,experiences,23
 2025-12-01,explanation,3
 2025-12-01,exploration,8
 2025-12-01,explore,13
-2025-12-01,exploring,8
+2025-12-01,exploring,7
 2025-12-01,falling,2
 2025-12-01,far,3
 2025-12-01,faster,6
@@ -589,7 +601,7 @@ period,Term,Count
 2025-12-01,features,14
 2025-12-01,feed,10
 2025-12-01,feedback,7
-2025-12-01,feel,21
+2025-12-01,feel,20
 2025-12-01,feel like,8
 2025-12-01,feels,17
 2025-12-01,figcaption,67
@@ -604,13 +616,17 @@ period,Term,Count
 2025-12-01,finding,5
 2025-12-01,flow,5
 2025-12-01,focus,14
-2025-12-01,follow,7
+2025-12-01,focused,2
+2025-12-01,follow,6
 2025-12-01,fonts,2
 2025-12-01,form,4
 2025-12-01,forward,3
 2025-12-01,framework,22
 2025-12-01,frameworks,4
 2025-12-01,free,1
+2025-12-01,fresco,2
+2025-12-01,fresco vector,2
+2025-12-01,fresco vector art,2
 2025-12-01,fresh,1
 2025-12-01,frontend,2
 2025-12-01,functional,6
@@ -629,13 +645,14 @@ period,Term,Count
 2025-12-01,going,5
 2025-12-01,good,8
 2025-12-01,google,5
-2025-12-01,graphic,15
-2025-12-01,graphic design,12
+2025-12-01,graphic,12
+2025-12-01,graphic design,9
 2025-12-01,graphic design invite,3
-2025-12-01,graphic design trends,8
+2025-12-01,graphic design trends,5
 2025-12-01,graphics,2
 2025-12-01,group,5
 2025-12-01,groups,3
+2025-12-01,grow,4
 2025-12-01,guidance,5
 2025-12-01,guide,5
 2025-12-01,hand,2
@@ -643,7 +660,7 @@ period,Term,Count
 2025-12-01,happens,6
 2025-12-01,hard,6
 2025-12-01,harder,7
-2025-12-01,head,4
+2025-12-01,head,3
 2025-12-01,height,8
 2025-12-01,height src,8
 2025-12-01,height src width,8
@@ -663,17 +680,22 @@ period,Term,Count
 2025-12-01,human,23
 2025-12-01,humans,7
 2025-12-01,idea,6
-2025-12-01,ideas,27
+2025-12-01,ideas,26
 2025-12-01,identify,9
 2025-12-01,identifying,7
 2025-12-01,identity,4
 2025-12-01,ignore,2
 2025-12-01,illustrator,6
+2025-12-01,illustrator shortsviral,1
+2025-12-01,illustrator shortsviral illustratorshorts,1
+2025-12-01,illustratorshorts,1
+2025-12-01,illustratorshorts logo,1
 2025-12-01,image,11
 2025-12-01,imagine,4
 2025-12-01,img,48
 2025-12-01,img alt,48
 2025-12-01,img alt height,4
+2025-12-01,immersive,4
 2025-12-01,impact,8
 2025-12-01,important,5
 2025-12-01,improve,5
@@ -691,7 +713,7 @@ period,Term,Count
 2025-12-01,integrated,4
 2025-12-01,integration,3
 2025-12-01,interaction,12
-2025-12-01,interactions,4
+2025-12-01,interactions,5
 2025-12-01,interfaces,9
 2025-12-01,internal,4
 2025-12-01,interpret,8
@@ -711,6 +733,9 @@ period,Term,Count
 2025-12-01,invites digital invitations,3
 2025-12-01,invites online,3
 2025-12-01,invites online invitations,3
+2025-12-01,ipad,2
+2025-12-01,ipad make,2
+2025-12-01,ipad make vector,2
 2025-12-01,isn,17
 2025-12-01,issue,2
 2025-12-01,issues,6
@@ -721,9 +746,12 @@ period,Term,Count
 2025-12-01,key,7
 2025-12-01,know,16
 2025-12-01,knowledge,4
+2025-12-01,krishna,2
+2025-12-01,krishna speed,2
+2025-12-01,krishna speed art,2
 2025-12-01,lack,4
 2025-12-01,large,6
-2025-12-01,latest,8
+2025-12-01,latest,7
 2025-12-01,layer,4
 2025-12-01,lead,4
 2025-12-01,leaders,5
@@ -736,9 +764,9 @@ period,Term,Count
 2025-12-01,let,15
 2025-12-01,let talk,3
 2025-12-01,letting,4
-2025-12-01,level,23
-2025-12-01,level new,6
-2025-12-01,level new batch,6
+2025-12-01,level,20
+2025-12-01,level new,4
+2025-12-01,level new batch,4
 2025-12-01,library,3
 2025-12-01,life,8
 2025-12-01,like,52
@@ -746,8 +774,9 @@ period,Term,Count
 2025-12-01,little,3
 2025-12-01,live,4
 2025-12-01,logic,5
-2025-12-01,logo,13
+2025-12-01,logo,14
 2025-12-01,logo design,10
+2025-12-01,logo design illustrator,1
 2025-12-01,long,4
 2025-12-01,longer,4
 2025-12-01,look,5
@@ -758,6 +787,8 @@ period,Term,Count
 2025-12-01,magic,6
 2025-12-01,maintain,4
 2025-12-01,make,30
+2025-12-01,make vector,2
+2025-12-01,make vector art,2
 2025-12-01,makes,10
 2025-12-01,making,18
 2025-12-01,manage,7
@@ -776,6 +807,7 @@ period,Term,Count
 2025-12-01,medium,16
 2025-12-01,medium people,8
 2025-12-01,medium people continuing,8
+2025-12-01,meet,5
 2025-12-01,members,3
 2025-12-01,messy,2
 2025-12-01,methods,5
@@ -791,22 +823,22 @@ period,Term,Count
 2025-12-01,needed,5
 2025-12-01,needs,20
 2025-12-01,negative,4
-2025-12-01,new,30
-2025-12-01,new batch,6
-2025-12-01,new batch agni,6
-2025-12-01,new trending,7
-2025-12-01,ngi,6
-2025-12-01,ngi olevelexam,6
-2025-12-01,ngi olevelexam agni,6
+2025-12-01,new,24
+2025-12-01,new batch,4
+2025-12-01,new batch agni,4
+2025-12-01,new trending,4
+2025-12-01,ngi,4
+2025-12-01,ngi olevelexam,4
+2025-12-01,ngi olevelexam agni,4
 2025-12-01,noticed,3
 2025-12-01,occur,3
 2025-12-01,okrs,8
-2025-12-01,olevel,6
-2025-12-01,olevel ngi,6
-2025-12-01,olevel ngi olevelexam,6
-2025-12-01,olevelexam,6
-2025-12-01,olevelexam agni,6
-2025-12-01,olevelexam agni batch,6
+2025-12-01,olevel,4
+2025-12-01,olevel ngi,4
+2025-12-01,olevel ngi olevelexam,4
+2025-12-01,olevelexam,4
+2025-12-01,olevelexam agni,4
+2025-12-01,olevelexam agni batch,4
 2025-12-01,ones,10
 2025-12-01,online,6
 2025-12-01,online invitations,3
@@ -815,28 +847,29 @@ period,Term,Count
 2025-12-01,originally,8
 2025-12-01,originally published,8
 2025-12-01,originally published collective,8
-2025-12-01,overly,8
 2025-12-01,pages,3
 2025-12-01,parts,4
 2025-12-01,past,4
 2025-12-01,path,4
 2025-12-01,pattern,9
-2025-12-01,patterns,17
-2025-12-01,people,54
+2025-12-01,patterns,16
+2025-12-01,people,53
 2025-12-01,people continuing,8
 2025-12-01,people continuing conversation,8
 2025-12-01,perfect,6
 2025-12-01,performance,4
-2025-12-01,personal,3
 2025-12-01,perspectives,8
 2025-12-01,phase,5
-2025-12-01,photoshop,10
+2025-12-01,photoshop,9
 2025-12-01,picture,4
 2025-12-01,pieces,3
 2025-12-01,place,4
 2025-12-01,plan,9
 2025-12-01,planning,9
 2025-12-01,play,2
+2025-12-01,plg,2
+2025-12-01,plg krishna,2
+2025-12-01,plg krishna speed,2
 2025-12-01,point,9
 2025-12-01,points,26
 2025-12-01,positive,5
@@ -845,11 +878,11 @@ period,Term,Count
 2025-12-01,power,4
 2025-12-01,powered,5
 2025-12-01,powerful,4
-2025-12-01,practical,11
+2025-12-01,practical,9
 2025-12-01,practical tips,2
 2025-12-01,practical tips real,2
-2025-12-01,practical webdesign,6
-2025-12-01,practical webdesign olevel,6
+2025-12-01,practical webdesign,4
+2025-12-01,practical webdesign olevel,4
 2025-12-01,practice,13
 2025-12-01,practices,7
 2025-12-01,pre,4
@@ -861,11 +894,10 @@ period,Term,Count
 2025-12-01,problems,12
 2025-12-01,process,22
 2025-12-01,produces,3
-2025-12-01,product,57
+2025-12-01,product,58
 2025-12-01,product managers,3
 2025-12-01,product teams,5
 2025-12-01,products,6
-2025-12-01,professional,4
 2025-12-01,progress,13
 2025-12-01,project,10
 2025-12-01,projects,3
@@ -874,19 +906,19 @@ period,Term,Count
 2025-12-01,published,9
 2025-12-01,published collective,8
 2025-12-01,published collective medium,8
-2025-12-01,publishing,6
-2025-12-01,publishing css,6
-2025-12-01,publishing css practical,6
+2025-12-01,publishing,4
+2025-12-01,publishing css,4
+2025-12-01,publishing css practical,4
 2025-12-01,purpose,8
 2025-12-01,quality,13
 2025-12-01,quality strong,3
-2025-12-01,question,7
+2025-12-01,question,6
 2025-12-01,questions,15
-2025-12-01,quick,4
+2025-12-01,quick,5
 2025-12-01,read,3
 2025-12-01,reading,6
 2025-12-01,ready,2
-2025-12-01,real,19
+2025-12-01,real,18
 2025-12-01,real world,2
 2025-12-01,really,7
 2025-12-01,reason,4
@@ -907,13 +939,14 @@ period,Term,Count
 2025-12-01,role,5
 2025-12-01,roles,4
 2025-12-01,room,5
-2025-12-01,save,3
+2025-12-01,save,4
 2025-12-01,say,11
 2025-12-01,says,5
 2025-12-01,scalable,2
 2025-12-01,scope,4
 2025-12-01,screen,3
-2025-12-01,scroll,9
+2025-12-01,scroll,11
+2025-12-01,scroll interactions,3
 2025-12-01,seeing,4
 2025-12-01,selection,7
 2025-12-01,self,12
@@ -923,24 +956,28 @@ period,Term,Count
 2025-12-01,sets,4
 2025-12-01,shape,9
 2025-12-01,shaped,5
-2025-12-01,shaping,7
+2025-12-01,shaping,6
 2025-12-01,shared,4
 2025-12-01,shift,6
-2025-12-01,shifts,5
+2025-12-01,shifts,4
 2025-12-01,short,2
 2025-12-01,shorts,9
+2025-12-01,shortsviral,1
+2025-12-01,shortsviral illustratorshorts,1
+2025-12-01,shortsviral illustratorshorts logo,1
 2025-12-01,showing,12
 2025-12-01,shows,12
 2025-12-01,signal,9
 2025-12-01,signals,42
 2025-12-01,significant,4
 2025-12-01,similar,6
-2025-12-01,simple,10
+2025-12-01,simple,9
 2025-12-01,simply,6
 2025-12-01,single,6
 2025-12-01,site,2
 2025-12-01,skills,11
 2025-12-01,small,5
+2025-12-01,smooth,2
 2025-12-01,solution,20
 2025-12-01,solutions,5
 2025-12-01,solve,8
@@ -948,6 +985,8 @@ period,Term,Count
 2025-12-01,space,7
 2025-12-01,specific,5
 2025-12-01,speed,6
+2025-12-01,speed art,2
+2025-12-01,speed art vector,2
 2025-12-01,src,54
 2025-12-01,src figcaption,34
 2025-12-01,src figure,10
@@ -956,7 +995,7 @@ period,Term,Count
 2025-12-01,stages,6
 2025-12-01,stakeholders,6
 2025-12-01,start,16
-2025-12-01,starting,5
+2025-12-01,starting,4
 2025-12-01,starts,6
 2025-12-01,state,4
 2025-12-01,static,6
@@ -966,7 +1005,6 @@ period,Term,Count
 2025-12-01,stop,10
 2025-12-01,story,13
 2025-12-01,strategy,6
-2025-12-01,stress,3
 2025-12-01,strong,262
 2025-12-01,strong design,8
 2025-12-01,strong strong,17
@@ -992,6 +1030,7 @@ period,Term,Count
 2025-12-01,teams,64
 2025-12-01,tech,2
 2025-12-01,technologies,1
+2025-12-01,technology,4
 2025-12-01,tell,4
 2025-12-01,text,6
 2025-12-01,themes,7
@@ -1000,23 +1039,23 @@ period,Term,Count
 2025-12-01,think,11
 2025-12-01,thinking,16
 2025-12-01,thought,3
-2025-12-01,time,28
+2025-12-01,time,27
 2025-12-01,tips,8
 2025-12-01,tips real,2
 2025-12-01,tips real world,2
-2025-12-01,today,4
+2025-12-01,today,3
 2025-12-01,tokens,6
 2025-12-01,tone,3
 2025-12-01,tool,15
 2025-12-01,tools,18
 2025-12-01,touch,3
-2025-12-01,tracking,3
 2025-12-01,training,3
 2025-12-01,trend,1
-2025-12-01,trending,17
-2025-12-01,trending design,5
-2025-12-01,trends,39
+2025-12-01,trending,13
+2025-12-01,trends,33
 2025-12-01,trends explore,2
+2025-12-01,trends graphic,1
+2025-12-01,trends graphic design,1
 2025-12-01,trends webdesign,3
 2025-12-01,true,5
 2025-12-01,try,5
@@ -1037,40 +1076,130 @@ period,Term,Count
 2025-12-01,user needs,2
 2025-12-01,users,26
 2025-12-01,uses,3
-2025-12-01,using,23
+2025-12-01,using,24
 2025-12-01,usually,4
-2025-12-01,value,23
+2025-12-01,value,22
 2025-12-01,values,4
+2025-12-01,vector,10
+2025-12-01,vector art,8
+2025-12-01,vector art adobe,2
+2025-12-01,vector art create,2
+2025-12-01,vector art ipad,2
+2025-12-01,vector art vector,2
 2025-12-01,version,4
 2025-12-01,versus,5
-2025-12-01,video,11
+2025-12-01,vid,2
+2025-12-01,vid plg,2
+2025-12-01,vid plg krishna,2
+2025-12-01,video,9
 2025-12-01,visible,5
 2025-12-01,vision,7
-2025-12-01,visual,11
-2025-12-01,visuals,3
+2025-12-01,visual,9
+2025-12-01,visuals,2
 2025-12-01,want,17
 2025-12-01,way,17
 2025-12-01,ways,13
-2025-12-01,web,30
-2025-12-01,web design,12
-2025-12-01,web design trends,8
-2025-12-01,web designing,6
-2025-12-01,web designing publishing,6
+2025-12-01,web,24
+2025-12-01,web design,8
+2025-12-01,web design trends,5
+2025-12-01,web designing,4
+2025-12-01,web designing publishing,4
 2025-12-01,web development,4
-2025-12-01,webdesign,12
-2025-12-01,webdesign olevel,6
-2025-12-01,webdesign olevel ngi,6
-2025-12-01,website,10
-2025-12-01,websites,7
+2025-12-01,webdesign,11
+2025-12-01,webdesign olevel,4
+2025-12-01,webdesign olevel ngi,4
+2025-12-01,website,11
+2025-12-01,websites,5
 2025-12-01,wedding,4
 2025-12-01,week,5
-2025-12-01,welcome,4
+2025-12-01,welcome,3
 2025-12-01,width,10
 2025-12-01,work,38
 2025-12-01,workflows,5
 2025-12-01,working,5
 2025-12-01,works,5
-2025-12-01,world,14
+2025-12-01,world,15
 2025-12-01,wrong,7
-2025-12-01,year,3
+2025-12-01,year,5
 2025-12-01,years,4
+2025-12-08,adobe,2
+2025-12-08,adobe fresco,2
+2025-12-08,adobe fresco vector,2
+2025-12-08,art,10
+2025-12-08,art adobe,2
+2025-12-08,art adobe fresco,2
+2025-12-08,art create,2
+2025-12-08,art create vector,2
+2025-12-08,art ipad,2
+2025-12-08,art ipad make,2
+2025-12-08,art vector,4
+2025-12-08,art vector art,2
+2025-12-08,best,2
+2025-12-08,combines,1
+2025-12-08,create,2
+2025-12-08,create vector,2
+2025-12-08,create vector art,2
+2025-12-08,data,2
+2025-12-08,design,7
+2025-12-08,design illustrator,2
+2025-12-08,design illustrator shortsviral,2
+2025-12-08,design trends,1
+2025-12-08,designs,1
+2025-12-08,emerging,1
+2025-12-08,episode,1
+2025-12-08,experience,1
+2025-12-08,focused,1
+2025-12-08,fresco,2
+2025-12-08,fresco vector,2
+2025-12-08,fresco vector art,2
+2025-12-08,fresh,1
+2025-12-08,graphic,1
+2025-12-08,graphic design,1
+2025-12-08,illustrator,2
+2025-12-08,illustrator shortsviral,2
+2025-12-08,illustrator shortsviral illustratorshorts,2
+2025-12-08,illustratorshorts,2
+2025-12-08,illustratorshorts logo,2
+2025-12-08,ipad,2
+2025-12-08,ipad make,2
+2025-12-08,ipad make vector,2
+2025-12-08,krishna,2
+2025-12-08,krishna speed,2
+2025-12-08,krishna speed art,2
+2025-12-08,logo,4
+2025-12-08,logo design,2
+2025-12-08,logo design illustrator,2
+2025-12-08,make,2
+2025-12-08,make vector,2
+2025-12-08,make vector art,2
+2025-12-08,modern,1
+2025-12-08,plg,2
+2025-12-08,plg krishna,2
+2025-12-08,plg krishna speed,2
+2025-12-08,practical,1
+2025-12-08,practical tips,1
+2025-12-08,shortsviral,2
+2025-12-08,shortsviral illustratorshorts,2
+2025-12-08,shortsviral illustratorshorts logo,2
+2025-12-08,smooth,1
+2025-12-08,speed,2
+2025-12-08,speed art,2
+2025-12-08,speed art vector,2
+2025-12-08,tips,1
+2025-12-08,trend,1
+2025-12-08,trends,2
+2025-12-08,trends graphic,1
+2025-12-08,trends graphic design,1
+2025-12-08,user,1
+2025-12-08,vector,10
+2025-12-08,vector art,8
+2025-12-08,vector art adobe,2
+2025-12-08,vector art create,2
+2025-12-08,vector art ipad,2
+2025-12-08,vector art vector,2
+2025-12-08,vid,2
+2025-12-08,vid plg,2
+2025-12-08,vid plg krishna,2
+2025-12-08,web,3
+2025-12-08,web design,3
+2025-12-08,web design trends,1
