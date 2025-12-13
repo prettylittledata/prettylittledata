@@ -1,10 +1,9 @@
 period,Term,Count
-2025-10-27,fashion,4
-2025-10-27,fashion trend,4
-2025-10-27,glamour,4
-2025-10-27,inspired,4
-2025-10-27,print,4
-2025-10-27,trend,4
+2025-10-27,fashion,2
+2025-10-27,fashion trend,2
+2025-10-27,glamour,2
+2025-10-27,inspired,2
+2025-10-27,trend,2
 2025-11-03,actually,4
 2025-11-03,art,2
 2025-11-03,dominate,4
@@ -49,12 +48,12 @@ period,Term,Count
 2025-11-03,winter,4
 2025-11-03,winter fashion,4
 2025-11-03,winter fashion trends,4
-2025-11-10,shopping,2
-2025-11-10,trends,2
-2025-11-10,vogue,4
-2025-11-10,vogue winter,1
-2025-11-10,winter,2
-2025-11-10,winter trends,2
+2025-11-10,shopping,4
+2025-11-10,trends,4
+2025-11-10,vogue,8
+2025-11-10,vogue winter,2
+2025-11-10,winter,4
+2025-11-10,winter trends,4
 2025-11-17,change,4
 2025-11-17,claire,2
 2025-11-17,company,4
@@ -62,48 +61,41 @@ period,Term,Count
 2025-11-17,fall winter,4
 2025-11-17,fall winter fashion,4
 2025-11-17,family,2
-2025-11-17,fashion,16
-2025-11-17,fashion trend,2
+2025-11-17,fashion,14
 2025-11-17,fashion trends,8
+2025-11-17,fit,2
 2025-11-17,glamour,4
 2025-11-17,hunter,4
 2025-11-17,marie,2
 2025-11-17,marie claire,2
-2025-11-17,quarter,2
-2025-11-17,quarter zip,2
 2025-11-17,report,2
 2025-11-17,runway,2
-2025-11-17,spring,2
 2025-11-17,streetwear,4
 2025-11-17,taylor,2
-2025-11-17,trend,12
+2025-11-17,trend,10
 2025-11-17,trend hunter,4
 2025-11-17,trend marie,2
 2025-11-17,trend marie claire,2
 2025-11-17,trend report,2
 2025-11-17,trends,8
-2025-11-17,viral,2
 2025-11-17,wearing,4
 2025-11-17,winter,4
 2025-11-17,winter fashion,4
 2025-11-17,winter fashion trends,4
-2025-11-17,wwd,2
 2025-11-17,year,4
-2025-11-17,zip,2
 2025-11-24,couture,4
-2025-11-24,fashion,10
-2025-11-24,fashion trend,8
-2025-11-24,fashion trends,2
-2025-11-24,men,2
-2025-11-24,new,8
-2025-11-24,new fashion,4
+2025-11-24,fashion,6
+2025-11-24,fashion trend,6
+2025-11-24,new,4
+2025-11-24,new fashion,2
 2025-11-24,report,2
+2025-11-24,resort,2
 2025-11-24,spring,2
-2025-11-24,trend,10
+2025-11-24,trend,8
 2025-11-24,trend report,2
-2025-11-24,trends,6
+2025-11-24,trends,4
 2025-11-24,vogue,4
-2025-11-24,way,4
+2025-11-24,vogue resort,1
 2025-12-01,actually,2
 2025-12-01,biggest,4
 2025-12-01,claire,6
@@ -122,6 +114,7 @@ period,Term,Count
 2025-12-01,marie claire,6
 2025-12-01,new,2
 2025-12-01,new york,2
+2025-12-01,resort,4
 2025-12-01,right,2
 2025-12-01,says,2
 2025-12-01,season,4
@@ -131,13 +124,14 @@ period,Term,Count
 2025-12-01,style,2
 2025-12-01,trend,4
 2025-12-01,trend hunter,2
-2025-12-01,trends,20
+2025-12-01,trends,22
 2025-12-01,trends start,6
 2025-12-01,trends start wearing,6
-2025-12-01,trends wear,2
-2025-12-01,vogue,6
+2025-12-01,trends wear,4
+2025-12-01,vogue,8
+2025-12-01,vogue resort,2
 2025-12-01,vogue winter,2
-2025-12-01,wear,6
+2025-12-01,wear,8
 2025-12-01,wear biggest,1
 2025-12-01,wearing,8
 2025-12-01,winter,12
@@ -181,7 +175,7 @@ period,Term,Count
 2025-12-08,dresses,3
 2025-12-08,editor,6
 2025-12-08,elegant,6
-2025-12-08,elle,2
+2025-12-08,elle,4
 2025-12-08,essential,4
 2025-12-08,essential oversized,3
 2025-12-08,essential oversized hoodie,3
@@ -190,7 +184,7 @@ period,Term,Count
 2025-12-08,fall winter,1
 2025-12-08,fall winter fashion,1
 2025-12-08,family,2
-2025-12-08,fashion,168
+2025-12-08,fashion,166
 2025-12-08,fashion editor,6
 2025-12-08,fashion fashionstyle,5
 2025-12-08,fashion fashionstyle fashion,4
@@ -200,7 +194,7 @@ period,Term,Count
 2025-12-08,fashion tiktok,4
 2025-12-08,fashion tiktok shorts,4
 2025-12-08,fashion trend,12
-2025-12-08,fashion trends,47
+2025-12-08,fashion trends,45
 2025-12-08,fashion trends actually,1
 2025-12-08,fashion trends trending,6
 2025-12-08,fashionstyle,11
@@ -255,7 +249,6 @@ period,Term,Count
 2025-12-08,mensfashion,7
 2025-12-08,menswear,4
 2025-12-08,modern,7
-2025-12-08,money,4
 2025-12-08,new,29
 2025-12-08,new fashion,4
 2025-12-08,new streetwear,4
@@ -281,11 +274,7 @@ period,Term,Count
 2025-12-08,premium,5
 2025-12-08,premium fleece,3
 2025-12-08,president,3
-2025-12-08,print,4
 2025-12-08,product,4
-2025-12-08,quarter,4
-2025-12-08,quarter zip,4
-2025-12-08,real,6
 2025-12-08,reels,4
 2025-12-08,report,9
 2025-12-08,review,4
@@ -295,7 +284,7 @@ period,Term,Count
 2025-12-08,season,4
 2025-12-08,set,6
 2025-12-08,shirt,5
-2025-12-08,shirts,5
+2025-12-08,shirts,7
 2025-12-08,shoe,8
 2025-12-08,shoes,5
 2025-12-08,shopping,4
@@ -305,6 +294,7 @@ period,Term,Count
 2025-12-08,shorts streetfashion fashiontrends,4
 2025-12-08,shortsvideo,4
 2025-12-08,shortvideo,3
+2025-12-08,skirts,4
 2025-12-08,social,5
 2025-12-08,social media,5
 2025-12-08,spring,8
@@ -325,7 +315,7 @@ period,Term,Count
 2025-12-08,streetwear essential oversized,3
 2025-12-08,streetwear oversized,3
 2025-12-08,streetwear oversized fit,3
-2025-12-08,style,37
+2025-12-08,style,39
 2025-12-08,stylish,13
 2025-12-08,subscribe,5
 2025-12-08,sweater,6
@@ -349,7 +339,7 @@ period,Term,Count
 2025-12-08,trends actually,1
 2025-12-08,trends trending,7
 2025-12-08,trends trending shorts,6
-2025-12-08,trends wear,6
+2025-12-08,trends wear,8
 2025-12-08,trendy,6
 2025-12-08,trump,6
 2025-12-08,try,7
@@ -361,22 +351,19 @@ period,Term,Count
 2025-12-08,viralvideo,7
 2025-12-08,vogue,14
 2025-12-08,watch,5
-2025-12-08,way,2
-2025-12-08,wear,30
+2025-12-08,wear,32
 2025-12-08,wear biggest,4
 2025-12-08,wearing,6
 2025-12-08,wedding,9
 2025-12-08,week,7
 2025-12-08,went,4
-2025-12-08,winter,40
+2025-12-08,winter,38
 2025-12-08,winter fashion,8
 2025-12-08,winter fashion trends,7
 2025-12-08,women,10
 2025-12-08,women fashion,10
 2025-12-08,women fashion trends,7
-2025-12-08,wwd,4
 2025-12-08,year,9
 2025-12-08,york,5
 2025-12-08,youtubeshorts,5
 2025-12-08,ytshorts,6
-2025-12-08,zip,4
