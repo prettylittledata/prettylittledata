@@ -55,7 +55,6 @@ period,Term,Count
 2025-11-17,love,2
 2025-11-17,marie,2
 2025-11-17,marie claire,2
-2025-11-17,nyc,2
 2025-11-17,report,2
 2025-11-17,runway,2
 2025-11-17,shaping,4
@@ -77,8 +76,8 @@ period,Term,Count
 2025-11-17,winter fashion,4
 2025-11-17,winter fashion trends,4
 2025-11-17,year,4
-2025-11-24,chic,2
-2025-11-24,defining,4
+2025-11-24,collections,2
+2025-11-24,defining,2
 2025-11-24,far,2
 2025-11-24,fashion,10
 2025-11-24,fashion trend,6
@@ -86,14 +85,14 @@ period,Term,Count
 2025-11-24,men,2
 2025-11-24,new,4
 2025-11-24,party,2
-2025-11-24,report,4
-2025-11-24,spring,4
-2025-11-24,trend,10
-2025-11-24,trend report,4
-2025-11-24,trends,10
-2025-11-24,trends defining,4
-2025-11-24,vogue,6
-2025-11-24,way,2
+2025-11-24,report,2
+2025-11-24,resort,2
+2025-11-24,spring,2
+2025-11-24,trend,8
+2025-11-24,trend report,2
+2025-11-24,trends,8
+2025-11-24,vogue,4
+2025-11-24,vogue resort,1
 2025-11-24,wear,2
 2025-12-01,biggest,6
 2025-12-01,biggest fashion,4
@@ -113,6 +112,7 @@ period,Term,Count
 2025-12-01,luxury,2
 2025-12-01,marie,6
 2025-12-01,marie claire,6
+2025-12-01,resort,4
 2025-12-01,right,2
 2025-12-01,says,2
 2025-12-01,season,4
@@ -122,218 +122,317 @@ period,Term,Count
 2025-12-01,style,2
 2025-12-01,trend,4
 2025-12-01,trend hunter,2
-2025-12-01,trends,20
+2025-12-01,trends,22
 2025-12-01,trends start,6
 2025-12-01,trends start wearing,6
-2025-12-01,trends wear,2
-2025-12-01,vogue,6
+2025-12-01,trends wear,4
+2025-12-01,vogue,8
+2025-12-01,vogue resort,2
 2025-12-01,vogue winter,2
-2025-12-01,wear,6
+2025-12-01,wear,8
 2025-12-01,wear biggest,1
 2025-12-01,wearing,8
 2025-12-01,winter,12
 2025-12-01,winter trends,6
 2025-12-08,accessory,8
 2025-12-08,according,19
-2025-12-08,aesthetic,7
+2025-12-08,aesthetic,9
+2025-12-08,aesthetic style,4
+2025-12-08,aesthetic style inspo,4
 2025-12-08,autumn,2
 2025-12-08,autumn winter,2
 2025-12-08,bag,7
-2025-12-08,beauty,7
+2025-12-08,beauty,6
 2025-12-08,beauty trends,6
-2025-12-08,best,13
+2025-12-08,best,16
 2025-12-08,big,3
-2025-12-08,biggest,22
+2025-12-08,biggest,21
 2025-12-08,biggest fashion,3
 2025-12-08,biggest fashion trends,3
 2025-12-08,biggest trends,8
-2025-12-08,black,4
-2025-12-08,bold,8
+2025-12-08,bold,5
 2025-12-08,british,6
 2025-12-08,british vogue,6
 2025-12-08,casual,6
 2025-12-08,change,2
-2025-12-08,chic,2
-2025-12-08,chinese,11
-2025-12-08,chinese street,6
-2025-12-08,chinese street fashion,6
+2025-12-08,china,3
+2025-12-08,chinese,15
+2025-12-08,chinese girls,4
+2025-12-08,chinese girls street,4
+2025-12-08,chinese street,8
+2025-12-08,chinese street fashion,8
 2025-12-08,city,4
-2025-12-08,claire,8
-2025-12-08,classy,7
-2025-12-08,clothes,3
-2025-12-08,clothing,4
-2025-12-08,collection,3
-2025-12-08,colors,6
-2025-12-08,company,2
-2025-12-08,daily,5
-2025-12-08,define,8
+2025-12-08,claire,6
+2025-12-08,clothing,3
+2025-12-08,collection,1
+2025-12-08,collections,3
+2025-12-08,color,6
+2025-12-08,colors,7
+2025-12-08,combos,2
+2025-12-08,company,4
+2025-12-08,couple,2
+2025-12-08,daily,3
+2025-12-08,dark,4
+2025-12-08,define,6
 2025-12-08,defining,2
+2025-12-08,denim,6
 2025-12-08,design,3
 2025-12-08,designer,6
 2025-12-08,director,3
 2025-12-08,discover,5
-2025-12-08,dominate,2
+2025-12-08,dominate,3
 2025-12-08,dominating,3
-2025-12-08,dress,17
+2025-12-08,dress,12
 2025-12-08,dress trends,2
 2025-12-08,dressed,3
+2025-12-08,dresses,2
 2025-12-08,editor,6
-2025-12-08,elegant,10
-2025-12-08,elevate,3
-2025-12-08,elle,6
+2025-12-08,elegant,7
+2025-12-08,elle,8
+2025-12-08,explore,3
+2025-12-08,exploring,4
+2025-12-08,exploring chinese,4
+2025-12-08,exploring chinese street,4
 2025-12-08,fall,1
 2025-12-08,fall winter,1
 2025-12-08,fall winter fashion,1
 2025-12-08,family,2
 2025-12-08,far,3
-2025-12-08,fashion,192
+2025-12-08,fashion,168
 2025-12-08,fashion beauty,6
 2025-12-08,fashion beauty trends,6
 2025-12-08,fashion editor,6
-2025-12-08,fashion fashiontrends,5
-2025-12-08,fashion men,3
-2025-12-08,fashion style,5
+2025-12-08,fashion stylish,4
+2025-12-08,fashion stylish lovely,4
 2025-12-08,fashion trend,12
-2025-12-08,fashion trends,45
-2025-12-08,fashionstyle,9
-2025-12-08,fashiontrends,38
-2025-12-08,fashiontrends fashion,4
-2025-12-08,fashiontrends fashionstyle,5
-2025-12-08,funny,6
+2025-12-08,fashion trends,46
+2025-12-08,fashion trends fashion,4
+2025-12-08,fashion trendy,5
+2025-12-08,fashion trendy girl,4
+2025-12-08,fashionstyle,3
+2025-12-08,fashiontrends,14
+2025-12-08,fast,5
+2025-12-08,featuring,3
 2025-12-08,gen,7
-2025-12-08,girl,4
-2025-12-08,girls,5
+2025-12-08,girl,7
+2025-12-08,girl outfit,4
+2025-12-08,girl outfit ideas,4
+2025-12-08,girls,8
+2025-12-08,girls street,4
+2025-12-08,girls street fashion,4
+2025-12-08,girls trendy,4
+2025-12-08,girls trendy outfits,4
+2025-12-08,girlsfashion,3
 2025-12-08,glamour,4
-2025-12-08,hot,6
-2025-12-08,ideas,7
+2025-12-08,global,3
+2025-12-08,home,3
+2025-12-08,hot,5
+2025-12-08,hottest,5
+2025-12-08,ideas,9
+2025-12-08,ideas aesthetic,4
+2025-12-08,ideas aesthetic style,4
 2025-12-08,insider,6
-2025-12-08,inspo,3
+2025-12-08,inspo,6
+2025-12-08,inspo stunning,4
+2025-12-08,inspo stunning chinese,4
 2025-12-08,instyle,6
-2025-12-08,items,5
+2025-12-08,items,4
 2025-12-08,jacket,8
-2025-12-08,jeans,16
-2025-12-08,just,6
-2025-12-08,ladies,4
-2025-12-08,latest,10
-2025-12-08,like,9
-2025-12-08,look,30
-2025-12-08,looks,8
-2025-12-08,love,19
-2025-12-08,luxury,10
+2025-12-08,jeans,15
+2025-12-08,just,5
+2025-12-08,latest,13
+2025-12-08,like,6
+2025-12-08,look,25
+2025-12-08,looks,5
+2025-12-08,love,13
+2025-12-08,lovely,4
+2025-12-08,lovely girls,4
+2025-12-08,lovely girls trendy,4
+2025-12-08,luxury,8
 2025-12-08,magazine,10
 2025-12-08,man,3
-2025-12-08,marie,8
-2025-12-08,marie claire,8
+2025-12-08,marie,6
+2025-12-08,marie claire,6
 2025-12-08,media,9
 2025-12-08,melania,5
 2025-12-08,melania trump,5
-2025-12-08,men,30
-2025-12-08,men fashion,15
-2025-12-08,men fashion trends,3
-2025-12-08,mensfashion,6
-2025-12-08,modern,7
-2025-12-08,new,34
-2025-12-08,new york,6
-2025-12-08,nyc,6
-2025-12-08,ootd,5
-2025-12-08,ootdguide,3
+2025-12-08,men,28
+2025-12-08,men fashion,11
+2025-12-08,men fashion trends,4
+2025-12-08,mensfashion,5
+2025-12-08,menswear,3
+2025-12-08,modern,8
+2025-12-08,new,25
 2025-12-08,outfit,27
-2025-12-08,outfit ideas,5
-2025-12-08,outfits,20
+2025-12-08,outfit ideas,7
+2025-12-08,outfit ideas aesthetic,4
+2025-12-08,outfitideas,1
+2025-12-08,outfits,21
+2025-12-08,outfits style,4
+2025-12-08,outfits style exploring,4
 2025-12-08,pants,6
-2025-12-08,party,5
-2025-12-08,people,10
-2025-12-08,people wearing,6
-2025-12-08,pinterest,8
+2025-12-08,party,7
+2025-12-08,people,5
+2025-12-08,pinterest,6
 2025-12-08,post,5
-2025-12-08,premium,6
-2025-12-08,price,4
+2025-12-08,premium,5
+2025-12-08,price,2
 2025-12-08,print,4
-2025-12-08,real,7
-2025-12-08,red,5
+2025-12-08,real,6
 2025-12-08,report,9
 2025-12-08,right,7
 2025-12-08,runway,4
 2025-12-08,says,7
-2025-12-08,season,7
-2025-12-08,set,6
-2025-12-08,shacket,4
+2025-12-08,season,6
 2025-12-08,shaping,1
-2025-12-08,shoe,10
-2025-12-08,shop,5
+2025-12-08,shirts,3
+2025-12-08,shoe,8
+2025-12-08,shop,4
 2025-12-08,shopping,3
-2025-12-08,shorts,35
-2025-12-08,shortsfeed,12
-2025-12-08,shortvideo,6
+2025-12-08,shorts,19
+2025-12-08,shorts fashiontrends,3
+2025-12-08,shortsfeed,7
+2025-12-08,shortvideo,4
 2025-12-08,skirt,5
 2025-12-08,social,5
 2025-12-08,social media,5
-2025-12-08,song,5
-2025-12-08,soon,4
+2025-12-08,soon,2
 2025-12-08,sorry,6
 2025-12-08,spring,8
 2025-12-08,star,6
-2025-12-08,street,30
-2025-12-08,street fashion,10
-2025-12-08,street style,17
-2025-12-08,street style look,4
-2025-12-08,streetfashion,3
-2025-12-08,streetfashion fashiontrends,3
-2025-12-08,streets,5
-2025-12-08,streetwear,25
+2025-12-08,store,4
+2025-12-08,street,26
+2025-12-08,street fashion,15
+2025-12-08,street fashion stylish,4
+2025-12-08,street fashion trendy,4
+2025-12-08,street style,10
+2025-12-08,streetwear,22
 2025-12-08,stunning,6
-2025-12-08,style,52
-2025-12-08,style look,4
-2025-12-08,stylish,7
-2025-12-08,subscribe,4
+2025-12-08,stunning chinese,4
+2025-12-08,stunning chinese girls,4
+2025-12-08,style,47
+2025-12-08,style exploring,4
+2025-12-08,style exploring chinese,4
+2025-12-08,style inspo,4
+2025-12-08,style inspo stunning,4
+2025-12-08,stylish,10
+2025-12-08,stylish lovely,4
+2025-12-08,stylish lovely girls,4
 2025-12-08,summer,6
 2025-12-08,swift,7
 2025-12-08,talking,6
 2025-12-08,taylor,7
 2025-12-08,taylor swift,7
 2025-12-08,tees,5
-2025-12-08,tiktok,8
+2025-12-08,tiktok,6
 2025-12-08,time,4
 2025-12-08,times,6
 2025-12-08,today,1
-2025-12-08,tops,5
-2025-12-08,trend,60
+2025-12-08,trend,56
 2025-12-08,trend marie,4
 2025-12-08,trend marie claire,4
 2025-12-08,trend report,6
-2025-12-08,trending,19
-2025-12-08,trending shorts,5
-2025-12-08,trends,95
+2025-12-08,trending,13
+2025-12-08,trendingshorts,3
+2025-12-08,trends,102
 2025-12-08,trends according,12
-2025-12-08,trends defining,2
-2025-12-08,trends fashion,6
-2025-12-08,trends wear,6
+2025-12-08,trends fashion,8
+2025-12-08,trends wear,8
 2025-12-08,trends wearing,2
-2025-12-08,trendy,9
-2025-12-08,trendy outfits,3
+2025-12-08,trendy,19
+2025-12-08,trendy girl,4
+2025-12-08,trendy girl outfit,4
+2025-12-08,trendy outfits,7
+2025-12-08,trendy outfits style,4
 2025-12-08,trump,7
-2025-12-08,try,6
-2025-12-08,video,7
-2025-12-08,viral,14
+2025-12-08,video,5
+2025-12-08,videos,2
+2025-12-08,viral,7
 2025-12-08,vogue,18
-2025-12-08,want,4
-2025-12-08,watch,5
-2025-12-08,way,3
 2025-12-08,wear,45
 2025-12-08,wear biggest,4
-2025-12-08,wearing,14
+2025-12-08,wearing,7
 2025-12-08,week,5
-2025-12-08,winter,47
-2025-12-08,winter fashion,13
+2025-12-08,welcome,2
+2025-12-08,winter,44
+2025-12-08,winter fashion,11
 2025-12-08,winter fashion trends,8
-2025-12-08,winter outfit,4
-2025-12-08,winterfashion,3
+2025-12-08,winterfashion,1
 2025-12-08,women,13
-2025-12-08,women fashion,6
-2025-12-08,year,8
-2025-12-08,york,6
-2025-12-08,ytshorts,10
-2025-12-15,clothes,2
+2025-12-08,women fashion,8
+2025-12-08,year,10
+2025-12-08,youtubeshorts,1
+2025-12-15,aesthetic,2
+2025-12-15,beauty,1
+2025-12-15,best,2
+2025-12-15,casual,1
+2025-12-15,china,6
+2025-12-15,chinese,2
+2025-12-15,clothing,3
+2025-12-15,collection,4
+2025-12-15,combos,2
+2025-12-15,couple,4
+2025-12-15,dark,3
+2025-12-15,denim,1
+2025-12-15,discover,1
+2025-12-15,dress,3
+2025-12-15,dresses,3
+2025-12-15,elegant,2
+2025-12-15,explore,1
+2025-12-15,fashion,16
+2025-12-15,fashion trend,1
+2025-12-15,fashion trends,3
+2025-12-15,fashionstyle,3
+2025-12-15,fashiontrends,16
+2025-12-15,girl,4
+2025-12-15,girlsfashion,1
+2025-12-15,global,1
+2025-12-15,home,1
+2025-12-15,ideas,1
+2025-12-15,items,1
+2025-12-15,jeans,2
+2025-12-15,just,1
+2025-12-15,latest,2
+2025-12-15,look,3
+2025-12-15,love,4
+2025-12-15,men,6
+2025-12-15,men fashion,1
+2025-12-15,menswear,2
+2025-12-15,modern,1
+2025-12-15,new,5
+2025-12-15,outfit,5
+2025-12-15,outfit ideas,1
+2025-12-15,outfitideas,4
+2025-12-15,outfits,4
+2025-12-15,outfits style,2
 2025-12-15,people,2
-2025-12-15,style,4
-2025-12-15,winter,2
+2025-12-15,price,2
+2025-12-15,shirts,2
+2025-12-15,shorts,12
+2025-12-15,shortsfeed,2
+2025-12-15,shortvideo,2
+2025-12-15,soon,1
+2025-12-15,store,1
+2025-12-15,street,6
+2025-12-15,street fashion,5
+2025-12-15,street style,1
+2025-12-15,streetwear,2
+2025-12-15,stunning,1
+2025-12-15,style,14
+2025-12-15,stylish,1
+2025-12-15,trend,1
+2025-12-15,trending,4
+2025-12-15,trendingshorts,2
+2025-12-15,trends,3
+2025-12-15,trendy,2
+2025-12-15,trendy outfits,1
+2025-12-15,video,2
+2025-12-15,videos,2
+2025-12-15,viral,3
+2025-12-15,wear,1
+2025-12-15,welcome,1
+2025-12-15,winter,6
+2025-12-15,winterfashion,3
+2025-12-15,women,3
+2025-12-15,women fashion,1
+2025-12-15,youtubeshorts,6
