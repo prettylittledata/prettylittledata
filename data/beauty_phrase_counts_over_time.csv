@@ -42,7 +42,6 @@ period,Term,Count
 2025-11-10,blue,2
 2025-11-10,british,2
 2025-11-10,british vogue,2
-2025-11-10,carpet,2
 2025-11-10,channel,2
 2025-11-10,chic,2
 2025-11-10,claire,2
@@ -63,8 +62,8 @@ period,Term,Count
 2025-11-10,korean,4
 2025-11-10,lips,2
 2025-11-10,look,8
-2025-11-10,makeup,10
-2025-11-10,makeup trend,2
+2025-11-10,make,2
+2025-11-10,makeup,8
 2025-11-10,makeup trends,4
 2025-11-10,marie,2
 2025-11-10,marie claire,2
@@ -74,15 +73,15 @@ period,Term,Count
 2025-11-10,news,4
 2025-11-10,official,2
 2025-11-10,products,2
-2025-11-10,red,2
-2025-11-10,red carpet,2
+2025-11-10,sense,2
 2025-11-10,skin,4
-2025-11-10,skincare,6
+2025-11-10,skincare,8
 2025-11-10,skincare trend,4
+2025-11-10,strike,2
 2025-11-10,tiktok,2
-2025-11-10,trend,8
+2025-11-10,trend,6
 2025-11-10,trending,2
-2025-11-10,trends,10
+2025-11-10,trends,12
 2025-11-10,tried,2
 2025-11-10,try,2
 2025-11-10,vogue,2
@@ -92,17 +91,17 @@ period,Term,Count
 2025-11-10,winter beauty trends,2
 2025-11-10,women,4
 2025-11-10,women health,2
-2025-11-10,wwd,2
-2025-11-10,year,4
+2025-11-10,year,2
 2025-11-17,actually,2
-2025-11-17,beauty,18
+2025-11-17,beauty,20
 2025-11-17,beauty editor,4
 2025-11-17,beauty forecast,2
 2025-11-17,beauty trend,2
-2025-11-17,beauty trends,8
-2025-11-17,beauty trends try,4
+2025-11-17,beauty trends,10
+2025-11-17,beauty trends try,6
 2025-11-17,blood,2
 2025-11-17,body,2
+2025-11-17,cosmo,4
 2025-11-17,cosmopolitan,4
 2025-11-17,daily,2
 2025-11-17,daily mail,2
@@ -117,9 +116,12 @@ period,Term,Count
 2025-11-17,good,2
 2025-11-17,hair,2
 2025-11-17,health,2
-2025-11-17,holiday,4
+2025-11-17,holiday,6
+2025-11-17,holiday beauty,6
+2025-11-17,holiday beauty trends,6
 2025-11-17,know,2
 2025-11-17,korean,2
+2025-11-17,korean skincare,2
 2025-11-17,lifestyle,2
 2025-11-17,long,2
 2025-11-17,look,2
@@ -145,11 +147,16 @@ period,Term,Count
 2025-11-17,skincare trends,2
 2025-11-17,times,4
 2025-11-17,trend,8
-2025-11-17,trends,18
-2025-11-17,trends try,4
-2025-11-17,try,6
+2025-11-17,trends,20
+2025-11-17,trends try,6
+2025-11-17,trends try wear,6
+2025-11-17,try,8
+2025-11-17,try wear,6
+2025-11-17,try wear holiday,3
 2025-11-17,trying,2
-2025-11-17,wear,4
+2025-11-17,wear,6
+2025-11-17,wear holiday,3
+2025-11-17,wear holiday beauty,3
 2025-11-17,winter,8
 2025-11-17,winter beauty,4
 2025-11-17,winter beauty trends,4
@@ -166,15 +173,12 @@ period,Term,Count
 2025-11-24,beauty trends try,4
 2025-11-24,blood,2
 2025-11-24,calling,2
-2025-11-24,christmas,2
 2025-11-24,coolest,4
 2025-11-24,craze,2
 2025-11-24,daily,2
 2025-11-24,daily mail,2
 2025-11-24,enters,2
 2025-11-24,experts,2
-2025-11-24,eye,2
-2025-11-24,eye makeup,2
 2025-11-24,face,4
 2025-11-24,facial,2
 2025-11-24,forecast,4
@@ -184,17 +188,14 @@ period,Term,Count
 2025-11-24,going,2
 2025-11-24,harpersbazaar,4
 2025-11-24,health,2
-2025-11-24,holiday,2
 2025-11-24,home,2
 2025-11-24,house,2
 2025-11-24,ins,4
 2025-11-24,latest,2
 2025-11-24,look,2
-2025-11-24,looks,2
 2025-11-24,mail,2
-2025-11-24,makeup,4
+2025-11-24,makeup,2
 2025-11-24,makeup look,2
-2025-11-24,makeup looks,2
 2025-11-24,market,2
 2025-11-24,menstrual,2
 2025-11-24,obsessed,2
@@ -202,7 +203,6 @@ period,Term,Count
 2025-11-24,polished,2
 2025-11-24,right,6
 2025-11-24,skincare,10
-2025-11-24,stunning,2
 2025-11-24,sun,2
 2025-11-24,tiktok,2
 2025-11-24,times,2
@@ -222,29 +222,38 @@ period,Term,Count
 2025-11-24,wwd,4
 2025-12-01,actually,2
 2025-12-01,allure,2
-2025-12-01,beauty,2
-2025-12-01,beauty trends,2
-2025-12-01,business,4
+2025-12-01,beauty,4
+2025-12-01,beauty trends,4
+2025-12-01,business,8
 2025-12-01,colorful,2
-2025-12-01,cosmetics,4
-2025-12-01,cosmetics business,4
+2025-12-01,cosmetics,8
+2025-12-01,cosmetics business,8
+2025-12-01,cosmo,2
+2025-12-01,cosmopolitan,2
+2025-12-01,editors,2
 2025-12-01,experts,2
 2025-12-01,getting,2
+2025-12-01,glass,2
 2025-12-01,glowing,2
 2025-12-01,glowing skin,2
+2025-12-01,korean,2
+2025-12-01,korean skincare,2
+2025-12-01,like,2
 2025-12-01,makeup,2
 2025-12-01,morning,2
-2025-12-01,new,2
+2025-12-01,new,4
 2025-12-01,post,2
-2025-12-01,predicts,2
+2025-12-01,predicts,4
+2025-12-01,products,2
 2025-12-01,say,2
 2025-12-01,secret,2
 2025-12-01,shift,2
-2025-12-01,skin,2
-2025-12-01,skincare,4
+2025-12-01,skin,4
+2025-12-01,skincare,6
 2025-12-01,skincare trend,4
+2025-12-01,swear,2
 2025-12-01,trend,4
-2025-12-01,trends,2
+2025-12-01,trends,4
 2025-12-01,trying,2
 2025-12-01,vibe,2
 2025-12-01,viral,4
@@ -277,6 +286,7 @@ period,Term,Count
 2025-12-08,approved holiday gift,3
 2025-12-08,aren,3
 2025-12-08,art,2
+2025-12-08,artist,4
 2025-12-08,asap,1
 2025-12-08,ask,2
 2025-12-08,asking,11
@@ -298,12 +308,12 @@ period,Term,Count
 2025-12-08,basically,3
 2025-12-08,beautiful,6
 2025-12-08,beautifully,2
-2025-12-08,beauty,65
+2025-12-08,beauty,63
 2025-12-08,beauty editor,1
 2025-12-08,beauty forecast,2
 2025-12-08,beauty trend,18
 2025-12-08,beauty trend tracker,6
-2025-12-08,beauty trends,15
+2025-12-08,beauty trends,13
 2025-12-08,beautytrends,3
 2025-12-08,believe,5
 2025-12-08,beloved,4
@@ -557,11 +567,11 @@ period,Term,Count
 2025-12-08,giver,2
 2025-12-08,gives,3
 2025-12-08,giving,14
-2025-12-08,glam,12
+2025-12-08,glam,14
 2025-12-08,glam trending,6
 2025-12-08,glam trending marie,6
 2025-12-08,glass,6
-2025-12-08,glossy,5
+2025-12-08,glossy,3
 2025-12-08,glow,5
 2025-12-08,glowing,1
 2025-12-08,glowing skin,1
@@ -597,10 +607,10 @@ period,Term,Count
 2025-12-08,help,19
 2025-12-08,high,11
 2025-12-08,hold,3
-2025-12-08,holiday,21
+2025-12-08,holiday,19
 2025-12-08,holiday gift,3
 2025-12-08,holiday gift guides,3
-2025-12-08,holiday season,6
+2025-12-08,holiday season,4
 2025-12-08,holiday season gifts,3
 2025-12-08,home,16
 2025-12-08,host,5
@@ -643,6 +653,7 @@ period,Term,Count
 2025-12-08,know,10
 2025-12-08,known,3
 2025-12-08,korean,1
+2025-12-08,korean skincare,1
 2025-12-08,latest,1
 2025-12-08,let,12
 2025-12-08,letting,3
@@ -692,10 +703,10 @@ period,Term,Count
 2025-12-08,major,2
 2025-12-08,make,18
 2025-12-08,makes,8
-2025-12-08,makeup,37
+2025-12-08,makeup,41
 2025-12-08,makeup look,4
 2025-12-08,makeup looks,2
-2025-12-08,makeup trend,16
+2025-12-08,makeup trend,18
 2025-12-08,makeup trend try,6
 2025-12-08,makeup trends,2
 2025-12-08,makeupartist,1
@@ -844,7 +855,7 @@ period,Term,Count
 2025-12-08,scarf,8
 2025-12-08,scarf available,3
 2025-12-08,scent,10
-2025-12-08,season,23
+2025-12-08,season,21
 2025-12-08,season gifts,3
 2025-12-08,season gifts feel,3
 2025-12-08,secret,3
@@ -855,6 +866,7 @@ period,Term,Count
 2025-12-08,selected editors purchase,2
 2025-12-08,self,11
 2025-12-08,self care,5
+2025-12-08,sense,2
 2025-12-08,sensitive,3
 2025-12-08,set,61
 2025-12-08,set available,7
@@ -865,7 +877,7 @@ period,Term,Count
 2025-12-08,shadows liners colorful,6
 2025-12-08,shaped,4
 2025-12-08,shift,4
-2025-12-08,shop,91
+2025-12-08,shop,89
 2025-12-08,shop collection,3
 2025-12-08,shop collection editor,3
 2025-12-08,shop outfitters,3
@@ -897,7 +909,7 @@ period,Term,Count
 2025-12-08,small,5
 2025-12-08,smile,3
 2025-12-08,social,10
-2025-12-08,soft,4
+2025-12-08,soft,6
 2025-12-08,song,1
 2025-12-08,space,9
 2025-12-08,specific,2
@@ -916,6 +928,7 @@ period,Term,Count
 2025-12-08,straight inbox,2
 2025-12-08,strategy,5
 2025-12-08,stress,2
+2025-12-08,strike,2
 2025-12-08,strong,320
 2025-12-08,strong figure,2
 2025-12-08,strong figure img,2
@@ -960,7 +973,7 @@ period,Term,Count
 2025-12-08,things,3
 2025-12-08,think,11
 2025-12-08,thoughtful,6
-2025-12-08,tiktok,10
+2025-12-08,tiktok,8
 2025-12-08,time,18
 2025-12-08,timeless,3
 2025-12-08,times,3
@@ -971,8 +984,7 @@ period,Term,Count
 2025-12-08,tracker vogue,6
 2025-12-08,tracker vogue vogue,3
 2025-12-08,travel,11
-2025-12-08,treat,4
-2025-12-08,trend,64
+2025-12-08,trend,66
 2025-12-08,trend tracker,6
 2025-12-08,trend tracker vogue,6
 2025-12-08,trend try,6
@@ -980,7 +992,7 @@ period,Term,Count
 2025-12-08,trending,23
 2025-12-08,trending marie,6
 2025-12-08,trending marie claire,6
-2025-12-08,trends,33
+2025-12-08,trends,31
 2025-12-08,trendy,3
 2025-12-08,tried,5
 2025-12-08,true,3
@@ -1013,7 +1025,7 @@ period,Term,Count
 2025-12-08,wanted newsletter strong,2
 2025-12-08,wanting,4
 2025-12-08,warm,7
-2025-12-08,watch,12
+2025-12-08,watch,10
 2025-12-08,water,2
 2025-12-08,way,7
 2025-12-08,ways,5
@@ -1070,6 +1082,7 @@ period,Term,Count
 2025-12-15,approved holiday,1
 2025-12-15,approved holiday gift,1
 2025-12-15,art,6
+2025-12-15,artist,3
 2025-12-15,asap,1
 2025-12-15,ask,2
 2025-12-15,asking,1
@@ -1170,6 +1183,7 @@ period,Term,Count
 2025-12-15,cool,9
 2025-12-15,cool girl,2
 2025-12-15,coolest,3
+2025-12-15,cosmetics,2
 2025-12-15,cosmopolitan,2
 2025-12-15,covered,1
 2025-12-15,cozy,4
@@ -1616,6 +1630,7 @@ period,Term,Count
 2025-12-15,super,1
 2025-12-15,support,1
 2025-12-15,sure,8
+2025-12-15,swear,3
 2025-12-15,table,1
 2025-12-15,taking,2
 2025-12-15,target,50
@@ -1639,7 +1654,6 @@ period,Term,Count
 2025-12-15,tips,4
 2025-12-15,today,2
 2025-12-15,travel,2
-2025-12-15,treat,1
 2025-12-15,trend,28
 2025-12-15,trending,8
 2025-12-15,trends,26
