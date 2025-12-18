@@ -10,8 +10,8 @@ period,Term,Count
 2025-11-03,cosmetics,2
 2025-11-03,cosmopolitan,2
 2025-11-03,design,2
+2025-11-03,explained,2
 2025-11-03,getting,2
-2025-11-03,hype,2
 2025-11-03,key,2
 2025-11-03,look,2
 2025-11-03,makeup,2
@@ -20,6 +20,7 @@ period,Term,Count
 2025-11-03,right,2
 2025-11-03,says,2
 2025-11-03,simple,2
+2025-11-03,single,2
 2025-11-03,skincare,6
 2025-11-03,skincare trend,4
 2025-11-03,trend,12
@@ -28,7 +29,6 @@ period,Term,Count
 2025-11-03,viral skincare,2
 2025-11-03,works,2
 2025-11-03,worth,2
-2025-11-03,worth hype,2
 2025-11-10,beauty,10
 2025-11-10,beauty trend,4
 2025-11-10,beauty trends,6
@@ -36,6 +36,8 @@ period,Term,Count
 2025-11-10,biggest makeup,4
 2025-11-10,biggest makeup trends,4
 2025-11-10,blue,2
+2025-11-10,british,2
+2025-11-10,british vogue,2
 2025-11-10,channel,2
 2025-11-10,chic,2
 2025-11-10,claire,2
@@ -118,7 +120,6 @@ period,Term,Count
 2025-11-17,health,2
 2025-11-17,holiday,4
 2025-11-17,know,2
-2025-11-17,lifestyle,2
 2025-11-17,long,2
 2025-11-17,look,2
 2025-11-17,makeup,12
@@ -188,9 +189,7 @@ period,Term,Count
 2025-11-24,look,2
 2025-11-24,makeup,2
 2025-11-24,makeup look,2
-2025-11-24,market,2
 2025-11-24,mask,2
-2025-11-24,obsessed,2
 2025-11-24,people,2
 2025-11-24,polished,2
 2025-11-24,premium,2
@@ -199,7 +198,6 @@ period,Term,Count
 2025-11-24,sun,2
 2025-11-24,tiktok,2
 2025-11-24,times,2
-2025-11-24,town,2
 2025-11-24,trend,10
 2025-11-24,trend forecast,4
 2025-11-24,trends,6
@@ -225,7 +223,6 @@ period,Term,Count
 2025-12-01,cosmetics business cosmetics,1
 2025-12-01,experts,2
 2025-12-01,glowing,2
-2025-12-01,glowing skin,2
 2025-12-01,morning,2
 2025-12-01,new,2
 2025-12-01,post,2
@@ -242,12 +239,13 @@ period,Term,Count
 2025-12-01,works,2
 2025-12-01,worth,2
 2025-12-01,worth trying,2
-2025-12-08,according,8
+2025-12-08,according,10
 2025-12-08,artist,2
 2025-12-08,beauty,16
-2025-12-08,beauty trend,14
+2025-12-08,beauty trend,12
 2025-12-08,beauty trend tracker,6
-2025-12-08,beauty trends,2
+2025-12-08,beauty trends,4
+2025-12-08,beauty trends huge,4
 2025-12-08,best,2
 2025-12-08,biggest,2
 2025-12-08,biggest makeup,2
@@ -257,6 +255,8 @@ period,Term,Count
 2025-12-08,blurred lips,6
 2025-12-08,blurred lips cool,6
 2025-12-08,body,2
+2025-12-08,british,4
+2025-12-08,british vogue,4
 2025-12-08,business,8
 2025-12-08,business beauty,6
 2025-12-08,business beauty trend,6
@@ -290,8 +290,7 @@ period,Term,Count
 2025-12-08,hair,4
 2025-12-08,hello,2
 2025-12-08,hello magazine,2
-2025-12-08,huge,2
-2025-12-08,hype,4
+2025-12-08,huge,4
 2025-12-08,inside,2
 2025-12-08,inspired,2
 2025-12-08,internet,4
@@ -323,7 +322,7 @@ period,Term,Count
 2025-12-08,pinterest,2
 2025-12-08,print,2
 2025-12-08,real,2
-2025-12-08,really,4
+2025-12-08,really,2
 2025-12-08,say,2
 2025-12-08,search,4
 2025-12-08,set,2
@@ -336,23 +335,24 @@ period,Term,Count
 2025-12-08,style,2
 2025-12-08,tiktok,6
 2025-12-08,times,2
-2025-12-08,today,6
+2025-12-08,today,4
 2025-12-08,tracker,6
 2025-12-08,tracker vogue,6
 2025-12-08,tracker vogue vogue,3
-2025-12-08,trend,34
+2025-12-08,trend,32
 2025-12-08,trend tracker,6
 2025-12-08,trend tracker vogue,6
 2025-12-08,trend try,6
 2025-12-08,trend try winter,6
 2025-12-08,trending,2
-2025-12-08,trends,8
+2025-12-08,trends,10
+2025-12-08,trends huge,4
 2025-12-08,tried,2
 2025-12-08,try,8
 2025-12-08,try winter,6
 2025-12-08,trying,2
 2025-12-08,usa,4
-2025-12-08,vogue,20
+2025-12-08,vogue,24
 2025-12-08,vogue business,6
 2025-12-08,vogue business beauty,6
 2025-12-08,vogue vogue,3
@@ -361,44 +361,43 @@ period,Term,Count
 2025-12-08,went,2
 2025-12-08,wild,2
 2025-12-08,winter,14
-2025-12-08,worth,6
-2025-12-08,worth hype,4
+2025-12-08,worth,4
 2025-12-08,worth trying,2
 2025-12-08,year,6
 2025-12-15,ability,3
-2025-12-15,able,7
+2025-12-15,able,6
 2025-12-15,accessories,6
 2025-12-15,according,6
 2025-12-15,actually,14
 2025-12-15,actually works,1
 2025-12-15,add,9
-2025-12-15,adorable,4
-2025-12-15,advice,3
-2025-12-15,aesthetic,7
+2025-12-15,advice,6
+2025-12-15,aesthetic,6
 2025-12-15,ahead,5
 2025-12-15,air,6
 2025-12-15,allow,7
 2025-12-15,allows,4
-2025-12-15,amazon,7
 2025-12-15,appreciate,8
-2025-12-15,approved,4
-2025-12-15,approved holiday,4
-2025-12-15,approved holiday gift,4
+2025-12-15,approved,3
+2025-12-15,approved holiday,3
+2025-12-15,approved holiday gift,3
 2025-12-15,art,9
 2025-12-15,artist,9
-2025-12-15,available,113
-2025-12-15,available height,78
-2025-12-15,available height src,78
+2025-12-15,ask,3
+2025-12-15,asked,5
+2025-12-15,available,102
+2025-12-15,available height,69
+2025-12-15,available height src,69
 2025-12-15,available people,4
 2025-12-15,available people figcaption,4
+2025-12-15,away,4
 2025-12-15,backed,2
-2025-12-15,bag,15
-2025-12-15,bag available,3
+2025-12-15,bag,12
 2025-12-15,balm,4
 2025-12-15,base,4
 2025-12-15,bazaar,2
-2025-12-15,beautiful,6
-2025-12-15,beauty,90
+2025-12-15,beautiful,7
+2025-12-15,beauty,92
 2025-12-15,beauty cosmetics,6
 2025-12-15,beauty cosmetics business,6
 2025-12-15,beauty editor,2
@@ -406,79 +405,84 @@ period,Term,Count
 2025-12-15,beauty launches marie,6
 2025-12-15,beauty trend,7
 2025-12-15,beauty trend forecast,1
-2025-12-15,beauty trends,23
+2025-12-15,beauty trends,24
+2025-12-15,beauty trends huge,2
 2025-12-15,beauty trends vogue,6
 2025-12-15,beautytrends,8
-2025-12-15,beloved,5
-2025-12-15,best,34
+2025-12-15,beloved,3
+2025-12-15,best,36
 2025-12-15,best beauty,9
 2025-12-15,best beauty trends,9
-2025-12-15,best friend,8
+2025-12-15,best friend,11
 2025-12-15,bestselling,7
 2025-12-15,bestselling beauty,6
 2025-12-15,bestselling beauty launches,6
-2025-12-15,better,10
-2025-12-15,better shop,4
-2025-12-15,better shop collection,4
+2025-12-15,better,9
+2025-12-15,better shop,3
+2025-12-15,better shop collection,3
 2025-12-15,big,5
-2025-12-15,biggest,1
-2025-12-15,bit,3
-2025-12-15,black,14
+2025-12-15,bit,4
+2025-12-15,black,17
+2025-12-15,black color,7
 2025-12-15,blanket,6
-2025-12-15,blockquote,36
-2025-12-15,blockquote class,18
+2025-12-15,blockquote,42
+2025-12-15,blockquote class,21
+2025-12-15,blockquote class text,7
+2025-12-15,blockquote figure,7
 2025-12-15,blood,3
 2025-12-15,blue,4
 2025-12-15,blurred,4
 2025-12-15,blurred lips,4
 2025-12-15,blurred lips cool,4
 2025-12-15,body,19
-2025-12-15,book,9
-2025-12-15,books,3
 2025-12-15,bottle,9
 2025-12-15,brand,7
 2025-12-15,bright,3
-2025-12-15,bring,8
+2025-12-15,bring,7
+2025-12-15,british,1
 2025-12-15,bundle,9
 2025-12-15,business,15
 2025-12-15,business cosmetics,3
 2025-12-15,business cosmetics business,3
 2025-12-15,business team,6
 2025-12-15,business team picks,6
-2025-12-15,buy,6
-2025-12-15,candles,4
-2025-12-15,card,9
 2025-12-15,care,12
 2025-12-15,case,16
 2025-12-15,chance,6
-2025-12-15,change,7
+2025-12-15,change,9
 2025-12-15,channel,2
-2025-12-15,chaos,4
+2025-12-15,chaos,5
 2025-12-15,check,11
-2025-12-15,chic,12
-2025-12-15,choice,4
-2025-12-15,christmas,5
+2025-12-15,chic,11
+2025-12-15,choice,5
+2025-12-15,christmas,6
+2025-12-15,cite,14
+2025-12-15,cite blockquote,7
+2025-12-15,cite blockquote figure,7
 2025-12-15,city,3
 2025-12-15,claire,8
 2025-12-15,claire officially,3
 2025-12-15,claire officially bestselling,3
 2025-12-15,clarity,3
-2025-12-15,class,19
+2025-12-15,class,22
+2025-12-15,class text,7
+2025-12-15,class text color,7
 2025-12-15,classic,8
 2025-12-15,clear,4
 2025-12-15,cold,3
-2025-12-15,collection,9
-2025-12-15,collection editor,4
-2025-12-15,collection editor approved,4
-2025-12-15,color,199
-2025-12-15,colors,6
+2025-12-15,collection,7
+2025-12-15,collection editor,3
+2025-12-15,collection editor approved,3
+2025-12-15,color,205
+2025-12-15,color black,7
+2025-12-15,color black color,7
 2025-12-15,come,12
-2025-12-15,comes,13
-2025-12-15,comfort,6
-2025-12-15,coming,3
-2025-12-15,commission,5
-2025-12-15,commission figure,4
-2025-12-15,commission figure img,4
+2025-12-15,comes,15
+2025-12-15,comfort,4
+2025-12-15,coming,4
+2025-12-15,commission,4
+2025-12-15,commission figure,3
+2025-12-15,commission figure img,3
 2025-12-15,community,9
 2025-12-15,compilation,5
 2025-12-15,compilation tiktok,3
@@ -486,7 +490,7 @@ period,Term,Count
 2025-12-15,complete,3
 2025-12-15,consider,11
 2025-12-15,content,3
-2025-12-15,cool,5
+2025-12-15,cool,7
 2025-12-15,cool girl,4
 2025-12-15,cool girl makeup,4
 2025-12-15,coolest,2
@@ -494,269 +498,266 @@ period,Term,Count
 2025-12-15,cosmetics business,14
 2025-12-15,cosmetics business cosmetics,3
 2025-12-15,cosmetics business team,6
-2025-12-15,cosmopolitan,4
+2025-12-15,cosmopolitan,6
 2025-12-15,cotton,8
-2025-12-15,cozy,8
+2025-12-15,cozy,7
 2025-12-15,crazy,5
 2025-12-15,crush,3
-2025-12-15,curated,8
-2025-12-15,custom,5
-2025-12-15,cute,5
+2025-12-15,curated,7
+2025-12-15,custom,4
+2025-12-15,cute,4
 2025-12-15,daily,7
 2025-12-15,dance,6
 2025-12-15,data,1
-2025-12-15,day,27
+2025-12-15,day,26
 2025-12-15,days,5
 2025-12-15,december,7
 2025-12-15,definitely,6
-2025-12-15,delicious,3
 2025-12-15,dermatologists,4
 2025-12-15,design,9
 2025-12-15,designed,3
 2025-12-15,designer,3
-2025-12-15,destined,6
+2025-12-15,destined,7
 2025-12-15,destined shake,6
 2025-12-15,destined shake beauty,6
-2025-12-15,details,4
-2025-12-15,didn,10
+2025-12-15,didn,13
 2025-12-15,didn know,2
 2025-12-15,different,4
-2025-12-15,div,776
+2025-12-15,div,780
 2025-12-15,div div,396
-2025-12-15,div figure,9
-2025-12-15,div figure img,9
+2025-12-15,div figure,11
+2025-12-15,div figure img,11
 2025-12-15,does,7
-2025-12-15,doesn,17
-2025-12-15,doing,12
+2025-12-15,doesn,18
+2025-12-15,doing,13
 2025-12-15,dominated,1
 2025-12-15,don,25
 2025-12-15,don need,3
 2025-12-15,dot,2
-2025-12-15,dream,6
-2025-12-15,earn,4
-2025-12-15,earn commission,4
-2025-12-15,earn commission figure,4
+2025-12-15,dream,5
+2025-12-15,earn,3
+2025-12-15,earn commission,3
+2025-12-15,earn commission figure,3
 2025-12-15,easier,3
-2025-12-15,easy,5
+2025-12-15,easy,6
 2025-12-15,edition,5
-2025-12-15,editor,6
-2025-12-15,editor approved,4
-2025-12-15,editor approved holiday,4
+2025-12-15,editor,5
+2025-12-15,editor approved,3
+2025-12-15,editor approved holiday,3
 2025-12-15,editors,3
 2025-12-15,effort,1
-2025-12-15,end,6
+2025-12-15,end,8
 2025-12-15,energy,3
 2025-12-15,ensure,4
 2025-12-15,environment,4
-2025-12-15,equally,3
-2025-12-15,especially,14
+2025-12-15,especially,15
 2025-12-15,essential,5
 2025-12-15,essentials,7
 2025-12-15,evening,4
 2025-12-15,everyday,5
-2025-12-15,excellent,3
 2025-12-15,exciting,3
 2025-12-15,expensive,5
-2025-12-15,experience,4
-2025-12-15,experts,8
+2025-12-15,experience,5
+2025-12-15,experts,10
+2025-12-15,explain,6
+2025-12-15,explained,2
 2025-12-15,explains,3
-2025-12-15,explore,3
 2025-12-15,extra,15
-2025-12-15,eye,16
+2025-12-15,eye,17
 2025-12-15,eye makeup,2
 2025-12-15,fabric,4
 2025-12-15,face,6
-2025-12-15,fact,3
 2025-12-15,family,45
 2025-12-15,far,3
-2025-12-15,fashion,11
-2025-12-15,favorite,14
-2025-12-15,feel,25
-2025-12-15,feel great,4
-2025-12-15,feel great better,4
+2025-12-15,fashion,12
+2025-12-15,favorite,11
+2025-12-15,feel,26
+2025-12-15,feel great,3
+2025-12-15,feel great better,3
 2025-12-15,feel like,6
 2025-12-15,feelings,8
-2025-12-15,feels,8
+2025-12-15,feels,10
 2025-12-15,festive,8
-2025-12-15,figcaption,150
-2025-12-15,figcaption figure,35
-2025-12-15,figcaption figure figure,28
+2025-12-15,figcaption,146
+2025-12-15,figcaption figure,38
+2025-12-15,figcaption figure figure,27
 2025-12-15,figcaption figure strong,4
-2025-12-15,figure,97
-2025-12-15,figure div,9
-2025-12-15,figure figure,28
-2025-12-15,figure figure img,28
-2025-12-15,figure img,45
-2025-12-15,figure img height,32
-2025-12-15,figure img src,13
+2025-12-15,figure,108
+2025-12-15,figure blockquote,7
+2025-12-15,figure blockquote class,7
+2025-12-15,figure div,12
+2025-12-15,figure figure,27
+2025-12-15,figure figure img,27
+2025-12-15,figure img,47
+2025-12-15,figure img height,30
+2025-12-15,figure img src,17
 2025-12-15,figure strong,6
 2025-12-15,film,8
 2025-12-15,finally,4
+2025-12-15,finding,4
 2025-12-15,fit,6
 2025-12-15,flat,3
 2025-12-15,fold,5
 2025-12-15,food,2
 2025-12-15,foot,6
 2025-12-15,forecast,4
-2025-12-15,forget,4
+2025-12-15,forget,5
 2025-12-15,form,3
 2025-12-15,forward,4
-2025-12-15,free,11
+2025-12-15,free,10
 2025-12-15,french,5
-2025-12-15,friend,27
+2025-12-15,friend,26
 2025-12-15,friendly,7
-2025-12-15,friends,9
+2025-12-15,friends,10
 2025-12-15,frosty,4
 2025-12-15,fun,8
 2025-12-15,game,3
 2025-12-15,gel,3
-2025-12-15,gen,3
 2025-12-15,gets,3
 2025-12-15,getting,10
-2025-12-15,gift,66
-2025-12-15,gift guides,5
+2025-12-15,gift,58
+2025-12-15,gift guides,4
 2025-12-15,gift set,7
 2025-12-15,gift set available,4
 2025-12-15,gifted,7
-2025-12-15,giftee,42
-2025-12-15,gifts,32
-2025-12-15,gifts feel,4
-2025-12-15,gifts feel great,4
-2025-12-15,girl,12
+2025-12-15,giftee,41
+2025-12-15,gifts,24
+2025-12-15,gifts feel,3
+2025-12-15,gifts feel great,3
+2025-12-15,girl,13
 2025-12-15,girl makeup,4
 2025-12-15,girl makeup trend,4
+2025-12-15,giving,4
 2025-12-15,glam,5
 2025-12-15,glam makeup,4
 2025-12-15,glamour,4
-2025-12-15,glitter,9
+2025-12-15,glitter,8
 2025-12-15,glossy,3
 2025-12-15,glow,3
-2025-12-15,glowing,4
-2025-12-15,glowing skin,3
-2025-12-15,going,11
+2025-12-15,glowing,2
+2025-12-15,going,17
 2025-12-15,gold,7
 2025-12-15,good,20
 2025-12-15,goodness,10
 2025-12-15,goodness right,10
 2025-12-15,goodness right strong,10
-2025-12-15,got,7
-2025-12-15,great,17
-2025-12-15,great better,4
-2025-12-15,great better shop,4
+2025-12-15,got,8
+2025-12-15,great,16
+2025-12-15,great better,3
+2025-12-15,great better shop,3
 2025-12-15,green,6
-2025-12-15,group,5
+2025-12-15,group,4
 2025-12-15,growth,8
-2025-12-15,guide,4
-2025-12-15,guides,5
+2025-12-15,grwm,9
+2025-12-15,guides,4
 2025-12-15,hair,14
 2025-12-15,hand,6
 2025-12-15,hands,5
 2025-12-15,hard,6
 2025-12-15,harper,2
 2025-12-15,harper bazaar,2
-2025-12-15,haul,6
+2025-12-15,haul,5
 2025-12-15,having,3
-2025-12-15,head,3
 2025-12-15,health,11
-2025-12-15,heart,5
+2025-12-15,heart,4
 2025-12-15,hearts,3
 2025-12-15,heat,4
-2025-12-15,height,350
-2025-12-15,height src,110
-2025-12-15,height src width,110
+2025-12-15,height,339
+2025-12-15,height src,99
+2025-12-15,height src width,99
 2025-12-15,hello,4
 2025-12-15,hello magazine,4
-2025-12-15,help,22
+2025-12-15,help,21
 2025-12-15,helps,5
+2025-12-15,hey,3
 2025-12-15,high,7
 2025-12-15,hold,7
 2025-12-15,holding,3
-2025-12-15,holiday,19
-2025-12-15,holiday gift,7
-2025-12-15,holiday gift guides,4
-2025-12-15,holiday season,7
-2025-12-15,holiday season gifts,4
-2025-12-15,holidays,6
+2025-12-15,holiday,17
+2025-12-15,holiday gift,6
+2025-12-15,holiday gift guides,3
+2025-12-15,holiday season,6
+2025-12-15,holiday season gifts,3
+2025-12-15,holidays,4
 2025-12-15,home,14
-2025-12-15,honest,8
+2025-12-15,honest,11
 2025-12-15,hope,3
 2025-12-15,host,5
-2025-12-15,hot,4
-2025-12-15,hotel,7
+2025-12-15,hotel,6
 2025-12-15,hours,5
-2025-12-15,house,3
+2025-12-15,house,2
 2025-12-15,huge,9
 2025-12-15,human,4
 2025-12-15,hydrating,6
 2025-12-15,ideas,5
-2025-12-15,img,45
-2025-12-15,img height,32
-2025-12-15,img height src,32
-2025-12-15,img src,13
-2025-12-15,img src figcaption,5
+2025-12-15,img,47
+2025-12-15,img height,30
+2025-12-15,img height src,30
+2025-12-15,img src,17
+2025-12-15,img src figcaption,9
 2025-12-15,img src figure,8
 2025-12-15,impact,2
 2025-12-15,includes,3
 2025-12-15,including,5
-2025-12-15,independently,4
-2025-12-15,independently selected,4
+2025-12-15,independently,3
+2025-12-15,independently selected,3
 2025-12-15,india,5
 2025-12-15,inside,3
 2025-12-15,insider,2
-2025-12-15,inspired,5
+2025-12-15,inspired,3
 2025-12-15,instagram,30
+2025-12-15,instead,4
 2025-12-15,internet,1
 2025-12-15,jewelry,9
-2025-12-15,journal,7
 2025-12-15,joy,5
-2025-12-15,just,50
+2025-12-15,just,54
 2025-12-15,keeps,5
 2025-12-15,key,7
+2025-12-15,kind,4
 2025-12-15,kit,18
 2025-12-15,kit available,6
-2025-12-15,know,21
+2025-12-15,know,19
 2025-12-15,know needed,2
 2025-12-15,knows,3
 2025-12-15,korean,1
-2025-12-15,latest,5
+2025-12-15,latest,4
 2025-12-15,launches,6
 2025-12-15,launches marie,6
 2025-12-15,launches marie claire,6
 2025-12-15,leather,13
-2025-12-15,let,8
-2025-12-15,life,14
-2025-12-15,lifestyle,2
+2025-12-15,let,9
+2025-12-15,level,3
+2025-12-15,life,17
 2025-12-15,light,14
-2025-12-15,like,81
-2025-12-15,like goodness,8
-2025-12-15,like goodness right,8
+2025-12-15,like,87
+2025-12-15,like goodness,9
+2025-12-15,like goodness right,9
 2025-12-15,likely,4
-2025-12-15,link,3
+2025-12-15,line,59
 2025-12-15,lip,10
 2025-12-15,lips,5
 2025-12-15,lips cool,4
 2025-12-15,lips cool girl,4
-2025-12-15,list,13
+2025-12-15,list,11
 2025-12-15,listen,3
-2025-12-15,little,7
-2025-12-15,live,4
+2025-12-15,little,8
+2025-12-15,live,3
 2025-12-15,lives,5
 2025-12-15,long,8
 2025-12-15,look,35
 2025-12-15,looking,4
 2025-12-15,looks,11
-2025-12-15,lot,7
-2025-12-15,love,33
+2025-12-15,lot,8
+2025-12-15,love,37
 2025-12-15,loved,16
-2025-12-15,lover,5
-2025-12-15,loves,3
-2025-12-15,low,4
+2025-12-15,loves,4
+2025-12-15,low,5
 2025-12-15,luxe,7
 2025-12-15,luxurious,6
 2025-12-15,luxury,16
 2025-12-15,magazine,4
 2025-12-15,major,5
-2025-12-15,make,15
+2025-12-15,make,13
 2025-12-15,makes,12
 2025-12-15,makeup,78
 2025-12-15,makeup artist,4
@@ -771,12 +772,11 @@ period,Term,Count
 2025-12-15,makeup tutorials best,3
 2025-12-15,makeup tutorials taking,3
 2025-12-15,makeup tutorials viral,3
-2025-12-15,makeuptutorial,5
+2025-12-15,makeuptutorial,4
 2025-12-15,making,11
 2025-12-15,marie,8
 2025-12-15,marie claire,8
 2025-12-15,marie claire officially,3
-2025-12-15,market,2
 2025-12-15,mask,11
 2025-12-15,matter,10
 2025-12-15,maybe,4
@@ -786,31 +786,30 @@ period,Term,Count
 2025-12-15,meditation,3
 2025-12-15,mini,12
 2025-12-15,minimal,1
+2025-12-15,moment,5
 2025-12-15,morning,3
 2025-12-15,movie,12
 2025-12-15,nail,26
 2025-12-15,nail trends,8
 2025-12-15,nails,10
 2025-12-15,nature,4
-2025-12-15,navigate,3
-2025-12-15,need,17
-2025-12-15,needed,2
-2025-12-15,needs,6
-2025-12-15,new,35
+2025-12-15,need,19
+2025-12-15,needed,4
+2025-12-15,needs,5
+2025-12-15,new,42
 2025-12-15,new year,10
 2025-12-15,newbeauty,4
 2025-12-15,news,10
-2025-12-15,night,14
+2025-12-15,night,13
 2025-12-15,nina,6
 2025-12-15,nina park,6
-2025-12-15,noopener,81
-2025-12-15,noopener target,53
-2025-12-15,noreferrer,81
-2025-12-15,noreferrer noopener,53
-2025-12-15,noreferrer noopener target,53
-2025-12-15,obsessed,3
+2025-12-15,noopener,80
+2025-12-15,noopener target,52
+2025-12-15,noreferrer,80
+2025-12-15,noreferrer noopener,52
+2025-12-15,noreferrer noopener target,52
 2025-12-15,offer,4
-2025-12-15,offers,5
+2025-12-15,offers,6
 2025-12-15,officially,7
 2025-12-15,officially bestselling,6
 2025-12-15,officially bestselling beauty,6
@@ -819,93 +818,96 @@ period,Term,Count
 2025-12-15,old,7
 2025-12-15,ones,6
 2025-12-15,open,7
-2025-12-15,option,10
+2025-12-15,opinion,3
+2025-12-15,option,8
 2025-12-15,outside,4
-2025-12-15,overwhelming,3
 2025-12-15,pair,10
-2025-12-15,park,6
+2025-12-15,park,20
 2025-12-15,party,10
 2025-12-15,pay,5
-2025-12-15,people,37
+2025-12-15,people,39
 2025-12-15,people figcaption,4
 2025-12-15,people figcaption figure,4
 2025-12-15,people strong,5
 2025-12-15,people strong strong,3
-2025-12-15,perfect,15
+2025-12-15,perfect,12
 2025-12-15,perfectly,4
-2025-12-15,person,9
+2025-12-15,person,12
 2025-12-15,personal,3
-2025-12-15,personalized,11
+2025-12-15,personalized,9
 2025-12-15,phone,5
 2025-12-15,photo,7
 2025-12-15,physically,3
 2025-12-15,pick,3
-2025-12-15,picks,9
+2025-12-15,picks,8
 2025-12-15,picks trends,6
 2025-12-15,picks trends destined,6
-2025-12-15,piece,4
 2025-12-15,pink,1
 2025-12-15,pinterest,6
-2025-12-15,place,8
+2025-12-15,place,9
 2025-12-15,plan,4
 2025-12-15,polished,2
+2025-12-15,pop,5
 2025-12-15,post,30
 2025-12-15,power,6
 2025-12-15,practical,21
 2025-12-15,premium,4
 2025-12-15,present,6
 2025-12-15,presents,3
+2025-12-15,press,5
+2025-12-15,pretty,6
 2025-12-15,print,2
-2025-12-15,product,4
 2025-12-15,products,8
 2025-12-15,professional,5
 2025-12-15,purchase,4
 2025-12-15,quite,4
-2025-12-15,read,7
-2025-12-15,readers,4
+2025-12-15,read,4
 2025-12-15,ready,4
-2025-12-15,real,8
+2025-12-15,real,10
 2025-12-15,realize,3
-2025-12-15,really,17
+2025-12-15,really,23
 2025-12-15,reason,3
 2025-12-15,recreate,4
-2025-12-15,reflect,4
-2025-12-15,rel,81
-2025-12-15,rel noreferrer,53
-2025-12-15,rel noreferrer noopener,53
+2025-12-15,reflect,3
+2025-12-15,rel,80
+2025-12-15,rel noreferrer,52
+2025-12-15,rel noreferrer noopener,52
+2025-12-15,relationship,5
+2025-12-15,relationships,3
 2025-12-15,remember,5
-2025-12-15,right,59
+2025-12-15,right,60
 2025-12-15,right strong,10
 2025-12-15,roll,5
 2025-12-15,room,7
-2025-12-15,routine,20
-2025-12-15,safe,6
+2025-12-15,routine,17
+2025-12-15,safe,7
 2025-12-15,said,6
-2025-12-15,say,9
-2025-12-15,says,7
+2025-12-15,say,11
+2025-12-15,saying,4
+2025-12-15,says,12
 2025-12-15,scalp,2
 2025-12-15,scene,8
-2025-12-15,screen,4
 2025-12-15,search,1
-2025-12-15,season,16
-2025-12-15,season gifts,4
-2025-12-15,season gifts feel,4
+2025-12-15,season,27
+2025-12-15,season gifts,3
+2025-12-15,season gifts feel,3
 2025-12-15,secret,3
-2025-12-15,seeing,7
-2025-12-15,selected,5
+2025-12-15,seeing,8
+2025-12-15,selected,4
 2025-12-15,self,6
 2025-12-15,serum,5
-2025-12-15,set,56
-2025-12-15,set available,16
-2025-12-15,set available height,13
+2025-12-15,served,4
+2025-12-15,set,54
+2025-12-15,set available,15
+2025-12-15,set available height,12
 2025-12-15,sets,6
 2025-12-15,shake,8
 2025-12-15,shake beauty,6
 2025-12-15,shake beauty cosmetics,6
 2025-12-15,shame,3
-2025-12-15,shop,82
-2025-12-15,shop collection,4
-2025-12-15,shop collection editor,4
+2025-12-15,shop,81
+2025-12-15,shop collection,3
+2025-12-15,shop collection editor,3
 2025-12-15,shop strong,59
 2025-12-15,shop strong rel,22
 2025-12-15,shopping,12
@@ -917,99 +919,106 @@ period,Term,Count
 2025-12-15,similar,3
 2025-12-15,simple,9
 2025-12-15,simply,7
+2025-12-15,single,4
 2025-12-15,size,47
-2025-12-15,skin,20
-2025-12-15,skincare,46
-2025-12-15,skincare routine,9
+2025-12-15,skin,19
+2025-12-15,skincare,45
+2025-12-15,skincare routine,6
 2025-12-15,skincare skincareroutine,8
 2025-12-15,skincare skincareroutine skincaretips,3
 2025-12-15,skincare trend,2
-2025-12-15,skincare trends,4
-2025-12-15,skincareroutine,18
+2025-12-15,skincare trends,6
+2025-12-15,skincareroutine,20
 2025-12-15,skincareroutine skincaretips,4
-2025-12-15,skincareroutine trend,3
-2025-12-15,skincaretips,8
+2025-12-15,skincareroutine trend,5
+2025-12-15,skincaretips,6
+2025-12-15,sleep,10
 2025-12-15,small,5
 2025-12-15,social,4
 2025-12-15,soft,12
 2025-12-15,soft glam,3
 2025-12-15,soft glam makeup,3
+2025-12-15,soon,4
 2025-12-15,space,8
 2025-12-15,special,5
-2025-12-15,src,123
-2025-12-15,src figcaption,5
+2025-12-15,src,116
+2025-12-15,src figcaption,9
 2025-12-15,src figure,8
 2025-12-15,src figure div,8
-2025-12-15,src width,110
-2025-12-15,src width figcaption,110
+2025-12-15,src width,99
+2025-12-15,src width figcaption,99
 2025-12-15,stainless,3
 2025-12-15,stainless steel,3
 2025-12-15,stand,14
-2025-12-15,star,6
+2025-12-15,star,4
+2025-12-15,stay,3
 2025-12-15,steel,4
 2025-12-15,step,4
 2025-12-15,stop,4
 2025-12-15,stretch,3
-2025-12-15,strong,384
-2025-12-15,strong like,9
-2025-12-15,strong like goodness,8
+2025-12-15,strong,374
+2025-12-15,strong like,10
+2025-12-15,strong like goodness,9
 2025-12-15,strong rel,23
 2025-12-15,strong rel noreferrer,23
-2025-12-15,strong strong,72
-2025-12-15,style,422
-2025-12-15,stylish,8
+2025-12-15,strong strong,76
+2025-12-15,style,421
+2025-12-15,stylish,6
 2025-12-15,sun,7
 2025-12-15,super,4
 2025-12-15,support,17
-2025-12-15,sure,14
+2025-12-15,sure,8
 2025-12-15,takes,5
-2025-12-15,taking,12
+2025-12-15,taking,14
 2025-12-15,taking tiktok,3
-2025-12-15,target,81
-2025-12-15,team,10
+2025-12-15,talking,4
+2025-12-15,target,80
+2025-12-15,team,9
 2025-12-15,team picks,6
 2025-12-15,team picks trends,6
-2025-12-15,text,63
+2025-12-15,text,66
+2025-12-15,text color,7
+2025-12-15,text color black,7
 2025-12-15,thanks,6
 2025-12-15,things,7
-2025-12-15,think,29
+2025-12-15,think,33
+2025-12-15,thought,9
+2025-12-15,thoughts,3
 2025-12-15,tiktok,19
 2025-12-15,tiktok makeup,9
 2025-12-15,tiktok makeup compilation,3
 2025-12-15,tiktok makeup tutorials,6
-2025-12-15,time,23
-2025-12-15,times,6
+2025-12-15,time,27
+2025-12-15,times,5
 2025-12-15,today,1
 2025-12-15,tool,4
-2025-12-15,tote,8
 2025-12-15,touch,7
-2025-12-15,town,2
-2025-12-15,track,4
 2025-12-15,transformation,4
 2025-12-15,transition,7
 2025-12-15,travel,37
-2025-12-15,trend,64
+2025-12-15,trend,65
 2025-12-15,trend forecast,1
-2025-12-15,trend skincare,5
+2025-12-15,trend skincare,4
 2025-12-15,trend try,4
 2025-12-15,trend try winter,4
-2025-12-15,trend viral,3
 2025-12-15,trending,16
 2025-12-15,trending trend,3
-2025-12-15,trends,57
+2025-12-15,trends,60
 2025-12-15,trends destined,6
 2025-12-15,trends destined shake,6
+2025-12-15,trends huge,2
 2025-12-15,trends know,6
+2025-12-15,trends taking,5
 2025-12-15,trends try,1
 2025-12-15,trends vogue,6
 2025-12-15,trends vogue best,3
 2025-12-15,tried,8
 2025-12-15,true,5
-2025-12-15,truly,4
+2025-12-15,trust,4
 2025-12-15,try,26
 2025-12-15,try winter,4
 2025-12-15,trying,2
-2025-12-15,turn,3
+2025-12-15,turn,4
 2025-12-15,tutorials,9
 2025-12-15,tutorials best,3
 2025-12-15,tutorials best beauty,3
@@ -1026,27 +1035,27 @@ period,Term,Count
 2025-12-15,viral,40
 2025-12-15,viral makeup,7
 2025-12-15,viral makeup trend,4
-2025-12-15,viral skincare,4
+2025-12-15,viral skincare,5
 2025-12-15,viral tiktok,7
 2025-12-15,viral tiktok makeup,6
-2025-12-15,viralvideo,8
+2025-12-15,viralvideo,10
 2025-12-15,virgo,3
 2025-12-15,virtual,4
 2025-12-15,vogue,14
 2025-12-15,vogue best,3
 2025-12-15,vogue best beauty,3
 2025-12-15,walk,5
-2025-12-15,want,18
+2025-12-15,want,19
+2025-12-15,wants,4
 2025-12-15,warm,3
 2025-12-15,wasn,3
 2025-12-15,way,14
 2025-12-15,wear,5
-2025-12-15,week,3
 2025-12-15,wellness,7
 2025-12-15,went,3
-2025-12-15,white,4
-2025-12-15,width,334
-2025-12-15,width figcaption,110
+2025-12-15,white,5
+2025-12-15,width,323
+2025-12-15,width figcaption,99
 2025-12-15,wild,2
 2025-12-15,winter,30
 2025-12-15,winter beauty,4
@@ -1054,13 +1063,13 @@ period,Term,Count
 2025-12-15,women,1
 2025-12-15,won,7
 2025-12-15,work,17
-2025-12-15,works,3
-2025-12-15,world,13
+2025-12-15,works,2
+2025-12-15,world,12
 2025-12-15,worth,1
-2025-12-15,wrong,6
+2025-12-15,wrapped,4
+2025-12-15,wrong,4
 2025-12-15,year,26
 2025-12-15,years,7
 2025-12-15,yoga,3
 2025-12-15,youtube,3
 2025-12-15,youtubeshorts,7
-2025-12-15,ytshorts,4
