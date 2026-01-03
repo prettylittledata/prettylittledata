@@ -1,26 +1,21 @@
 period,Term,Count
-2025-11-17,approved,2
-2025-11-17,claire,2
-2025-11-17,coat,2
 2025-11-17,fashion,4
 2025-11-17,fashion trend,2
 2025-11-17,fashion trends,2
-2025-11-17,marie,2
-2025-11-17,marie claire,2
 2025-11-17,quarter,2
 2025-11-17,quarter zip,2
-2025-11-17,trend,4
+2025-11-17,trend,2
 2025-11-17,trends,2
 2025-11-17,viral,2
 2025-11-17,zip,2
-2025-11-24,fashion,4
+2025-11-24,fashion,6
 2025-11-24,fashion trend,4
 2025-11-24,life,2
 2025-11-24,men,2
 2025-11-24,new,4
 2025-11-24,new fashion,2
 2025-11-24,trend,4
-2025-11-24,trends,2
+2025-11-24,trends,4
 2025-11-24,vogue,2
 2025-11-24,young,2
 2025-12-01,claire,2
@@ -35,7 +30,8 @@ period,Term,Count
 2025-12-01,wearing,2
 2025-12-01,winter,2
 2025-12-01,winter trends,2
-2025-12-08,biggest,4
+2025-12-08,bag,2
+2025-12-08,biggest,6
 2025-12-08,dressing,2
 2025-12-08,fashion,8
 2025-12-08,fashion trend,2
@@ -58,13 +54,14 @@ period,Term,Count
 2025-12-08,streetwear,2
 2025-12-08,summer,4
 2025-12-08,summer trends,4
+2025-12-08,tiktok,4
 2025-12-08,time,2
 2025-12-08,trend,6
 2025-12-08,trends,10
-2025-12-08,trends wear,2
-2025-12-08,wear,8
+2025-12-08,trends wear,4
+2025-12-08,wear,10
+2025-12-08,wear biggest,3
 2025-12-08,week,2
-2025-12-08,year,2
 2025-12-08,young,2
 2025-12-08,zip,2
 2025-12-15,bazaar,2
@@ -78,16 +75,15 @@ period,Term,Count
 2025-12-15,glamour,4
 2025-12-15,going,4
 2025-12-15,good,4
-2025-12-15,good housekeeping,4
 2025-12-15,harper,2
 2025-12-15,harper bazaar,2
-2025-12-15,housekeeping,4
 2025-12-15,instead,2
 2025-12-15,just,4
 2025-12-15,key,6
 2025-12-15,marie,2
 2025-12-15,marie claire,2
 2025-12-15,new,4
+2025-12-15,shop,2
 2025-12-15,spring,2
 2025-12-15,spring summer,2
 2025-12-15,spring summer trends,2
@@ -130,6 +126,7 @@ period,Term,Count
 2025-12-22,sheer,4
 2025-12-22,shoe,2
 2025-12-22,shoe trends,2
+2025-12-22,shop,2
 2025-12-22,simple,4
 2025-12-22,skirts,2
 2025-12-22,statement,2
@@ -151,11 +148,11 @@ period,Term,Count
 2025-12-29,actually,6
 2025-12-29,affordablefashion,3
 2025-12-29,amazon,5
-2025-12-29,approved,4
 2025-12-29,asked,5
 2025-12-29,asked experts,5
 2025-12-29,backing,6
 2025-12-29,backing wear,6
+2025-12-29,bag,4
 2025-12-29,bazaar,4
 2025-12-29,beautiful,4
 2025-12-29,beauty,7
@@ -170,7 +167,7 @@ period,Term,Count
 2025-12-29,brand,10
 2025-12-29,celebrities,6
 2025-12-29,celebrity,6
-2025-12-29,chic,11
+2025-12-29,chic,13
 2025-12-29,city,4
 2025-12-29,claire,2
 2025-12-29,clothes,4
@@ -249,24 +246,22 @@ period,Term,Count
 2025-12-29,glam,5
 2025-12-29,glamour,2
 2025-12-29,going,2
-2025-12-29,good,8
-2025-12-29,good housekeeping,2
+2025-12-29,good,6
 2025-12-29,happy,6
 2025-12-29,harper,4
 2025-12-29,harper bazaar,4
 2025-12-29,hello,6
 2025-12-29,hello magazine,6
 2025-12-29,herald,6
-2025-12-29,high,5
 2025-12-29,home,8
 2025-12-29,hot,4
-2025-12-29,housekeeping,2
 2025-12-29,ideas,10
 2025-12-29,includes,4
 2025-12-29,includes wide,4
 2025-12-29,includes wide variety,4
 2025-12-29,inspo,4
 2025-12-29,instead,6
+2025-12-29,instyle,6
 2025-12-29,items,8
 2025-12-29,items shirts,4
 2025-12-29,items shirts trousers,4
@@ -377,6 +372,7 @@ period,Term,Count
 2025-12-29,shoe,15
 2025-12-29,shoe trends,12
 2025-12-29,shoes,11
+2025-12-29,shop,2
 2025-12-29,shopping,8
 2025-12-29,short,4
 2025-12-29,shorts,24
@@ -391,12 +387,12 @@ period,Term,Count
 2025-12-29,spring,16
 2025-12-29,spring summer,4
 2025-12-29,statement,5
-2025-12-29,street,9
+2025-12-29,street,7
 2025-12-29,streetwear,18
 2025-12-29,streetwear outfitideas,3
 2025-12-29,streetwear outfitideas clothingbrand,3
 2025-12-29,streetwear style,2
-2025-12-29,style,56
+2025-12-29,style,54
 2025-12-29,style man,3
 2025-12-29,style man time,3
 2025-12-29,style trends,10
@@ -413,12 +409,13 @@ period,Term,Count
 2025-12-29,suits jeans dresses,4
 2025-12-29,summer,6
 2025-12-29,sydney,4
+2025-12-29,tiktok,2
 2025-12-29,time,4
 2025-12-29,time fashionable,3
 2025-12-29,time fashionable best,3
 2025-12-29,times,6
 2025-12-29,travel,4
-2025-12-29,trend,37
+2025-12-29,trend,39
 2025-12-29,trend predictions,8
 2025-12-29,trend wear,4
 2025-12-29,trending,15
