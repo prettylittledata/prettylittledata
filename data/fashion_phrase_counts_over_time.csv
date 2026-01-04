@@ -1,16 +1,11 @@
 period,Term,Count
-2025-11-17,approved,2
-2025-11-17,claire,2
-2025-11-17,coat,2
-2025-11-17,fashion,4
-2025-11-17,fashion trend,2
+2025-11-17,fashion,2
 2025-11-17,fashion trends,2
-2025-11-17,marie,2
-2025-11-17,marie claire,2
-2025-11-17,runway,2
-2025-11-17,trend,4
+2025-11-17,runways,2
+2025-11-17,spring,2
+2025-11-17,styling,2
 2025-11-17,trends,2
-2025-11-17,viral,2
+2025-11-17,wear,2
 2025-11-24,fashion,4
 2025-11-24,fashion trend,4
 2025-11-24,life,2
@@ -18,29 +13,22 @@ period,Term,Count
 2025-11-24,new,4
 2025-11-24,new fashion,2
 2025-11-24,trend,4
-2025-11-24,trends,2
-2025-11-24,vogue,2
 2025-11-24,young,2
 2025-12-01,biggest,2
 2025-12-01,biggest fashion,2
 2025-12-01,buy,4
-2025-12-01,claire,2
 2025-12-01,elle,2
 2025-12-01,fashion,4
 2025-12-01,fashion trends,4
 2025-12-01,look,2
 2025-12-01,luxury,2
-2025-12-01,marie,2
-2025-12-01,marie claire,2
 2025-12-01,new,2
 2025-12-01,new york,2
 2025-12-01,times,2
 2025-12-01,trend,2
-2025-12-01,trends,6
-2025-12-01,wearing,2
-2025-12-01,winter,2
-2025-12-01,winter trends,2
+2025-12-01,trends,4
 2025-12-01,york,2
+2025-12-08,bag,2
 2025-12-08,biggest,4
 2025-12-08,black,2
 2025-12-08,ditch,2
@@ -53,7 +41,6 @@ period,Term,Count
 2025-12-08,magazine,2
 2025-12-08,media,2
 2025-12-08,men,2
-2025-12-08,pants,2
 2025-12-08,runways,2
 2025-12-08,shoe,2
 2025-12-08,shoe trends,2
@@ -73,12 +60,11 @@ period,Term,Count
 2025-12-15,bazaar,2
 2025-12-15,biggest,4
 2025-12-15,biggest fashion,4
-2025-12-15,claire,2
 2025-12-15,clothes,2
 2025-12-15,coming,2
-2025-12-15,fashion,18
+2025-12-15,fashion,20
 2025-12-15,fashion trend,8
-2025-12-15,fashion trends,6
+2025-12-15,fashion trends,8
 2025-12-15,glamour,4
 2025-12-15,going,4
 2025-12-15,good,4
@@ -89,8 +75,8 @@ period,Term,Count
 2025-12-15,instead,2
 2025-12-15,just,4
 2025-12-15,key,6
-2025-12-15,marie,2
-2025-12-15,marie claire,2
+2025-12-15,magazine,2
+2025-12-15,magazine fashion,1
 2025-12-15,new,4
 2025-12-15,spring,2
 2025-12-15,spring summer,2
@@ -101,7 +87,7 @@ period,Term,Count
 2025-12-15,summer,2
 2025-12-15,summer trends,2
 2025-12-15,trend,10
-2025-12-15,trends,10
+2025-12-15,trends,12
 2025-12-15,viral,4
 2025-12-15,vogue,2
 2025-12-15,wear,6
@@ -110,7 +96,6 @@ period,Term,Count
 2025-12-15,year,4
 2025-12-22,amazon,2
 2025-12-22,bold,4
-2025-12-22,claire,2
 2025-12-22,clothes,2
 2025-12-22,cosmopolitan,2
 2025-12-22,fashion,12
@@ -120,8 +105,6 @@ period,Term,Count
 2025-12-22,look,4
 2025-12-22,luxury,4
 2025-12-22,major,2
-2025-12-22,marie,2
-2025-12-22,marie claire,2
 2025-12-22,news,6
 2025-12-22,pieces,4
 2025-12-22,real,2
@@ -134,140 +117,146 @@ period,Term,Count
 2025-12-22,style trends,6
 2025-12-22,stylish,2
 2025-12-22,sydney,4
-2025-12-22,travel,2
 2025-12-22,trend,6
 2025-12-22,trends,18
 2025-12-22,wear,6
 2025-12-22,winter,6
 2025-12-22,winter fashion,2
-2025-12-22,winter trends,2
-2025-12-29,accessories,6
 2025-12-29,actually,6
+2025-12-29,affordablefashion,3
 2025-12-29,amazon,4
-2025-12-29,approved,4
 2025-12-29,backing,8
 2025-12-29,backing wear,8
-2025-12-29,bazaar,6
-2025-12-29,beauty,7
-2025-12-29,best,13
+2025-12-29,bag,4
+2025-12-29,bazaar,4
+2025-12-29,beauty,6
+2025-12-29,best,15
 2025-12-29,biggest,14
 2025-12-29,biggest style,6
 2025-12-29,biggest style trends,6
-2025-12-29,black,6
+2025-12-29,black,8
 2025-12-29,bold,1
 2025-12-29,boots,6
 2025-12-29,brand,10
-2025-12-29,buy,4
-2025-12-29,casual,4
+2025-12-29,brown,7
+2025-12-29,buy,3
 2025-12-29,celebrity,6
-2025-12-29,chic,9
+2025-12-29,chic,11
+2025-12-29,chocolate,5
+2025-12-29,chocolate brown,5
 2025-12-29,city,6
 2025-12-29,clothes,2
-2025-12-29,clothing,9
-2025-12-29,clothing items,4
-2025-12-29,clothing items shirts,4
-2025-12-29,clothing rkymart,4
-2025-12-29,clothing rkymart product,4
-2025-12-29,coat,7
+2025-12-29,clothing,7
+2025-12-29,clothing items,3
+2025-12-29,clothing items shirts,3
+2025-12-29,clothing rkymart,3
+2025-12-29,clothing rkymart product,3
+2025-12-29,clothingbrand,3
+2025-12-29,clothingbrand fypage,3
+2025-12-29,clothingbrand fypage affordablefashion,3
 2025-12-29,collection,7
 2025-12-29,colour,8
 2025-12-29,coming,5
+2025-12-29,comment,4
 2025-12-29,cosmopolitan,12
-2025-12-29,dance,6
-2025-12-29,designer,6
-2025-12-29,different,7
+2025-12-29,designer,7
+2025-12-29,different,6
 2025-12-29,ditch,4
-2025-12-29,dress,7
-2025-12-29,dresses,11
-2025-12-29,dresses skirts,4
+2025-12-29,dress,12
+2025-12-29,dresses,7
+2025-12-29,dresses skirts,3
 2025-12-29,dressing,4
-2025-12-29,elegant,7
-2025-12-29,elevate,6
-2025-12-29,elevate wardrobe,6
+2025-12-29,elegant,4
 2025-12-29,elle,10
 2025-12-29,end,5
 2025-12-29,experts,5
-2025-12-29,explore,4
-2025-12-29,fall,4
-2025-12-29,fall winter,4
+2025-12-29,explore,3
+2025-12-29,fall,5
+2025-12-29,fall winter,5
+2025-12-29,fall winter fashion,3
 2025-12-29,family,3
-2025-12-29,fashion,185
+2025-12-29,fashion,187
 2025-12-29,fashion beauty,6
-2025-12-29,fashion clothing,4
-2025-12-29,fashion clothing rkymart,4
+2025-12-29,fashion clothing,3
+2025-12-29,fashion clothing rkymart,3
 2025-12-29,fashion outfit,5
 2025-12-29,fashion people,10
 2025-12-29,fashion streetwear,4
-2025-12-29,fashion trend,18
-2025-12-29,fashion trend predictions,6
-2025-12-29,fashion trends,68
+2025-12-29,fashion streetwear outfitideas,3
+2025-12-29,fashion trend,20
+2025-12-29,fashion trend predictions,8
+2025-12-29,fashion trends,64
 2025-12-29,fashion trends wearing,6
-2025-12-29,fashiontrends,33
+2025-12-29,fashiontrends,39
 2025-12-29,fashiontrends mensfashion,4
 2025-12-29,funny,5
 2025-12-29,fyp,5
+2025-12-29,fypage,3
+2025-12-29,fypage affordablefashion,3
 2025-12-29,gen,10
-2025-12-29,girls,9
+2025-12-29,girls,8
 2025-12-29,glamour,2
 2025-12-29,going,2
 2025-12-29,good,9
 2025-12-29,good housekeeping,2
 2025-12-29,hair,6
-2025-12-29,harper,6
-2025-12-29,harper bazaar,6
+2025-12-29,harper,4
+2025-12-29,harper bazaar,4
 2025-12-29,haul,4
 2025-12-29,herald,6
 2025-12-29,high,6
 2025-12-29,home,8
 2025-12-29,hot,4
 2025-12-29,housekeeping,2
-2025-12-29,includes,4
-2025-12-29,includes wide,4
-2025-12-29,includes wide variety,4
-2025-12-29,instagram,5
-2025-12-29,instantly,6
+2025-12-29,includes,3
+2025-12-29,includes wide,3
+2025-12-29,includes wide variety,3
+2025-12-29,instagram,7
 2025-12-29,instead,6
-2025-12-29,instyle,8
-2025-12-29,items,8
-2025-12-29,items shirts,4
-2025-12-29,items shirts trousers,4
-2025-12-29,jackets,6
-2025-12-29,jackets suits,4
-2025-12-29,jackets suits jeans,4
+2025-12-29,instyle,6
+2025-12-29,items,7
+2025-12-29,items shirts,3
+2025-12-29,items shirts trousers,3
+2025-12-29,jackets,3
+2025-12-29,jackets suits,3
+2025-12-29,jackets suits jeans,3
 2025-12-29,january,11
-2025-12-29,jeans,24
-2025-12-29,jeans dresses,4
-2025-12-29,jeans dresses skirts,4
+2025-12-29,jeans,28
+2025-12-29,jeans dresses,3
+2025-12-29,jeans dresses skirts,3
 2025-12-29,just,7
 2025-12-29,key,6
-2025-12-29,know,10
+2025-12-29,know,8
 2025-12-29,know fashion,8
-2025-12-29,latest,10
-2025-12-29,latest fashion,7
+2025-12-29,latest,9
+2025-12-29,latest fashion,5
 2025-12-29,leave,6
 2025-12-29,leaving,6
 2025-12-29,leggings,10
 2025-12-29,life,3
 2025-12-29,lifestyle,6
-2025-12-29,like,4
-2025-12-29,look,13
-2025-12-29,love,19
+2025-12-29,like,3
+2025-12-29,look,11
+2025-12-29,love,13
+2025-12-29,luxury,2
 2025-12-29,magazine,10
+2025-12-29,magazine fashion,2
 2025-12-29,major,6
-2025-12-29,make,13
+2025-12-29,make,15
+2025-12-29,maximalism,6
 2025-12-29,media,6
 2025-12-29,media women,3
 2025-12-29,media women fashion,3
-2025-12-29,men,24
-2025-12-29,men fashion,8
+2025-12-29,men,26
+2025-12-29,men fashion,9
 2025-12-29,men fashion trends,7
-2025-12-29,mens,5
-2025-12-29,mens omens,4
-2025-12-29,mens omens fashion,4
-2025-12-29,mensfashion,11
-2025-12-29,model,5
+2025-12-29,mens,4
+2025-12-29,mens omens,3
+2025-12-29,mens omens fashion,3
+2025-12-29,mensfashion,10
+2025-12-29,model,4
 2025-12-29,morning,6
-2025-12-29,new,44
+2025-12-29,new,46
 2025-12-29,new fashion,4
 2025-12-29,new year,11
 2025-12-29,new york,6
@@ -275,132 +264,136 @@ period,Term,Count
 2025-12-29,news,2
 2025-12-29,nike,6
 2025-12-29,note,4
-2025-12-29,omens,4
-2025-12-29,omens fashion,4
-2025-12-29,omens fashion clothing,4
-2025-12-29,outfit,24
-2025-12-29,outfit outfitideas,3
-2025-12-29,outfitideas,7
-2025-12-29,outfits,19
-2025-12-29,pants,4
+2025-12-29,omens,3
+2025-12-29,omens fashion,3
+2025-12-29,omens fashion clothing,3
+2025-12-29,outfit,25
+2025-12-29,outfitideas,8
+2025-12-29,outfitideas clothingbrand,3
+2025-12-29,outfitideas clothingbrand fypage,3
+2025-12-29,outfits,18
 2025-12-29,people,16
 2025-12-29,pickups,3
-2025-12-29,pieces,5
-2025-12-29,predictions,10
+2025-12-29,pieces,3
+2025-12-29,predictions,12
 2025-12-29,predicts,6
-2025-12-29,product,5
-2025-12-29,product range,4
-2025-12-29,product range includes,4
-2025-12-29,range,4
-2025-12-29,range includes,4
-2025-12-29,range includes wide,4
+2025-12-29,product,4
+2025-12-29,product range,3
+2025-12-29,product range includes,3
+2025-12-29,range,3
+2025-12-29,range includes,3
+2025-12-29,range includes wide,3
 2025-12-29,reader,3
 2025-12-29,real,6
 2025-12-29,red,5
-2025-12-29,reels,5
-2025-12-29,rkymart,4
-2025-12-29,rkymart product,4
-2025-12-29,rkymart product range,4
-2025-12-29,runway,3
+2025-12-29,reels,7
+2025-12-29,rkymart,3
+2025-12-29,rkymart product,3
+2025-12-29,rkymart product range,3
 2025-12-29,runways,4
 2025-12-29,sale,6
+2025-12-29,season,5
 2025-12-29,sheer,2
-2025-12-29,shirts,10
-2025-12-29,shirts trousers,4
-2025-12-29,shirts trousers jackets,4
+2025-12-29,shirts,9
+2025-12-29,shirts trousers,3
+2025-12-29,shirts trousers jackets,3
 2025-12-29,shoe,15
 2025-12-29,shoe trends,12
 2025-12-29,shoes,6
-2025-12-29,shopping,8
+2025-12-29,shopping,10
 2025-12-29,short,4
 2025-12-29,shorts,29
-2025-12-29,shorts fashion,5
+2025-12-29,shorts fashion,3
 2025-12-29,shorts fashion outfit,3
-2025-12-29,shortsfeed,10
-2025-12-29,shortsvideo,4
-2025-12-29,skirts,10
+2025-12-29,shortsfeed,12
+2025-12-29,shortsvideo,6
+2025-12-29,skirts,9
 2025-12-29,skirts wear,6
-2025-12-29,sneakers,19
-2025-12-29,song,4
+2025-12-29,sneakers,17
 2025-12-29,sports,5
 2025-12-29,spring,12
 2025-12-29,spring summer,4
+2025-12-29,star,3
 2025-12-29,streetwear,17
 2025-12-29,streetwear fashion,3
-2025-12-29,style,51
-2025-12-29,style trends,11
+2025-12-29,streetwear outfitideas,3
+2025-12-29,streetwear outfitideas clothingbrand,3
+2025-12-29,style,47
+2025-12-29,style trends,10
 2025-12-29,style trends biggest,3
 2025-12-29,styles,10
-2025-12-29,stylish,14
+2025-12-29,styling,3
+2025-12-29,stylish,12
 2025-12-29,stylist,10
-2025-12-29,suits,4
-2025-12-29,suits jeans,4
-2025-12-29,suits jeans dresses,4
+2025-12-29,suits,3
+2025-12-29,suits jeans,3
+2025-12-29,suits jeans dresses,3
 2025-12-29,summer,8
 2025-12-29,summer fashion,6
 2025-12-29,sydney,4
 2025-12-29,taste,6
 2025-12-29,taste wearing,6
+2025-12-29,teen,8
 2025-12-29,time,2
 2025-12-29,times,6
-2025-12-29,travel,4
 2025-12-29,trend,41
-2025-12-29,trend predictions,8
-2025-12-29,trending,23
-2025-12-29,trendingshorts,8
-2025-12-29,trends,150
+2025-12-29,trend predictions,10
+2025-12-29,trending,20
+2025-12-29,trending fashiontrends,4
+2025-12-29,trendingshorts,7
+2025-12-29,trends,145
 2025-12-29,trends biggest,4
 2025-12-29,trends biggest style,3
 2025-12-29,trends fashion,6
 2025-12-29,trends leave,6
 2025-12-29,trends wear,4
 2025-12-29,trends wearing,8
-2025-12-29,trousers,4
-2025-12-29,trousers jackets,4
-2025-12-29,trousers jackets suits,4
+2025-12-29,trousers,5
+2025-12-29,trousers jackets,3
+2025-12-29,trousers jackets suits,3
 2025-12-29,try,8
 2025-12-29,update,6
-2025-12-29,variety,4
-2025-12-29,variety clothing,4
-2025-12-29,variety clothing items,4
-2025-12-29,video,10
-2025-12-29,viral,15
-2025-12-29,viralvideo,3
+2025-12-29,variety,3
+2025-12-29,variety clothing,3
+2025-12-29,variety clothing items,3
+2025-12-29,video,9
+2025-12-29,viral,21
+2025-12-29,viral viralvideo,5
+2025-12-29,viralvideo,6
 2025-12-29,vocal,6
 2025-12-29,vocal media,6
 2025-12-29,vocal media women,3
-2025-12-29,vogue,16
+2025-12-29,vogue,20
 2025-12-29,vogue spring,4
-2025-12-29,wardrobe,20
+2025-12-29,wardrobe,18
 2025-12-29,watch,6
-2025-12-29,wear,101
+2025-12-29,wear,100
 2025-12-29,wear shoe,4
 2025-12-29,wear shoe trends,4
 2025-12-29,wear zara,3
 2025-12-29,wearing,27
 2025-12-29,wearing jeans,8
 2025-12-29,wearing wear,6
-2025-12-29,wedding,5
+2025-12-29,wedding,7
 2025-12-29,week,6
-2025-12-29,wide,4
-2025-12-29,wide variety,4
-2025-12-29,wide variety clothing,4
-2025-12-29,winter,23
-2025-12-29,winter fashion,6
-2025-12-29,winter trends,2
-2025-12-29,woman,10
+2025-12-29,wide,3
+2025-12-29,wide variety,3
+2025-12-29,wide variety clothing,3
+2025-12-29,winter,22
+2025-12-29,winter fashion,5
+2025-12-29,winter fashion streetwear,3
+2025-12-29,woman,12
 2025-12-29,woman home,8
-2025-12-29,women,27
-2025-12-29,women fashion,12
-2025-12-29,women fashion trends,6
+2025-12-29,women,18
+2025-12-29,women fashion,7
 2025-12-29,world,3
 2025-12-29,year,22
 2025-12-29,york,6
 2025-12-29,yorker,6
 2025-12-29,young,4
 2025-12-29,youtube,11
-2025-12-29,youtubeshorts,5
-2025-12-29,ytshorts,7
+2025-12-29,youtubeshorts,7
+2025-12-29,ytshorts,5
 2025-12-29,zara,13
 2025-12-29,zudio,9
 2025-12-29,zudio zudioindia,3
