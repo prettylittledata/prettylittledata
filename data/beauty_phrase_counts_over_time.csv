@@ -3,6 +3,7 @@ period,Term,Count
 2025-11-24,beauty,12
 2025-11-24,beauty trend,4
 2025-11-24,beauty trends,4
+2025-11-24,bustle,2
 2025-11-24,care,2
 2025-11-24,clean,2
 2025-11-24,cold,2
@@ -15,12 +16,14 @@ period,Term,Count
 2025-11-24,girl makeup,2
 2025-11-24,glow,2
 2025-11-24,health,4
+2025-11-24,holiday,2
 2025-11-24,ins,4
 2025-11-24,ins outs,4
 2025-11-24,latest,2
 2025-11-24,look,2
-2025-11-24,makeup,2
+2025-11-24,makeup,4
 2025-11-24,makeup look,2
+2025-11-24,makeup trend,2
 2025-11-24,new,2
 2025-11-24,newest,2
 2025-11-24,outs,4
@@ -33,12 +36,13 @@ period,Term,Count
 2025-11-24,sun,2
 2025-11-24,target,2
 2025-11-24,tiktok,2
-2025-11-24,trend,6
+2025-11-24,trend,8
 2025-11-24,trends,8
 2025-11-24,trends new,2
 2025-11-24,trends try,4
 2025-11-24,try,4
 2025-11-24,usa,2
+2025-11-24,viral,2
 2025-11-24,vogue,2
 2025-11-24,warm,2
 2025-11-24,winter,4
@@ -71,7 +75,6 @@ period,Term,Count
 2025-12-01,living,2
 2025-12-01,look,2
 2025-12-01,makeup,10
-2025-12-01,makeup artists,2
 2025-12-01,makeup trends,2
 2025-12-01,making,2
 2025-12-01,making comeback,2
@@ -79,12 +82,13 @@ period,Term,Count
 2025-12-01,new,2
 2025-12-01,news,2
 2025-12-01,post,2
+2025-12-01,report,2
 2025-12-01,say,2
+2025-12-01,secret,2
 2025-12-01,shift,4
 2025-12-01,skin,2
 2025-12-01,skincare,4
 2025-12-01,skincare trend,4
-2025-12-01,southern,2
 2025-12-01,trend,4
 2025-12-01,trending,2
 2025-12-01,trends,6
@@ -95,9 +99,7 @@ period,Term,Count
 2025-12-01,viral,2
 2025-12-01,winter,2
 2025-12-01,works,2
-2025-12-08,according,14
-2025-12-08,according celebrity,2
-2025-12-08,age,4
+2025-12-08,according,12
 2025-12-08,artists,4
 2025-12-08,artists vogue,4
 2025-12-08,artists vogue scandinavia,4
@@ -117,7 +119,6 @@ period,Term,Count
 2025-12-08,british,2
 2025-12-08,british vogue,2
 2025-12-08,business,2
-2025-12-08,celebrity,2
 2025-12-08,cherry,2
 2025-12-08,claire,2
 2025-12-08,colorful,2
@@ -126,27 +127,27 @@ period,Term,Count
 2025-12-08,cool girl,2
 2025-12-08,cosmetics,2
 2025-12-08,cosmetics business,2
-2025-12-08,data,4
 2025-12-08,dominated,4
 2025-12-08,dot,4
 2025-12-08,dot nails,4
 2025-12-08,espresso,4
 2025-12-08,experts,2
-2025-12-08,eye,4
+2025-12-08,eye,2
 2025-12-08,favorite,2
-2025-12-08,french,4
+2025-12-08,french,2
 2025-12-08,girl,2
 2025-12-08,girl makeup,2
 2025-12-08,glam,4
 2025-12-08,glamour,2
 2025-12-08,good,2
 2025-12-08,hair,4
+2025-12-08,holiday,2
 2025-12-08,huge,2
-2025-12-08,inspired,4
+2025-12-08,inspired,2
 2025-12-08,life,2
 2025-12-08,lips,4
-2025-12-08,makeup,12
-2025-12-08,makeup trend,6
+2025-12-08,makeup,10
+2025-12-08,makeup trend,4
 2025-12-08,makeup trends,6
 2025-12-08,makeup trends according,4
 2025-12-08,marie,2
@@ -159,6 +160,7 @@ period,Term,Count
 2025-12-08,polka dot,4
 2025-12-08,polka dot nails,4
 2025-12-08,real,2
+2025-12-08,reveals,2
 2025-12-08,risks,4
 2025-12-08,say,2
 2025-12-08,scandinavia,6
@@ -174,7 +176,7 @@ period,Term,Count
 2025-12-08,style,2
 2025-12-08,tiktok,4
 2025-12-08,times,2
-2025-12-08,trend,14
+2025-12-08,trend,12
 2025-12-08,trending,2
 2025-12-08,trends,16
 2025-12-08,trends according,6
@@ -186,13 +188,15 @@ period,Term,Count
 2025-12-08,wear,4
 2025-12-08,wellness,2
 2025-12-08,winter,6
+2025-12-08,winter glamour,2
 2025-12-08,wwd,2
-2025-12-15,according,4
-2025-12-15,according celebrity,4
-2025-12-15,artists,4
-2025-12-15,artists vogue,4
-2025-12-15,artists vogue scandinavia,4
-2025-12-15,beauty,24
+2025-12-15,according,2
+2025-12-15,artists,2
+2025-12-15,artists vogue,2
+2025-12-15,artists vogue scandinavia,2
+2025-12-15,asked,4
+2025-12-15,beauty,28
+2025-12-15,beauty products,2
 2025-12-15,beauty trend,12
 2025-12-15,beauty trend tracker,6
 2025-12-15,beauty trends,8
@@ -205,61 +209,57 @@ period,Term,Count
 2025-12-15,business cosmetics,2
 2025-12-15,business cosmetics business,2
 2025-12-15,care,4
-2025-12-15,celebrity,4
+2025-12-15,celebrity,2
 2025-12-15,color,2
 2025-12-15,cosmetics,10
 2025-12-15,cosmetics business,10
 2025-12-15,cosmetics business cosmetics,2
-2025-12-15,cosmopolitan,2
+2025-12-15,cosmopolitan,4
 2025-12-15,dermatologists,2
-2025-12-15,eve,2
+2025-12-15,eve,4
 2025-12-15,exosomes,2
-2025-12-15,experts,4
-2025-12-15,explain,2
+2025-12-15,experts,6
+2025-12-15,explain,4
 2025-12-15,fresh,2
-2025-12-15,glam,2
-2025-12-15,glamour,2
 2025-12-15,glowing,2
 2025-12-15,glowing skin,2
-2025-12-15,huge,2
+2025-12-15,holiday,2
 2025-12-15,india,2
 2025-12-15,key,2
-2025-12-15,look,4
+2025-12-15,look,2
 2025-12-15,looks,4
 2025-12-15,magazine,2
 2025-12-15,make,2
-2025-12-15,makeup,24
-2025-12-15,makeup artists,4
-2025-12-15,makeup look,2
+2025-12-15,makeup,20
 2025-12-15,makeup looks,2
-2025-12-15,makeup trend,2
-2025-12-15,makeup trends,10
-2025-12-15,new,2
-2025-12-15,new year,2
-2025-12-15,new year eve,2
+2025-12-15,makeup trend,4
+2025-12-15,makeup trends,8
+2025-12-15,new,4
+2025-12-15,new year,4
+2025-12-15,new year eve,4
 2025-12-15,news,2
 2025-12-15,people,2
-2025-12-15,perfect,2
+2025-12-15,perfect,4
 2025-12-15,personal,2
-2025-12-15,recreate,4
-2025-12-15,romantic,2
+2025-12-15,products,2
+2025-12-15,reveals,4
 2025-12-15,says,2
-2025-12-15,scandinavia,6
+2025-12-15,scandinavia,4
 2025-12-15,shake,4
-2025-12-15,skin,6
-2025-12-15,skincare,6
+2025-12-15,skin,8
+2025-12-15,skincare,8
 2025-12-15,skincare trend,4
-2025-12-15,skincare trends,2
-2025-12-15,soft,2
+2025-12-15,skincare trends,4
 2025-12-15,sweetest,4
-2025-12-15,taking,2
+2025-12-15,taking,4
 2025-12-15,talking,2
+2025-12-15,tiktok,2
 2025-12-15,times,2
 2025-12-15,times india,2
 2025-12-15,tracker,6
 2025-12-15,tracker vogue,6
 2025-12-15,tracker vogue vogue,3
-2025-12-15,trend,20
+2025-12-15,trend,22
 2025-12-15,trend tracker,6
 2025-12-15,trend tracker vogue,6
 2025-12-15,trends,24
@@ -269,44 +269,48 @@ period,Term,Count
 2025-12-15,vogue,26
 2025-12-15,vogue business,6
 2025-12-15,vogue business beauty,6
-2025-12-15,vogue scandinavia,6
+2025-12-15,vogue scandinavia,4
 2025-12-15,vogue vogue,3
 2025-12-15,vogue vogue business,3
 2025-12-15,wear,4
 2025-12-15,wearing,4
+2025-12-15,wellness,2
 2025-12-15,winter,4
-2025-12-15,year,2
-2025-12-15,year eve,2
+2025-12-15,year,4
+2025-12-15,year eve,4
 2025-12-22,according,4
 2025-12-22,according celeb,2
 2025-12-22,anti,2
 2025-12-22,artist,2
-2025-12-22,beauty,22
-2025-12-22,beauty trend,10
+2025-12-22,beauty,24
+2025-12-22,beauty editor,4
+2025-12-22,beauty products,2
+2025-12-22,beauty trend,8
 2025-12-22,beauty trend according,2
-2025-12-22,beauty trend taking,4
+2025-12-22,beauty trend taking,2
 2025-12-22,beauty trends,2
-2025-12-22,biggest,6
+2025-12-22,biggest,8
 2025-12-22,biggest beauty,2
 2025-12-22,biggest beauty trend,2
-2025-12-22,biggest makeup,2
+2025-12-22,biggest makeup,4
 2025-12-22,biggest skincare,2
 2025-12-22,biggest skincare trends,2
 2025-12-22,blurred,2
 2025-12-22,bold,4
 2025-12-22,british,4
 2025-12-22,british vogue,2
-2025-12-22,bustle,4
+2025-12-22,bustle,2
 2025-12-22,care,2
 2025-12-22,celeb,2
-2025-12-22,chic,4
-2025-12-22,chrome,2
+2025-12-22,chic,2
+2025-12-22,chrome,4
 2025-12-22,claire,6
 2025-12-22,cold,2
 2025-12-22,coming,2
 2025-12-22,cosmopolitan,2
 2025-12-22,define,4
 2025-12-22,dermatologists,4
+2025-12-22,editor,4
 2025-12-22,exosomes,2
 2025-12-22,experts,4
 2025-12-22,eyes,2
@@ -315,7 +319,6 @@ period,Term,Count
 2025-12-22,glamour,2
 2025-12-22,good,2
 2025-12-22,good housekeeping,2
-2025-12-22,goth,4
 2025-12-22,halo,2
 2025-12-22,halo lip,2
 2025-12-22,halo lip biggest,2
@@ -334,30 +337,33 @@ period,Term,Count
 2025-12-22,look,2
 2025-12-22,make,2
 2025-12-22,makeup,14
-2025-12-22,makeup trend,4
+2025-12-22,makeup trend,6
 2025-12-22,marie,6
 2025-12-22,marie claire,6
-2025-12-22,nail,2
+2025-12-22,nail,4
 2025-12-22,new,2
 2025-12-22,newest,2
 2025-12-22,outs,2
 2025-12-22,pink,2
-2025-12-22,products,2
-2025-12-22,season,4
+2025-12-22,products,6
+2025-12-22,season,2
+2025-12-22,shaping,4
+2025-12-22,shares,4
 2025-12-22,skin,4
 2025-12-22,skincare,14
 2025-12-22,skincare trend,6
 2025-12-22,skincare trends,6
-2025-12-22,soft,4
-2025-12-22,styles,2
-2025-12-22,taking,4
+2025-12-22,soft,2
+2025-12-22,styles,4
+2025-12-22,taking,2
 2025-12-22,times,4
 2025-12-22,times india,2
 2025-12-22,trend,20
 2025-12-22,trend according,2
 2025-12-22,trend according celeb,2
-2025-12-22,trend taking,4
-2025-12-22,trends,12
+2025-12-22,trend taking,2
+2025-12-22,trends,14
+2025-12-22,trends define,4
 2025-12-22,trends new,1
 2025-12-22,usa,2
 2025-12-22,viral,2
@@ -365,57 +371,43 @@ period,Term,Count
 2025-12-22,vogue halo,1
 2025-12-22,vogue halo lip,1
 2025-12-22,want,2
-2025-12-22,wear,6
+2025-12-22,wear,8
 2025-12-22,work,2
 2025-12-22,works,2
 2025-12-22,year,4
-2025-12-29,able,9
+2025-12-29,able,8
 2025-12-29,according,6
 2025-12-29,according celeb,6
 2025-12-29,according celeb makeup,6
 2025-12-29,achieve,2
-2025-12-29,act,2
 2025-12-29,action,2
-2025-12-29,actor,5
-2025-12-29,actually,13
+2025-12-29,actually,12
 2025-12-29,actually worth,6
 2025-12-29,actually worth hype,6
-2025-12-29,age,2
 2025-12-29,ahead,1
 2025-12-29,air,1
-2025-12-29,align,13
-2025-12-29,align center,12
-2025-12-29,align center rel,6
-2025-12-29,align center text,6
+2025-12-29,align,1
 2025-12-29,allowing,2
+2025-12-29,allows,1
 2025-12-29,allure,6
 2025-12-29,allure beauty,3
 2025-12-29,allure beauty trends,3
 2025-12-29,anti,4
 2025-12-29,aren,1
-2025-12-29,arial,18
-2025-12-29,arial sans,18
-2025-12-29,arial sans serif,18
-2025-12-29,art,3
-2025-12-29,artist,9
+2025-12-29,art,2
+2025-12-29,artist,8
 2025-12-29,artist vogue,6
 2025-12-29,artist vogue halo,3
-2025-12-29,artists,1
 2025-12-29,ask,2
+2025-12-29,asked,1
 2025-12-29,asking,3
-2025-12-29,auto,12
-2025-12-29,auto div,6
-2025-12-29,auto div style,6
-2025-12-29,auto width,6
-2025-12-29,auto width div,6
-2025-12-29,background,61
-2025-12-29,background color,60
-2025-12-29,background color height,60
+2025-12-29,background,1
 2025-12-29,bbc,6
 2025-12-29,bbc beauty,3
 2025-12-29,bbc beauty social,3
 2025-12-29,beautiful,2
 2025-12-29,beauty,63
+2025-12-29,beauty products,2
 2025-12-29,beauty social,6
 2025-12-29,beauty social media,6
 2025-12-29,beauty trend,19
@@ -424,206 +416,129 @@ period,Term,Count
 2025-12-29,beauty trends actually,6
 2025-12-29,beauty trends make,6
 2025-12-29,beauty trends vogue,6
-2025-12-29,best,27
-2025-12-29,bet,1
-2025-12-29,better,4
-2025-12-29,big,9
-2025-12-29,biggest,19
+2025-12-29,best,6
+2025-12-29,better,1
+2025-12-29,big,5
+2025-12-29,biggest,17
 2025-12-29,biggest beauty,15
 2025-12-29,biggest beauty trend,8
 2025-12-29,biggest beauty trends,7
-2025-12-29,black,22
-2025-12-29,blockquote,12
-2025-12-29,blockquote class,6
-2025-12-29,blockquote class instagram,6
-2025-12-29,blur,5
+2025-12-29,blur,4
 2025-12-29,blur line,4
-2025-12-29,blush,4
+2025-12-29,blush,6
 2025-12-29,body,5
 2025-12-29,bold,1
 2025-12-29,bollywood,1
-2025-12-29,border,36
-2025-12-29,border left,12
-2025-12-29,border left solid,12
-2025-12-29,border margin,6
-2025-12-29,border margin padding,6
-2025-12-29,border right,6
-2025-12-29,border right solid,6
-2025-12-29,border solid,12
-2025-12-29,border solid transparent,12
 2025-12-29,boring,2
-2025-12-29,brand,1
-2025-12-29,break,3
 2025-12-29,bridal,3
 2025-12-29,bridal look,1
-2025-12-29,bright,1
-2025-12-29,bring,2
-2025-12-29,brings,9
+2025-12-29,bring,1
+2025-12-29,brings,7
 2025-12-29,british,2
 2025-12-29,british vogue,2
-2025-12-29,business,3
+2025-12-29,business,2
 2025-12-29,care,2
 2025-12-29,celeb,6
 2025-12-29,celeb makeup,6
 2025-12-29,celeb makeup artist,6
 2025-12-29,celebrity,6
-2025-12-29,center,14
-2025-12-29,center rel,6
-2025-12-29,center rel noopener,6
-2025-12-29,center text,6
-2025-12-29,center text decoration,6
-2025-12-29,challenge,1
+2025-12-29,center,1
 2025-12-29,change,1
-2025-12-29,character,4
-2025-12-29,choose,3
-2025-12-29,chrome,2
-2025-12-29,claire,4
-2025-12-29,class,7
-2025-12-29,class instagram,6
-2025-12-29,class instagram media,6
+2025-12-29,character,1
+2025-12-29,claire,2
 2025-12-29,classic,2
 2025-12-29,clean,1
-2025-12-29,clear,5
 2025-12-29,close,3
 2025-12-29,cloud,2
-2025-12-29,color,78
-2025-12-29,color font,18
-2025-12-29,color font family,18
-2025-12-29,color height,60
-2025-12-29,color height margin,18
-2025-12-29,color height width,42
-2025-12-29,comeback,8
+2025-12-29,comeback,6
 2025-12-29,comeback wear,6
 2025-12-29,comeback wear research,3
-2025-12-29,comes,5
-2025-12-29,comfort,5
-2025-12-29,coming,4
-2025-12-29,confidence,8
-2025-12-29,continues,2
+2025-12-29,comes,3
+2025-12-29,coming,3
+2025-12-29,committing,2
+2025-12-29,confidence,7
+2025-12-29,continues,1
 2025-12-29,cool,2
 2025-12-29,cosmopolitan,2
-2025-12-29,couldn,1
 2025-12-29,create,1
 2025-12-29,creates,1
-2025-12-29,creative,5
-2025-12-29,cut,1
-2025-12-29,cuts,1
+2025-12-29,creative,4
 2025-12-29,daily,4
 2025-12-29,dark,1
-2025-12-29,data,1
 2025-12-29,day,2
 2025-12-29,days,3
-2025-12-29,decision,3
-2025-12-29,decoration,12
-2025-12-29,decoration target,6
-2025-12-29,decoration target post,6
-2025-12-29,decoration width,6
-2025-12-29,decoration width target,6
 2025-12-29,define,2
-2025-12-29,depth,9
+2025-12-29,depth,7
 2025-12-29,dewy,4
-2025-12-29,did,2
-2025-12-29,different,3
+2025-12-29,did,1
+2025-12-29,different,1
 2025-12-29,discover,2
-2025-12-29,div,368
-2025-12-29,div blockquote,6
-2025-12-29,div div,176
-2025-12-29,div div div,49
+2025-12-29,div,54
+2025-12-29,div div,14
+2025-12-29,div div div,1
 2025-12-29,div div figure,12
-2025-12-29,div div style,114
-2025-12-29,div figure,15
-2025-12-29,div figure img,15
-2025-12-29,div style,144
-2025-12-29,div style background,60
-2025-12-29,div style color,12
-2025-12-29,div style height,6
-2025-12-29,div style margin,24
-2025-12-29,div style padding,24
-2025-12-29,div style width,18
-2025-12-29,does,6
-2025-12-29,doesn,8
-2025-12-29,doing,5
-2025-12-29,don,23
-2025-12-29,drama,3
-2025-12-29,dramatic,4
-2025-12-29,dynamic,2
-2025-12-29,early,15
+2025-12-29,div figure,14
+2025-12-29,div figure img,14
+2025-12-29,does,5
+2025-12-29,doesn,4
+2025-12-29,don,20
+2025-12-29,drama,1
+2025-12-29,dramatic,3
 2025-12-29,earth,4
-2025-12-29,easily,6
+2025-12-29,easily,3
 2025-12-29,easy,2
 2025-12-29,economic,6
 2025-12-29,economic powerhouse,6
 2025-12-29,economic powerhouse bbc,6
-2025-12-29,emotional,26
-2025-12-29,ends,2
-2025-12-29,energy,20
+2025-12-29,emotional,22
+2025-12-29,ends,1
+2025-12-29,energy,19
 2025-12-29,enter,1
-2025-12-29,especially,2
 2025-12-29,eve,3
-2025-12-29,evening,1
 2025-12-29,everyday,1
 2025-12-29,exosomes,1
-2025-12-29,experience,3
+2025-12-29,experience,2
+2025-12-29,experiment,4
 2025-12-29,expert,2
 2025-12-29,explain,1
 2025-12-29,explore,2
-2025-12-29,eye,4
+2025-12-29,eye,1
 2025-12-29,eyes,1
-2025-12-29,face,8
-2025-12-29,fall,1
-2025-12-29,family,21
-2025-12-29,family arial,18
-2025-12-29,family arial sans,18
-2025-12-29,far,1
-2025-12-29,favorite,3
-2025-12-29,feel,28
-2025-12-29,feel like,2
+2025-12-29,face,2
+2025-12-29,family,2
+2025-12-29,favorite,2
+2025-12-29,feel,21
 2025-12-29,feeling,3
-2025-12-29,feels,17
-2025-12-29,figure,31
-2025-12-29,figure div,15
-2025-12-29,figure img,15
-2025-12-29,figure img src,15
+2025-12-29,feels,15
+2025-12-29,figure,29
+2025-12-29,figure div,14
+2025-12-29,figure img,14
+2025-12-29,figure img src,14
 2025-12-29,focus,11
 2025-12-29,following,1
-2025-12-29,font,60
-2025-12-29,font family,18
-2025-12-29,font family arial,18
-2025-12-29,font size,18
-2025-12-29,font size font,12
-2025-12-29,font size line,6
-2025-12-29,font style,12
-2025-12-29,font style normal,12
-2025-12-29,font weight,12
-2025-12-29,font weight line,6
-2025-12-29,font weight normal,6
 2025-12-29,forecast,1
-2025-12-29,forget,2
 2025-12-29,form,1
-2025-12-29,formula,1
+2025-12-29,forward,1
 2025-12-29,fresh,1
 2025-12-29,fun,3
 2025-12-29,fyp,1
-2025-12-29,gets,1
-2025-12-29,getting,5
-2025-12-29,girl,1
-2025-12-29,gives,3
-2025-12-29,giving,7
+2025-12-29,getting,4
+2025-12-29,gives,1
+2025-12-29,giving,6
 2025-12-29,glam,5
-2025-12-29,glamour,6
+2025-12-29,glamour,8
 2025-12-29,glass,1
 2025-12-29,glossy,4
 2025-12-29,glow,1
 2025-12-29,glowing,2
 2025-12-29,glowing skin,2
-2025-12-29,going,5
-2025-12-29,gone,1
-2025-12-29,good,14
-2025-12-29,goodness,3
-2025-12-29,goodness right,3
-2025-12-29,goodness right strong,3
-2025-12-29,great,9
-2025-12-29,grown,2
+2025-12-29,going,1
+2025-12-29,good,5
+2025-12-29,goodness,2
+2025-12-29,goodness right,2
+2025-12-29,goodness right strong,2
+2025-12-29,great,6
+2025-12-29,grown,1
 2025-12-29,grwm,1
 2025-12-29,hair,2
 2025-12-29,hairstyle,7
@@ -635,34 +550,11 @@ period,Term,Count
 2025-12-29,halo lips,6
 2025-12-29,hand,2
 2025-12-29,having,2
-2025-12-29,head,2
+2025-12-29,head,1
 2025-12-29,health,4
-2025-12-29,heart,6
+2025-12-29,heart,4
 2025-12-29,heavy,1
-2025-12-29,height,102
-2025-12-29,height border,12
-2025-12-29,height border left,6
-2025-12-29,height border solid,6
-2025-12-29,height margin,30
-2025-12-29,height margin auto,6
-2025-12-29,height margin margin,6
-2025-12-29,height margin right,6
-2025-12-29,height margin width,12
-2025-12-29,height padding,6
-2025-12-29,height padding text,6
-2025-12-29,height text,6
-2025-12-29,height text decoration,6
-2025-12-29,height view,6
-2025-12-29,height view post,6
-2025-12-29,height width,42
-2025-12-29,height width div,36
-2025-12-29,height width margin,6
-2025-12-29,help,2
-2025-12-29,hidden,6
-2025-12-29,hidden padding,6
-2025-12-29,hidden padding text,6
-2025-12-29,high,1
-2025-12-29,hollywood,6
+2025-12-29,help,1
 2025-12-29,home,10
 2025-12-29,hottest,4
 2025-12-29,huge,6
@@ -671,365 +563,201 @@ period,Term,Count
 2025-12-29,hype,6
 2025-12-29,hype allure,6
 2025-12-29,hype allure beauty,3
-2025-12-29,ideas,2
-2025-12-29,image,1
-2025-12-29,img,15
-2025-12-29,img src,15
-2025-12-29,img src figure,14
+2025-12-29,ideas,1
+2025-12-29,img,14
+2025-12-29,img src,14
+2025-12-29,img src figure,13
 2025-12-29,india,5
 2025-12-29,inner,4
 2025-12-29,inspiration,8
 2025-12-29,inspiration makeup,6
 2025-12-29,inspiration makeup shorts,6
 2025-12-29,inspired,1
-2025-12-29,instagram,13
-2025-12-29,instagram div,6
-2025-12-29,instagram div div,6
-2025-12-29,instagram media,6
-2025-12-29,instagram media style,6
-2025-12-29,intentional,3
-2025-12-29,isn,8
+2025-12-29,instagram,1
+2025-12-29,isn,5
 2025-12-29,january,12
-2025-12-29,just,19
+2025-12-29,just,10
 2025-12-29,kashees,12
 2025-12-29,kashees kashees,2
 2025-12-29,kashees kashees viral,2
 2025-12-29,kashees viral,6
 2025-12-29,kashees viral look,6
 2025-12-29,key,1
-2025-12-29,kind,2
-2025-12-29,know,6
-2025-12-29,layered,1
-2025-12-29,leading,2
+2025-12-29,kind,1
+2025-12-29,know,5
+2025-12-29,lashes,2
 2025-12-29,leave,1
-2025-12-29,left,31
-2025-12-29,left auto,6
-2025-12-29,left auto div,6
-2025-12-29,left div,12
-2025-12-29,left div div,6
-2025-12-29,left div style,6
-2025-12-29,left solid,12
-2025-12-29,left solid border,6
-2025-12-29,left solid transparent,6
-2025-12-29,let,10
-2025-12-29,life,8
+2025-12-29,let,6
+2025-12-29,life,6
 2025-12-29,lift,4
 2025-12-29,light,2
 2025-12-29,lighter,2
-2025-12-29,like,28
-2025-12-29,like goodness,3
-2025-12-29,like goodness right,3
-2025-12-29,line,28
-2025-12-29,line height,24
-2025-12-29,line height margin,6
-2025-12-29,line height padding,6
-2025-12-29,line height text,6
-2025-12-29,line height view,6
+2025-12-29,like,19
+2025-12-29,like goodness,2
+2025-12-29,like goodness right,2
+2025-12-29,line,4
 2025-12-29,lip,6
 2025-12-29,lip biggest,6
 2025-12-29,lip biggest beauty,6
 2025-12-29,lips,11
-2025-12-29,list,4
-2025-12-29,literally,2
-2025-12-29,little,6
-2025-12-29,lived,2
-2025-12-29,living,3
-2025-12-29,long,16
+2025-12-29,list,2
+2025-12-29,little,4
+2025-12-29,lived,1
+2025-12-29,living,2
+2025-12-29,long,9
 2025-12-29,longer,2
-2025-12-29,look,37
+2025-12-29,look,32
 2025-12-29,look biggest,6
 2025-12-29,look biggest beauty,6
 2025-12-29,look like,5
 2025-12-29,look trending,6
 2025-12-29,look trending makeup,6
 2025-12-29,looking,1
-2025-12-29,looks,11
-2025-12-29,lot,4
-2025-12-29,love,10
+2025-12-29,looks,9
+2025-12-29,lot,2
+2025-12-29,love,1
 2025-12-29,magazine,4
+2025-12-29,magic,1
 2025-12-29,major,4
-2025-12-29,make,21
+2025-12-29,make,14
 2025-12-29,make huge,6
 2025-12-29,make huge comeback,6
-2025-12-29,makes,5
+2025-12-29,makes,1
 2025-12-29,makeup,68
 2025-12-29,makeup artist,8
 2025-12-29,makeup artist vogue,6
 2025-12-29,makeup hairstyle,6
 2025-12-29,makeup hairstyle inspiration,6
-2025-12-29,makeup look,12
+2025-12-29,makeup look,10
 2025-12-29,makeup looks,6
 2025-12-29,makeup shorts,7
 2025-12-29,makeup shorts kashees,6
-2025-12-29,makeup trend,11
+2025-12-29,makeup trend,13
 2025-12-29,makeup trends,6
 2025-12-29,makeuptutorial,2
-2025-12-29,making,16
-2025-12-29,margin,78
-2025-12-29,margin auto,6
-2025-12-29,margin auto width,6
-2025-12-29,margin div,12
-2025-12-29,margin div div,6
-2025-12-29,margin div style,6
-2025-12-29,margin left,18
-2025-12-29,margin left auto,6
-2025-12-29,margin left div,12
-2025-12-29,margin margin,6
-2025-12-29,margin margin overflow,6
-2025-12-29,margin overflow,6
-2025-12-29,margin overflow hidden,6
-2025-12-29,margin padding,6
-2025-12-29,margin padding width,6
-2025-12-29,margin right,12
-2025-12-29,margin right margin,6
-2025-12-29,margin right width,6
-2025-12-29,margin width,12
-2025-12-29,margin width div,12
-2025-12-29,marie,4
-2025-12-29,marie claire,4
+2025-12-29,making,13
+2025-12-29,marie,2
+2025-12-29,marie claire,2
 2025-12-29,mean,2
-2025-12-29,media,12
-2025-12-29,media style,6
-2025-12-29,media style border,6
+2025-12-29,means,1
+2025-12-29,media,6
 2025-12-29,media trend,6
 2025-12-29,media trend economic,6
-2025-12-29,mind,3
-2025-12-29,moment,8
-2025-12-29,moments,3
+2025-12-29,mental,2
+2025-12-29,mind,2
+2025-12-29,moment,6
 2025-12-29,money,5
 2025-12-29,mystery,1
 2025-12-29,natural,3
 2025-12-29,naturally,1
-2025-12-29,need,13
+2025-12-29,need,11
 2025-12-29,needs,2
-2025-12-29,negative,1
-2025-12-29,new,15
+2025-12-29,new,9
 2025-12-29,new year,4
 2025-12-29,new year eve,3
 2025-12-29,news,1
-2025-12-29,night,3
-2025-12-29,noopener,32
-2025-12-29,noopener noreferrer,12
-2025-12-29,noopener noreferrer style,12
-2025-12-29,noopener target,20
-2025-12-29,noreferrer,32
-2025-12-29,noreferrer noopener,20
-2025-12-29,noreferrer noopener target,20
-2025-12-29,noreferrer style,12
-2025-12-29,noreferrer style color,6
-2025-12-29,noreferrer style line,6
-2025-12-29,normal,18
-2025-12-29,normal font,12
-2025-12-29,normal font weight,12
-2025-12-29,normal line,6
-2025-12-29,normal line height,6
-2025-12-29,old,3
-2025-12-29,overflow,6
-2025-12-29,overflow hidden,6
-2025-12-29,overflow hidden padding,6
-2025-12-29,padding,42
-2025-12-29,padding div,18
-2025-12-29,padding div div,12
-2025-12-29,padding div style,6
-2025-12-29,padding rel,6
-2025-12-29,padding rel noopener,6
-2025-12-29,padding text,12
-2025-12-29,padding text align,12
-2025-12-29,padding width,6
-2025-12-29,padding width div,6
-2025-12-29,past,5
-2025-12-29,people,4
-2025-12-29,perfect,3
-2025-12-29,personal,2
-2025-12-29,place,2
-2025-12-29,play,5
-2025-12-29,point,4
+2025-12-29,offers,1
+2025-12-29,old,2
+2025-12-29,people,3
+2025-12-29,perfect,2
+2025-12-29,personal,1
+2025-12-29,place,1
+2025-12-29,point,3
 2025-12-29,polish,1
-2025-12-29,polished,4
+2025-12-29,polished,2
 2025-12-29,popular,1
-2025-12-29,post,18
-2025-12-29,post instagram,6
-2025-12-29,post instagram div,6
-2025-12-29,post shared,6
-2025-12-29,power,5
-2025-12-29,powerful,2
-2025-12-29,powerhouse,7
+2025-12-29,post,5
+2025-12-29,powerful,1
+2025-12-29,powerhouse,6
 2025-12-29,powerhouse bbc,6
 2025-12-29,powerhouse bbc beauty,3
 2025-12-29,practical,2
-2025-12-29,present,7
 2025-12-29,princess,2
 2025-12-29,products,4
-2025-12-29,proof,2
 2025-12-29,prove,3
-2025-12-29,quiet,8
-2025-12-29,reading,3
-2025-12-29,ready,4
-2025-12-29,real,7
+2025-12-29,putting,3
+2025-12-29,quiet,5
+2025-12-29,ready,3
+2025-12-29,real,6
 2025-12-29,really,1
 2025-12-29,red,1
-2025-12-29,rel,32
-2025-12-29,rel noopener,12
-2025-12-29,rel noopener noreferrer,12
-2025-12-29,rel noreferrer,20
-2025-12-29,rel noreferrer noopener,20
-2025-12-29,relationships,5
-2025-12-29,release,2
-2025-12-29,relief,2
+2025-12-29,release,1
 2025-12-29,replacing,4
-2025-12-29,required,4
+2025-12-29,report,2
 2025-12-29,research,6
 2025-12-29,research beauty,6
 2025-12-29,research beauty trends,6
-2025-12-29,rest,8
-2025-12-29,review,2
-2025-12-29,right,33
-2025-12-29,right margin,6
-2025-12-29,right margin left,6
-2025-12-29,right solid,6
-2025-12-29,right solid transparent,6
-2025-12-29,right strong,3
-2025-12-29,right width,6
-2025-12-29,right width div,6
-2025-12-29,role,4
-2025-12-29,romantic,4
-2025-12-29,root,2
+2025-12-29,rest,7
+2025-12-29,right,11
+2025-12-29,right strong,2
+2025-12-29,routines,3
 2025-12-29,salmon,4
-2025-12-29,sans,18
-2025-12-29,sans serif,18
-2025-12-29,sans serif font,18
-2025-12-29,say,3
-2025-12-29,says,3
-2025-12-29,season,4
-2025-12-29,self,10
-2025-12-29,serif,18
-2025-12-29,serif font,18
-2025-12-29,serif font size,18
-2025-12-29,seriously,2
-2025-12-29,set,11
+2025-12-29,say,1
+2025-12-29,saying,2
+2025-12-29,says,2
+2025-12-29,season,2
+2025-12-29,self,9
+2025-12-29,sense,4
+2025-12-29,set,9
 2025-12-29,shake,2
 2025-12-29,share,1
-2025-12-29,shared,10
-2025-12-29,sharp,1
-2025-12-29,shine,1
-2025-12-29,shiny,2
+2025-12-29,shared,4
+2025-12-29,shifts,13
 2025-12-29,short,1
 2025-12-29,shorts,8
 2025-12-29,shorts kashees,6
 2025-12-29,shorts kashees kashees,2
-2025-12-29,showcase,3
-2025-12-29,shows,1
 2025-12-29,simple,4
-2025-12-29,size,18
-2025-12-29,size font,12
-2025-12-29,size font style,12
-2025-12-29,size line,6
-2025-12-29,size line height,6
 2025-12-29,skin,14
 2025-12-29,skincare,18
 2025-12-29,skincare trends,3
 2025-12-29,skincareroutine,4
 2025-12-29,skincareroutine skincare,1
 2025-12-29,sky,2
-2025-12-29,sleek,1
-2025-12-29,small,3
-2025-12-29,social,10
+2025-12-29,small,1
+2025-12-29,social,9
 2025-12-29,social media,6
 2025-12-29,social media trend,6
-2025-12-29,soft,4
-2025-12-29,solid,31
-2025-12-29,solid border,6
-2025-12-29,solid border solid,6
-2025-12-29,solid transparent,24
-2025-12-29,solid transparent border,6
-2025-12-29,solid transparent div,18
-2025-12-29,southern,3
-2025-12-29,space,6
-2025-12-29,speak,2
-2025-12-29,src,15
-2025-12-29,src figure,14
-2025-12-29,src figure div,14
-2025-12-29,star,8
+2025-12-29,soft,3
+2025-12-29,solid,1
+2025-12-29,space,4
+2025-12-29,src,14
+2025-12-29,src figure,13
+2025-12-29,src figure div,13
+2025-12-29,start,2
 2025-12-29,statement,1
 2025-12-29,stay,2
-2025-12-29,step,5
+2025-12-29,step,2
 2025-12-29,steps,2
-2025-12-29,stop,4
-2025-12-29,story,3
-2025-12-29,straight,1
-2025-12-29,striking,1
-2025-12-29,strong,32
-2025-12-29,strong like,3
-2025-12-29,strong like goodness,3
-2025-12-29,style,174
-2025-12-29,style background,60
-2025-12-29,style background color,60
-2025-12-29,style border,6
-2025-12-29,style border margin,6
-2025-12-29,style color,18
-2025-12-29,style color font,18
-2025-12-29,style height,6
-2025-12-29,style height margin,6
-2025-12-29,style line,6
-2025-12-29,style line height,6
-2025-12-29,style margin,24
-2025-12-29,style margin div,12
-2025-12-29,style margin left,12
-2025-12-29,style normal,12
-2025-12-29,style normal font,12
-2025-12-29,style padding,24
-2025-12-29,style padding div,18
-2025-12-29,style padding rel,6
-2025-12-29,style width,18
-2025-12-29,style width border,6
-2025-12-29,style width height,12
+2025-12-29,strong,29
+2025-12-29,strong like,2
+2025-12-29,strong like goodness,2
 2025-12-29,stylist,2
 2025-12-29,subtle,1
-2025-12-29,suit,1
 2025-12-29,sun,16
 2025-12-29,super,1
 2025-12-29,sure,1
 2025-12-29,surprisingly,2
 2025-12-29,taken,1
-2025-12-29,taking,2
+2025-12-29,taking,4
 2025-12-29,talk,1
 2025-12-29,talking,2
-2025-12-29,target,32
-2025-12-29,target div,6
-2025-12-29,target div div,6
-2025-12-29,target post,6
-2025-12-29,target post shared,6
-2025-12-29,taylor,7
-2025-12-29,tech,1
-2025-12-29,teen,5
-2025-12-29,text,24
-2025-12-29,text align,12
-2025-12-29,text align center,12
-2025-12-29,text decoration,12
-2025-12-29,text decoration target,6
-2025-12-29,text decoration width,6
-2025-12-29,thanks,2
 2025-12-29,thing,3
-2025-12-29,things,9
-2025-12-29,think,7
-2025-12-29,tiktok,2
-2025-12-29,time,18
-2025-12-29,times,7
+2025-12-29,things,6
+2025-12-29,think,2
+2025-12-29,tiktok,4
+2025-12-29,time,10
+2025-12-29,times,6
 2025-12-29,times india,4
 2025-12-29,tips,1
 2025-12-29,tone,2
-2025-12-29,transparent,24
-2025-12-29,transparent border,6
-2025-12-29,transparent border left,6
-2025-12-29,transparent div,18
-2025-12-29,transparent div div,18
 2025-12-29,treatments,6
-2025-12-29,trend,43
+2025-12-29,trend,45
 2025-12-29,trend according,6
 2025-12-29,trend according celeb,6
 2025-12-29,trend economic,6
 2025-12-29,trend economic powerhouse,6
-2025-12-29,trend taking,2
+2025-12-29,trend taking,4
 2025-12-29,trending,7
 2025-12-29,trending makeup,6
 2025-12-29,trending makeup hairstyle,6
@@ -1040,16 +768,11 @@ period,Term,Count
 2025-12-29,trends make huge,6
 2025-12-29,trends vogue,8
 2025-12-29,trends vogue look,3
-2025-12-29,true,1
-2025-12-29,truth,1
 2025-12-29,try,1
-2025-12-29,universe,3
+2025-12-29,unexpected,4
 2025-12-29,using,3
 2025-12-29,vibe,6
 2025-12-29,video,2
-2025-12-29,view,6
-2025-12-29,view post,6
-2025-12-29,view post instagram,6
 2025-12-29,viral,12
 2025-12-29,viral look,6
 2025-12-29,viral look trending,6
@@ -1060,70 +783,52 @@ period,Term,Count
 2025-12-29,vogue look,3
 2025-12-29,vogue look biggest,3
 2025-12-29,want,6
-2025-12-29,watch,6
+2025-12-29,watch,1
 2025-12-29,way,7
 2025-12-29,ways,1
 2025-12-29,wear,8
 2025-12-29,wear research,3
 2025-12-29,wear research beauty,3
 2025-12-29,week,47
-2025-12-29,weight,13
-2025-12-29,weight line,6
-2025-12-29,weight line height,6
-2025-12-29,weight normal,6
-2025-12-29,weight normal line,6
 2025-12-29,wellness,4
-2025-12-29,width,96
-2025-12-29,width border,6
-2025-12-29,width border right,6
-2025-12-29,width div,66
-2025-12-29,width div div,60
-2025-12-29,width div style,6
-2025-12-29,width height,12
-2025-12-29,width height border,12
-2025-12-29,width margin,6
-2025-12-29,width margin right,6
-2025-12-29,width target,6
-2025-12-29,width target div,6
-2025-12-29,winter,4
-2025-12-29,wish,2
-2025-12-29,women,6
-2025-12-29,won,1
-2025-12-29,work,13
-2025-12-29,working,6
+2025-12-29,winter,6
+2025-12-29,winter glamour,4
+2025-12-29,work,6
 2025-12-29,works,3
-2025-12-29,world,5
+2025-12-29,works best,2
+2025-12-29,world,2
 2025-12-29,worth,12
 2025-12-29,worth hype,6
 2025-12-29,worth hype allure,6
-2025-12-29,year,25
+2025-12-29,year,10
 2025-12-29,year eve,3
 2025-12-29,ytshorts,2
-2026-01-05,able,2
+2026-01-05,able,3
 2026-01-05,according,9
 2026-01-05,achieve,2
-2026-01-05,act,1
 2026-01-05,action,1
-2026-01-05,actor,3
 2026-01-05,actually,5
-2026-01-05,adding,7
-2026-01-05,adds,18
+2026-01-05,add,7
+2026-01-05,added,3
+2026-01-05,adding,8
+2026-01-05,adds,22
 2026-01-05,adolescence,6
 2026-01-05,adolescence erin,6
 2026-01-05,adolescence erin doherty,6
-2026-01-05,ahead,6
+2026-01-05,ahead,8
 2026-01-05,air,2
 2026-01-05,align,112
 2026-01-05,align center,112
 2026-01-05,align center rel,56
 2026-01-05,align center text,56
 2026-01-05,allowing,1
+2026-01-05,allows,3
 2026-01-05,anti,3
 2026-01-05,aren,4
 2026-01-05,arial,168
 2026-01-05,arial sans,168
 2026-01-05,arial sans serif,168
-2026-01-05,art,11
+2026-01-05,art,12
 2026-01-05,artist,11
 2026-01-05,artists,1
 2026-01-05,ask,7
@@ -1136,27 +841,27 @@ period,Term,Count
 2026-01-05,background,560
 2026-01-05,background color,560
 2026-01-05,background color height,560
-2026-01-05,bad,3
+2026-01-05,bad,4
 2026-01-05,beautiful,6
-2026-01-05,beauty,65
+2026-01-05,beauty,67
+2026-01-05,beauty editor,2
 2026-01-05,beauty trend,16
 2026-01-05,beauty trend know,6
 2026-01-05,beauty trend taking,2
 2026-01-05,beauty trends,14
 2026-01-05,beauty trends actually,1
 2026-01-05,beautytrends,4
-2026-01-05,benefits,4
-2026-01-05,best,22
-2026-01-05,bet,3
-2026-01-05,better,7
+2026-01-05,benefits,7
+2026-01-05,best,27
+2026-01-05,better,8
 2026-01-05,big,6
-2026-01-05,biggest,9
+2026-01-05,biggest,10
 2026-01-05,biggest skincare,6
 2026-01-05,biggest skincare trends,6
-2026-01-05,black,3
+2026-01-05,black,5
 2026-01-05,blend,3
-2026-01-05,blockquote,114
-2026-01-05,blockquote class,57
+2026-01-05,blockquote,118
+2026-01-05,blockquote class,59
 2026-01-05,blockquote class instagram,56
 2026-01-05,blue,31
 2026-01-05,blur,1
@@ -1176,40 +881,38 @@ period,Term,Count
 2026-01-05,border solid,112
 2026-01-05,border solid transparent,112
 2026-01-05,boring,2
-2026-01-05,brand,3
 2026-01-05,bridal,15
 2026-01-05,bridal look,6
 2026-01-05,bridal makeup,6
 2026-01-05,bright,4
 2026-01-05,bring,2
+2026-01-05,british,1
 2026-01-05,brown,16
 2026-01-05,brows,2
 2026-01-05,business,2
 2026-01-05,bustle,2
+2026-01-05,buy,3
 2026-01-05,celebrity,4
 2026-01-05,center,114
 2026-01-05,center rel,56
 2026-01-05,center rel noopener,56
 2026-01-05,center text,56
 2026-01-05,center text decoration,56
-2026-01-05,challenge,4
 2026-01-05,change,3
 2026-01-05,character,5
 2026-01-05,cherry,2
 2026-01-05,chic,5
 2026-01-05,choice,8
-2026-01-05,choose,1
 2026-01-05,chrome,1
-2026-01-05,class,67
+2026-01-05,class,69
 2026-01-05,class instagram,56
 2026-01-05,class instagram media,56
 2026-01-05,classic,2
 2026-01-05,clean,10
-2026-01-05,clear,1
 2026-01-05,close,4
 2026-01-05,cloud,2
 2026-01-05,cold,1
-2026-01-05,color,748
+2026-01-05,color,754
 2026-01-05,color font,168
 2026-01-05,color font family,168
 2026-01-05,color height,560
@@ -1217,8 +920,9 @@ period,Term,Count
 2026-01-05,color height width,392
 2026-01-05,colors,5
 2026-01-05,comeback,3
-2026-01-05,comes,5
+2026-01-05,comes,6
 2026-01-05,coming,1
+2026-01-05,committing,2
 2026-01-05,confidence,1
 2026-01-05,continue,3
 2026-01-05,continues,3
@@ -1228,40 +932,38 @@ period,Term,Count
 2026-01-05,cosmetics,3
 2026-01-05,cosmetics business,2
 2026-01-05,cosmopolitan,4
-2026-01-05,couldn,2
 2026-01-05,coziest,1
-2026-01-05,create,9
+2026-01-05,create,10
 2026-01-05,created,8
-2026-01-05,creates,2
-2026-01-05,creative,2
-2026-01-05,cut,40
+2026-01-05,creates,3
+2026-01-05,creative,4
+2026-01-05,cut,41
 2026-01-05,cute,4
-2026-01-05,cuts,2
 2026-01-05,daily,3
 2026-01-05,dark,2
-2026-01-05,day,5
+2026-01-05,day,12
 2026-01-05,days,2
 2026-01-05,decoration,112
 2026-01-05,decoration target,56
 2026-01-05,decoration target post,56
 2026-01-05,decoration width,56
 2026-01-05,decoration width target,56
-2026-01-05,define,3
+2026-01-05,define,5
 2026-01-05,depth,1
 2026-01-05,design,6
 2026-01-05,designs,6
 2026-01-05,dewy,1
-2026-01-05,did,2
-2026-01-05,different,1
+2026-01-05,did,3
+2026-01-05,different,2
 2026-01-05,discover,1
-2026-01-05,div,2958
+2026-01-05,div,2960
 2026-01-05,div blockquote,56
 2026-01-05,div div,1531
 2026-01-05,div div div,448
 2026-01-05,div div figure,4
 2026-01-05,div div style,1064
-2026-01-05,div figure,6
-2026-01-05,div figure img,6
+2026-01-05,div figure,7
+2026-01-05,div figure img,7
 2026-01-05,div style,1344
 2026-01-05,div style background,560
 2026-01-05,div style color,112
@@ -1270,61 +972,59 @@ period,Term,Count
 2026-01-05,div style padding,224
 2026-01-05,div style width,168
 2026-01-05,does,2
-2026-01-05,doesn,1
+2026-01-05,doesn,2
 2026-01-05,doherty,6
 2026-01-05,doherty shows,6
 2026-01-05,doherty shows whisper,6
-2026-01-05,doing,1
 2026-01-05,dominated,1
-2026-01-05,don,11
+2026-01-05,don,12
 2026-01-05,dot,13
 2026-01-05,dot nails,4
 2026-01-05,drama,2
 2026-01-05,dramatic,1
 2026-01-05,dry,6
-2026-01-05,dynamic,1
-2026-01-05,early,1
 2026-01-05,earth,1
-2026-01-05,easily,2
+2026-01-05,easily,3
 2026-01-05,easy,4
 2026-01-05,economic,4
+2026-01-05,editor,2
+2026-01-05,emotional,3
 2026-01-05,ends,10
 2026-01-05,energy,1
 2026-01-05,enter,2
 2026-01-05,erin,6
 2026-01-05,erin doherty,6
 2026-01-05,erin doherty shows,6
-2026-01-05,especially,5
+2026-01-05,especially,6
 2026-01-05,espresso,2
-2026-01-05,essentially,3
-2026-01-05,evening,3
+2026-01-05,essentially,4
+2026-01-05,evening,5
 2026-01-05,everyday,2
-2026-01-05,experience,2
+2026-01-05,experience,4
+2026-01-05,experiment,2
 2026-01-05,expert,2
-2026-01-05,experts,4
+2026-01-05,experts,6
 2026-01-05,explain,1
-2026-01-05,explains,5
-2026-01-05,explore,2
+2026-01-05,explains,6
+2026-01-05,explore,3
 2026-01-05,eye,4
 2026-01-05,eyes,4
-2026-01-05,face,14
+2026-01-05,face,15
 2026-01-05,face mask,4
-2026-01-05,fall,3
-2026-01-05,family,169
+2026-01-05,family,170
 2026-01-05,family arial,168
 2026-01-05,family arial sans,168
 2026-01-05,far,8
 2026-01-05,fashion,8
 2026-01-05,fast,3
 2026-01-05,favorite,3
-2026-01-05,feel,10
-2026-01-05,feel like,3
-2026-01-05,feeling,4
+2026-01-05,feel,13
+2026-01-05,feeling,5
 2026-01-05,feels,4
-2026-01-05,figure,38
-2026-01-05,figure div,6
-2026-01-05,figure img,18
-2026-01-05,figure img src,8
+2026-01-05,figure,44
+2026-01-05,figure div,7
+2026-01-05,figure img,19
+2026-01-05,figure img src,9
 2026-01-05,following,2
 2026-01-05,font,560
 2026-01-05,font family,168
@@ -1338,18 +1038,17 @@ period,Term,Count
 2026-01-05,font weight line,56
 2026-01-05,font weight normal,56
 2026-01-05,forever,3
-2026-01-05,forget,2
 2026-01-05,form,3
-2026-01-05,formula,3
+2026-01-05,forward,3
+2026-01-05,framing,3
 2026-01-05,french,6
 2026-01-05,fresh,4
 2026-01-05,fun,8
 2026-01-05,fyp,3
-2026-01-05,gets,3
-2026-01-05,getting,3
+2026-01-05,getting,5
 2026-01-05,girl,6
 2026-01-05,gives,5
-2026-01-05,giving,1
+2026-01-05,giving,2
 2026-01-05,glam,2
 2026-01-05,glamour,2
 2026-01-05,glass,5
@@ -1358,15 +1057,14 @@ period,Term,Count
 2026-01-05,glow,2
 2026-01-05,going,7
 2026-01-05,gone,5
-2026-01-05,good,11
+2026-01-05,good,14
 2026-01-05,good housekeeping,6
 2026-01-05,good housekeeping adolescence,3
-2026-01-05,goodness,7
-2026-01-05,goodness right,7
-2026-01-05,goodness right strong,7
+2026-01-05,goodness,8
+2026-01-05,goodness right,8
+2026-01-05,goodness right strong,8
 2026-01-05,got,9
-2026-01-05,goth,3
-2026-01-05,great,9
+2026-01-05,great,11
 2026-01-05,grown,5
 2026-01-05,grwm,4
 2026-01-05,hair,49
@@ -1375,8 +1073,8 @@ period,Term,Count
 2026-01-05,hairstyle inspiration makeup,3
 2026-01-05,hand,5
 2026-01-05,having,2
-2026-01-05,head,2
-2026-01-05,health,1
+2026-01-05,head,3
+2026-01-05,health,3
 2026-01-05,heart,1
 2026-01-05,heavy,4
 2026-01-05,height,962
@@ -1397,26 +1095,26 @@ period,Term,Count
 2026-01-05,height width,392
 2026-01-05,height width div,336
 2026-01-05,height width margin,56
-2026-01-05,help,4
+2026-01-05,help,9
+2026-01-05,helps,4
 2026-01-05,hidden,57
 2026-01-05,hidden padding,56
 2026-01-05,hidden padding text,56
 2026-01-05,high,6
-2026-01-05,hollywood,1
 2026-01-05,home,9
 2026-01-05,housekeeping,6
 2026-01-05,housekeeping adolescence,3
 2026-01-05,housekeeping adolescence erin,3
 2026-01-05,huge,4
 2026-01-05,hype,1
-2026-01-05,ideas,5
-2026-01-05,image,2
-2026-01-05,img,18
-2026-01-05,img src,8
-2026-01-05,img src figure,8
+2026-01-05,ideas,6
+2026-01-05,img,19
+2026-01-05,img src,9
+2026-01-05,img src figure,9
+2026-01-05,important,6
 2026-01-05,india,1
 2026-01-05,ingredient,9
-2026-01-05,inner,1
+2026-01-05,inner,4
 2026-01-05,inspiration,9
 2026-01-05,inspiration makeup,3
 2026-01-05,inspiration makeup shorts,3
@@ -1426,10 +1124,10 @@ period,Term,Count
 2026-01-05,instagram div div,56
 2026-01-05,instagram media,56
 2026-01-05,instagram media style,56
-2026-01-05,intentional,2
 2026-01-05,isn,5
-2026-01-05,january,2
-2026-01-05,just,20
+2026-01-05,january,4
+2026-01-05,job,3
+2026-01-05,just,24
 2026-01-05,kashees,5
 2026-01-05,kashees kashees,1
 2026-01-05,kashees kashees viral,1
@@ -1437,15 +1135,15 @@ period,Term,Count
 2026-01-05,kashees viral look,3
 2026-01-05,key,2
 2026-01-05,kind,6
-2026-01-05,know,16
+2026-01-05,know,18
 2026-01-05,know good,6
 2026-01-05,know good housekeeping,6
 2026-01-05,korean,4
+2026-01-05,lashes,3
 2026-01-05,latest,8
 2026-01-05,layered,6
 2026-01-05,layering,7
 2026-01-05,layers,17
-2026-01-05,leading,1
 2026-01-05,leave,2
 2026-01-05,left,281
 2026-01-05,left auto,56
@@ -1458,15 +1156,15 @@ period,Term,Count
 2026-01-05,left solid transparent,56
 2026-01-05,lengths,7
 2026-01-05,let,3
-2026-01-05,life,2
+2026-01-05,life,3
 2026-01-05,lifestyle,5
 2026-01-05,lift,1
 2026-01-05,light,4
 2026-01-05,lighter,2
-2026-01-05,like,48
-2026-01-05,like goodness,7
-2026-01-05,like goodness right,7
-2026-01-05,line,226
+2026-01-05,like,54
+2026-01-05,like goodness,8
+2026-01-05,like goodness right,8
+2026-01-05,line,228
 2026-01-05,line height,224
 2026-01-05,line height margin,56
 2026-01-05,line height padding,56
@@ -1477,26 +1175,26 @@ period,Term,Count
 2026-01-05,liner new quiet,6
 2026-01-05,lip,5
 2026-01-05,list,13
-2026-01-05,literally,1
-2026-01-05,little,6
+2026-01-05,little,8
 2026-01-05,lived,3
 2026-01-05,living,4
 2026-01-05,london,9
 2026-01-05,long,10
-2026-01-05,longer,4
+2026-01-05,longer,5
 2026-01-05,look,51
 2026-01-05,look like,1
 2026-01-05,look trending,3
 2026-01-05,look trending makeup,3
-2026-01-05,looking,7
+2026-01-05,looking,9
 2026-01-05,looks,14
-2026-01-05,lot,7
-2026-01-05,love,11
+2026-01-05,lot,10
+2026-01-05,love,15
 2026-01-05,magazine,2
+2026-01-05,magic,2
 2026-01-05,major,3
-2026-01-05,make,9
-2026-01-05,makes,7
-2026-01-05,makeup,52
+2026-01-05,make,11
+2026-01-05,makes,9
+2026-01-05,makeup,54
 2026-01-05,makeup artist,1
 2026-01-05,makeup hairstyle,3
 2026-01-05,makeup hairstyle inspiration,3
@@ -1504,10 +1202,10 @@ period,Term,Count
 2026-01-05,makeup shorts,3
 2026-01-05,makeup shorts kashees,2
 2026-01-05,makeup trend,5
-2026-01-05,makeup trends,8
+2026-01-05,makeup trends,10
 2026-01-05,makeup trends according,4
 2026-01-05,makeuptutorial,4
-2026-01-05,making,7
+2026-01-05,making,8
 2026-01-05,making comeback,3
 2026-01-05,manicure,12
 2026-01-05,margin,728
@@ -1532,14 +1230,15 @@ period,Term,Count
 2026-01-05,margin width div,112
 2026-01-05,mask,4
 2026-01-05,mean,2
-2026-01-05,media,57
+2026-01-05,means,3
+2026-01-05,media,59
 2026-01-05,media style,56
 2026-01-05,media style border,56
+2026-01-05,mental,3
 2026-01-05,micro,4
-2026-01-05,mind,1
+2026-01-05,mind,6
 2026-01-05,modern,8
-2026-01-05,moment,3
-2026-01-05,moments,1
+2026-01-05,moment,4
 2026-01-05,money,4
 2026-01-05,months,5
 2026-01-05,movement,11
@@ -1549,16 +1248,16 @@ period,Term,Count
 2026-01-05,nails,35
 2026-01-05,natural,13
 2026-01-05,naturally,2
-2026-01-05,need,8
-2026-01-05,needs,1
-2026-01-05,negative,2
-2026-01-05,new,20
+2026-01-05,need,12
+2026-01-05,needs,2
+2026-01-05,negative,3
+2026-01-05,new,21
 2026-01-05,new quiet,6
 2026-01-05,new quiet beauty,6
 2026-01-05,new year,2
 2026-01-05,newest,1
 2026-01-05,news,4
-2026-01-05,night,2
+2026-01-05,night,4
 2026-01-05,noopener,168
 2026-01-05,noopener noreferrer,112
 2026-01-05,noopener noreferrer style,112
@@ -1569,11 +1268,12 @@ period,Term,Count
 2026-01-05,noreferrer style,112
 2026-01-05,noreferrer style color,56
 2026-01-05,noreferrer style line,56
-2026-01-05,normal,168
+2026-01-05,normal,169
 2026-01-05,normal font,112
 2026-01-05,normal font weight,112
 2026-01-05,normal line,56
 2026-01-05,normal line height,56
+2026-01-05,offers,2
 2026-01-05,old,3
 2026-01-05,overflow,56
 2026-01-05,overflow hidden,56
@@ -1588,98 +1288,99 @@ period,Term,Count
 2026-01-05,padding text align,112
 2026-01-05,padding width,56
 2026-01-05,padding width div,56
-2026-01-05,past,2
-2026-01-05,people,9
+2026-01-05,particularly,4
+2026-01-05,past,3
+2026-01-05,people,14
 2026-01-05,perfect,10
 2026-01-05,perfectly,5
-2026-01-05,personal,2
+2026-01-05,personal,3
 2026-01-05,pink,4
-2026-01-05,place,2
-2026-01-05,play,1
+2026-01-05,place,4
 2026-01-05,plus,3
-2026-01-05,point,1
+2026-01-05,point,3
 2026-01-05,polish,8
 2026-01-05,polished,8
 2026-01-05,polka,19
 2026-01-05,polka dot,11
 2026-01-05,polka dot nails,4
-2026-01-05,popular,5
+2026-01-05,popular,6
 2026-01-05,post,112
 2026-01-05,post instagram,56
 2026-01-05,post instagram div,56
 2026-01-05,post shared,56
-2026-01-05,power,2
-2026-01-05,powerful,1
+2026-01-05,powerful,2
 2026-01-05,practical,2
+2026-01-05,prefer,3
 2026-01-05,preppy,3
 2026-01-05,princess,3
 2026-01-05,products,3
-2026-01-05,proof,1
-2026-01-05,prove,1
+2026-01-05,prove,2
+2026-01-05,putting,1
 2026-01-05,quiet,7
 2026-01-05,quiet beauty,6
 2026-01-05,quiet beauty trend,6
-2026-01-05,reading,2
+2026-01-05,quite,4
 2026-01-05,ready,2
-2026-01-05,really,4
+2026-01-05,really,5
 2026-01-05,reason,3
 2026-01-05,recently,5
-2026-01-05,recreate,1
 2026-01-05,red,6
 2026-01-05,rel,168
 2026-01-05,rel noopener,112
 2026-01-05,rel noopener noreferrer,112
 2026-01-05,rel noreferrer,56
 2026-01-05,rel noreferrer noopener,56
-2026-01-05,release,1
-2026-01-05,relief,1
+2026-01-05,release,2
 2026-01-05,replacing,2
+2026-01-05,report,1
+2026-01-05,research,1
 2026-01-05,rest,2
-2026-01-05,review,1
-2026-01-05,right,182
+2026-01-05,right,183
 2026-01-05,right margin,56
 2026-01-05,right margin left,56
 2026-01-05,right solid,56
 2026-01-05,right solid transparent,56
-2026-01-05,right strong,7
+2026-01-05,right strong,8
 2026-01-05,right width,56
 2026-01-05,right width div,56
 2026-01-05,risks,2
-2026-01-05,role,2
-2026-01-05,root,1
+2026-01-05,role,3
+2026-01-05,routines,4
 2026-01-05,salon,7
 2026-01-05,sans,168
 2026-01-05,sans serif,168
 2026-01-05,sans serif font,168
 2026-01-05,say,5
-2026-01-05,says,47
+2026-01-05,saying,1
+2026-01-05,says,49
 2026-01-05,search,1
 2026-01-05,season,4
-2026-01-05,self,1
-2026-01-05,series,4
+2026-01-05,secret,2
+2026-01-05,self,7
+2026-01-05,sense,4
+2026-01-05,series,5
 2026-01-05,serif,168
 2026-01-05,serif font,168
 2026-01-05,serif font size,168
-2026-01-05,seriously,1
 2026-01-05,serum,13
-2026-01-05,set,10
+2026-01-05,set,13
 2026-01-05,shape,8
 2026-01-05,shapes,4
+2026-01-05,shaping,1
 2026-01-05,share,2
 2026-01-05,shared,56
-2026-01-05,sharp,5
+2026-01-05,shares,1
 2026-01-05,shift,1
+2026-01-05,shifts,1
 2026-01-05,shine,6
-2026-01-05,shiny,2
 2026-01-05,short,7
 2026-01-05,shorts,10
 2026-01-05,shorts kashees,2
 2026-01-05,shorts kashees kashees,1
-2026-01-05,showcase,2
-2026-01-05,shows,9
+2026-01-05,shows,10
 2026-01-05,shows whisper,6
 2026-01-05,shows whisper liner,6
-2026-01-05,simple,7
+2026-01-05,simple,8
 2026-01-05,size,168
 2026-01-05,size font,112
 2026-01-05,size font style,112
@@ -1693,10 +1394,9 @@ period,Term,Count
 2026-01-05,skincareroutine,12
 2026-01-05,skincareroutine skincare,4
 2026-01-05,sky,4
-2026-01-05,sleek,4
-2026-01-05,small,2
-2026-01-05,social,2
-2026-01-05,social media,1
+2026-01-05,small,4
+2026-01-05,social,4
+2026-01-05,social media,3
 2026-01-05,soft,10
 2026-01-05,solid,280
 2026-01-05,solid border,56
@@ -1704,25 +1404,21 @@ period,Term,Count
 2026-01-05,solid transparent,224
 2026-01-05,solid transparent border,56
 2026-01-05,solid transparent div,168
-2026-01-05,space,3
-2026-01-05,speak,1
+2026-01-05,space,6
 2026-01-05,spotted,3
 2026-01-05,spring,4
-2026-01-05,src,18
-2026-01-05,src figure,8
-2026-01-05,src figure div,6
-2026-01-05,star,2
+2026-01-05,src,19
+2026-01-05,src figure,9
+2026-01-05,src figure div,7
+2026-01-05,start,2
 2026-01-05,statement,2
 2026-01-05,stay,2
 2026-01-05,step,1
 2026-01-05,steps,3
-2026-01-05,stop,1
-2026-01-05,story,2
-2026-01-05,straight,4
 2026-01-05,striking,3
-2026-01-05,strong,42
-2026-01-05,strong like,7
-2026-01-05,strong like goodness,7
+2026-01-05,strong,44
+2026-01-05,strong like,8
+2026-01-05,strong like goodness,8
 2026-01-05,style,1651
 2026-01-05,style background,560
 2026-01-05,style background color,560
@@ -1748,7 +1444,6 @@ period,Term,Count
 2026-01-05,styles,2
 2026-01-05,stylist,9
 2026-01-05,subtle,3
-2026-01-05,suit,2
 2026-01-05,summer,3
 2026-01-05,sun,1
 2026-01-05,super,5
@@ -1756,30 +1451,28 @@ period,Term,Count
 2026-01-05,surprisingly,2
 2026-01-05,sweetest,3
 2026-01-05,taken,3
-2026-01-05,taking,5
-2026-01-05,talk,2
+2026-01-05,taking,6
+2026-01-05,talk,3
 2026-01-05,target,168
 2026-01-05,target div,56
 2026-01-05,target div div,56
 2026-01-05,target post,56
 2026-01-05,target post shared,56
 2026-01-05,taylor,5
-2026-01-05,tech,3
-2026-01-05,text,225
+2026-01-05,text,227
 2026-01-05,text align,112
 2026-01-05,text align center,112
 2026-01-05,text decoration,112
 2026-01-05,text decoration target,56
 2026-01-05,text decoration width,56
 2026-01-05,texture,19
-2026-01-05,thanks,4
-2026-01-05,thing,2
-2026-01-05,things,8
-2026-01-05,think,16
+2026-01-05,thing,3
+2026-01-05,things,11
+2026-01-05,think,18
 2026-01-05,tiktok,5
-2026-01-05,time,3
+2026-01-05,time,11
 2026-01-05,times,7
-2026-01-05,tips,10
+2026-01-05,tips,11
 2026-01-05,tone,3
 2026-01-05,touch,4
 2026-01-05,transparent,224
@@ -1796,26 +1489,26 @@ period,Term,Count
 2026-01-05,trending makeup,4
 2026-01-05,trending makeup hairstyle,3
 2026-01-05,trendingshorts,6
-2026-01-05,trends,50
+2026-01-05,trends,52
 2026-01-05,trends according,4
 2026-01-05,trends actually,1
+2026-01-05,trends define,2
 2026-01-05,trends try,6
 2026-01-05,trends try vogue,6
 2026-01-05,trends wear,1
 2026-01-05,trendy,3
-2026-01-05,true,2
-2026-01-05,truth,4
-2026-01-05,try,11
+2026-01-05,try,12
 2026-01-05,try vogue,6
 2026-01-05,try vogue biggest,3
 2026-01-05,ultimate,3
+2026-01-05,unexpected,1
 2026-01-05,unique,3
 2026-01-05,upgrade,3
-2026-01-05,use,5
+2026-01-05,use,6
 2026-01-05,using,5
 2026-01-05,vibe,1
 2026-01-05,video,4
-2026-01-05,view,56
+2026-01-05,view,57
 2026-01-05,view post,56
 2026-01-05,view post instagram,56
 2026-01-05,viral,14
@@ -1824,19 +1517,22 @@ period,Term,Count
 2026-01-05,vogue,7
 2026-01-05,vogue biggest,3
 2026-01-05,vogue biggest skincare,3
-2026-01-05,want,6
+2026-01-05,want,7
 2026-01-05,warm,2
 2026-01-05,watch,5
-2026-01-05,way,8
+2026-01-05,way,12
 2026-01-05,ways,4
 2026-01-05,wear,7
 2026-01-05,wearing,3
-2026-01-05,week,3
+2026-01-05,weather,3
+2026-01-05,week,4
+2026-01-05,weeks,5
 2026-01-05,weight,114
 2026-01-05,weight line,56
 2026-01-05,weight line height,56
 2026-01-05,weight normal,56
 2026-01-05,weight normal line,56
+2026-01-05,wellness,1
 2026-01-05,whisper,7
 2026-01-05,whisper liner,6
 2026-01-05,whisper liner new,6
@@ -1853,14 +1549,13 @@ period,Term,Count
 2026-01-05,width target,56
 2026-01-05,width target div,56
 2026-01-05,winter,10
-2026-01-05,wish,1
 2026-01-05,women,2
-2026-01-05,won,3
+2026-01-05,won,5
 2026-01-05,work,5
-2026-01-05,working,1
-2026-01-05,works,7
-2026-01-05,world,1
+2026-01-05,works,8
+2026-01-05,works best,1
+2026-01-05,world,2
 2026-01-05,worth,2
-2026-01-05,year,14
+2026-01-05,year,16
 2026-01-05,youtubeshorts,3
 2026-01-05,ytshorts,6
