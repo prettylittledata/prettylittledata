@@ -38,7 +38,6 @@ period,Term,Count
 2025-11-24,period,2
 2025-11-24,replacing,2
 2025-11-24,right,4
-2025-11-24,salmon,4
 2025-11-24,skin,2
 2025-11-24,skin care,2
 2025-11-24,skincare,8
@@ -125,6 +124,7 @@ period,Term,Count
 2025-12-08,blush,2
 2025-12-08,boring,2
 2025-12-08,british,2
+2025-12-08,british vogue,2
 2025-12-08,business,2
 2025-12-08,cherry,2
 2025-12-08,claire,2
@@ -145,6 +145,8 @@ period,Term,Count
 2025-12-08,girl makeup,2
 2025-12-08,glam,4
 2025-12-08,glamour,2
+2025-12-08,glitchy,2
+2025-12-08,glitchy glam,2
 2025-12-08,good,2
 2025-12-08,hair,4
 2025-12-08,holiday,2
@@ -244,6 +246,7 @@ period,Term,Count
 2025-12-15,reasons,2
 2025-12-15,says,2
 2025-12-15,scandinavia,6
+2025-12-15,shake,4
 2025-12-15,skin,6
 2025-12-15,skincare,8
 2025-12-15,skincare trend,4
@@ -294,6 +297,7 @@ period,Term,Count
 2025-12-22,blurred,2
 2025-12-22,bold,4
 2025-12-22,british,4
+2025-12-22,british vogue,2
 2025-12-22,bustle,4
 2025-12-22,care,2
 2025-12-22,celeb,2
@@ -386,10 +390,10 @@ period,Term,Count
 2025-12-29,bbc,6
 2025-12-29,bbc beauty,3
 2025-12-29,bbc beauty social,3
-2025-12-29,beauty,48
+2025-12-29,beauty,42
 2025-12-29,beauty social,6
 2025-12-29,beauty social media,6
-2025-12-29,beauty trend,17
+2025-12-29,beauty trend,15
 2025-12-29,beauty trend according,6
 2025-12-29,beauty trends,19
 2025-12-29,beauty trends actually,6
@@ -405,6 +409,8 @@ period,Term,Count
 2025-12-29,bold,1
 2025-12-29,bridal,3
 2025-12-29,bridal look,1
+2025-12-29,british,2
+2025-12-29,british vogue,2
 2025-12-29,business,2
 2025-12-29,celeb,6
 2025-12-29,celeb makeup,6
@@ -437,8 +443,6 @@ period,Term,Count
 2025-12-29,giving,2
 2025-12-29,glamour,6
 2025-12-29,glossy,4
-2025-12-29,growing,4
-2025-12-29,growing beauty,4
 2025-12-29,grwm,1
 2025-12-29,hair,2
 2025-12-29,hairstyle,7
@@ -449,7 +453,7 @@ period,Term,Count
 2025-12-29,halo lip biggest,6
 2025-12-29,halo lips,6
 2025-12-29,hand,2
-2025-12-29,health,4
+2025-12-29,health,2
 2025-12-29,home,2
 2025-12-29,huge,6
 2025-12-29,huge comeback,6
@@ -467,7 +471,7 @@ period,Term,Count
 2025-12-29,kashees viral,4
 2025-12-29,kashees viral look,4
 2025-12-29,know,2
-2025-12-29,line,4
+2025-12-29,line,2
 2025-12-29,lip,6
 2025-12-29,lip biggest,6
 2025-12-29,lip biggest beauty,6
@@ -500,13 +504,11 @@ period,Term,Count
 2025-12-29,media trend,6
 2025-12-29,media trend economic,6
 2025-12-29,polished,2
-2025-12-29,post,4
 2025-12-29,powerhouse,6
 2025-12-29,powerhouse bbc,6
 2025-12-29,powerhouse bbc beauty,3
 2025-12-29,products,1
 2025-12-29,prove,2
-2025-12-29,real,4
 2025-12-29,red,1
 2025-12-29,replacing,4
 2025-12-29,report,2
@@ -514,12 +516,12 @@ period,Term,Count
 2025-12-29,research beauty,6
 2025-12-29,research beauty trends,6
 2025-12-29,right,2
-2025-12-29,salmon,4
 2025-12-29,saying,1
-2025-12-29,set,4
+2025-12-29,set,6
+2025-12-29,shake,2
 2025-12-29,shorts,6
 2025-12-29,shorts kashees,4
-2025-12-29,skin,10
+2025-12-29,skin,6
 2025-12-29,skincare,7
 2025-12-29,skincare trends,2
 2025-12-29,social,6
@@ -532,8 +534,7 @@ period,Term,Count
 2025-12-29,times,4
 2025-12-29,times india,2
 2025-12-29,tips,1
-2025-12-29,treatments,6
-2025-12-29,trend,37
+2025-12-29,trend,31
 2025-12-29,trend according,6
 2025-12-29,trend according celeb,6
 2025-12-29,trend economic,6
@@ -551,7 +552,7 @@ period,Term,Count
 2025-12-29,viral,7
 2025-12-29,viral look,4
 2025-12-29,viral look trending,4
-2025-12-29,vogue,16
+2025-12-29,vogue,18
 2025-12-29,vogue biggest,1
 2025-12-29,vogue halo,3
 2025-12-29,vogue halo lip,3
@@ -576,12 +577,14 @@ period,Term,Count
 2026-01-05,adolescence,6
 2026-01-05,adolescence erin,6
 2026-01-05,adolescence erin doherty,6
+2026-01-05,aesthetic,5
 2026-01-05,ahead,5
 2026-01-05,align,90
 2026-01-05,align center,90
 2026-01-05,align center rel,45
 2026-01-05,align center text,45
 2026-01-05,allows,6
+2026-01-05,answer,5
 2026-01-05,anti,3
 2026-01-05,aren,5
 2026-01-05,arial,135
@@ -668,7 +671,8 @@ period,Term,Count
 2026-01-05,class text,4
 2026-01-05,class text color,4
 2026-01-05,classic,3
-2026-01-05,clean,14
+2026-01-05,clean,16
+2026-01-05,clean girl,6
 2026-01-05,close,5
 2026-01-05,cloud,4
 2026-01-05,coat,3
@@ -800,11 +804,13 @@ period,Term,Count
 2026-01-05,fyp,4
 2026-01-05,gets,3
 2026-01-05,getting,7
-2026-01-05,girl,12
+2026-01-05,girl,14
 2026-01-05,girls,2
 2026-01-05,giving,3
-2026-01-05,glam,6
+2026-01-05,glam,8
 2026-01-05,glamour,2
+2026-01-05,glitchy,4
+2026-01-05,glitchy glam,4
 2026-01-05,gloss,3
 2026-01-05,glossy,4
 2026-01-05,glow,9
@@ -822,8 +828,6 @@ period,Term,Count
 2026-01-05,goth makeup,2
 2026-01-05,grab,3
 2026-01-05,great,13
-2026-01-05,growing,2
-2026-01-05,growing beauty,2
 2026-01-05,grwm,3
 2026-01-05,hair,51
 2026-01-05,hairstyle,4
@@ -1076,6 +1080,7 @@ period,Term,Count
 2026-01-05,products,6
 2026-01-05,properly,3
 2026-01-05,prove,3
+2026-01-05,purewow,6
 2026-01-05,putting,3
 2026-01-05,quickly,4
 2026-01-05,quiet,7
