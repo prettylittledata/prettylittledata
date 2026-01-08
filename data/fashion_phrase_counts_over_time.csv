@@ -17,9 +17,9 @@ period,Term,Count
 2025-12-01,trends,4
 2025-12-08,biggest,4
 2025-12-08,dressing,2
-2025-12-08,fashion,6
+2025-12-08,fashion,8
 2025-12-08,fashion trend,2
-2025-12-08,fashion trends,2
+2025-12-08,fashion trends,4
 2025-12-08,hottest,2
 2025-12-08,like,2
 2025-12-08,magazine,2
@@ -34,7 +34,7 @@ period,Term,Count
 2025-12-08,summer trends,4
 2025-12-08,time,2
 2025-12-08,trend,6
-2025-12-08,trends,8
+2025-12-08,trends,10
 2025-12-08,whowhatwear,8
 2025-12-15,ahead,4
 2025-12-15,biggest,2
@@ -55,7 +55,6 @@ period,Term,Count
 2025-12-15,key,4
 2025-12-15,key spring,2
 2025-12-15,key spring summer,2
-2025-12-15,low,2
 2025-12-15,marie,2
 2025-12-15,marie claire,2
 2025-12-15,new,4
@@ -101,9 +100,7 @@ period,Term,Count
 2025-12-22,news sydney,1
 2025-12-22,news sydney sweeney,1
 2025-12-22,red,2
-2025-12-22,sneaker,2
-2025-12-22,sneaker trends,2
-2025-12-22,spring,4
+2025-12-22,spring,2
 2025-12-22,streetwear,2
 2025-12-22,streetwear style,2
 2025-12-22,style,4
@@ -114,9 +111,8 @@ period,Term,Count
 2025-12-22,sydney sweeney,2
 2025-12-22,travel,2
 2025-12-22,trend,2
-2025-12-22,trends,20
+2025-12-22,trends,18
 2025-12-22,trends look,2
-2025-12-22,vogue,2
 2025-12-22,wear,2
 2025-12-22,whowhatwear,4
 2025-12-22,winter,4
@@ -132,23 +128,24 @@ period,Term,Count
 2025-12-29,chocolate brown,5
 2025-12-29,city,2
 2025-12-29,coat,3
-2025-12-29,dress,2
+2025-12-29,cool,2
 2025-12-29,dressing,4
 2025-12-29,dressing strange,4
 2025-12-29,dressing strange times,4
 2025-12-29,elle,8
 2025-12-29,elle weird,2
 2025-12-29,elle weird medieval,2
-2025-12-29,fashion,24
+2025-12-29,fashion,26
 2025-12-29,fashion solution,4
 2025-12-29,fashion solution dressing,4
 2025-12-29,fashion trend,12
-2025-12-29,fashion trends,6
+2025-12-29,fashion trends,8
 2025-12-29,fox,4
 2025-12-29,fox news,4
 2025-12-29,fox news sydney,2
-2025-12-29,good,1
+2025-12-29,good,3
 2025-12-29,home,2
+2025-12-29,instyle,2
 2025-12-29,jeans,2
 2025-12-29,just,5
 2025-12-29,key,2
@@ -177,14 +174,14 @@ period,Term,Count
 2025-12-29,solution,4
 2025-12-29,solution dressing,4
 2025-12-29,solution dressing strange,4
-2025-12-29,sports,1
-2025-12-29,spring,4
+2025-12-29,spring,2
 2025-12-29,strange,4
 2025-12-29,strange times,4
 2025-12-29,strange times elle,4
 2025-12-29,style,8
 2025-12-29,style trends,6
 2025-12-29,style trends biggest,3
+2025-12-29,styles,2
 2025-12-29,summer,2
 2025-12-29,sweeney,4
 2025-12-29,sydney,4
@@ -200,7 +197,8 @@ period,Term,Count
 2025-12-29,trends biggest,3
 2025-12-29,trends biggest style,3
 2025-12-29,trends look,2
-2025-12-29,vogue,12
+2025-12-29,trends styles,2
+2025-12-29,vogue,10
 2025-12-29,wardrobe,2
 2025-12-29,wear,2
 2025-12-29,weird,4
@@ -213,12 +211,11 @@ period,Term,Count
 2026-01-05,accessory,8
 2026-01-05,affordablefashion,4
 2026-01-05,ahead,2
-2026-01-05,awards,6
 2026-01-05,beautiful,9
 2026-01-05,beauty,5
 2026-01-05,bella,6
 2026-01-05,best,13
-2026-01-05,biggest,10
+2026-01-05,biggest,8
 2026-01-05,biggest fashion,2
 2026-01-05,biggest trends,4
 2026-01-05,bot,6
@@ -231,7 +228,7 @@ period,Term,Count
 2026-01-05,chinese,8
 2026-01-05,christmas,9
 2026-01-05,city,6
-2026-01-05,claire,20
+2026-01-05,claire,22
 2026-01-05,clothes,2
 2026-01-05,clothing,9
 2026-01-05,clothingbrand,4
@@ -243,7 +240,8 @@ period,Term,Count
 2026-01-05,color,5
 2026-01-05,colors,5
 2026-01-05,colour,6
-2026-01-05,comeback,7
+2026-01-05,comeback,5
+2026-01-05,cool,4
 2026-01-05,cosmopolitan,4
 2026-01-05,designer,5
 2026-01-05,discover,3
@@ -261,14 +259,14 @@ period,Term,Count
 2026-01-05,fall,4
 2026-01-05,fall winter,4
 2026-01-05,fall winter fashion,4
-2026-01-05,fashion,172
+2026-01-05,fashion,176
 2026-01-05,fashion solution,4
 2026-01-05,fashion solution dressing,4
 2026-01-05,fashion streetwear,11
 2026-01-05,fashion streetwear outfitideas,4
 2026-01-05,fashion style,9
 2026-01-05,fashion trend,20
-2026-01-05,fashion trends,41
+2026-01-05,fashion trends,45
 2026-01-05,fashionstyle,7
 2026-01-05,fashiontrends,37
 2026-01-05,favorite,6
@@ -280,7 +278,6 @@ period,Term,Count
 2026-01-05,going,2
 2026-01-05,good,5
 2026-01-05,good housekeeping,2
-2026-01-05,hair,6
 2026-01-05,harpersbazaar,10
 2026-01-05,home,2
 2026-01-05,hottest,5
@@ -288,11 +285,11 @@ period,Term,Count
 2026-01-05,ideas,8
 2026-01-05,inspired,5
 2026-01-05,instyle,8
-2026-01-05,jackets,12
+2026-01-05,jackets,10
 2026-01-05,japan,6
 2026-01-05,japan viral,6
 2026-01-05,japan viral bot,6
-2026-01-05,jeans,19
+2026-01-05,jeans,15
 2026-01-05,just,14
 2026-01-05,key,5
 2026-01-05,key spring,4
@@ -305,15 +302,15 @@ period,Term,Count
 2026-01-05,look,6
 2026-01-05,looks,5
 2026-01-05,love,13
-2026-01-05,low,4
 2026-01-05,luxury,7
 2026-01-05,magazine,2
-2026-01-05,make,8
+2026-01-05,make,6
 2026-01-05,making,5
 2026-01-05,man,6
-2026-01-05,marie,20
-2026-01-05,marie claire,20
+2026-01-05,marie,22
+2026-01-05,marie claire,22
 2026-01-05,media,10
+2026-01-05,medical,5
 2026-01-05,medieval,4
 2026-01-05,medieval fashion,4
 2026-01-05,medieval fashion solution,4
@@ -349,7 +346,7 @@ period,Term,Count
 2026-01-05,real,4
 2026-01-05,red,3
 2026-01-05,return,6
-2026-01-05,season,5
+2026-01-05,season,8
 2026-01-05,secret,1
 2026-01-05,shoe,4
 2026-01-05,shoes,5
@@ -357,13 +354,11 @@ period,Term,Count
 2026-01-05,shorts,27
 2026-01-05,shortvideo,4
 2026-01-05,sneaker,9
-2026-01-05,sneaker trends,4
 2026-01-05,social,6
 2026-01-05,social media,6
 2026-01-05,solution,4
 2026-01-05,solution dressing,4
 2026-01-05,solution dressing strange,4
-2026-01-05,sports,4
 2026-01-05,spring,11
 2026-01-05,spring summer,9
 2026-01-05,spring summer trends,4
@@ -393,7 +388,7 @@ period,Term,Count
 2026-01-05,times elle,4
 2026-01-05,times elle weird,2
 2026-01-05,travel,8
-2026-01-05,trend,53
+2026-01-05,trend,51
 2026-01-05,trend predictions,4
 2026-01-05,trend whowhatwear,6
 2026-01-05,trending,17
@@ -402,6 +397,7 @@ period,Term,Count
 2026-01-05,trends look,1
 2026-01-05,trends need,8
 2026-01-05,trends need know,6
+2026-01-05,trends styles,4
 2026-01-05,trendy,13
 2026-01-05,trousers,5
 2026-01-05,unisex,5
@@ -411,19 +407,19 @@ period,Term,Count
 2026-01-05,viral bot,6
 2026-01-05,viral fashion,4
 2026-01-05,viralvideo,5
-2026-01-05,vogue,4
+2026-01-05,vogue,2
 2026-01-05,wardrobe,5
 2026-01-05,warm,4
 2026-01-05,ways,6
 2026-01-05,ways style,6
 2026-01-05,wear,10
-2026-01-05,wearing,14
+2026-01-05,wearing,12
 2026-01-05,week,5
 2026-01-05,weird,4
 2026-01-05,weird medieval,4
 2026-01-05,weird medieval fashion,4
 2026-01-05,welcome,5
-2026-01-05,whowhatwear,38
+2026-01-05,whowhatwear,34
 2026-01-05,whowhatwear fashion,3
 2026-01-05,whowhatwear pinterest,2
 2026-01-05,whowhatwear pinterest just,2
