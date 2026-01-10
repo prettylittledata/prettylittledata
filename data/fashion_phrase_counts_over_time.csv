@@ -7,7 +7,6 @@ period,Term,Count
 2025-12-01,biggest,2
 2025-12-01,biggest fashion,2
 2025-12-01,biggest fashion trends,2
-2025-12-01,daily,2
 2025-12-01,elle,2
 2025-12-01,fashion,4
 2025-12-01,fashion trends,4
@@ -132,7 +131,9 @@ period,Term,Count
 2025-12-22,winter,4
 2025-12-22,winter fashion,2
 2025-12-22,year,2
-2025-12-29,biggest,6
+2025-12-29,biggest,8
+2025-12-29,biggest style,6
+2025-12-29,biggest style trends,6
 2025-12-29,biggest trends,2
 2025-12-29,brown,4
 2025-12-29,celebrities,6
@@ -184,8 +185,9 @@ period,Term,Count
 2025-12-29,strange,4
 2025-12-29,strange times,4
 2025-12-29,strange times elle,4
-2025-12-29,style,4
-2025-12-29,style trends,4
+2025-12-29,style,6
+2025-12-29,style trends,6
+2025-12-29,style trends biggest,3
 2025-12-29,stylist,2
 2025-12-29,sweeney,6
 2025-12-29,sweeney kate,6
@@ -201,7 +203,9 @@ period,Term,Count
 2025-12-29,trend celebrities,6
 2025-12-29,trend predictions,4
 2025-12-29,trend wear,2
-2025-12-29,trends,12
+2025-12-29,trends,14
+2025-12-29,trends biggest,3
+2025-12-29,trends biggest style,3
 2025-12-29,trends elle,2
 2025-12-29,vogue,10
 2025-12-29,wear,2
@@ -216,13 +220,13 @@ period,Term,Count
 2026-01-05,amazon,4
 2026-01-05,australia,6
 2026-01-05,bags,7
-2026-01-05,bazaar,6
+2026-01-05,bazaar,4
 2026-01-05,best,7
 2026-01-05,biggest,12
 2026-01-05,biggest fashion,6
 2026-01-05,biggest fashion trends,6
 2026-01-05,biggest trends,4
-2026-01-05,boot,8
+2026-01-05,boot,6
 2026-01-05,boots,8
 2026-01-05,brands,7
 2026-01-05,brown,2
@@ -233,7 +237,7 @@ period,Term,Count
 2026-01-05,city,6
 2026-01-05,claire,36
 2026-01-05,classy,7
-2026-01-05,closet,8
+2026-01-05,closet,6
 2026-01-05,clothing,18
 2026-01-05,clothing items,8
 2026-01-05,clothing items shirts,8
@@ -249,7 +253,6 @@ period,Term,Count
 2026-01-05,cool,8
 2026-01-05,cotton,5
 2026-01-05,curated,3
-2026-01-05,daily,4
 2026-01-05,denim,5
 2026-01-05,divisive,6
 2026-01-05,dominate,8
@@ -262,7 +265,7 @@ period,Term,Count
 2026-01-05,editor,6
 2026-01-05,elegance,3
 2026-01-05,elegant,4
-2026-01-05,elle,20
+2026-01-05,elle,22
 2026-01-05,elle weird,2
 2026-01-05,elle weird medieval,2
 2026-01-05,fall,4
@@ -280,7 +283,7 @@ period,Term,Count
 2026-01-05,fashion style,5
 2026-01-05,fashion trend,17
 2026-01-05,fashion trend making,4
-2026-01-05,fashion trends,54
+2026-01-05,fashion trends,52
 2026-01-05,fashionstyle,9
 2026-01-05,fashiontrends,35
 2026-01-05,forward,5
@@ -294,12 +297,13 @@ period,Term,Count
 2026-01-05,girl,17
 2026-01-05,good,4
 2026-01-05,good housekeeping,2
-2026-01-05,guardian,6
+2026-01-05,guardian,4
 2026-01-05,guide,9
-2026-01-05,harper,6
-2026-01-05,harper bazaar,6
+2026-01-05,hair,5
+2026-01-05,harper,4
+2026-01-05,harper bazaar,4
 2026-01-05,hoodie,6
-2026-01-05,hottest,3
+2026-01-05,hottest,5
 2026-01-05,housekeeping,2
 2026-01-05,includes,8
 2026-01-05,includes wide,8
@@ -309,6 +313,7 @@ period,Term,Count
 2026-01-05,items,8
 2026-01-05,items shirts,8
 2026-01-05,items shirts trousers,8
+2026-01-05,jacket,6
 2026-01-05,jackets,13
 2026-01-05,jackets suits,8
 2026-01-05,jackets suits jeans,8
@@ -391,7 +396,7 @@ period,Term,Count
 2026-01-05,rkymart unique collection,8
 2026-01-05,sale,7
 2026-01-05,say,2
-2026-01-05,season,7
+2026-01-05,season,9
 2026-01-05,shirts,9
 2026-01-05,shirts trousers,8
 2026-01-05,shirts trousers jackets,8
@@ -423,10 +428,11 @@ period,Term,Count
 2026-01-05,streetwear outfitideas,4
 2026-01-05,streetwear outfitideas clothingbrand,4
 2026-01-05,streetwear trends,5
-2026-01-05,style,51
+2026-01-05,style,53
+2026-01-05,style fashion,4
 2026-01-05,style trends,1
-2026-01-05,styles,8
-2026-01-05,stylish,4
+2026-01-05,styles,6
+2026-01-05,stylish,6
 2026-01-05,stylist,8
 2026-01-05,suits,8
 2026-01-05,suits jeans,8
@@ -446,12 +452,12 @@ period,Term,Count
 2026-01-05,travel,6
 2026-01-05,travel leisure,4
 2026-01-05,travel leisure fashion,2
-2026-01-05,trend,56
+2026-01-05,trend,58
 2026-01-05,trend making,4
 2026-01-05,trend making comeback,4
 2026-01-05,trend predictions,2
 2026-01-05,trend taking,8
-2026-01-05,trend wear,4
+2026-01-05,trend wear,6
 2026-01-05,trending,11
 2026-01-05,trendingshorts,5
 2026-01-05,trends,116
@@ -465,6 +471,7 @@ period,Term,Count
 2026-01-05,trousers,8
 2026-01-05,trousers jackets,8
 2026-01-05,trousers jackets suits,8
+2026-01-05,twist,6
 2026-01-05,unique,8
 2026-01-05,unique collection,8
 2026-01-05,unique collection men,8
@@ -472,12 +479,12 @@ period,Term,Count
 2026-01-05,variety,8
 2026-01-05,variety clothing,8
 2026-01-05,variety clothing items,8
-2026-01-05,video,4
+2026-01-05,video,6
 2026-01-05,vintage,6
 2026-01-05,viral,9
 2026-01-05,vogue,2
 2026-01-05,wardrobe,6
-2026-01-05,wear,64
+2026-01-05,wear,66
 2026-01-05,wear pinterest,2
 2026-01-05,wear pinterest just,2
 2026-01-05,wearing,18
