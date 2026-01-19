@@ -16,29 +16,31 @@ period,Term,Count
 2025-12-01,products,2
 2025-12-01,real,1
 2025-12-08,accessible,3
+2025-12-08,actually,2
 2025-12-08,adobe,4
 2025-12-08,adobe creative,2
 2025-12-08,adobe creative trends,2
 2025-12-08,available,3
-2025-12-08,bloq,4
+2025-12-08,bloq,6
 2025-12-08,book,2
 2025-12-08,business,2
-2025-12-08,canva,2
+2025-12-08,care,2
+2025-12-08,communication,2
 2025-12-08,complex,1
-2025-12-08,creative,10
-2025-12-08,creative bloq,4
+2025-12-08,creative,12
+2025-12-08,creative bloq,6
 2025-12-08,creative trends,2
 2025-12-08,css,5
-2025-12-08,design,6
-2025-12-08,design trends,4
+2025-12-08,design,4
+2025-12-08,design trends,2
 2025-12-08,don,2
 2025-12-08,don want,2
 2025-12-08,entering,1
 2025-12-08,font,2
 2025-12-08,fonts,2
 2025-12-08,framework,1
-2025-12-08,graphic,2
-2025-12-08,graphic design,2
+2025-12-08,graphic,4
+2025-12-08,graphic design,4
 2025-12-08,graphic design trends,2
 2025-12-08,handle,1
 2025-12-08,increasingly,1
@@ -64,12 +66,12 @@ period,Term,Count
 2025-12-08,strategy,3
 2025-12-08,trends,8
 2025-12-08,trends creative,2
-2025-12-08,visual,2
+2025-12-08,typography,2
+2025-12-08,visual,4
 2025-12-08,want,2
 2025-12-08,war,2
 2025-12-08,world,1
 2025-12-08,wrong,2
-2025-12-08,year,2
 2025-12-15,adobe,4
 2025-12-15,adobe creative,4
 2025-12-15,adobe creative trends,4
@@ -81,16 +83,14 @@ period,Term,Count
 2025-12-15,black,2
 2025-12-15,bloq,10
 2025-12-15,book,2
-2025-12-15,branding,2
 2025-12-15,code,3
 2025-12-15,creating,1
-2025-12-15,creative,18
+2025-12-15,creative,16
 2025-12-15,creative bloq,10
 2025-12-15,creative trends,4
 2025-12-15,css,3
 2025-12-15,dark,2
 2025-12-15,design,8
-2025-12-15,design tips,2
 2025-12-15,design trends,2
 2025-12-15,designed,1
 2025-12-15,designer,1
@@ -124,7 +124,7 @@ period,Term,Count
 2025-12-15,tips,2
 2025-12-15,today,1
 2025-12-15,trend,4
-2025-12-15,trends,14
+2025-12-15,trends,12
 2025-12-15,trends creative,2
 2025-12-15,use,1
 2025-12-15,using,1
@@ -132,7 +132,6 @@ period,Term,Count
 2025-12-15,web,7
 2025-12-15,web design,2
 2025-12-15,web designer,1
-2025-12-15,year,2
 2025-12-22,beginners,4
 2025-12-22,bloq,8
 2025-12-22,bloq breaking,3
@@ -145,32 +144,27 @@ period,Term,Count
 2025-12-22,bringing joy typography,6
 2025-12-22,canva,2
 2025-12-22,capcut,4
+2025-12-22,care,1
 2025-12-22,creating,1
 2025-12-22,creative,8
 2025-12-22,creative bloq,8
 2025-12-22,creative bloq breaking,3
 2025-12-22,day,2
 2025-12-22,days,1
-2025-12-22,design,3
-2025-12-22,design trends,2
+2025-12-22,design,1
 2025-12-22,edit,3
 2025-12-22,edit tutorial,3
 2025-12-22,editing,3
 2025-12-22,feedback,1
 2025-12-22,final,1
 2025-12-22,fonts,4
-2025-12-22,graphic,2
-2025-12-22,graphic design,2
-2025-12-22,graphic design trends,2
 2025-12-22,joy,6
 2025-12-22,joy typography,6
 2025-12-22,joy typography trends,6
 2025-12-22,just,4
-2025-12-22,know,2
 2025-12-22,master,4
 2025-12-22,modern,1
 2025-12-22,multi,1
-2025-12-22,need,2
 2025-12-22,powered,1
 2025-12-22,predictions,2
 2025-12-22,print,1
@@ -184,7 +178,7 @@ period,Term,Count
 2025-12-22,shorts,2
 2025-12-22,single,1
 2025-12-22,trend,2
-2025-12-22,trends,8
+2025-12-22,trends,6
 2025-12-22,trends creative,6
 2025-12-22,trends creative bloq,6
 2025-12-22,tutorial,3
@@ -230,6 +224,7 @@ period,Term,Count
 2025-12-29,logo,4
 2025-12-29,mind,1
 2025-12-29,new,4
+2025-12-29,outdated,2
 2025-12-29,patterns,3
 2025-12-29,people,3
 2025-12-29,photoshop,2
@@ -269,9 +264,11 @@ period,Term,Count
 2026-01-05,bloq design trend,3
 2026-01-05,bold,3
 2026-01-05,branding,2
+2026-01-05,business,2
 2026-01-05,capcut,1
 2026-01-05,career,3
 2026-01-05,channel,2
+2026-01-05,communication,1
 2026-01-05,confusion,4
 2026-01-05,considered,1
 2026-01-05,context,1
@@ -281,11 +278,11 @@ period,Term,Count
 2026-01-05,creative bloq design,3
 2026-01-05,day,2
 2026-01-05,days,2
-2026-01-05,design,21
+2026-01-05,design,23
 2026-01-05,design inspiration,2
 2026-01-05,design trend,6
 2026-01-05,design trend fills,6
-2026-01-05,design trends,6
+2026-01-05,design trends,8
 2026-01-05,designers,1
 2026-01-05,developers,2
 2026-01-05,development,3
@@ -304,9 +301,10 @@ period,Term,Count
 2026-01-05,fills joy,6
 2026-01-05,fills joy creative,6
 2026-01-05,fonts,3
-2026-01-05,graphic,4
-2026-01-05,graphic design,4
-2026-01-05,graphic design trends,2
+2026-01-05,future,2
+2026-01-05,graphic,6
+2026-01-05,graphic design,6
+2026-01-05,graphic design trends,4
 2026-01-05,help,1
 2026-01-05,immersive,2
 2026-01-05,important,1
@@ -333,6 +331,7 @@ period,Term,Count
 2026-01-05,platforms,2
 2026-01-05,powered,2
 2026-01-05,practical,2
+2026-01-05,predictions,2
 2026-01-05,problem,1
 2026-01-05,project,2
 2026-01-05,right,1
@@ -352,7 +351,7 @@ period,Term,Count
 2026-01-05,trend fills,6
 2026-01-05,trend fills joy,6
 2026-01-05,trending,1
-2026-01-05,trends,12
+2026-01-05,trends,14
 2026-01-05,trends graphic,2
 2026-01-05,trends graphic design,2
 2026-01-05,trends shaping,2
@@ -403,6 +402,7 @@ period,Term,Count
 2026-01-12,article,6
 2026-01-12,ask,7
 2026-01-12,available,6
+2026-01-12,bad,5
 2026-01-12,based,16
 2026-01-12,beginners,1
 2026-01-12,best,11
@@ -423,31 +423,33 @@ period,Term,Count
 2026-01-12,business,15
 2026-01-12,canva,1
 2026-01-12,capture,4
+2026-01-12,care,1
 2026-01-12,career,6
 2026-01-12,case,11
 2026-01-12,cases,7
 2026-01-12,challenge,6
-2026-01-12,changed,8
 2026-01-12,changes,6
 2026-01-12,channel,1
 2026-01-12,characteristics,3
 2026-01-12,check,4
 2026-01-12,choice,7
 2026-01-12,choose,3
-2026-01-12,class,22
-2026-01-12,class medium,20
-2026-01-12,class medium feed,20
+2026-01-12,class,18
+2026-01-12,class medium,16
+2026-01-12,class medium feed,16
 2026-01-12,clear,19
 2026-01-12,code,3
 2026-01-12,coding,2
-2026-01-12,collective,10
-2026-01-12,collective div,5
+2026-01-12,collective,9
+2026-01-12,collective div,4
 2026-01-12,collective medium,5
 2026-01-12,collective medium people,5
 2026-01-12,comes,4
 2026-01-12,common,3
+2026-01-12,communication,3
 2026-01-12,company,24
 2026-01-12,complex,9
+2026-01-12,confidence,8
 2026-01-12,confusion,3
 2026-01-12,connected,5
 2026-01-12,consequences,6
@@ -482,9 +484,7 @@ period,Term,Count
 2026-01-12,deeper,3
 2026-01-12,define,7
 2026-01-12,deliver,12
-2026-01-12,design,113
-2026-01-12,design graphic,3
-2026-01-12,design graphic design,3
+2026-01-12,design,112
 2026-01-12,design ideas,2
 2026-01-12,design ideas modern,2
 2026-01-12,design inspiration,1
@@ -495,7 +495,6 @@ period,Term,Count
 2026-01-12,design poster design,2
 2026-01-12,design shorts,2
 2026-01-12,design shorts posterdesigner,2
-2026-01-12,design tips,1
 2026-01-12,design trend,2
 2026-01-12,design trends,16
 2026-01-12,designed,9
@@ -514,9 +513,9 @@ period,Term,Count
 2026-01-12,direction,4
 2026-01-12,directly,15
 2026-01-12,discover,4
-2026-01-12,div,10
-2026-01-12,div class,5
-2026-01-12,div class medium,5
+2026-01-12,div,8
+2026-01-12,div class,4
+2026-01-12,div class medium,4
 2026-01-12,does,5
 2026-01-12,doing,8
 2026-01-12,dominate,1
@@ -549,14 +548,14 @@ period,Term,Count
 2026-01-12,fails,4
 2026-01-12,far,13
 2026-01-12,features,5
-2026-01-12,feed,24
-2026-01-12,feed image,5
-2026-01-12,feed image src,5
-2026-01-12,feed item,5
-2026-01-12,feed item class,5
-2026-01-12,feed link,5
-2026-01-12,feed link reading,5
-2026-01-12,feed snippet,5
+2026-01-12,feed,20
+2026-01-12,feed image,4
+2026-01-12,feed image src,4
+2026-01-12,feed item,4
+2026-01-12,feed item class,4
+2026-01-12,feed link,4
+2026-01-12,feed link reading,4
+2026-01-12,feed snippet,4
 2026-01-12,feedback,9
 2026-01-12,feel,15
 2026-01-12,feeling,5
@@ -588,7 +587,6 @@ period,Term,Count
 2026-01-12,google,6
 2026-01-12,graphic,20
 2026-01-12,graphic design,12
-2026-01-12,graphic design graphic,3
 2026-01-12,graphic design trends,4
 2026-01-12,graphicdesign,3
 2026-01-12,guide,5
@@ -609,15 +607,15 @@ period,Term,Count
 2026-01-12,ideas modern poster,2
 2026-01-12,identify,5
 2026-01-12,ignore,3
-2026-01-12,image,20
-2026-01-12,image src,5
-2026-01-12,image src width,5
+2026-01-12,image,19
+2026-01-12,image src,4
+2026-01-12,image src width,4
 2026-01-12,img,73
 2026-01-12,img alt,73
 2026-01-12,img alt height,5
 2026-01-12,img alt src,4
 2026-01-12,immersive,1
-2026-01-12,impact,7
+2026-01-12,impact,6
 2026-01-12,important,8
 2026-01-12,increase,6
 2026-01-12,increasingly,2
@@ -634,9 +632,9 @@ period,Term,Count
 2026-01-12,interfaces,11
 2026-01-12,isn,12
 2026-01-12,issues,3
-2026-01-12,item,13
-2026-01-12,item class,5
-2026-01-12,item class medium,5
+2026-01-12,item,12
+2026-01-12,item class,4
+2026-01-12,item class medium,4
 2026-01-12,javascript,1
 2026-01-12,just,14
 2026-01-12,key,4
@@ -653,9 +651,9 @@ period,Term,Count
 2026-01-12,life,5
 2026-01-12,like,29
 2026-01-12,limits,6
-2026-01-12,link,9
-2026-01-12,link reading,5
-2026-01-12,link reading collective,5
+2026-01-12,link,8
+2026-01-12,link reading,4
+2026-01-12,link reading collective,4
 2026-01-12,live,7
 2026-01-12,logo,4
 2026-01-12,long,7
@@ -675,12 +673,12 @@ period,Term,Count
 2026-01-12,matters,6
 2026-01-12,means,4
 2026-01-12,measure,3
-2026-01-12,medium,25
-2026-01-12,medium feed,20
-2026-01-12,medium feed image,5
-2026-01-12,medium feed item,5
-2026-01-12,medium feed link,5
-2026-01-12,medium feed snippet,5
+2026-01-12,medium,21
+2026-01-12,medium feed,16
+2026-01-12,medium feed image,4
+2026-01-12,medium feed item,4
+2026-01-12,medium feed link,4
+2026-01-12,medium feed snippet,4
 2026-01-12,medium people,5
 2026-01-12,medium people continuing,5
 2026-01-12,memory,9
@@ -710,11 +708,12 @@ period,Term,Count
 2026-01-12,originally,6
 2026-01-12,originally published,6
 2026-01-12,originally published collective,5
+2026-01-12,outdated,2
 2026-01-12,page,6
 2026-01-12,path,6
 2026-01-12,paths,4
 2026-01-12,pattern,4
-2026-01-12,patterns,15
+2026-01-12,patterns,13
 2026-01-12,people,55
 2026-01-12,people continuing,5
 2026-01-12,people continuing conversation,5
@@ -761,9 +760,9 @@ period,Term,Count
 2026-01-12,question,3
 2026-01-12,quick,4
 2026-01-12,quickly,4
-2026-01-12,reading,11
-2026-01-12,reading collective,5
-2026-01-12,reading collective div,5
+2026-01-12,reading,8
+2026-01-12,reading collective,4
+2026-01-12,reading collective div,4
 2026-01-12,ready,1
 2026-01-12,real,11
 2026-01-12,relevant,4
@@ -804,15 +803,16 @@ period,Term,Count
 2026-01-12,skills,3
 2026-01-12,small,6
 2026-01-12,smashing,2
-2026-01-12,snippet,5
+2026-01-12,snippet,4
 2026-01-12,solution,11
 2026-01-12,space,9
 2026-01-12,specific,13
-2026-01-12,src,78
+2026-01-12,src,77
 2026-01-12,src figcaption,49
 2026-01-12,src figure,19
-2026-01-12,src width,10
-2026-01-12,src width class,5
+2026-01-12,src width,9
+2026-01-12,src width class,4
+2026-01-12,standard,3
 2026-01-12,start,16
 2026-01-12,started,2
 2026-01-12,starting,4
@@ -885,9 +885,9 @@ period,Term,Count
 2026-01-12,website,12
 2026-01-12,welcome,3
 2026-01-12,welcome channel,1
-2026-01-12,width,10
-2026-01-12,width class,5
-2026-01-12,width class medium,5
+2026-01-12,width,9
+2026-01-12,width class,4
+2026-01-12,width class medium,4
 2026-01-12,words,3
 2026-01-12,work,15
 2026-01-12,workflows,6
@@ -900,19 +900,25 @@ period,Term,Count
 2026-01-19,advanced,1
 2026-01-19,advanced poster,1
 2026-01-19,advanced poster design,1
+2026-01-19,bad,1
 2026-01-19,best,1
 2026-01-19,break,1
 2026-01-19,canva,3
 2026-01-19,career,1
+2026-01-19,class,4
+2026-01-19,class medium,4
+2026-01-19,class medium feed,4
 2026-01-19,coding,1
+2026-01-19,collective,1
+2026-01-19,collective div,1
+2026-01-19,confidence,2
 2026-01-19,content,2
+2026-01-19,creating,1
 2026-01-19,creative,1
 2026-01-19,creative design,1
 2026-01-19,creative design poster,1
 2026-01-19,css,2
-2026-01-19,design,15
-2026-01-19,design graphic,2
-2026-01-19,design graphic design,2
+2026-01-19,design,17
 2026-01-19,design ideas,1
 2026-01-19,design ideas modern,1
 2026-01-19,design photoshop,1
@@ -921,30 +927,58 @@ period,Term,Count
 2026-01-19,design poster design,1
 2026-01-19,design shorts,1
 2026-01-19,design shorts posterdesigner,1
-2026-01-19,design tips,1
 2026-01-19,design trends,3
 2026-01-19,designers,2
 2026-01-19,designers advanced,1
 2026-01-19,designers advanced poster,1
+2026-01-19,div,2
+2026-01-19,div class,1
+2026-01-19,div class medium,1
+2026-01-19,doing,1
 2026-01-19,dominate,1
+2026-01-19,feed,4
+2026-01-19,feed image,1
+2026-01-19,feed image src,1
+2026-01-19,feed item,1
+2026-01-19,feed item class,1
+2026-01-19,feed link,1
+2026-01-19,feed link reading,1
+2026-01-19,feed snippet,1
 2026-01-19,future,2
 2026-01-19,google,1
-2026-01-19,graphic,10
-2026-01-19,graphic design,8
-2026-01-19,graphic design graphic,2
+2026-01-19,graphic,7
+2026-01-19,graphic design,6
 2026-01-19,graphic design trends,3
 2026-01-19,graphicdesign,2
 2026-01-19,ideas,1
 2026-01-19,ideas modern,1
 2026-01-19,ideas modern poster,1
+2026-01-19,image,1
+2026-01-19,image src,1
+2026-01-19,image src width,1
+2026-01-19,item,1
+2026-01-19,item class,1
+2026-01-19,item class medium,1
 2026-01-19,javascript,2
-2026-01-19,learn,1
-2026-01-19,like,2
+2026-01-19,know,1
+2026-01-19,like,1
+2026-01-19,link,1
+2026-01-19,link reading,1
+2026-01-19,link reading collective,1
+2026-01-19,look,1
 2026-01-19,looks,1
+2026-01-19,medium,4
+2026-01-19,medium feed,4
+2026-01-19,medium feed image,1
+2026-01-19,medium feed item,1
+2026-01-19,medium feed link,1
+2026-01-19,medium feed snippet,1
 2026-01-19,modern,3
 2026-01-19,modern poster,1
 2026-01-19,modern poster design,1
+2026-01-19,new,1
 2026-01-19,old,2
+2026-01-19,outdated,1
 2026-01-19,photoshop,5
 2026-01-19,photoshop techniques,1
 2026-01-19,photoshop techniques designers,1
@@ -957,25 +991,35 @@ period,Term,Count
 2026-01-19,posterdesigner creative,1
 2026-01-19,posterdesigner creative design,1
 2026-01-19,progress,1
+2026-01-19,reading,1
+2026-01-19,reading collective,1
+2026-01-19,reading collective div,1
 2026-01-19,relevant,1
 2026-01-19,search,1
 2026-01-19,series,1
 2026-01-19,set,1
-2026-01-19,shorts,6
+2026-01-19,shorts,5
 2026-01-19,shorts posterdesigner,1
 2026-01-19,shorts posterdesigner creative,1
 2026-01-19,simple,1
+2026-01-19,snippet,1
 2026-01-19,space,2
-2026-01-19,start,3
+2026-01-19,src,1
+2026-01-19,src width,1
+2026-01-19,src width class,1
+2026-01-19,standard,1
+2026-01-19,start,1
 2026-01-19,stay,2
 2026-01-19,style,3
 2026-01-19,techniques,1
 2026-01-19,techniques designers,1
 2026-01-19,techniques designers advanced,1
-2026-01-19,tips,1
 2026-01-19,trend,1
 2026-01-19,trends,5
 2026-01-19,trends graphic,1
-2026-01-19,video,5
+2026-01-19,video,4
 2026-01-19,watch,1
 2026-01-19,webdesign,2
+2026-01-19,width,1
+2026-01-19,width class,1
+2026-01-19,width class medium,1
