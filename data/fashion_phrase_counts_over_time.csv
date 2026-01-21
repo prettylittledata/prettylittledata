@@ -3,9 +3,6 @@ period,Term,Count
 2025-12-08,dressing,2
 2025-12-08,fashion,4
 2025-12-08,fashion trend,2
-2025-12-08,hottest,2
-2025-12-08,hottest fashion,2
-2025-12-08,hottest fashion trend,2
 2025-12-08,like,2
 2025-12-08,magazine,2
 2025-12-08,report,2
@@ -59,12 +56,14 @@ period,Term,Count
 2025-12-22,claire,2
 2025-12-22,clothes,2
 2025-12-22,color,2
+2025-12-22,dress,2
 2025-12-22,editors,2
 2025-12-22,fashion,4
 2025-12-22,fashion trend,2
 2025-12-22,fox,2
 2025-12-22,fox news,2
 2025-12-22,fox news sydney,1
+2025-12-22,jeans,2
 2025-12-22,look,2
 2025-12-22,luxury,2
 2025-12-22,marie,2
@@ -73,8 +72,6 @@ period,Term,Count
 2025-12-22,news sydney,1
 2025-12-22,news sydney sweeney,1
 2025-12-22,red,2
-2025-12-22,sneaker,2
-2025-12-22,spring,2
 2025-12-22,streetwear,2
 2025-12-22,style,4
 2025-12-22,style trends,4
@@ -83,14 +80,17 @@ period,Term,Count
 2025-12-22,sydney sweeney,2
 2025-12-22,trend,4
 2025-12-22,trends,8
-2025-12-22,vogue,6
+2025-12-22,vogue,4
 2025-12-22,vogue editors,2
+2025-12-22,wear,2
 2025-12-22,winter,2
 2025-12-22,winter fashion,2
 2025-12-29,big,2
 2025-12-29,biggest,8
-2025-12-29,biggest style,4
-2025-12-29,biggest trends,4
+2025-12-29,biggest style,6
+2025-12-29,biggest style trends,6
+2025-12-29,biggest trends,2
+2025-12-29,brand,2
 2025-12-29,brown,2
 2025-12-29,celebrities,4
 2025-12-29,celebrity,4
@@ -99,19 +99,20 @@ period,Term,Count
 2025-12-29,dress,2
 2025-12-29,dressing,4
 2025-12-29,editors,4
-2025-12-29,elle,8
+2025-12-29,elle,6
 2025-12-29,fashion,42
 2025-12-29,fashion resolutions,6
-2025-12-29,fashion trend,12
-2025-12-29,fashion trends,18
+2025-12-29,fashion trend,14
+2025-12-29,fashion trends,16
 2025-12-29,fox,4
 2025-12-29,fox news,4
 2025-12-29,fox news sydney,2
 2025-12-29,fur,4
-2025-12-29,gen,2
 2025-12-29,good,2
 2025-12-29,instead,2
 2025-12-29,instyle,2
+2025-12-29,jacket,2
+2025-12-29,jeans,2
 2025-12-29,just,2
 2025-12-29,key,2
 2025-12-29,leaving,6
@@ -123,15 +124,18 @@ period,Term,Count
 2025-12-29,news,4
 2025-12-29,news sydney,2
 2025-12-29,news sydney sweeney,2
+2025-12-29,old,2
 2025-12-29,predictions,4
 2025-12-29,real,2
 2025-12-29,red,2
 2025-12-29,resolutions,6
 2025-12-29,runway,2
-2025-12-29,shoes,4
+2025-12-29,shoes,2
+2025-12-29,skirts,2
 2025-12-29,spring,4
-2025-12-29,style,8
-2025-12-29,style trends,4
+2025-12-29,style,10
+2025-12-29,style trends,6
+2025-12-29,style trends biggest,3
 2025-12-29,styles,2
 2025-12-29,stylist,6
 2025-12-29,sweeney,4
@@ -139,14 +143,16 @@ period,Term,Count
 2025-12-29,sydney sweeney,4
 2025-12-29,teen,6
 2025-12-29,times,4
-2025-12-29,trend,18
+2025-12-29,trend,20
 2025-12-29,trend celebrities,4
 2025-12-29,trend predictions,4
-2025-12-29,trends,28
+2025-12-29,trends,30
+2025-12-29,trends biggest,3
+2025-12-29,trends biggest style,3
 2025-12-29,trends wearing,2
 2025-12-29,vogue,14
 2025-12-29,vogue editors,4
-2025-12-29,wear,10
+2025-12-29,wear,12
 2025-12-29,wearing,4
 2025-12-29,wedding,2
 2025-12-29,weird,4
@@ -154,27 +160,21 @@ period,Term,Count
 2025-12-29,winter fashion,2
 2025-12-29,winter fashion trends,2
 2025-12-29,women,2
+2025-12-29,year,2
 2026-01-05,australia,2
 2026-01-05,bazaar,2
 2026-01-05,biggest,2
 2026-01-05,biggest trends,2
 2026-01-05,bold,4
-2026-01-05,bright,4
-2026-01-05,claire,2
 2026-01-05,colour,2
 2026-01-05,dated,2
-2026-01-05,fashion,20
-2026-01-05,fashion trend,4
+2026-01-05,fashion,18
+2026-01-05,fashion trend,2
 2026-01-05,fashion trends,12
 2026-01-05,global,2
-2026-01-05,globes,6
-2026-01-05,golden,6
-2026-01-05,golden globes,6
 2026-01-05,harper,2
 2026-01-05,harper bazaar,2
-2026-01-05,hottest,4
-2026-01-05,hottest fashion,4
-2026-01-05,hottest fashion trend,4
+2026-01-05,instyle,2
 2026-01-05,jackets,2
 2026-01-05,jeans,2
 2026-01-05,just,2
@@ -184,20 +184,20 @@ period,Term,Count
 2026-01-05,look,2
 2026-01-05,low,2
 2026-01-05,make,2
-2026-01-05,marie,2
-2026-01-05,marie claire,2
-2026-01-05,night,4
 2026-01-05,pinterest,4
 2026-01-05,predictions,4
 2026-01-05,run,4
 2026-01-05,runway,2
+2026-01-05,start,2
 2026-01-05,streetwear,6
-2026-01-05,style,2
+2026-01-05,style,4
 2026-01-05,styles,2
-2026-01-05,trend,10
+2026-01-05,trend,8
 2026-01-05,trend predictions,2
 2026-01-05,trends,16
+2026-01-05,trends wearing,2
 2026-01-05,wear,8
+2026-01-05,wearing,2
 2026-01-12,actually,4
 2026-01-12,beauty,4
 2026-01-12,best,2
@@ -207,7 +207,7 @@ period,Term,Count
 2026-01-12,biggest fashion trend,4
 2026-01-12,biggest trends,2
 2026-01-12,black,1
-2026-01-12,brand,2
+2026-01-12,brand,1
 2026-01-12,caps,1
 2026-01-12,casual,1
 2026-01-12,celebrities,2
@@ -244,7 +244,6 @@ period,Term,Count
 2026-01-12,jackets,2
 2026-01-12,jeans,11
 2026-01-12,latest,1
-2026-01-12,left,1
 2026-01-12,like,8
 2026-01-12,live,4
 2026-01-12,long,1
@@ -257,10 +256,9 @@ period,Term,Count
 2026-01-12,man,3
 2026-01-12,maximalism,4
 2026-01-12,media,1
-2026-01-12,men,16
+2026-01-12,men,15
 2026-01-12,modern,2
 2026-01-12,new,6
-2026-01-12,night,2
 2026-01-12,office,4
 2026-01-12,officiel,4
 2026-01-12,officiel usa,4
@@ -269,8 +267,8 @@ period,Term,Count
 2026-01-12,people,7
 2026-01-12,quiet,4
 2026-01-12,real,1
+2026-01-12,relationship,2
 2026-01-12,report,2
-2026-01-12,runway,1
 2026-01-12,season,2
 2026-01-12,set,3
 2026-01-12,shirt,2
@@ -287,7 +285,7 @@ period,Term,Count
 2026-01-12,style,6
 2026-01-12,styles,2
 2026-01-12,stylist,2
-2026-01-12,thing,4
+2026-01-12,thing,2
 2026-01-12,time,1
 2026-01-12,times,1
 2026-01-12,trend,23
@@ -296,6 +294,7 @@ period,Term,Count
 2026-01-12,trousers,2
 2026-01-12,updates,4
 2026-01-12,usa,4
+2026-01-12,want,2
 2026-01-12,wardrobe,4
 2026-01-12,wear,18
 2026-01-12,wearing,4
@@ -319,8 +318,7 @@ period,Term,Count
 2026-01-19,biggest style,2
 2026-01-19,black,7
 2026-01-19,bold,2
-2026-01-19,brand,4
-2026-01-19,bright,2
+2026-01-19,brand,5
 2026-01-19,brown,5
 2026-01-19,caps,2
 2026-01-19,casual,5
@@ -328,9 +326,6 @@ period,Term,Count
 2026-01-19,celebrity,2
 2026-01-19,china,6
 2026-01-19,claire,14
-2026-01-19,clearly,6
-2026-01-19,clearly invincible,6
-2026-01-19,clearly invincible launches,6
 2026-01-19,clothes,5
 2026-01-19,clothing,5
 2026-01-19,clothing items,4
@@ -388,9 +383,6 @@ period,Term,Count
 2026-01-19,inspired,5
 2026-01-19,instead,4
 2026-01-19,instyle,6
-2026-01-19,invincible,6
-2026-01-19,invincible launches,6
-2026-01-19,invincible launches lagos,6
 2026-01-19,items,4
 2026-01-19,items shirts,4
 2026-01-19,items shirts trousers,4
@@ -406,13 +398,9 @@ period,Term,Count
 2026-01-19,key spring,6
 2026-01-19,key spring summer,6
 2026-01-19,know,3
-2026-01-19,lagos,6
-2026-01-19,lagos fashion,6
 2026-01-19,latest,6
-2026-01-19,launches,6
-2026-01-19,launches lagos,6
-2026-01-19,launches lagos fashion,6
-2026-01-19,left,3
+2026-01-19,left,4
+2026-01-19,life,6
 2026-01-19,like,6
 2026-01-19,live,1
 2026-01-19,long,7
@@ -422,27 +410,27 @@ period,Term,Count
 2026-01-19,loose,2
 2026-01-19,love,7
 2026-01-19,luxury,4
-2026-01-19,magazine,6
+2026-01-19,magazine,7
 2026-01-19,make,4
-2026-01-19,man,2
+2026-01-19,man,11
 2026-01-19,marie,14
 2026-01-19,marie claire,14
 2026-01-19,media,2
-2026-01-19,men,34
+2026-01-19,men,36
 2026-01-19,men fashion,12
 2026-01-19,men fashion style,4
 2026-01-19,men omens,4
 2026-01-19,men omens product,4
 2026-01-19,mensfashion,10
 2026-01-19,modern,5
-2026-01-19,new,23
+2026-01-19,new,24
 2026-01-19,news,2
 2026-01-19,nostalgia,6
 2026-01-19,obsessed,6
 2026-01-19,office,2
 2026-01-19,officiel,2
 2026-01-19,officiel usa,2
-2026-01-19,old,5
+2026-01-19,old,8
 2026-01-19,omens,4
 2026-01-19,omens product,4
 2026-01-19,omens product range,4
@@ -450,7 +438,7 @@ period,Term,Count
 2026-01-19,outfit,12
 2026-01-19,outfits,7
 2026-01-19,paris,2
-2026-01-19,party,2
+2026-01-19,party,4
 2026-01-19,people,3
 2026-01-19,print,6
 2026-01-19,product,4
@@ -462,14 +450,15 @@ period,Term,Count
 2026-01-19,range includes wide,4
 2026-01-19,real,1
 2026-01-19,red,8
-2026-01-19,report,10
+2026-01-19,relationship,1
+2026-01-19,report,8
 2026-01-19,revival,6
 2026-01-19,rihanna,6
 2026-01-19,rkymart,4
 2026-01-19,rkymart unique,4
 2026-01-19,rkymart unique collection,4
 2026-01-19,run,2
-2026-01-19,runway,2
+2026-01-19,runway,3
 2026-01-19,season,10
 2026-01-19,set,6
 2026-01-19,shirt,6
@@ -497,7 +486,7 @@ period,Term,Count
 2026-01-19,street,12
 2026-01-19,street fashion,6
 2026-01-19,streetwear,18
-2026-01-19,style,33
+2026-01-19,style,31
 2026-01-19,styles,6
 2026-01-19,styling,3
 2026-01-19,stylish,7
@@ -509,13 +498,15 @@ period,Term,Count
 2026-01-19,summer,9
 2026-01-19,summer fashion,7
 2026-01-19,summer fashion trends,6
+2026-01-19,thing,2
 2026-01-19,tiger,6
 2026-01-19,tiger print,6
 2026-01-19,time,3
+2026-01-19,times,1
 2026-01-19,tips,3
-2026-01-19,trend,41
+2026-01-19,trend,39
 2026-01-19,trend celebrities,2
-2026-01-19,trend report,8
+2026-01-19,trend report,6
 2026-01-19,trending,21
 2026-01-19,trending fashiontrends,7
 2026-01-19,trendingshorts,8
@@ -542,8 +533,9 @@ period,Term,Count
 2026-01-19,videos,3
 2026-01-19,viral,21
 2026-01-19,vlog,5
-2026-01-19,vogue,2
+2026-01-19,vogue,4
 2026-01-19,walk,3
+2026-01-19,want,2
 2026-01-19,wardrobe,5
 2026-01-19,warm,5
 2026-01-19,wear,29
@@ -562,5 +554,5 @@ period,Term,Count
 2026-01-19,woman,6
 2026-01-19,women,20
 2026-01-19,women fashion,4
-2026-01-19,year,6
+2026-01-19,year,9
 2026-01-19,youtubeshorts,12
