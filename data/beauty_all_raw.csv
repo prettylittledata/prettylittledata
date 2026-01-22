@@ -1,4 +1,536 @@
 source,domain,url,created_utc,title,text,query
+rss,www.refinery29.com,https://www.refinery29.com/en-us/best-beauty-products-2026-innovator-awards?utm_source=feed&utm_medium=rss,1769089727,The Very Best Beauty Products Worth Your Money In 2026,"The Very Best Beauty Products Worth Your Money In 2026
+
+</div>
+
+
+
+<!-- Basic custom styles with image or video openers (v5.1 - May 30, 2024) -->
+
+<!-- Adobe Font -->
+
+
+
+
+
+
+
+
+	const hasVideo = true;
+
+	const posterDesktop = ""https://www.refinery29.com/images/11954650.jpg"";
+	const posterMobile = ""https://www.refinery29.com/images/11954711.jpg"";
+
+	const videoDesktop = ""http://studio-assets.rf29.net/Editorial/Beauty-Innovator-Awards-2026/bia-2026-hero-desktop.mp4"";
+	const videoMobile = ""http://studio-assets.rf29.net/Editorial/Beauty-Innovator-Awards-2026/bia-2026-hero-mobile.mp4"";
+
+	const videoAlt = """";
+
+	const overlayDesktop = """";
+	const overlayMobile = ""<img src=""https://www.refinery29.com/images/11954710.png"" />"";
+
+	function BiaSetup() {
+
+		// Set ID
+		let a = document.querySelectorAll("".opener"");
+		a[0].setAttribute(""id"",""hero"");
+
+		// Insert video
+		let vd = ""<div class=""hero-set-desktop""><video class=""hero-desktop"" height=""100%"" loop=""loop"" poster=""https://www.refinery29.com/en-us/&quot; + posterDesktop + &quot;"" width=""100%""></video>"" + overlayDesktop + ""</div>"";
+
+		let md = ""<div class=""hero-set-mobile""><video class=""hero-mobile"" height=""100%"" loop=""loop"" poster=""https://www.refinery29.com/en-us/&quot; + posterMobile + &quot;"" width=""100%""></video>"" + overlayMobile + ""</div>"";
+
+		let b = ""<div>"" + vd + md + ""</div>"";
+		let c = document.querySelectorAll("".full-width-opener"");
+		c[0].innerHTML = b;
+
+	}
+
+	function BiaResize() {
+
+	}
+
+	function BiaInit() {
+
+		// Setup Hero Video
+		BiaSetup();
+
+		// If browser resize, recheck if carousels need centering and arrows
+		window.onresize = function() {
+			BiaResize();
+	    };
+
+	}
+
+	const BiaWait = setTimeout(function() { 
+
+		clearTimeout(BiaWait);
+
+		let a = document.querySelectorAll("".opener"")[0].id;
+
+		if (a != ""hero"") {
+			if (hasVideo) {
+				BiaInit();
+			}
+		}
+
+	}, 500);
+
+
+
+
+
+
+
+	
+
+		.opener .full-width-opener .content {
+		    display: block !important;
+		}
+
+	
+
+
+
+<div class=""r29-custom-embed"" id=""tmp-load""><img src=""https://i0.wp.com/www.refinery29.com/file/12230/load-image.png?ssl=1"" /></div>
+
+<!-- Basic custom styles with image or video openers (v5.1 - May 30, 2024) -->
+
+
+
+<p>We’ve never been very good at keeping secrets on the R29 beauty team. If anything, oversharing is our forte. That’s why, every year, we bring you the <a href=""https://www.refinery29.com/en-us/beauty-awards"">Beauty Innovator Awards</a>: a comprehensive edit of the products that genuinely improved our routines, earned us countless compliments, or simply made us feel really good. That’s the power of beauty, right? To transform the everyday. </p>
+
+
+
+<p>This year, we’re doing things a little differently. For starters, our typically end-of-year roundup is here in January — and for good reason. True to our thorough approach, we’ve spent the entirety of 2025 swatching, testing, and using the newest launches down to the very last drop, separating the standouts from the so-so. </p>
+
+
+
+<p>Whether your <a href=""https://www.refinery29.com/en-us/citric-acid-skincare-benefits"">skincare routine</a> needs a reset or you’re searching for a new <a href=""https://www.refinery29.com/en-us/how-to-find-signature-scent-fragrance"">signature scent</a>, we’ve got you covered. Ahead, find all of the best beauty products worth your money this year, hand-picked by our beauty team — because gatekeeping isn’t welcome in 2026. </p>
+
+
+
+<div>DashDividers_1_500x100</div>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fparadise-big-deal-volumizing-lengthening-washable-mascara-pimprod2049085%3Fsku%3D2633453"" rel=""noreferrer noopener"" target=""_blank"">L’Oréal Paris Big Deal Mascara</a> </h3>
+
+
+
+<!-- LOreal-Paris-Big-Deal-Mascara -->
+<div>
+	<div class=""bia-video-clip"">
+		<video controls="""" height=""100%"" poster=""https://www.refinery29.com/images/11955653.jpg"" width=""100%"">
+			
+		</video>
+	</div>
+</div>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954302.jpg?width=683&amp;height=1024&amp;fit=bounds&amp;crop=683%3A1024"" /></figure>
+
+
+
+<p>“Every January, L’Oréal unveils a mascara to rival the previous year’s, and I’m convinced it’s impossible to beat the last one — but I’m always proven wrong. Big Deal is a serious upgrade on the Panorama Mascara, which scooped the top spot in <a href=""https://www.refinery29.com/en-us/best-beauty-products-2024-innovator-awards"">2024’s Beauty Innovator Awards roundup</a>, and I’ve barely gone a day without it. Most mascaras are too wet on the first swipe, but this one is perfect from the get-go. The springy, conic brush boasts two types of bristles to capture and thicken lashes in one swipe, and you’ll be pleasantly surprised by how easily it slips on. Just like its predecessor, it stays put until you decide to remove it at the end of the day. Smudges? Where?!” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fdanessamyricksbeauty.com%2Fproducts%2Fyummy-skin-liquid-blurring-balm-setting-spray%3Fvariant%3D50000476504311"" rel=""noreferrer noopener"" target=""_blank"">Danessa Myricks Beauty Yummy Skin Blurring Balm Powder Setting Spray</a></h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11955389.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“Everything Danessa Myricks makes is pro-level; every makeup artist I know swears by her products for their true innovation and multitasking power. This setting spray locks makeup in <em>and</em> blurs skin in a way I haven’t experienced before. It’s like a real-life filter.” — <em>Brooke DeVard, chief content officer</em>.</p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fgloss-absolu-glaze-drops-high-shine-hair-oil-P515649"" rel=""noreferrer noopener"" target=""_blank"">Kérastase Gloss Absolu Glaze Drops Hair Oil</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954303.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“My bathroom cabinet is lined with oils promising growth, shine, and 101 other benefits, but this is the one I always come back to — and the only oil I actually finished last year. I run a quarter of a pipette through towel-dried hair before blow-drying, and it leaves my hair shinier, softer, and healthier, without even a hint of heaviness. That’s thanks to glycolic acid, which smooths the hair cuticle to reduce frizz, plus hydrating hyaluronic acid suspended in a nourishing yet lightweight oil base. When I skip it, I really notice the difference. Even better, the subtle rose and sandalwood notes mean it doubles as a hair perfume.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fheatbounce-leave-in-conditioner-heat-protectant-P517767"" rel=""noreferrer noopener"" target=""_blank"">K18 HeatBounce Leave-In Conditioner Heat Protectant</a></h2>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954305.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I’ve never met a heat protectant that didn’t make my hair feel greasy and look dull — until this. While it’s deeply conditioning thanks to a blend of plant oils and strand-strengthening proteins, it offers lightweight heat protection up to an impressive 450°F. I use it knowing it shields my hair from my flat iron without ever weighing it down, even if I accidentally apply too much. I recently gave a bottle to my mom, who has very dry, bleached blonde hair and usually relies on Olaplex, and she hasn’t stopped raving about how soft it leaves her hair — and how much easier it is to style. She’s a total convert.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fthe-inkey-list-hydrating-cream-to-milk-cleanser-with-hyaluronic-acid-P517061"" rel=""noreferrer noopener"" target=""_blank"">The Inkey List Hydrating Cream to Milk Cleanser</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954309.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“This no-frills cleanser is the skincare product I bought most in 2025. It feels like a lightweight lotion but transforms on contact with water into a silky milk that dislodges mascara and melts foundation, all without leaving skin feeling stripped or tight. The star ingredient is 5% rice milk, a key component in many dew-giving Korean skincare products, along with hydrating hyaluronic acid and ultra-moisturizing glycerin. It does the job of an expensive cleanser at a fraction of the price, and it’s so quick I no longer dread washing my face at night. That’s no small feat!” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.violettefr.com%2Fen-gb%2Fproducts%2Fplume-lip-chataigne-grillee%3Fvariant%3D45263732605117"" rel=""noreferrer noopener"" target=""_blank"">Violette_FR Plume Lip</a> </h2>
+
+
+
+<!-- Violette-FR-Plume-Lip -->
+<div>
+	<div class=""bia-video-clip"">
+		<video controls="""" height=""100%"" poster=""https://www.refinery29.com/images/11955759.jpg"" width=""100%"">
+			
+		</video>
+	</div>
+</div>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954308.jpg?width=819&amp;height=1024&amp;fit=bounds&amp;crop=819%3A1024"" /></figure>
+
+
+
+<p>“If you’ve asked me on any given day what lipstick I was wearing last fall, it was almost certainly this one. I usually never wear matte liquid lipsticks, and for a few reasons: Too many of them are uncomfortably dry, go on patchy, or migrate at first bite or sip. I was already a fan of <a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.violettefr.com%2Fproducts%2Fpetal-bouche-amour-fou%3Fvariant%3D43587553755325"">Violette_FR’s iconic Petal Bouche</a> matte liquid lipstick, but its newer addition, Plume Lip, is even better. It has the most incredible whipped texture that effortlessly glides onto lips, and doesn’t feel like dry cement once it sets. I audibly gasped after I swatched the rosy brown Châtaigne Grillée (aka my new go-to for everyday wear) — <em>that’s </em>how stunning she is IRL. Because I’m in my soft girl era, I’m especially loving Plume Lip’s diffused, blurred finish, which is just so pretty and romantic.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Flip-idole-juicytreat-lip-gloss-with-squalane%2F8331098"" rel=""noreferrer noopener"" target=""_blank"">Lancôme JuicyTreat Lip Oil Gloss</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954310.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“Another <a href=""https://www.refinery29.com/en-us/lancome-lip-idole-juicytreat-gloss-review"" rel=""noreferrer noopener"" target=""_blank"">breakout favorite among R29’s beauty editors</a> appeared in the form of Lancôme’s JuicyTreat Lip Oil Gloss, which proved that lightning can indeed strike twice. (This, said by a girl who keeps a Juicy Tubes in every bag.) I’m convinced the magic is in the hydrating, naturally plumping benefits, thanks to the squalane-packed formula. Any gloss can sit atop lips with a shiny finish, but true ‘juiciness’ comes from lips that are soft and nourished, then made even better by gloss. No notes — just more shades in 2026, please!” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fparfums-de-marly-valaya-exclusif-parfum%2F8175673%3F"" rel=""noreferrer noopener"" target=""_blank"">Parfums de Marly Valaya Exlusif</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954321.jpg?width=731&amp;height=1024&amp;fit=bounds&amp;crop=731%3A1024"" /></figure>
+
+
+
+<p>“If you love frangipane desserts, you’ll adore Valaya Exclusif. Fragrance fanatics may already know the original Valaya, but this latest iteration is loaded with almonds for a true marzipan hit. With notes of sandalwood, vanilla, white flowers, and bergamot, it’s creamy, powdery, woody, and utterly delicious. I’ve never smelled anything like it. It’s so beautiful I ration it — even though I want to bathe in it.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fsofie-pavitt-face-omega-rich-moisturizer-P515481"" rel=""noreferrer noopener"" target=""_blank"">Sofie Pavitt Face Omega Rich Moisturizer</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954326.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“Leave it to esthetician (and acne whisperer) <a href=""https://www.refinery29.com/en-us/sofie-pavitt-omega-moisturizer-review"" rel=""noreferrer noopener"" target=""_blank"">Sofie Pavitt</a> to decode the complex predicament of dry, acne-prone skin. The result? A rich, luxurious, <em>non-comedogenic </em>(!) moisturizer packed with omegas-3 and 6 fatty acids, squalane, and jojoba and argan oils that manage to intensely hydrate the skin without causing breakouts. A miracle? No. But maybe? All I know is that it’s more than earned its spot in my skincare routine. I’m already onto my second jar, which is the truest sign that it deserves an accolade.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.charlottetilbury.com%2Fus%2Fproduct%2Funreal-blush-stick-rosy-glow"" rel=""noreferrer noopener"" target=""_blank"">Charlotte Tilbury Unreal Blush Healthy Glow Stick</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954328.jpg?width=901&amp;height=1024&amp;fit=bounds&amp;crop=901%3A1024"" /></figure>
+
+
+
+<p>“I’ve lost count of how many blushes — from pressed powders to creams — landed on my desk in 2025, but this is the only one I used consistently. It’s a chunky product, so you only need a single swipe, and it has a subtle iridescence that makes my skin look alive. When I have to join a last-minute virtual call, it’s the product I reach for to look fresh in seconds. I pop it on my cheeks, lids, and lips, and I’m always impressed by how well it stays put, even though it’s a cream. While it’s packed with moisturizing ingredients, including a handful of oils, it never breaks me out. My favorite shade is Rosy Glow.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fcrown-affair-the-texturizing-air-dry-hair-mousse-P511489"" rel=""noreferrer noopener"" target=""_blank"">Crown Affair The Texturizing Air Dry Hair Mousse</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954330.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I recently donated a foot of my hair, and while I love my new bob, the styling learning curve is real. For days when I don’t feel like using a curling iron to enhance my natural waves, I’ve been using mousse as an easy air-dry hack, and my favorite from recent history is, without a doubt, Crown Affair’s Texturizing Air Dry Mousse. It’s easily the most sophisticated mousse I’ve ever tried, and I’m convinced it’s the closest thing to what clouds must feel like. The weightlessness, airy foam has none of the crunch I knew (and hated) from back in the day, and the soft scent (Crown Affair’s signature blend of bergamot, yuzu, and lemongrass) is clean and refreshing. I finger-comb three or four pumps of the stuff into damp strands and watch as my hair air-dries in soft, tousled waves with just the right amount of bounce.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fscalp-refreshing-spray-pimprod2054143%3Fsku%3D2644817"" rel=""noreferrer noopener"" target=""_blank"">Cécred Scalp Refreshing Spray</a></h2>
+
+
+
+<!-- Cecred-Scalp-Refreshing-Spray -->
+<div>
+	<div class=""bia-video-clip"">
+		<video controls="""" height=""100%"" poster=""https://www.refinery29.com/images/11955654.jpg"" width=""100%"">
+			
+		</video>
+	</div>
+</div>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11955393.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I wear box braids for about half the year, so keeping my scalp feeling good is a must. This spray is incredibly refreshing — peppermint oil and menthol give an instant cool, while honey and ceramides help keep the scalp moisturized and balanced. The nozzle gets right to the scalp, which makes all the difference.” — <em>Brooke DeVard, chief content officer</em>.</p>
+
+
+
+<h2><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Foliveandjune.com%2Fproducts%2Fgel-builder-kit%3Fvariant%3D43726402224170"" rel=""noreferrer noopener"" target=""_blank"">Olive &amp; June Builder Gel Kit</a></h2>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954332.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“<a href=""https://www.refinery29.com/en-us/olive-june-builder-gel-manicure-review"" rel=""noreferrer noopener"" target=""_blank"">Builder gel manicures</a> are a salon staple for good reason, and we have Olive &amp; June to thank for bringing the technology in an easy, user-friendly format that you can do right at home. I’m a reformed anxious nail biter with notoriously brittle nails as a result, and Olive &amp; June’s Builder Gel has been a game-changer for my natural nail journey. Designed in tandem with the brand’s <a href=""https://www.refinery29.com/en-us/olive-june-gel-system-review"" rel=""noreferrer noopener"" target=""_blank"">existing DIY gel system</a>, Olive &amp; June’s Builder Gel polishes (retailing for $12 each) are thicker in texture than traditional gel polish, creating a strong, supportive barrier to help grow your natural nails. My go-to is <a href=""https://oliveandjune.com/products/creme-caramel-builder-gel"" rel=""noreferrer noopener"" target=""_blank"">Crème Caramel</a>, a gorgeous sheer, warm beige, and <a href=""https://oliveandjune.com/collections/gel-builder-polish/products/soft-tint-builder-gel"" rel=""noreferrer noopener"" target=""_blank"">Soft Tint</a>, a your-nails-but-better sheer veil with a hint of sparkle. Plus, you can even use builder gel to create custom nail extensions (with the help of patent-pending foil wraps) to rock longer lengths ASAP.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fhalo-glow-skin-tint-mineral-spf-50-pimprod2052569%3Fsku%3D2639503"" rel=""noreferrer noopener"" target=""_blank"">e.l.f. Halo Glow Skin Tint Mineral SPF 50</a> </h2>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11955601.png?width=853&amp;height=1024&amp;fit=bounds&amp;crop=853%3A1024"" /></figure>
+
+
+
+<p>“Last June, I called this the <a href=""https://www.refinery29.com/en-us/elf-halo-glow-skin-tint-spf-50-review"" rel=""noreferrer noopener"" target=""_blank"">best skin tint</a> for people with olive skin, and I stand by it — I’ve been using it ever since. I’ve tried multiple high-end skin tints and foundations over the past year, but I always come back to this one. It’s more substantial than other tints I’ve tried, yet the coverage is perfect — not too thick, but pigmented enough to blur dark circles and acne marks. It blends in seconds, leaves my skin looking healthy and radiant, <em>and</em> has mineral protection in the form of SPF 50. A pea-sized amount covers my face and neck, and it lasts well into the evening.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<p>“<a href=""https://www.refinery29.com/en-us/best-skin-tint-foundation"" rel=""noreferrer noopener"" target=""_blank"">Skin tints</a> aren’t going anywhere in 2026. <a href=""https://www.refinery29.com/en-us/elf-halo-glow-skin-tint-spf-50-review"" rel=""noreferrer noopener"" target=""_blank"">e.l.f. Cosmetics’ Halo Glow Skin Tint</a> was my go-to for most of last year, besting several formulas (including those double the price) in my extensive collection. Nothing I’ve tried (and I’ve tried what feels like hundreds) compares to its lightweight hydration and sheer veil of coverage. (Added SPF 50 is a welcome bonus, even if it doesn’t replace sunscreen as a separate step — say it with me!) I also want to shoutout the niacinamide and bisabol in the formula, two ingredients that my notoriously breakout-prone skin loves. Anything with ‘glow’ in the name tends not to suit my oily complexion, but Halo Glow actually has a wearable, not greasy, finish that genuinely looks like you don’t have makeup on. Between this and the brand’s beloved <a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fpower-grip-primer-pimprod2030073%3Fsku%3D2591795"" rel=""noreferrer noopener"" target=""_blank"">Power Grip Primer</a> (another personal go-to of mine), I’m racking up e.l.f. faves like Infinity Stones — and don’t plan on slowing down anytime soon.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fchronos-curve-max-wand%2F8494728"" rel=""noreferrer noopener"" target=""_blank"">ghd Chronos Curve Max Wand</a></h2>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954375.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“ghd is my go-to hair tool brand any day of the week, especially its Curve wand, which gives me the loose, S-shape bends of my dreams. Now, it’s bigger and better. Enter: the new Chronos Max Curve, a larger-barrel wand designed to make light work of thick, long hair. Waving hair can feel like a chore, but this lets me take bigger sections and finish in half the time. What I love about ghd tools is that they deliver results without frazzling your hair — they’re capped at 365°F — yet my waves still last, and my hair always looks incredibly shiny.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Frabanne-million-gold-for-her-eau-de-parfum%2F8172876"" rel=""noreferrer noopener"" target=""_blank"">Rabanne Million Gold For Her Parfum</a> </h2>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954333.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“In Paris last August, this scent seemed to follow me everywhere — from the Louvre to Montmartre — and even back to London. It’s become the ultimate European perfume, with people literally chasing strangers to ask what they’re wearing (<a href=""https://www.tiktok.com/@sasscarella/video/7549550575688437006"" rel=""noreferrer noopener"" target=""_blank"">this TikTok alone has 2.8M views</a>). I had to get my hands on a bottle, and I can confirm it’s incredible. It’s equal parts spicy and floral, thanks to creamy jasmine and clean sandalwood, while the ‘solar’ notes make it warm and comforting, like cozying up in your favorite cashmere sweater. Everyone compliments me when I wear it.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.target.com%2Fp%2Fnaturium-phyto-glow-shimmer-lip-balm-0-34-fl-oz%2F-%2FA-94891719%3F"" rel=""noreferrer noopener"" target=""_blank"">Naturium Phyto-Glow Shimmer Lip Balm</a> </h3>
+
+
+
+<!-- Naturium-Shimmer-Lip-Balm -->
+<div>
+	<div class=""bia-video-clip"">
+		<video controls="""" height=""100%"" poster=""https://www.refinery29.com/images/11955652.jpg"" width=""100%"">
+			
+		</video>
+	</div>
+</div>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954331.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“Last week, I left the house without this and had to turn back to get it — even though I was already a 20-minute walk away by the time I realized. That’s how I knew it deserved a Beauty Innovator Award. One swipe delivers a sheer wash of color, and while it feels like a lip gloss at first, it dries down to a comfortable, moisturizing balm that leaves my usually parched lips feeling soothed and soft. That’ll be the shea butter and plant oils. I’m convinced the subtle shimmer makes my lips look more plump. My go-to shade is Galaxy, which leaves behind a hint of blackberry.” <em>— Jacqueline Kilikita, beauty director.</em> </p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fgf-15-serum-visible-skin-repair-wrinkles-pimprod2050414%3Fsku%3D2637073"" rel=""noreferrer noopener"" target=""_blank"">The Ordinary GF 15% Solution</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954334.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“Growth factors — a trendy skincare ingredient that I’m sure will only continue to chart this year — are often associated with triple-digit prices. <a href=""https://www.refinery29.com/en-us/the-ordinary-gf-solution-serum-review"" rel=""noreferrer noopener"" target=""_blank"">The Ordinary’s GF 15% Solution</a> isn’t just a great growth factors serum at its price point ($15.50, BTW), it’s a great growth factor serum, <em>period</em>. From improving the appearance of my rough texture around my chin and jawline to gently smoothing fine lines on my forehead, it’s a runaway hit among my editor and influencer pals — and I have a feeling you’ll love it, too.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2FP515228"" rel=""noreferrer noopener"" target=""_blank"">Color Wow Texas Hold ‘Em Big Hold Hairspray</a></h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954335.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I’ve really put this hairspray through its paces. The first time I used it was before a 10-hour flight that turned into a 24-hour travel day thanks to delays. Even though I slept in it, my waves didn’t budge an inch — so much so that my travel companions were convinced I’d packed a portable curling iron and redone my hair in the airport bathroom. While it delivers a strong hold, there’s no hint of crispiness. Instead, hair stays glossy, flexible, and completely resistant to humidity. Better still, you can brush it out, and it’s like it was never even there. No flakes, no stickiness, nothing.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fkosas.com%2Fproducts%2Fsoulgazer-mascara"" rel=""noreferrer noopener"" target=""_blank"">Kosas Soulgazer Mascara</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954337.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I was a big fan of Kosas’ debut mascara, The Big Clean, which packed lash serum-like ingredients in an inky black, volumizing mascara. And while brands discontinuing a beloved product is usually a good way to ruin my day, Kosas’ sophomore mascara was a rare exception. The brand’s<a href=""https://www.refinery29.com/en-us/kosas-soulgazer-mascara-review"" rel=""noreferrer noopener"" target=""_blank""> Soulgazer Mascara</a> was indeed an improvement in every sense. It retained the serum-grade, conditioning peptides with none of the clumping that some users experienced with The Big Clean. Just fluttery, flake-free lashes that look and feel good. It’s easily my most-used mascara, and I’ve already recommended it to friends, family members, group chat girlies, and anyone else who will listen.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fus.medik8.com%2Fproducts%2Fadvanced-peptide-cream"" rel=""noreferrer noopener"" target=""_blank"">Medik8 Advanced Pro Collagen Moisturiser</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954338.png?width=1024&amp;height=875&amp;fit=bounds&amp;crop=1024%3A875"" /></figure>
+
+
+
+<p>“Call me biased, as I’m a Brit, but UK skincare brand Medik8 really broke the mold with this moisturizer. It’s packed with all the ingredients skin needs to maintain bounce, radiance, and strength. Think peptides that help preserve the skin’s collagen reserves, keeping it soft and supple; polyglutamic acid, which hydrates far more deeply than hyaluronic acid; and growth factors to further support collagen and elastin, the two key proteins that give skin structure and help prevent fine lines. Applying it after cleansing feels like a relief — it eases tightness and leaves skin silky and comfortable.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fcryoglow-under-eye-coolingled-anti-aging-skin-clearing-face-mask-pimprod2050546%3Fsku%3D2631334"" rel=""noreferrer noopener"" target=""_blank"">Shark CryoGlow Under Eye Cooling Face Mask</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954353.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“That’s right: Shark impressed us so much that they are a double-BIA winner this year. In fact, I personally love Shark’s <a href=""https://www.refinery29.com/en-us/shark-beauty-led-face-mask-review"" rel=""noreferrer noopener"" target=""_blank"">CryoGlow LED Face Mask</a> so much that it was the cornerstone of my wedding skin prep leading up to my wedding last May. And while not everything that floods your FYP is as good as everyone says it is, this sleek piece of beauty tech exceeds expectations. The cooling undereye pads offer instant depuffing and soothing benefits, and the programmed treatments (Acne Clearing being my favorite — it’s a mix of blue, red, and infrared LED to <a href=""https://www.refinery29.com/en-us/led-face-mask-red-light-skin-benefits"">reduce breakout-causing bacteria and inflammation</a>) really deliver visible results with consistent use. I used mine every other day religiously for four months leading up to the big day, and my skin had a lit-from-within glow that didn’t require a drop of highlighter. Nearly a year later, it’s a splurge that’s worth every penny.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Frare-eau-de-parfum-P517178"" rel=""noreferrer noopener"" target=""_blank"">Rare Beauty Eau de Parfum</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954376.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“Rare Beauty’s <a href=""https://www.refinery29.com/en-us/rare-beauty-fragrance-review"" rel=""noreferrer noopener"" target=""_blank"">debut perfume</a> was a smash hit, launching, promptly selling out, and repeating. Worn alone, Rare shines all on her own thanks to warm notes of caramel, vanilla, and sandalwood. But when paired with the companion scented layering balms — your choice of Fresh, Amber, Floral, and Woody — the fragrance truly becomes your own. I’m partial to the Amber balm (which you can also wear on its own). It enhances the gourmand notes of Rare’s EDP for a result that’s sultry and sweet, but not saccharine.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://www.amazon.com/Olay-Hydrating-Renewing-Exfoliating-Minerals/dp/B0DMPTW4F7?th=1"" rel=""noreferrer noopener"" target=""_blank"">Olay Super Serum Body Wash for Rough &amp; Bumpy Skin</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954355.jpg?width=930&amp;height=1024&amp;fit=bounds&amp;crop=465%3A512"" /></figure>
+
+
+
+<p>“I finished this body wash months ago, and I’m still thinking about it. While its main job is to cleanse, the added ingredients make it feel like a treatment. Glycolic acid (an AHA) gently exfoliates and helps fade the marks left by body breakouts, while salicylic acid (a BHA) prevents clogged pores from forming in the first place. Despite a satisfying lather, it’s deeply moisturizing thanks to shea butter and glycerin — I often skipped body lotion altogether. Bonus: the bottle is huge and lasts forever.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h2><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.igkhair.com%2Fproducts%2Fgood-behavior-flexible-anti-frizz-hairspray"" rel=""noreferrer noopener"" target=""_blank"">IGK Good Behavior Flexible Anti Frizz Hairspray</a> </h2>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954356.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I am notoriously low maintenance when it comes to hair products: Literally, I’m a shampoo, condition, <em>maybe </em>a hair oil once I’m out of the shower, and that’s it. IGK’s original Good Behavior Smoothing Spray is one of the rare stylers I actually use — nothing else has compared to its keratin treatment-like properties on my thick, frizz-prone waves. The latest addition to the Good Behavior cinematic universe — Good Behavior Flexible Anti Frizz Hairspray — combines the smoothing, multi-day frizz shield of the OG with the flexible, touchable hold that’s nothing like the sticky, stiff hairspray of yore. In other words, it’s my dream product for light hold and frizz-fighting, shine-enhancing benefits. Whatever 2026 brings, I know my hair is going to be ready for it all, thanks to this multitasker.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fmulti-antioxidant-radiance-serum-with-vitamin-c-P516231"" rel=""noreferrer noopener"" target=""_blank"">The Ordinary Multi-Antioxidant Radiance Serum</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954357.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“This is the serum that convinced me to <a href=""https://www.refinery29.com/en-us/the-ordinary-multi-antioxidant-radiance-serum-review"" rel=""noreferrer noopener"" target=""_blank"">ditch foundation</a> for a while — it’s that good. It’s filled to bursting with antioxidants, which create a forcefield around the skin, protecting it from environmental aggressors like pollution and UV, which can dull, clog, and age skin. The star ingredient is ascorbyl glycoside, a gentler form of vitamin C that brightens without irritation. It absorbs in seconds and gives my skin a dewy radiance unlike any other serum I’ve tried. The best part? It doesn’t break the bank.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fziipbeauty.com%2Fproducts%2Fziip-dot-blemish-treatment-device%3Fvariant%3D41052541878357"" rel=""noreferrer noopener"" target=""_blank"">ZIIP Dot</a> </h3>
+
+
+
+<!-- ZIIP-Dot -->
+<div>
+	<div class=""bia-video-clip"">
+		<video controls="""" height=""100%"" poster=""https://www.refinery29.com/images/11955760.jpg"" width=""100%"">
+			
+		</video>
+	</div>
+</div>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954361.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“I’ve been a ZIIP devotee ever since getting a facial from founder Melanie Simon several years ago; I’ll never forget seeing my skin visibly lifted and brighter after one session with her, and continued to use the brand’s hero product, the Halo, to help tone facial muscles, address uneven tone, and treat breakouts — that’s right, it does it all, thanks to the power of nano- and microcurrent. <a href=""https://www.refinery29.com/en-us/ziip-dot-review"" rel=""noreferrer noopener"" target=""_blank"">ZIIP’s latest device, the Dot</a>, brings the same technology in a palm-sized, acne-focused tool that retails for half of the Halo. Within weeks of regular use (I alternate every other day), I noticed fewer acne and clogged pores, and brighter, more radiant skin to boot. (I’ve found that it’s especially effective at targeting cystic acne, which is notoriously hard to treat with topicals alone.) All in all, if you’re looking to boost your acne skincare routine, I can’t think of a better addition to your arsenal.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Ftatcha-dewy-milk-moisturizer-P516940"" rel=""noreferrer noopener"" target=""_blank"">Tatcha Dewy Milk Moisturizer</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954363.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“When this launched, it was the <a href=""https://www.refinery29.com/en-us/tatcha-dewy-milk-moisturizer-review"" rel=""noreferrer noopener"" target=""_blank"">talk of our editor Slack channel</a>. I love Tatcha’s original Dewy Moisturizer, but my skin adores this lightweight version even more — so much so that I’ve gone through two bottles in the past year. That’s saying something considering how many moisturizers I need to try for my job. While it’s thinner than its original counterpart, it still delivers a hydrating punch. And the dew? Unrivaled. My skin feels happier and healthier for using it — fewer breakouts and fine lines, better radiance, and a perfect base for makeup. It isn’t greasy or sticky and feels comfortably moisturizing.” <em>— Jacqueline Kilikita, beauty director.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fsoleil-neige-eau-de-parfum-pimprod2056504%3Fsku%3D2648695"" rel=""noreferrer noopener"" target=""_blank"">Tom Ford Soleil Neige Eau de Parfum</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954364.png?width=1024&amp;height=986&amp;fit=bounds&amp;crop=512%3A493"" /></figure>
+
+
+
+<p>“I loved this fragrance so much that I wore it on my wedding day last year. (It is now stored in a cool, dark room so I can treasure it forever.) The crisp mix of citrus, white florals, and musk is undeniably romantic, but not super girly or feminine. At first spritz, the bright bergamot and orange blossom are invigorating and clean, but as the scent dries down, I pick up on the lingering floral notes left behind. (This is also a scent that will stay for hours, from getting-ready to dancing the night away.) As the name suggests, it’s an olfactive interpretation of snowy slopes and the cozy appeal of <em>après-ski </em>— fitting as we said ‘I do’ at our favorite ski mountain.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+
+
+
+<h3><a href=""https://go.skimresources.com/?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fshark-glam-hot-tool-air-styling-drying-system-pimprod2055015"" rel=""noreferrer noopener"" target=""_blank"">Shark Glam Hot Tool Air Styling &amp; Drying System</a> </h3>
+
+
+
+<figure><img src=""https://www.refinery29.com/images/11954369.jpg?width=1024&amp;height=1024&amp;fit=bounds&amp;crop=1%3A1"" /></figure>
+
+
+
+<p>“ICYMI, Shark has been absolutely crushing it in the beauty tool space, and its latest hair innovation is no exception. Meet Shark Glam, which combines the same wet-to-dry technology you loved from <a href=""https://www.refinery29.com/en-us/shark-flexfusion-styler-review"" rel=""noreferrer noopener"" target=""_blank"">the FlexFusion</a> with faster dry time, shinier results, and less heat damage than its predecessor. Myriad attachments — including curling barrels, smoothing brushes, and a straightener — grant you endless style possibilities. I’m a fan of the Glossi brush attachment, which takes damp, clean hair to smooth and bouncy in a matter of passes.” <em>— Karina Hoshikawa, senior beauty writer.</em></p>
+<p><strong>Like what you see? How about some more R29 goodness, right here?</strong></p>",
 rss,www.refinery29.com,https://www.refinery29.com/en-us/best-moisturizer-for-dry-skin?utm_source=feed&utm_medium=rss,1769023800,The Best Moisturizers To Quench Thirsty Dry Skin,"The Best Moisturizers To Quench Thirsty Dry Skin
 
 <figure><img height=""900"" src=""http://s1.r29static.com/bin/2/1a7//1200x900,100/2073019/image.jpg"" width=""1200"" /></figure>It may not be as trendy as the latest PDRN serum or sleek gadget, but if there's one skincare step that's giving workhorse vibes, it's definitely <a href=""https://www.refinery29.com/en-us/best-moisturizer-for-sensitive-skin"">moisturizer</a>. From shielding skin from dry, cold weather to strengthening the skin barrier, proper hydration and moisture (which are two different things, both important: In layman's terms, hydration is more surface-level, lending an immediate softening, plumping effect to skin, while moisturizing locks in hydration via oils/butters to prevent evaporation.) is an essential step in your routine, and one worth investing in.<br /><br />I personally learned (the hard way, might I add) that neglecting moisturizer is honestly, one of the worst things you can do to your skin. As an acne-prone gal, I spent more years than I'd care to admit robbing my face of hydration in the hopes it would curb my breakouts, when in reality, it only exacerbated them since my sebum production skyrocketed as a result of dehydration.<br /><br />As beauty editors, we test hundreds of moisturizers a year, and as such, know a thing or two about the ones that actually work and the ones worth skipping. Ahead, the 12 best moisturizers for dry skin that really quenched our thirst.<br /><br /><em>At Refinery29, we’re here to help you navigate this overwhelming world of stuff. All of our market picks are independently selected and curated by the editorial team. If you buy something we link to on our site, Refinery29 may earn commission.</em><figure><img height=""773"" src=""https://www.refinery29.com/images/11955690.jpg?auto=webp&amp;width=1000&amp;height=773&amp;quality=85&amp;crop=1000:773"" width=""1000"" /><figcaption><h2>Bubble Skincare Soft Swerve Barrier Restore Balm<br /></h2><br /><br />“This is no ordinary dry-skin moisturizer. For starters, it’s thick — probably the most dense I’ve tried. But it delivers instant, long-lasting relief for very dry, flaky skin, with results that last for hours. When I use it at night, I wake up to skin that looks and feels brand new. That’s thanks to squalane, a humectant that draws moisture into the skin, alongside skin-smoothing ceramides, hydrating niacinamide and cholesterol — a natural lipid that helps repair and maintain the skin barrier, keeping moisture in and bacteria out. The most interesting thing about this moisturizer, though, is the way it dispenses: it comes out like whipped cream. It’s so satisfying and fun to use — which dry skin definitely isn’t.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>Bubble Skincare</strong> Soft Swerve Barrier Restore Balm, $, available at <a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fsoft-swerve-barrier-restore-balm-pimprod2056176%3Fsku%3D2649406"">Ulta</a></figcaption></figure><figure><img height=""1080"" src=""https://www.refinery29.com/images/11953333.png?auto=webp&amp;width=1080&amp;height=1080&amp;quality=85&amp;crop=1:1"" width=""1080"" /><figcaption><h2>The Ordinary Natural Moisturizing Factors + PhytoCeramides Rich Moisturizer</h2><br />“When I need intense, long-lasting moisture during the driest of cold, arid weather, this is what I reach for every time. It's thick, but not greasy, which I know sounds impossible — but not for The Ordinary. Plus, the ceramides work wonders to support a healthy, happy skin barrier.” <em>— Karina Hoshikawa, senior writer.</em><br /><br /><strong>The Ordinary</strong> Natural Moisturizing Factors Rich Moisturizer, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fnatural-moisturizing-factors-phytoceramides-rich-moisturizer-pimprod2037765%3Fsku%3D2606219"">Ulta Beauty</a></figcaption></figure><figure><img height=""1918"" src=""https://www.refinery29.com/images/11953779.png?auto=webp&amp;width=1534&amp;height=1918&amp;quality=85&amp;crop=767:959"" width=""1534"" /><figcaption><h2>U Beauty The Super Hydrator<br /></h2> <br />“If you’re going to invest in a high-end moisturizer, make it this one. In winter, cleansing my skin can leave it feeling so tight and rough it’s as though it might crack, but when I use this consistently, that never happens. U Beauty promises hydration for up to 48 hours, and it’s all down to five sizes of hyaluronic acid molecules that hydrate every layer of the skin. It doesn’t stop there, though. Skin-strengthening peptides and smoothing shea butter support repair and deliver deep moisturization. Two pumps is enough to cover the entire face, and while it takes a moment to absorb, the glow is truly unrivaled.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>U Beauty</strong> The SUPER Hydrator, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fubeauty.com%2Fproducts%2Fthe-super-hydrator%3Fvariant%3D32599731994724"">U Beauty</a></figcaption></figure><figure><img height=""1400"" src=""https://www.refinery29.com/images/11952397.jpg?auto=webp&amp;width=1400&amp;height=1400&amp;quality=85&amp;crop=1:1"" width=""1400"" /><figcaption><h2>The Inkey List Bio-Active Ceramide Repairing and Plumping Moisturizer<br /></h2><br />“When freezing temperatures and icy winds make my skin feel like it’s about to fall off, I turn to this. Applying it feels like instant relief, thanks to a trifecta of moisturizing, hydrating ingredients. First up are ceramides, which act like glue between skin cells, keeping skin soft and healthy rather than rough and flaky. Then there’s shea butter, which dermatologists praise for its deeply moisturizing properties, alongside glycerin. Glycerin is both a humectant  (meaning it draws moisture into the skin) and an emollient, helping to keep that moisture locked in. Even though it’s a souped-up moisturizer, it never breaks me out. I must be on my fifth tub by now.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>The Inkey List</strong> Bio-Active Ceramide Repairing and Plumping Moisturizer, $, available at <a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fthe-inkey-list-bio-active-ceramide-repairing-plumping-moisturizer-P509315"">Sephora</a></figcaption></figure><figure><img height=""1080"" src=""https://www.refinery29.com/images/11953304.png?auto=webp&amp;width=1080&amp;height=1080&amp;quality=85&amp;crop=1:1"" width=""1080"" /><figcaption><h2>Beekman 1802 Bloom Cream Daily Moisturizer</h2><br />“This everyday moisturizer is the GOAT — no, really: It's made with goat milk, niacinamide, and botanical extracts to quench dryness and promote radiant, glowing skin.” <em>— Karina Hoshikawa, senior writer.</em><br /><br /><strong>Beekman 1802</strong> Bloom Cream Daily Moisturizer, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fbloom-cream-daily-moisturizer-pimprod2017582%3Fsku%3D2569244"">Ulta Beauty</a></figcaption></figure><figure><img height=""1426"" src=""https://www.refinery29.com/images/11953785.png?auto=webp&amp;width=1426&amp;height=1426&amp;quality=85&amp;crop=1:1"" width=""1426"" /><figcaption><h2>First Aid Beauty Ultra Repair® Cream Intense Hydration <br /></h2><br />“For very dry skin, it has to be First Aid’s Ultra Repair Cream. It feels like wrapping your skin in silk, instantly calming thanks to oatmeal and allantoin. If I’ve overdone it on the Differin, this is the only thing that helps repair my skin barrier. But don’t just take my word for it — its five-star reviews speak volumes, with users praising the comforting whipped texture, its ability to soothe even eczema, and the fact that it contains no added fragrance or perfume, so it won’t aggravate sensitive skin.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>First Aid Beauty</strong> Ultra Repair Cream Intense Hydration, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.firstaidbeauty.com%2Fproducts%2Fultra-repair-cream-intense-hydration-new%3Fvariant%3D52718779695472"">First Aid Beauty</a></figcaption></figure><figure><img height=""1400"" src=""https://www.refinery29.com/images/11952985.png?auto=webp&amp;width=1400&amp;height=1400&amp;quality=85&amp;crop=1:1"" width=""1400"" /><figcaption><h2>Sofie Pavitt Face Omega Rich Moisturizer</h2><br />“If you're dry and acne-prone, I truly cannot recommend a better moisturizer than <a href=""https://www.refinery29.com/en-us/sofie-pavitt-omega-moisturizer-review"">Sofie Pavitt's Omega Rich Moisturizer</a>. The texture is divine — silky, creamy, but not heavy or greasy — and my skin drinks the stuff right up.” <em>— Karina Hoshikawa, senior writer.</em><br /><br /><strong>Sofie Pavitt Face</strong> Omega Rich Moisturizer, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fsofie-pavitt-face-omega-rich-moisturizer-P515481"">Sephora</a></figcaption></figure><figure><img height=""1000"" src=""https://www.refinery29.com/images/11753933.png?auto=webp&amp;width=1000&amp;height=1000&amp;quality=85&amp;crop=1:1"" width=""1000"" /><figcaption><h2>Aestura ATOBARRIER365 Cream Moisturizer with Ceramides &amp; Niacinamide for Skin Moisture Barrier Repair<br /></h2><br />“I’ve used Aestura’s Autobarrier Cream down to the last drop multiple times—it’s that good. Beneath the simple packaging, it feels and performs just like a high-end moisturizer. I’d expect nothing less — it’s Korean, after all. This cream cocoons dry, dehydrated, and sensitive skin with ceramides, which act like scaffolding to reinforce the skin barrier without leaving a greasy residue. Fatty acids and glycerin mimic the skin’s natural moisturizing lipids, topping up hydration where it’s needed most. For best results, use it morning and night.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>Aestura</strong> Atobarrier 365 Cream, $, available at <a href=""https://go.skimresources.com?id=30283X879131&amp;xs=1&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fatobarrier365-cream-with-ceramides-niacinamide-for-skin-moisture-barrier-repair-P515494%3FskuId%3D2844942"">Sephora</a></figcaption></figure><figure><img height=""1080"" src=""https://www.refinery29.com/images/11953327.png?auto=webp&amp;width=1080&amp;height=1080&amp;quality=85&amp;crop=1:1"" width=""1080"" /><figcaption><h2>La Roche-Posay Toleriane Double Repair Face Moisturizer with Niacinamide</h2><br />“Another excellent formula available at most drugstores is La Roche-Posay's soothing moisturizer, which counts ceramides, thermal water, and niacinamide among its powerhouse ingredients.” <em>— Karina Hoshikawa, senior writer.</em><br /><br /><strong>La Roche-Posay</strong> Toleriane Double Repair Face Moisturizer with Niacinami, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Ftoleriane-double-repair-face-moisturizer-with-niacinamide-xlsImpprod16011007%3Fsku%3D2509730"">Ulta Beauty</a></figcaption></figure><figure><img height=""1400"" src=""https://www.refinery29.com/images/11953789.png?auto=webp&amp;width=1400&amp;height=1400&amp;quality=85&amp;crop=1:1"" width=""1400"" /><figcaption><h2>Caudalie VinoHydra Sorbet Cream Moisturizer with Hyaluronic Acid <br /></h2> <br />“If your skin is showing subtle signs of dryness — like flakiness around the mouth or tightness on the cheeks — but you hate that most dry-skin creams feel suffocating, you have to try Caudalie’s VinoHydra Sorbet Cream Moisturizer with Hyaluronic Acid. It’s more of a lotion than a thick cream, but don’t underestimate it. A blend of hydrating hyaluronic acid, antioxidant-rich grape water, and soothing chamomile extract is complemented by nourishing glycerin and shea butter. Even though it’s packed with all the good stuff, I find it sinks in quickly, leaving behind a hint of dew. Even better, it’s non-comedogenic, so it’s unlikely to clog pores.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>Caudalie</strong> VinoHydra Sorbet Cream Moisturizer, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.sephora.com%2Fproduct%2Fcaudalie-vinohydra-sorbet-cream-moisturizer-with-hyaluronic-acid-P472454%3F"">Sephora</a></figcaption></figure><figure><img height=""1080"" src=""https://www.refinery29.com/images/11953792.png?auto=webp&amp;width=1080&amp;height=1080&amp;quality=85&amp;crop=1:1"" width=""1080"" /><figcaption><h2>Vichy Minéral 89 100H Rich Cream Fragrance-Free<br /></h2><br />“I’ve lost count of how many dermatologists have told me they rely on this cream; it’s often one of the first they mention when I ask for recommendations for dry skin. It sits in a comfortable space between a lightweight lotion and a rich face mask, spreading easily and quenching skin instantly. I love that it leaves skin feeling bouncy to the touch, thanks to ultra-moisturizing squalane and vitamin E, along with hydration-boosting niacinamide. It’s dependable, effective, and reasonably priced.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>Vichy</strong> Minéral 89 100H Rich Cream Fragrance-Free, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fmineral-89-100h-rich-cream-fragrance-free-pimprod2049577%3Fsku%3D2633769"">Ulta Beauty</a></figcaption></figure><figure><img height=""1080"" src=""https://www.refinery29.com/images/11953315.png?auto=webp&amp;width=1080&amp;height=1080&amp;quality=85&amp;crop=1:1"" width=""1080"" /><figcaption><h2>BeautyStat Universal Pro-Bio Moisture Boost Cream</h2><br />“This cushiony cream from cosmetic chemist Ron Robinson's beloved brand, BeautyStat, is perfect for sensitive skin types since it has biofermented reishi mushroom extract and a ceramide-powered complex to deliver soothing moisture that lasts.”<em> — Karina Hoshikawa, senior writer.</em><br /><br /><strong>BeautyStat Cosmetics</strong> Probiotic 24HR Moisture Boost Cream Moisturizer, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.ulta.com%2Fp%2Fprobiotic-24hr-moisture-boost-cream-moisturizer-pimprod2030151%3Fsku%3D2594546"">Ulta Beauty</a></figcaption></figure><figure><img height=""960"" src=""https://www.refinery29.com/images/11953025.png?auto=webp&amp;width=960&amp;height=960&amp;quality=85&amp;crop=1:1"" width=""960"" /><figcaption><h2>Tatcha The Dewy Skin Cream<br /></h2><br />“I always have a tub of this on hand for sub-zero temperatures. It’s the only thing that quenches my parched skin without triggering breakouts. If your makeup tends to cling to dry patches like it does on me, I can vouch for this as an excellent smoothing primer. It makes my skin gleam without appearing oily.” <em>— Jacqueline Kilikita, beauty director.</em><br /><br /><strong>Tatcha</strong> Chilli Oil on Everything 250ml Pourer Jar, $, available at <a href=""https://go.skimresources.com/?id=30283X879131&amp;url=https%3A%2F%2Fwww.tatcha.com%2Fproduct%2Fdewy-skin-cream-replenishing-and-plumping-moisturizer%2FCA06310T.html%3F"">Tatcha</a></figcaption></figure><p><strong>Like what you see? How about some more R29 goodness, right here?</strong></p><p><a href=""https://www.refinery29.com/en-us/best-moisturizer-for-sensitive-skin?utm_source=rss&amp;utm_medium=rss_linkback1"">14 Pro-Approved Moisturizers For Sensitive Skin</a></p><p><a href=""https://www.refinery29.com/en-us/best-hand-cream-dry-skin?utm_source=rss&amp;utm_medium=rss_linkback2"">I Tried $173 Worth Of Hand Creams To Find The Best</a></p><p><a href=""https://www.refinery29.com/en-us/double-cleansing-routine-skin-type?utm_source=rss&amp;utm_medium=rss_linkback3"">The Best Double Cleansing Steps For All Skin Types</a></p>",
@@ -863,88 +1395,35 @@ rss,www.refinery29.com,https://www.refinery29.com/en-us/typebea-hair-growth-prod
 
 <p>Over the years, I think I’ve built a strong reputation for telling you when certain products or ingredients aren’t worth your time and hard-earned money. But even I have to admit that Typebea is a valuable investment for those who want longer, stronger, and healthier hair. In fact, I’m gearing up to open my third bottle of shampoo this week…</p>
 <p><strong>Like what you see? How about some more R29 goodness, right here?</strong></p><p><a href=""https://www.refinery29.com/en-us/grow-out-bob-hair-care-expert-advice?utm_source=rss&amp;utm_medium=rss_linkback1"">6 Tips That Helped Me Grow Longer, Stronger Hair</a></p><p><a href=""https://www.refinery29.com/en-us/hair-color-trends-2026?utm_source=rss&amp;utm_medium=rss_linkback2"">12 Hair Color Trends To Inspire 2026 Salon Visits</a></p><p><a href=""https://www.refinery29.com/en-us/greasy-oily-hair-after-washing?utm_source=rss&amp;utm_medium=rss_linkback3"">Why Does My Hair Look Oily Right After I Wash It?</a></p>",
-rss,www.refinery29.com,https://www.refinery29.com/en-us/estranged-family-members-relationships?utm_source=feed&utm_medium=rss,1768906802,“I Didn’t Want Him In My Life:” The Pain & Peace Of Familial Estrangement,"“I Didn’t Want Him In My Life:” The Pain & Peace Of Familial Estrangement
-
-<div><figure><img src=""https://www.refinery29.com/images/11780740.jpg?width=853&amp;height=1024&amp;fit=bounds&amp;crop=853%3A1024"" /></figure></div>
-
-
-
-<p>It was the first time in 12 years that Gaby had <a href=""https://www.refinery29.com/en-au/estranged-dad-cancer"">spoken to her father</a>. It didn’t go well. Her sister had persuaded her to hear him out after years of trying. <em>Okay</em>, thought Gaby — so long as she didn’t have to promise a certain outcome. Sitting across from her dad, she felt her heart sink when he said he “didn’t want to drag stuff back up,” as he put it. The thing is, she did want to discuss things from the past. It was important to her, if they were to become civil at the end of this, though that outcome was looking increasingly unlikely with each minute that passed. </p>
-
-
-
-<p>“He denied multiple events, lied, denied knowledge of my mental health issues and told me it seemed like there was nothing he could do to change my mind about our relationship, so why should he bother,” remembers Gaby, who is 25 and didn’t want to share her last name. He didn’t apologize for anything and spoke about his own upbringing in a way that Gaby felt was designed to “guilt trip” her into having a relationship with him. “I had the conversation as a favor to my sister. <a href=""https://www.refinery29.com/en-us/2023/07/11466376/latine-family-parent-estrangement"">I will not be doing that again</a>. He seems to have worked on himself over the years from what my sister says, but not in regards to his relationship with me.” Gaby feels that further efforts to reconcile would be futile. </p>
-
-
-
-<p>Estrangement is so painful because good familial relationships are automatically expected. In the years that <a href=""https://variety.com/2024/music/news/oasis-break-up-liam-noel-gallagher-fights-1236118668/"" rel=""noreferrer noopener"" target=""_blank"">Liam and Noel Gallagher, the famously feuding brothers</a> of Britpop band Oasis, were in bitter separation, both brothers were asked repeatedly in interviews if they’d work things out. In a similar vein, this week, Brooklyn Peltz Beckham also addressed his own familial situation by making a statement on Instagram saying he “didn’t want to reconcile” with his family, the Beckhams. There’s something about troubled <a href=""https://www.refinery29.com/en-gb/youngest-child-stereotypes"">family relationships</a> that we can’t let rest in the way we do when other relationships break down. Confronting it is painful. The Gallaghers are a unique case, though. Their recent reunion in summer ’24 was made to look easy and their former conflicts a source of entertainment. They also probably had a big motivator: money. Regular estranged or tense family relationships don’t get that material and emotional support. In the US, there are a few (though not many) organizations supporting estranged families, including Together Estranged and PEAK. The UK’s leading charity in helping estranged people cope, Stand Alone, ceased operations in April this year due to financial struggle, and nothing has yet taken its place. </p>
-
-
-
-<figure><blockquote class=""has-text-color has-black-color""><p>I get pressured by other family members all the time to reconcile.</p><cite>Ebony, 29</cite></blockquote></figure>
-
-
-
-<p>Even if someone dealing with estrangement has contact with other family members, those family members often aren’t equipped or neutral enough to know how to help. Sometimes, involvement from others makes the whole thing one messy hotpot of guilt-tripping, arguments, resentment and a heat that will burn the tongue. Twenty-nine-year-old Ebony, who doesn’t want to share her real name, is estranged from her cousins, who she grew up with and <a href=""https://www.refinery29.com/en-gb/siblings-large-age-gaps"">viewed as her brother and sister</a>. They cut her off last year after a wider family feud involving their parents and grandparents. “I get pressured by other family members all the time both directly and indirectly to reconcile,” she says. “There are multiple family members who have tried talking to my cousins, encouraging them to reach out to me. This upsets me, because no one should be going and asking someone to reconcile with someone else. If that person has to be forced, then it’s not worth it. I’m trying my hardest to not let it affect my relationship with my other cousins who I am also close with. But unfortunately it does affect it and it does make things awkward.” The situation has damaged Ebony’s mental health; before the point of no contact, she felt used as a metaphorical “punching bag” by her estranged cousins when the relationship became turbulent. Even if reconciliation were an option, it wouldn’t be easy, and she’d have to confront the verbal abuse she was subject to. </p>
-
-
-
-<p>Financially, people who are disconnected from their families lack a support system many of us take for granted. While not every family has the means to help out, even if the will is there, lots of us do have the luxury of being able to return home for a period when life gets hard — when romantic relationships end, for example, or we lose our jobs. Therapist <a href=""https://www.instagram.com/eimearom_therapy/"">Eimear O’Mahony</a> says: “Many people who experience estrangement do not have the financial, physical, emotional support of family. This can mean there is a higher rate of financial worry and struggle in comparison to others who have family to help with kids or who know they will have inheritance in the future.” </p>
-
-
-
-<figure><blockquote class=""has-text-color has-black-color""><p>It’s possible to love a family member and need to set limits due to their behavior.</p><cite>Liz Kelly</cite></blockquote></figure>
-
-
-
-<p>Therapy can help with the guilt that often comes from cutting contact with family. Writer Fern Schumer Chapman, who was estranged from her brother for over 40 years, wrote in her book <em>Brothers, Sisters, Strangers</em> that <a href=""https://www.refinery29.com/en-us/eldest-daughter-syndrome-oldest-sibling-family-responsibilities"">when siblings cut ties</a>, they’re left in “a world of secrecy and shame,” even if they’ve made the right decision for themselves. The feelings that come with this decision are complex and will vary by person depending on why they’ve chosen to cut ties. Liz Kelly, therapist and author of <a href=""https://a.co/d/5PMM7E8""><em>This Book Is Cheaper Than Therapy</em></a>, says: “It is very common for people who cut ties with family members to experience guilt. They may have received societal, cultural or religious messages to put family over everything. It’s challenging to make a different choice when facing that pressure.” </p>
-
-
-
-<p>People are complicated and some still care about family they’ve cut out of their lives. “It’s possible to love a family member and need to set limits due to their behavior,” Kelly explains. “For example, you might love your father, who is addicted to alcohol, and make a decision not to visit him to protect yourself and your children from his violent behavior. These decisions are complicated. Most people who cut ties with a family member typically do so after much thought, deliberation and previous attempts to continue and repair the relationship.” O’Mahony adds that estrangement can feel similar to grieving at times, because “it often doesn’t feel natural to the human mind to accept that we choose to not see, for example, a parent.”</p>
-
-
-
-<p>Gaby feels lucky that her mom respects her decision to remain estranged from her dad but she can sense that her mom hopes they will have a relationship one day. Even that must feel like a weight to carry. “Over the years there were a few attempts within the family to ‘fix’ things, including family counseling. But each time he would say or do something that reaffirmed that I didn’t like him as a person, didn’t think he was a good dad and didn’t want him in my life,” Gaby says. </p>
-
-
-
-<p>Some people are better off not reconciling, even with the emotional and financial strife it may cause. O’Mahony says it boils down to whether rebuilding the relationship would be “harmful or detrimental to the physical, emotional or psychological health of an individual.” These cases often involve trauma, abuse, neglect and harm, she explains. “Many people who decide to cut contact will go through waves of wondering, <em>Am I doing the right thing?</em> so the decision to not reconcile is only one part of a very complex process. It is so important to have support, understanding and non-judgement.” Lots of O’Mahony’s clients experience stigma surrounding this subject — friends don’t know what to say when it is brought up, or when questions like “Who are you spending Christmas with?” are asked. “The judgement, confusion and lack of understanding from others can be very harmful.” O’Mahony recommends therapy for those who can access or afford it. As Gaby puts it regarding her own situation: “As time has gone on, I have only experienced more reasons to keep him out of my life.” The best thing we can do is let estranged people live in peace with their choices. </p>
-
-
-
-<p><em>This article was originally published in September 2024 and has since been updated. </em></p>
-<p><strong>Like what you see? How about some more R29 goodness, right here?</strong></p><p><a href=""https://www.refinery29.com/en-gb/youngest-child-stereotypes?utm_source=rss&amp;utm_medium=rss_linkback1"">What People Get Wrong About Being The Youngest Kid</a></p><p><a href=""https://www.refinery29.com/en-gb/grief-social-media-friendships?utm_source=rss&amp;utm_medium=rss_linkback2"">Grieving On Social Made Me Lonelier Than Ever</a></p><p><a href=""https://www.refinery29.com/en-gb/young-girls-skincare-generational-beauty-standards?utm_source=rss&amp;utm_medium=rss_linkback3"">Age-Gap Sisters On Their Contrasting Beauty Habits</a></p>",
 gnews,news.google.com,https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5,1768559400,The Vogue Business Beauty Trend Tracker - Vogue,The Vogue Business Beauty Trend Tracker - Vogue,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uVHZ4NG1tN1k2NVJ4aldOSkdGNndPSGxMT2oyWnZ1M0NOOTJZSVpiUUQ5VlIyalQ4bjliR2NLUXdPTEFmR0dxeXpxMFVzeWdVWkFZRmQ0LWxKaFZEUDVSMkRLbUw?oc=5,1768833388,"I’m a beauty director, these are the 2026 beauty trends I’ve tried and loved and you will too - Get the Gloss","I’m a beauty director, these are the 2026 beauty trends I’ve tried and loved and you will too - Get the Gloss",beauty trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMihAFBVV95cUxONzRkNXFldDVXWUxqcmNDdFhFd3ozMi1YeVV2c0hmZDJ4Mkp5WlhlYnQzUFVJWkRKNjViakJnM1paUWxublFzR3Z4SDQwSTZ3ek5SWEU4bTgzeFllVUJiRjc5Y2pKbEpDcTNGc09fZEJtNGxqSVJqZHBuLVp1UjU3OHlaTTI?oc=5,1769089500,What's Next in At-Home Beauty Devices? - fashionista.com,What's Next in At-Home Beauty Devices? - fashionista.com,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1ZaZDB0dnNiVmhqYkdOREZEZDVZQ210bXBBemhXeW42Vk5GVVp5MzM1OGVZbWFMbjBEdG0xWGtXb0JKWUhHb2gxYkZReFVKRURJN1pnM0RfRFZOc29hcW5pZEh0anU0YVliQmxYTTJMUUZDaUtJVnBYVHQzNzZTc1FRajFUZ0M2Y29KNWdCak1ka0pHMlE?oc=5,1768944936,The Soft Grunge Makeup Trend Blends the Best of Both Worlds - Teen Vogue,The Soft Grunge Makeup Trend Blends the Best of Both Worlds - Teen Vogue,beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZzTzM0eHBObFBBTUlwNHpNUVpxMEt4U1NUZkMta2VGX2ZzZW5TclJQTlJ4d1o0NGwxT3d0V3Z5XzRGcy1iUUVudUJYaVR6d0VFNXUyaUZpZXlMZW93M2FxaVFvLXloXzdCWkZfWm9kRGpqMmFIb3Y2NFVkY0lmYzQyYnl0aGZRWEdZRDVNNXdBR2hmMUc3LUJKQ0wyQnVCYVhrTDJnWDliMTNwanEzaDlJN3ZLUV9iYmZaTNIBwgFBVV95cUxOOGFCS0pWcTZ0Ukg3MTFNUkRmeDc1NkhxSzQxQ0xBQnVJa0Y0RlVDbkVvQ0JZX2Qzdk92aXFqZEtiT3Itc29mMlU5dm1OUjQwRHQwNnlTUHpZYzdqTEExbUZjLWxHeXN3LUY3cFV4cTN2RkJubVNTUTRWcDR4Y2NjLTg2enlwYVFSajVzSkJhTGJET3UwQlZUYlhJWXBfMjNKNzVrYTgyOEtreFo3RWl6OGxEbHRCWkk0VnFFY1VoQl9HQQ?oc=5,1769054555,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnZrR1lfTEd0MW8ySnBuOUlfYTY3aFpJWk5aTG01a2haN1FtSXgzeHN5a1c3cmxUNFRUYlJoeEhkWHNNUXczZlc4T3ZLcG9jRU5TUi1qdUN0eGNEOHNGVVM3MVBaRHZHQ3oyTktFZlNaUmgwQWM2QkZXNG9rYkJTdjNnMl9jN0o1ak1wb200MU1RNWNTb0ZoQ2Nsb1l6V2RZbDN3Rk80QkY?oc=5,1768584257,We’re Calling It: Burgundy Mascara Will Be a Top Beauty Trend of 2026 - Good Housekeeping,We’re Calling It: Burgundy Mascara Will Be a Top Beauty Trend of 2026 - Good Housekeeping,beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjdYcEIyMFgyS1BhR2NZczNxcWtnbEJwelctR0hwa3VHbF84V2RzaEpRZXEwOXQ2c0EyUk9WYmxoYWEteS0tdEZyWlFqazc5NzFFejhYaEMwakEwVkp0cHp1SEtoZ3VsbWVYM2V0ZUw1UVlTUGlIVDZmMDR1T1F5eWJrRGwyNDRuTHYtWWRiZER4WmFlSGliTVREOVpyZkNxV1pVVmpfWkxJTlUt0gGyAUFVX3lxTE5IWUFtbUR3dld2M1Npem9nS1lGSng2NjR4SlVFeldJdVpWSUtham1wNkRjLWNITUhHV21odDE0V3FqQklBN3lDVy1ma3dITlBoVHVMeFUtMllHNkVJQmVXdTlXdFljTXNxQk9ud2t2ZTlxUEwxcDhyVlB2dDNnRk55STRPeDZRTnF4NS0zSmNqWFVvd0dHWGRNSFFFam56cVlpWXROWjlDcUVYUTlPcXpYUFE?oc=5,1769060104,Bec Judd reveals the beauty trend that almost ruined her wedding day: 'What was I thinking?' - Daily Mail,Bec Judd reveals the beauty trend that almost ruined her wedding day: 'What was I thinking?' - Daily Mail,beauty trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZzTzM0eHBObFBBTUlwNHpNUVpxMEt4U1NUZkMta2VGX2ZzZW5TclJQTlJ4d1o0NGwxT3d0V3Z5XzRGcy1iUUVudUJYaVR6d0VFNXUyaUZpZXlMZW93M2FxaVFvLXloXzdCWkZfWm9kRGpqMmFIb3Y2NFVkY0lmYzQyYnl0aGZRWEdZRDVNNXdBR2hmMUc3LUJKQ0wyQnVCYVhrTDJnWDliMTNwanEzaDlJN3ZLUV9iYmZaTNIBwgFBVV95cUxOOGFCS0pWcTZ0Ukg3MTFNUkRmeDc1NkhxSzQxQ0xBQnVJa0Y0RlVDbkVvQ0JZX2Qzdk92aXFqZEtiT3Itc29mMlU5dm1OUjQwRHQwNnlTUHpZYzdqTEExbUZjLWxHeXN3LUY3cFV4cTN2RkJubVNTUTRWcDR4Y2NjLTg2enlwYVFSajVzSkJhTGJET3UwQlZUYlhJWXBfMjNKNzVrYTgyOEtreFo3RWl6OGxEbHRCWkk0VnFFY1VoQl9HQQ?oc=5,1769054555,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3RmMkt0Mkx0ZnJXSTZrV3A1OVM4ZUxwZFYwT0pQWVdYcjUzbU5WMHVabnJwZW1UTHk3ekZGX3lpRmJXS2FUb1hNX1c4OXR2ZFpXTFRSYnVQcG44bTVrT1hfNlByZXVjcjRtTVlvY1FQQVdidnUxQ1dweWVNZTRTTksxMHYyNkhSa0RIRjBOWQ?oc=5,1768777200,Nicole Richie Reveals the ‘Fun’ Makeup Trend from Her Teenage Years That She Still Loves (Exclusive) - People.com,Nicole Richie Reveals the ‘Fun’ Makeup Trend from Her Teenage Years That She Still Loves (Exclusive) - People.com,beauty trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjdYcEIyMFgyS1BhR2NZczNxcWtnbEJwelctR0hwa3VHbF84V2RzaEpRZXEwOXQ2c0EyUk9WYmxoYWEteS0tdEZyWlFqazc5NzFFejhYaEMwakEwVkp0cHp1SEtoZ3VsbWVYM2V0ZUw1UVlTUGlIVDZmMDR1T1F5eWJrRGwyNDRuTHYtWWRiZER4WmFlSGliTVREOVpyZkNxV1pVVmpfWkxJTlUt0gGyAUFVX3lxTE5IWUFtbUR3dld2M1Npem9nS1lGSng2NjR4SlVFeldJdVpWSUtham1wNkRjLWNITUhHV21odDE0V3FqQklBN3lDVy1ma3dITlBoVHVMeFUtMllHNkVJQmVXdTlXdFljTXNxQk9ud2t2ZTlxUEwxcDhyVlB2dDNnRk55STRPeDZRTnF4NS0zSmNqWFVvd0dHWGRNSFFFam56cVlpWXROWjlDcUVYUTlPcXpYUFE?oc=5,1769060104,Bec Judd reveals the beauty trend that almost ruined her wedding day: 'What was I thinking?' - Daily Mail,Bec Judd reveals the beauty trend that almost ruined her wedding day: 'What was I thinking?' - Daily Mail,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zV2QtQVFYS3lsUl9lSDltVnQ5OWNMbU9zLWhubHpwM3VXUzl3dm9SZVZNYks3eS1Gd053U0ZSVjczb2dfWWExQ3dsV3M3R0ViUWZTSUlWWHlzdmc3cldDSmp5Q08?oc=5,1767427200,Which K-Beauty Trends Are Actually Worth the Hype? - Allure,Which K-Beauty Trends Are Actually Worth the Hype? - Allure,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMihAFBVV95cUxPX21CSy1JOFJfVDE1MnQwcFlhSWhyNW9VZW1BMjRvR0NvdWthZXJ2bXktalo2Um1PTW1XcWJuRHNtTmttbkZSTXJFZjRsdDhQR0FlRzllS2MwT0tqQW1FSWRJVlpBLUtaSWdHS01nUnZsT3AycDRuYmpYak5WOWdPTGxVSzU?oc=5,1767427200,I've Done the Research: These Beauty Trends Will Make a Huge Comeback in 2026 - Who What Wear,I've Done the Research: These Beauty Trends Will Make a Huge Comeback in 2026 - Who What Wear,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMikwFBVV95cUxORnZkQ2hmazl2clNmRWhpT29BSzhuSGp5UXduRzZpU3NFdWFrdWdvRFdDZF9BeXEwaVR1MkdwR1U3WVRoNDNNN2VLRHpKZks0VGJ5ZnRUa2tYZVJPZ0tWYy1lZHlER2dlN2FTQnRKNTRoMDByQVpzSTNnLXpJQlBZWXhqMzVxYTFJRHpwaUlpZWRuSlE?oc=5,1767600000,The Top Trends That Will Define Beauty in 2026 - The Business of Fashion,The Top Trends That Will Define Beauty in 2026 - The Business of Fashion,beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMiekFVX3lxTE1SeFA4WGpBUmZZWHZOSlBwMVYtdG1hUmhwNkZfb1hzcW83Uk9YRVRZWGdmUU1ZUG9vQnJPQ183NE1CU0RFWmdCc21zdHpjS2JnZnJ3bG1mcVJ4WjRab2hDSmMxTVhEd21Ub3hwekM4amJtYWRrWjBuaGJ3?oc=5,1767686400,6 Beauty Trends Set to Take Over in 2026 - fashionista.com,6 Beauty Trends Set to Take Over in 2026 - fashionista.com,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VX3dhQU8xQ1lNRWVIaTJnd1BLMU0tQ0pGdjJacm5vejJLb3dkb0t0UlJ4MGxkMXZMd2hUU1hCREFfLXRXdHpOVGx2UHE3M2gyVHFsWkI4Ql9haVg1c2c?oc=5,1767686400,I’m a Beauty Editor—These Are the 4 Trends Defining 2026 - PureWow,I’m a Beauty Editor—These Are the 4 Trends Defining 2026 - PureWow,beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMiggFBVV95cUxPMl8xZk5WSEd6UzFfLUU2YXB1Qi0xSFVGSDB5TF9pSGtNUnIwVDFTcTI1WTFiMG1hTDlqRmJtZ2Y4NHYtZlc0VFl0SUR5NXFVaHg2cHp5N3o5OVgxclhpR1QzNUp3WkdvVDJqTVowOGE0NklPWVp6bHcxU0J2Ymx2anRR?oc=5,1768458552,"All the New Beauty Trends, Tools and Treatments Coming in 2026 - Vogue Arabia","All the New Beauty Trends, Tools and Treatments Coming in 2026 - Vogue Arabia",beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFhNRmtjb0NHWTg0dmh1OXVNaXBSRjMzcnV0QzRqYjNtcWJtc2tmZnJCQnNPOV9WbjM1VGQ5SmZHQmxKT0gxQTNFbWdKdWQ2TFByVUFMaS1WYkFvU09rcmJQTlJGcHRpSGJzU1FwWmNUNzM5UE40eGlXdW1FRXAwbnF6NUhFNW14Y1RIYnlLeGNNUTFZRGxKd0U4Z09DVWZsZVhNTDJGVHRDajMxMWNhelFCTFd2ajBZdUpTaEhmUDdUZk5HYngw?oc=5,1768825740,"Everyone wants to be Chinese now (in a respectful, non-colonising way) - Dazed","Everyone wants to be Chinese now (in a respectful, non-colonising way) - Dazed",beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aSW9GVV9hWUZyZWp2eVowQm1HT3BJcVVWUjRTWk9yYkJJZmNjQTdpeWhhYllUalZ5aEZMTVNzdnRpMDJubFV3RHpXclFrQUtxRXBGWjBkRmxVa0NsYllV?oc=5,1768595272,7 K-Beauty Trends Shaping 2026 - Vogue,7 K-Beauty Trends Shaping 2026 - Vogue,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMieEFVX3lxTE05MFRGbXowa0NQMTBkT3dCOWFjNG5FN2JOMHZ6dVVqUDhYWjFlT3lpMWdBalM4WEtKRFI0SFlVZzZ2YkRwY0VqaGo5QkVfa3RTcGxPdjdwR19CR1k1Mk15MUhzUGN1aHJJdEY0a3ppSTkwNlhnQl9lUg?oc=5,1766995200,The 14 Beauty Trends Experts Predict Will Be Huge in 2026 - Good Housekeeping,The 14 Beauty Trends Experts Predict Will Be Huge in 2026 - Good Housekeeping,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHI2WHV6bzd5TXFwbXJmQXpiRWNCdXc2NTRURjVQVVg5V3pSN1lVOFRjZy1kdUEzc2pxVVNka1Jia1hrcGZnckxaQlFtZGQ2ODZmRW5aWktiUEM0QWVYOU8xUVNqc2tiNGVtYzc2TlU4MHg4X014Ty1Va2E3YlN4c3dwb9IBiAFBVV95cUxNbjNKVGJXeU5BV1RrYlZicFZMam9SRVNJYXZiVFZWd05qYmxqT2dqUjdQUlhtZ0F4Ql9wei1qdU5Xa1NrWkdvSk1ENUtGTnJwX1gtQmpkb0R1R2h2LXhyOVFadXZsTmZmcmRrb2lfSXFPNklsSWVGb2lqU0d1QjUzQ3hfb0F4TXNJ?oc=5,1769040658,Best new beauty products to buy in 2026 – January - Prestige Hong Kong,Best new beauty products to buy in 2026 – January - Prestige Hong Kong,beauty trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMiekFVX3lxTE1SeFA4WGpBUmZZWHZOSlBwMVYtdG1hUmhwNkZfb1hzcW83Uk9YRVRZWGdmUU1ZUG9vQnJPQ183NE1CU0RFWmdCc21zdHpjS2JnZnJ3bG1mcVJ4WjRab2hDSmMxTVhEd21Ub3hwekM4amJtYWRrWjBuaGJ3?oc=5,1767686400,6 Beauty Trends Set to Take Over in 2026 - fashionista.com,6 Beauty Trends Set to Take Over in 2026 - fashionista.com,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQWppVHFuR3J1LVJoTXJiaFhlenZRb0hibVpCMTFaQXBkXy10TV9BcW5lWTk5OUxGdjBMcWpwUVlLbUN3S0VQRTVCNVRDQnFWNzZyNHdMNjgyUDBqOGRYcTJxQVMxTEEtdWlSV1pQRmVZUXRYZ1ZiZFF3?oc=5,1767600000,2026's Biggest Skincare Trends to Try Now - Vogue,2026's Biggest Skincare Trends to Try Now - Vogue,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KRVJpSkNsZXk4a1N4TWZUWnpHbm9WeE1HcEhTR2J0dmgxeTRnWG1Ud0NWUmV0RURLdElTVGJySzFrblhFVl9BMWI4amlpVzM4dl9LTQ?oc=5,1767254400,"The Halo Lip Will Be 2026’s Biggest Beauty Trend, According To This Celeb Makeup Artist - Vogue","The Halo Lip Will Be 2026’s Biggest Beauty Trend, According To This Celeb Makeup Artist - Vogue",beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbHJNOUI3NHpqVkJiNVJiWFl1YWRPdnFQVjVjZzhVX3ZFQjRJZG8tNS1uMUZUNUZJM1IxMnJRazkxay16WlppOXJNUU5mT1RrOU1lU05seTFxa0c1V3NWcHNEVUY?oc=5,1767168000,A Look Back on the Biggest K-Beauty Trends of 2025 - Vogue,A Look Back on the Biggest K-Beauty Trends of 2025 - Vogue,beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZF9NUi15MkxybGMza0pYbF9fUkQweGN4d0luTE95ZDhmU0RZVS1haWJ3SzN2NkF0Y0JJQ0VTdy0wbEVrX2kwbTMtNlFocjMxYkhyUEdEelJLb3cwazJsVUNENXF0Slg5bXhHTG1KWmN0cnFmMml6R0NOaFhrNUxaQzJ0Q2d5NTJpVWJQZ3NTMnpSd3lzNVI5WWU2WGc0ckExS2docktreVl0UdIBuAFBVV95cUxOWmluVk0taUJydFdvS1pzVnJzc1J0cG5DUEJOYW5TV09MQldOaFVDcEZOWHZBUDFuNXM0Y2VRN3pnZDJNWm1XZ1ZmanBTN25LaEhhMklZdkNUSllKZ1VLRk8yWVBkbWRzMzd0d3hMdVlOSlc4S1NSTlZEaUxRbFhzQTBWMmFzeERBTEtJMGJzWkdfRUM1cjVCSDIzem44cHpjcF93SmZhVlR3WndfU1BiZkNnQVpzWUdK?oc=5,1769014828,Pamela Anderson's 30-year beauty transformation in photos since Baywatch days - HELLO! Magazine,Pamela Anderson's 30-year beauty transformation in photos since Baywatch days - HELLO! Magazine,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NZUl2YXVHckNvdEkwSXVRR1RuM1l1c1llNEdLLXFEeUNJaVdXd3lzZGVsTjVXY09CMWprWWNzRmdMQXdEZ0F2dmpMWk5VZTQ2Q1lmaHAxTVNzVnFCSERlVVl0TmFvSEE?oc=5,1768659445,Why every beauty trend feels like a new kind of pressure - Rolling Out,Why every beauty trend feels like a new kind of pressure - Rolling Out,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMibEFVX3lxTFA2TGlGVlMzUzBfZjNKd3p4ampSSDVldDl5Si1WdnRxcGdhRUZLME5DZm9nMDdsbEZkTnJOTWpQR19aZm1jWWplQnNfbWVuNHlzUjk2ZmpNb1FVc3F5ZXFPVTNaeFREQzU4U1RGQw?oc=5,1767262386,From Blush Blocking to Cloud Skin—6 Makeup Trends That Are Poised to Overtake 2026 - Who What Wear,From Blush Blocking to Cloud Skin—6 Makeup Trends That Are Poised to Overtake 2026 - Who What Wear,beauty trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZF9NUi15MkxybGMza0pYbF9fUkQweGN4d0luTE95ZDhmU0RZVS1haWJ3SzN2NkF0Y0JJQ0VTdy0wbEVrX2kwbTMtNlFocjMxYkhyUEdEelJLb3cwazJsVUNENXF0Slg5bXhHTG1KWmN0cnFmMml6R0NOaFhrNUxaQzJ0Q2d5NTJpVWJQZ3NTMnpSd3lzNVI5WWU2WGc0ckExS2docktreVl0UdIBuAFBVV95cUxOWmluVk0taUJydFdvS1pzVnJzc1J0cG5DUEJOYW5TV09MQldOaFVDcEZOWHZBUDFuNXM0Y2VRN3pnZDJNWm1XZ1ZmanBTN25LaEhhMklZdkNUSllKZ1VLRk8yWVBkbWRzMzd0d3hMdVlOSlc4S1NSTlZEaUxRbFhzQTBWMmFzeERBTEtJMGJzWkdfRUM1cjVCSDIzem44cHpjcF93SmZhVlR3WndfU1BiZkNnQVpzWUdK?oc=5,1769014828,Pamela Anderson's 30-year beauty transformation in photos since Baywatch days - HELLO! Magazine,Pamela Anderson's 30-year beauty transformation in photos since Baywatch days - HELLO! Magazine,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiY0FVX3lxTE00dGQwREVhWUVtb0ItRDRFSjlxYTBzcTV6Tm9xUXpqZkNTS1U0eDVQNl9jQzZIMlJvT0Y5SnBrdUIwY0dPaVNNdUJnZnFIMXNENzhHTXgzWXUzSW15cVdIU0Y1NA?oc=5,1765785600,These Are the 8 Best Beauty Trends of 2025 - Vogue,These Are the 8 Best Beauty Trends of 2025 - Vogue,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2U29jQThUcFJTdDJhSmsxVkF4UzZuTmp3dWZkV0k5YzlmUllWQVBId2FlaTRHU191WnhGSmNSSXJmVDkyczY4Ny1UMXZIeGYwUmNGcmFwTzNHZWs?oc=5,1768204800,Nina Park Makeup Is Officially Our First Beauty Trend of 2026 - PureWow,Nina Park Makeup Is Officially Our First Beauty Trend of 2026 - PureWow,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlprRXZLTEhfRUFBeGpmWlFkekV2Q2N0Q05sV0d5V0puaFB3NWlaTnRLY0ROUk1RSE5xcEdHeDhadjlocFY4dTZDUnk0aUpLWFRPcXl0c3pEVzdBMG1oUFVNLVNKUGVRdWxxZzJLaHdjVHVjakJtNGFGMm1DQnRqaHdWcjJXbEtGU0E?oc=5,1766736000,"The Top TikTok Beauty Trends of 2025: Salmon Sperm, Guava Makeup, Butter Skin and More - WWD","The Top TikTok Beauty Trends of 2025: Salmon Sperm, Guava Makeup, Butter Skin and More - WWD",beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDljSHhoWnNZd05jUTQ0WVloaUpZeDUwR0l4UjNObkZUT3AtQXFrQ2gtS2djUkZSTmQ3MHFmTDdUeVdIQ3dtNDgzZ1JlUWxlNHNpS3lqUFIyZV84SWRZelBBUHFRQnhvN3VvMjVMWFpVZnhTSGhnUnNSUE1TbmZSbDFxeDFiYi1zaWduTlU4RkNtTUlZ?oc=5,1768204800,Kylie Jenner Goes Makeup-Free as She Embraces a Viral Beauty Trend as Part of her Golden Globes 2026 Prep - instyle.com,Kylie Jenner Goes Makeup-Free as She Embraces a Viral Beauty Trend as Part of her Golden Globes 2026 Prep - instyle.com,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnp2YjdyTzJJbldiS3cxT0ZMQWYxU2NCY2U4eDgxTXBnelJnX1VBX29vcXVqTmVQQ1hmVzUzS01FVnZOMFFJVzVnVnlsMU43czZqM2FHbURLcDQ2STR2VEdxR19hbTBvZjcxMDl0bnBOZVdlM25SdzFwSTE5WlY2aEZZU1c5dUFwOGtDbEFSQmJ3NnJNTzJNLTBieEtDUTJVenRjQQ?oc=5,1766822400,The beauty trend that's transcending political parties - LinkedIn,The beauty trend that's transcending political parties - LinkedIn,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BNlJVUEl6dDZlNjNQNFNqZFROYVZCME15TkFsVDZFNGpxNklNMmJ2T2N5Nzd2d2VLUVdYYkw0NzFnUVBOQVRoNnplLVA?oc=5,1768907752,Can these 2016 beauty trends kindly make a comeback? - Vogue Singapore,Can these 2016 beauty trends kindly make a comeback? - Vogue Singapore,beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMie0FVX3lxTE5zc2RLMlJFZHZNbVdCMlZvVjMyOUpuWU5PNnA2U0FZWE90bEl1OTJ1VEtqTm0yLWVBY2F0UlV3bGNpbFVFeWMxSnB0M3YyV0V1UENoZjdOc2VnV0RkY25KS0toem5iVUFPeHRpYjlERk85U1ptamFmNVB6TdIBgAFBVV95cUxNSTVrMHhxbTByM2lfSUpQWkVpOGxpQmRVYkRsazhDRFRaYUNJWi13UE9jVjdjMm1fd3d1X1Baa0h3NXFaTTVCSDdoMlp2TWtyV2RQNDJZVmJ4Z0xUWE44dG5Yc201Mm1kaVZDYm1lQ1dwS29iMmJsYVF4UHNZWGs2dw?oc=5,1768398817,Viva Med Spa shares 2026 beauty trends - wpri.com,Viva Med Spa shares 2026 beauty trends - wpri.com,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUFrS1RTMkMxd1R6N0RfV2VhZFAxcU80SlJHdGowSDJGSXZCSVF0aDVBTE9EUDhlNmU0bVFkaTF3ZlNjc0tqZV9BSGx5cmNnSnBXcXhqUlBJbHNlLVE4Q3U0N3psRy1yVmxjcWJ3YzdhcjlzT1ZqQmFHWEkwZjNnRGFn?oc=5,1767686400,Toffee Makeup Is Winter’s Warmest Beauty Trend For Black Women - essence.com,Toffee Makeup Is Winter’s Warmest Beauty Trend For Black Women - essence.com,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMib0FVX3lxTE0tbENYR0M4eXFIWkJvLVRwOXV4NUVCVG5jUVRtY21ZMUJ3Uk02WVotalVrVjNEUzVkaXMwQXJyYUlpT040a0VIVFo5elNfZk1IWnl0eWJkQW9YUGMyNWlHd0otakVFWTBqbTBIN3dINA?oc=5,1768806000,I Predict Nail Trends for a Living—We'll Be Seeing This Shade on the Most Stylish of Hands in 2026 - Who What Wear,I Predict Nail Trends for a Living—We'll Be Seeing This Shade on the Most Stylish of Hands in 2026 - Who What Wear,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMia0FVX3lxTE95dHBzWkNnSGNReWlsWTF5X25jZEdLMVhlajN1cUdkY0JUY09mT3dzSDhmLU5Vd0VmSVd1MTE0Wi1Fc0Z2ZmxXdmNNZG0ya0V6Rjlsa3VGdFc1dWlsZ19LM3BfZ3NTSjBIZnBj?oc=5,1768204800,Cloud Lips Were the Biggest Spring Makeup Trend at the 2026 Golden Globes - Glamour,Cloud Lips Were the Biggest Spring Makeup Trend at the 2026 Golden Globes - Glamour,beauty trend
@@ -958,7 +1437,6 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMidkFVX3lxTFBhZDdVN
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdzQ0OXlSbWVrOW1FUXdtSURIcjVsZnJhNEFleWtxZnRjcDdESjdFZlBXUVR0eEM0Tzg2NDN2M2tqU0pEaXd6TTZBOE5yRkVZR2ZBQU1DNWp1RTlxN2V6UHNHUUFJb28?oc=5,1767081600,"9 Makeup Trends to Experiment With in 2026: Grunge, Dewy, Waterlines, Freckles, & More - Teen Vogue","9 Makeup Trends to Experiment With in 2026: Grunge, Dewy, Waterlines, Freckles, & More - Teen Vogue",beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMickFVX3lxTE9WNEtuNnV0bjY1NHRjc3p5WGV5ajlSdUZ1MUVrRGlPa0tIRGpXUzc5SXk5OXF2blNodlRaMUI5TTVOY2pDRGxkU2ZsdnJ4NlRGdW1HVW5FeXpuZTRnM2hBNVM2Nm00dmxzZmp0OUQ4SmpBUQ?oc=5,1768449375,These Are Going To Be 2026's Top Beauty Trends | style - Style Magazines,These Are Going To Be 2026's Top Beauty Trends | style - Style Magazines,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lU2Vad3cwS3hkdS1vdlZKeFJFdnBNNVJVR3VvYW4zV2tIQ1NnLWp2Yk5XT1EtQy03WVZIUGVMN0JzbXE1V29xZUNaTkNrVW1aZnhYUURlcHJsdzJ6RUtyc092bjhVaDFD?oc=5,1765526400,"PDRN Skincare, Espresso Hair, and Polka-Dot Nails: 9 Trends That Dominated 2025, According to Search Data - Who What Wear","PDRN Skincare, Espresso Hair, and Polka-Dot Nails: 9 Trends That Dominated 2025, According to Search Data - Who What Wear",beauty trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMib0FVX3lxTE54Vnk0YnlIOGdZN2ZpQ1N4d05PTFp3M3l2Y1FZdmV2S0NCRVBnSVVpemVGYVdtZEdYd0c3Nk5hb2xnYl9Xak9IT1phNUtQRkpUR3kxMU1hRzdqTm9iRmVRMTN4eWFRNkZ5c3JkZTFxNA?oc=5,1768633200,"From Chocolate Cherry to Milky French, These Are the Pedicure Trends to Save Down Now for the Year Ahead - Who What Wear","From Chocolate Cherry to Milky French, These Are the Pedicure Trends to Save Down Now for the Year Ahead - Who What Wear",beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3BfY0U1aU9lTm1nRHlWcGw5eXVEeGdleFZCWmZMVmtIUHFnU2Nya3Y1VmZRa2ZsNjRxOUlEZUhOa0hqSW5lODdMMUdFTWxvUDF5S3FtNnZRNDhpT1M0YUxzWU52TlQyS1piSmVJbFYzV3RfQXdnUTNCWEItVnVoZGFvX2xOYkNkY0tIRHBYUExvNVpQSWg0?oc=5,1766476800,5 beauty trends set to shape 2026 - Cosmetics Design Europe,5 beauty trends set to shape 2026 - Cosmetics Design Europe,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3NzaDZxUUtjamZmZTJZRF9GRzY2TzB1MVY3Rzk2ZlphNkZJUk13Y3VVNVNRb09zUjBUMzY2aUR5SlNpOTBlZFhxbUNhcHVMaTBUUnluZV9yd2IyWXBfYUhqLW9LZ2hCbHRnWEc3UFdlMjFPQ3ZSVXdTT216ckVlaU5zY2ZDWk0?oc=5,1766995200,'Ghost lashes' were the biggest beauty trend of 2025: How to easily achieve Pamela Anderson's now iconic look - Cosmopolitan,'Ghost lashes' were the biggest beauty trend of 2025: How to easily achieve Pamela Anderson's now iconic look - Cosmopolitan,beauty trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjRtczFmcXI2S3lWV281dEwzVVI1SnNUQkY5TmczWTdCdnJZMzdwS1hKN0hqTzk0dU1rd19FdWZYeGI0Ujc3ZDJKV21CUF9ESGpOUTFzaURtZjd6WnBkdTNnMUtwa0R4YWY1SGJrLWVCUktEY1cwbDl0QVQ2SkUyMUNZcHVqLUp1bDlR?oc=5,1765267200,I tried the $430 tuning fork facial. Here’s how it went - latimes.com,I tried the $430 tuning fork facial. Here’s how it went - latimes.com,beauty trend
@@ -968,7 +1446,7 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnk5Q
 gnews,news.google.com,https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5,1768559400,The Vogue Business Beauty Trend Tracker - Vogue,The Vogue Business Beauty Trend Tracker - Vogue,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZzTzM0eHBObFBBTUlwNHpNUVpxMEt4U1NUZkMta2VGX2ZzZW5TclJQTlJ4d1o0NGwxT3d0V3Z5XzRGcy1iUUVudUJYaVR6d0VFNXUyaUZpZXlMZW93M2FxaVFvLXloXzdCWkZfWm9kRGpqMmFIb3Y2NFVkY0lmYzQyYnl0aGZRWEdZRDVNNXdBR2hmMUc3LUJKQ0wyQnVCYVhrTDJnWDliMTNwanEzaDlJN3ZLUV9iYmZaTNIBwgFBVV95cUxOOGFCS0pWcTZ0Ukg3MTFNUkRmeDc1NkhxSzQxQ0xBQnVJa0Y0RlVDbkVvQ0JZX2Qzdk92aXFqZEtiT3Itc29mMlU5dm1OUjQwRHQwNnlTUHpZYzdqTEExbUZjLWxHeXN3LUY3cFV4cTN2RkJubVNTUTRWcDR4Y2NjLTg2enlwYVFSajVzSkJhTGJET3UwQlZUYlhJWXBfMjNKNzVrYTgyOEtreFo3RWl6OGxEbHRCWkk0VnFFY1VoQl9HQQ?oc=5,1769054555,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uVHZ4NG1tN1k2NVJ4aldOSkdGNndPSGxMT2oyWnZ1M0NOOTJZSVpiUUQ5VlIyalQ4bjliR2NLUXdPTEFmR0dxeXpxMFVzeWdVWkFZRmQ0LWxKaFZEUDVSMkRLbUw?oc=5,1768833388,"I’m a beauty director, these are the 2026 beauty trends I’ve tried and loved and you will too - Get the Gloss","I’m a beauty director, these are the 2026 beauty trends I’ve tried and loved and you will too - Get the Gloss",skincare trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrUkVXM0YzRmp3eXZoSFQ3VzgxQjJxS3Y4bkYtNkl4UG5tREYzUXV5ck9uX1ZLMEI2UHQwM1JCMG13bFZyZDFRcGFVVzZfRTI5bHd3MHVpa2EzVzhwbUE?oc=5,1769045397,An expert predicts the 8 skincare trends that will dominate 2026 - Australian Women's Health,An expert predicts the 8 skincare trends that will dominate 2026 - Australian Women's Health,skincare trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrUkVXM0YzRmp3eXZoSFQ3VzgxQjJxS3Y4bkYtNkl4UG5tREYzUXV5ck9uX1ZLMEI2UHQwM1JCMG13bFZyZDFRcGFVVzZfRTI5bHd3MHVpa2EzVzhwbUE?oc=5,1769045397,An expert predicts the 8 skincare trends that will dominate 2026 - Women's Health Australia,An expert predicts the 8 skincare trends that will dominate 2026 - Women's Health Australia,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGc1dHR2QThCaUtiaHNaTUhlQmZZWkxRNDJGSXFkRHZ1TFEzUUpiZ3pvbzU1MmVUSi1CbjZTNnEyX0tDc1MxMTZ6cWVoYmgxaTJRV1ZqSWhoem9EUDNraXQ4UTk2eFNnX0R6dVNzT1lyM29xaklYd1JTZGhZeDR5YUFpbE9EVzktQ0pJQ1I1UUFOeFhWOHpob2FpWEdpQUVld0E?oc=5,1768595447,Kylie Jenner Tried This Unusual (But Genius) Skincare Trend for Glowy Skin - Yahoo,Kylie Jenner Tried This Unusual (But Genius) Skincare Trend for Glowy Skin - Yahoo,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQ1VHZFFyMWxMSklxWG5ra2JDNWlmMG9rWGlvellZX1JBNFdnZktZUFNULWFZSmxvbi1kN3RTN2FnXy1iejlGMWljV3lTYWRXSmczaUpfM3U2YjZfbXZCYnM3OC1FX2dRS25pTTFiNVVNRTNUdXNsaQ?oc=5,1768204800,"Is this viral skincare ingredient the secret to youthful, glowing skin? Derms weigh in - NBC News","Is this viral skincare ingredient the secret to youthful, glowing skin? Derms weigh in - NBC News",skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXBEa09wUU1wWUFBNlFIeTdHRkJFWnJiU0VOaHZUdVA3M2dleVlUZF8yYVZXTFY0dWlrbDBFcFYzZlU3WnloWjVmTG1ld1EzM2U3clpBZE50Z1g1bjZGel9ub1VFdExRTUtVU1c3Tng1eHA5QVd5b3JESWdSMGktWlJIVHI0S0pMNWt6MzVSV0pCdl9nZFpZeE1Rd0k4MmhmRGJR?oc=5,1768302108,Atlanta dermatologist speaks on TikTok’s slimiest skincare trend - ajc.com,Atlanta dermatologist speaks on TikTok’s slimiest skincare trend - ajc.com,skincare trend
@@ -989,8 +1467,9 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmRk8we
 gnews,news.google.com,https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOENQYzA1blRBREZTTU00cjhmVnBUNnVBS05WRmZyWklXQ05vOEhONllGRlFMVVNNeWI3NlZ3VHc1cDhCeWlLWFNHU0ZpZndDWEItay1uRG9jOThQWmpXZUtYbl9ucmlheC1iMFUxRU0wdmxFNDBhREJsYkxfU1hMUENIY2RGN2RhYmYwT2dfRXJFazZNeVNTSjhCX3V1RlZBU0k2SzhPbmRfalIxWjNsUlg5c0diT1o5dGR1d1dNUUw3cTQ2SHJXTzI5MnJUbkg2WXhYdG8wbWJLMHFLR09jNW02a2ptTFZLaG15eWlXRGsyejQ?oc=5,1767704645,Exosome serum is the latest skincare trend. Here's what you need to know about them - wfaa.com,Exosome serum is the latest skincare trend. Here's what you need to know about them - wfaa.com,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lU2Vad3cwS3hkdS1vdlZKeFJFdnBNNVJVR3VvYW4zV2tIQ1NnLWp2Yk5XT1EtQy03WVZIUGVMN0JzbXE1V29xZUNaTkNrVW1aZnhYUURlcHJsdzJ6RUtyc092bjhVaDFD?oc=5,1765526400,"PDRN Skincare, Espresso Hair, and Polka-Dot Nails: 9 Trends That Dominated 2025, According to Search Data - Who What Wear","PDRN Skincare, Espresso Hair, and Polka-Dot Nails: 9 Trends That Dominated 2025, According to Search Data - Who What Wear",skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdng1R3o3MDVXSk1NMVRMUWdWVEVmQzQwZzFOYmtuM2ZiMnMzUUF2ZzVpMnpWZUxJV3l4ckFXeU16MEFrY1FYcU5nR1dsQ3hFbnJZZVVPamFwODBKR01QbTRjeEZQOUxHeGV5YllJZ1BuU3laWlVqM3lTRTJhNlNuazNXOWd1N2M1MzNfeXI5YnI1cmxlVVlHSFg5NjRvLWhiN2Z0SkI4UmJBN3VieXNtQ0ZScVFkMDk0VjJmYnRkMkxmWU1vZXhpNTR1MGZicy1TQjd2alRuNnFhMDDSAeABQVVfeXFMTU11cEhJNW9vdkdiVHRGb2YyQzNOQ2N6NWVQcTdUYzh6bjJ2S2xGaFVabF8xYWJGak1yRk5WT2ZmakU1ck1kX1NVM3lWZWJuRlhfT0lBaXJOLWxic1FCUWdIZlNTaDhjSXFwcnBlQmZZXy1YUUxFb0VkWGk0R3F4MVo4alhRTERpN1NNZF9Ub3pqTjg0eVZTaklELWk5RnNpeV96eUJQSU1fX2xOR25rN0lHMDUwTE44di1Od3VqQjNpSUh6NXNpWWt6QVEzZ29ucWVvTUlVZDY4NkNJamdWeU4?oc=5,1766217600,What is skin fasting? The viral skincare trend that says “do less” - Times of India,What is skin fasting? The viral skincare trend that says “do less” - Times of India,skincare trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRERBS3JNZjZqMUNrNERXY3lnTmxYT3k3TUhJXzVjVWxHb180VHRDazl6RmUwWXdUZlBJUDZZaG1QbmdhUWRJU244QUUtZW5MVkh4VGpXMmNNamhHMWJQR2lWNGN2VklGbGZ2M3MzazhtOWNacnJuTFA0OGRQNEo0WEt4T3pSZkVpX3RkMmpPMEdub1dHcGRDYVZmUEpTNG1NNWowemlaNGlUWm5aMWpxaWNMNkVfbGFmUU5EakliSXZCUTRCNlVxR3liQnh3dURpNzJHMmFoMC1DRmdpbUw00gHnAUFVX3lxTE8tQkRKbHJidlVDRXhsYWF2d21wa3Zac1BHSTRwTzZOVjZvZEZhbTRWQ2RRQzNUYWEzYkdvVGtEZGtldlU5bk5EeVhoSmZqZzUyczR2NzREc1JYNmY2RFlUT3g5eGcwWERYWGtwVjBOZEg1NG1sbW10RUpjaU5TYzNjY1h5dUFSaGVMcVF0dVJfajB0bjhBb1U3aU9xVmNEazFhWk05NEkxNTV4TWtvQW9nUUJfRERTWUNfTXNDSmdqWG1QdVNmYjg2V2xIbUZZdl9fNFdhcHphNUdVWVhYblJXWE5pWldLVQ?oc=5,1767340800,Skin trends for 2026: Experts predict the biggest shifts in skincare - Times of India,Skin trends for 2026: Experts predict the biggest shifts in skincare - Times of India,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMibkFVX3lxTFBIbkQ4T01zMHZHaWRMOWVQb2xvb3ktUGpTTndBMW1BenA0ZVBZM1ZEQkU5c3p3eG5jcTUyX3gzS241RFhGTGxMUy1TSlQwWmNNa1Y0MnJMRkxBYXQyREhjeWwxblhCSmJxbVZrRkxR?oc=5,1767081600,A growing beauty trend: Medicinal mushrooms blur the line between health and skincare - ynetnews.com,A growing beauty trend: Medicinal mushrooms blur the line between health and skincare - ynetnews.com,skincare trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMia0FVX3lxTFBCVkZCb0YxWko3dUdMWVRMYVI1ZlZXRi1rU0Vlbi1zMlpfTUh2bDdTN2VoX2dLNTM4ckMyVG84Q3lNWmhabUFSaGR2V3RFZXRYNW1JTHM0dUZpX3BTN25FM1E5MFRzN24yZHZn?oc=5,1766822400,Beauty industry weigh in on the trends that will shape 2026 - wallpaper.com,Beauty industry weigh in on the trends that will shape 2026 - wallpaper.com,skincare trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMia0FVX3lxTFBCVkZCb0YxWko3dUdMWVRMYVI1ZlZXRi1rU0Vlbi1zMlpfTUh2bDdTN2VoX2dLNTM4ckMyVG84Q3lNWmhabUFSaGR2V3RFZXRYNW1JTHM0dUZpX3BTN25FM1E5MFRzN24yZHZn?oc=5,1766824344,Beauty industry weigh in on the trends that will shape 2026 - wallpaper.com,Beauty industry weigh in on the trends that will shape 2026 - wallpaper.com,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMieEFVX3lxTE9VVzN4Y3k3SVhfUXRvaFUzNzdJUG9peEhhWkVvVkRMOWxra242OEhqa0RMOHd2QS1LemstUmlBMVdjMnVDM1hKOE53TGIza0JvbHFZRm5OY2JBUWxOZF83aWVSVXpISzI2TjRSWU9nOVhyd3N2WF9wSw?oc=5,1765526400,"The 8 biggest skincare trends for 2026, according to facialists - voguescandinavia.com","The 8 biggest skincare trends for 2026, according to facialists - voguescandinavia.com",skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiakFVX3lxTE1wSmpfMnJ1dk5fRFRORUtXS1hxakw2NGUyT21nVlVVQXhES2gwejJrYWNiUDNTU0tmeVB3MC1ucEJDTTRDRHhwVGhGd25QZHJ5eEdmZ2xHRTRJMGl5TTJJWEhjbFVHYi1fZlE?oc=5,1765785600,5 major beauty fails of 2025: sun burn tanning trends to dystopian skin care - Cosmetics Business,5 major beauty fails of 2025: sun burn tanning trends to dystopian skin care - Cosmetics Business,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUG1ZN2JkNW9lRzdQWWtGRzNyWkIzRlJndDZ4VnhlLUV1MWlZZ0V2Q2E5Mzc3LWVfYzM1QTBqV0pWa2ZhdDNBRmtzbG9IQVR3SHhqV1FVWGNBNUlud05BTVlLQXYyTjFMWTZFZENLaS1fSTl1Q3B3dEJ4VDBCM0VjMW96OG9qVU0wLUFSMHpVeTdfdFBUUmlwdkh2NlNvMWQzSFZHV0FlSkxZMFgwT2hMX1FoQkszeHB3UFNFcVRaNDdCVXZ3SmJubzA2VU80c2lqMXBtQmx1SnlPN2ZaUmhuNExR?oc=5,1766390400,"Exosomes are the newest anti-aging skincare trend, but do they work? We put them to the test - AOL.com","Exosomes are the newest anti-aging skincare trend, but do they work? We put them to the test - AOL.com",skincare trend
@@ -1001,6 +1480,7 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlNKb
 gnews,news.google.com,https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNEE3Ykd1ZFZVOW5QY0hPUk01eUIxT0tDRlpWcHFjYkhtbUQ5QVNpWklYeXExSjZzcWQ4MmliUERJdzJ3WWM1M0syMWJ5b1h4Rkl6dGVjLTFMSndRemh5azFOV2JmeXhQdFdyb3otenFmV2MtZXpmUnN6VWdCT0E?oc=5,1765872000,Cosmetics Business team picks: 5 trends destined to shake-up beauty in 2026 - Cosmetics Business,Cosmetics Business team picks: 5 trends destined to shake-up beauty in 2026 - Cosmetics Business,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFdhRHdHZmFQQnVTdmJEZTFsZUxFbUw4ajFkQ0RrSWhDeHNuUFE0dUhGQUpZOGI3MDEyOW1zOWJSTk1TbHhGbEF1b0JSLU1sNjdvX29GMjVSME0zR1hkV1c2cnZBNEJINmlVSnd0MUpSeGl5c1c1ZG9pSy0yMXhRUGpQZjRWZ2huZXozVEJTSTdfWFBWRE1Jd2IxSDN3UEdicnVuaXVuMk9KZmdrWGx5NHp4elBzSlduenY0cDVvdFfSAc8BQVVfeXFMTy1xbHlTaVdIM3Q2bm9aTllsMjZ3ZmplbF9YOWdGNEh6elNHN3FGMTk5RUlOZ0Naa25XcGxvOVV4TzFySTZySF9VVzJCZUlNam9FemF2Ri1yQkpNam40Z0J6TVI0SnJIcUhQdHNUVnR6ejBEMEFfbzU1b0s4ODZJblQySGRUWDROd1JOV3FoTlo0Ql9ob0dRQmgzMWlBeEZHOWVEZDh3WGVJckJDbGd4VmxhSFZNeDRRMk1yUEdLVXk5ZE5FT1E4NXItVUZwUkRF?oc=5,1765872000,The viral skincare trend dermatologists are warning against - and 6 reasons to avoid it - HELLO! Magazine,The viral skincare trend dermatologists are warning against - and 6 reasons to avoid it - HELLO! Magazine,skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVNWSGhaM3JRTTExdHRfVjZXWlNBbjlRdnBmUlNCZk1hTzh1WlhpLUxRWHRZZ1Bmc2pRS01PNWJBeWlhdmY4R1JzUF9hc1owelhweE1vSGNzeGRvMlJDWHI5Ym5qWW1qcUZDbkxzYlNpSnBlZEpQZXFVQnZ6WGtMeGR6QXZiNDNpd3VuaE1OUGYxclRMd0M4cHZCT0xzLU5odjNwaEpDMFJIZ09oYW1fd1d3WkZ4eWFXYVBkVTZQUGpISnQ1eXc?oc=5,1768595543,Kylie Jenner tried this unusual (but genius) skincare trend for glowy skin - MSN,Kylie Jenner tried this unusual (but genius) skincare trend for glowy skin - MSN,skincare trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMia0FVX3lxTE05ZzNYaEFqSUFkQUpWaXJWeUp5d0Jnb0d6aDI1MjVDc2o1aUsxcVU5NHJUSHRWYjM4RFdiaTItbzE2WTI4eVZsTEhXazE1bVpOby1sY0VjUVNiOU5tMWMtOHhTVEpiYlg0WVVZ?oc=5,1765440000,"Is Korean Skin Care Worth the Hype? Yes, and Dermatologists Share Why - TODAY.com","Is Korean Skin Care Worth the Hype? Yes, and Dermatologists Share Why - TODAY.com",skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTBJNUZSZmhuRTY0eHp2UVlDLXZCc3FqczZvX2ZkRFUtbThuWTBwYkE4M3FVM0xuUzk4UUgwYUZUcHV0RThfeVF6QjVYWG8yYlBKdUZRMnc0MEVmWFlKVFFKLVg2ZlFNM1MzQjRSd0xZWmtPc2MzbWg5YXhqX3lJbWc1ZkVNbmp0TXFTdEpBR3ZUYW5lb0M4bzFGOWVDanZyUXc?oc=5,1765440000,"Here's Why Dermatologists Are Debunking the Term ""Sushi Face"" - hypebae.com","Here's Why Dermatologists Are Debunking the Term ""Sushi Face"" - hypebae.com",skincare trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1ZaZDB0dnNiVmhqYkdOREZEZDVZQ210bXBBemhXeW42Vk5GVVp5MzM1OGVZbWFMbjBEdG0xWGtXb0JKWUhHb2gxYkZReFVKRURJN1pnM0RfRFZOc29hcW5pZEh0anU0YVliQmxYTTJMUUZDaUtJVnBYVHQzNzZTc1FRajFUZ0M2Y29KNWdCak1ka0pHMlE?oc=5,1768944936,The Soft Grunge Makeup Trend Blends the Best of Both Worlds - Teen Vogue,The Soft Grunge Makeup Trend Blends the Best of Both Worlds - Teen Vogue,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMibEFVX3lxTFA2TGlGVlMzUzBfZjNKd3p4ampSSDVldDl5Si1WdnRxcGdhRUZLME5DZm9nMDdsbEZkTnJOTWpQR19aZm1jWWplQnNfbWVuNHlzUjk2ZmpNb1FVc3F5ZXFPVTNaeFREQzU4U1RGQw?oc=5,1767262386,From Blush Blocking to Cloud Skin—6 Makeup Trends That Are Poised to Overtake 2026 - Who What Wear,From Blush Blocking to Cloud Skin—6 Makeup Trends That Are Poised to Overtake 2026 - Who What Wear,makeup trend
@@ -1010,13 +1490,13 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMia0FVX3lxTE95dHBzW
 gnews,news.google.com,https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMGZOTDhsalRQY3pkVTFUVC1NR1lUOXpMVXlaQnRKVUx4SzlQeGcwY0lOeW1IVnl5N3pUbDlhOVpJSk5lenVsSll1RmlGWWdQZ05pTFFUU0Y1aE1HVkU1ejhzdm9jRnRIZTFZ?oc=5,1768595143,How To Nail TikTok’s 'Sade Girl' Makeup Trend This Winter - essence.com,How To Nail TikTok’s 'Sade Girl' Makeup Trend This Winter - essence.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZzTzM0eHBObFBBTUlwNHpNUVpxMEt4U1NUZkMta2VGX2ZzZW5TclJQTlJ4d1o0NGwxT3d0V3Z5XzRGcy1iUUVudUJYaVR6d0VFNXUyaUZpZXlMZW93M2FxaVFvLXloXzdCWkZfWm9kRGpqMmFIb3Y2NFVkY0lmYzQyYnl0aGZRWEdZRDVNNXdBR2hmMUc3LUJKQ0wyQnVCYVhrTDJnWDliMTNwanEzaDlJN3ZLUV9iYmZaTNIBwgFBVV95cUxOOGFCS0pWcTZ0Ukg3MTFNUkRmeDc1NkhxSzQxQ0xBQnVJa0Y0RlVDbkVvQ0JZX2Qzdk92aXFqZEtiT3Itc29mMlU5dm1OUjQwRHQwNnlTUHpZYzdqTEExbUZjLWxHeXN3LUY3cFV4cTN2RkJubVNTUTRWcDR4Y2NjLTg2enlwYVFSajVzSkJhTGJET3UwQlZUYlhJWXBfMjNKNzVrYTgyOEtreFo3RWl6OGxEbHRCWkk0VnFFY1VoQl9HQQ?oc=5,1769054555,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,Skinimalism skincare and the 2016 trend: Why doing less now delivers more - Prestige Hong Kong,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2U29jQThUcFJTdDJhSmsxVkF4UzZuTmp3dWZkV0k5YzlmUllWQVBId2FlaTRHU191WnhGSmNSSXJmVDkyczY4Ny1UMXZIeGYwUmNGcmFwTzNHZWs?oc=5,1768204800,Nina Park Makeup Is Officially Our First Beauty Trend of 2026 - PureWow,Nina Park Makeup Is Officially Our First Beauty Trend of 2026 - PureWow,makeup trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXNiQktVQWZ0OG5kcE1kY1BYaHhfMms2OC01NS1CaERYX3Z3b1RZSmZFX29tSWtXZmJyNjIxbUZkVnRVMkMzZG11Nzhub1NfMURGSzRoaGZ6YUZfYTQtWU5WOG94R3NpUXR3MGN6QnpOUWJycmZmY3hlWE9EYUxTY1lUdWZDcEE?oc=5,1768594728,"The 7 Best K-Beauty Makeup Trends to Try in 2026, According to a Korean Beauty Editor - Harper's BAZAAR","The 7 Best K-Beauty Makeup Trends to Try in 2026, According to a Korean Beauty Editor - Harper's BAZAAR",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KRVJpSkNsZXk4a1N4TWZUWnpHbm9WeE1HcEhTR2J0dmgxeTRnWG1Ud0NWUmV0RURLdElTVGJySzFrblhFVl9BMWI4amlpVzM4dl9LTQ?oc=5,1767254400,"The Halo Lip Will Be 2026’s Biggest Beauty Trend, According To This Celeb Makeup Artist - Vogue","The Halo Lip Will Be 2026’s Biggest Beauty Trend, According To This Celeb Makeup Artist - Vogue",makeup trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXNiQktVQWZ0OG5kcE1kY1BYaHhfMms2OC01NS1CaERYX3Z3b1RZSmZFX29tSWtXZmJyNjIxbUZkVnRVMkMzZG11Nzhub1NfMURGSzRoaGZ6YUZfYTQtWU5WOG94R3NpUXR3MGN6QnpOUWJycmZmY3hlWE9EYUxTY1lUdWZDcEE?oc=5,1768594728,"The 7 Best K-Beauty Makeup Trends to Try in 2026, According to a Korean Beauty Editor - Harper's BAZAAR","The 7 Best K-Beauty Makeup Trends to Try in 2026, According to a Korean Beauty Editor - Harper's BAZAAR",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMV8xTXA0M2JaYS1SQlVrcktvcWpXUU1IWnB1YzBiWjJkaUlkQ1BFOHdJVUNfNjJBQnFCYVNyT3Rja1hXRFZsQ1VJeXlUNHc1d3ZwR3IwVWJ0bnBRenJ2ZQ?oc=5,1767686400,"The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters - instyle.com","The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters - instyle.com",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlBJN24yWEd1RkYxOE5fQXJYeUpXZzRFVjB6bWdzMGR1c0tvTGF2WEdIdUl2eS1vMDdySFh4bGlINHRUalNoRFlwbzFBT05jVG55cS0wYjlNSXhVc3pVZWxKMkdudzhia0lDZGltdzNwTG5UZVdmSzVzdkJ6S1dvWHFKQWItb0FMbFJqeE9MOURxS2pZTmFWSV9nYTU?oc=5,1767340800,"Everything to Know About Underpainting, the Makeup Trend Giving Celebs Filtered Skin IRL - W Magazine","Everything to Know About Underpainting, the Makeup Trend Giving Celebs Filtered Skin IRL - W Magazine",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdzQ0OXlSbWVrOW1FUXdtSURIcjVsZnJhNEFleWtxZnRjcDdESjdFZlBXUVR0eEM0Tzg2NDN2M2tqU0pEaXd6TTZBOE5yRkVZR2ZBQU1DNWp1RTlxN2V6UHNHUUFJb28?oc=5,1767081600,"9 Makeup Trends to Experiment With in 2026: Grunge, Dewy, Waterlines, Freckles, & More - Teen Vogue","9 Makeup Trends to Experiment With in 2026: Grunge, Dewy, Waterlines, Freckles, & More - Teen Vogue",makeup trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHI2WHV6bzd5TXFwbXJmQXpiRWNCdXc2NTRURjVQVVg5V3pSN1lVOFRjZy1kdUEzc2pxVVNka1Jia1hrcGZnckxaQlFtZGQ2ODZmRW5aWktiUEM0QWVYOU8xUVNqc2tiNGVtYzc2TlU4MHg4X014Ty1Va2E3YlN4c3dwb9IBiAFBVV95cUxNbjNKVGJXeU5BV1RrYlZicFZMam9SRVNJYXZiVFZWd05qYmxqT2dqUjdQUlhtZ0F4Ql9wei1qdU5Xa1NrWkdvSk1ENUtGTnJwX1gtQmpkb0R1R2h2LXhyOVFadXZsTmZmcmRrb2lfSXFPNklsSWVGb2lqU0d1QjUzQ3hfb0F4TXNJ?oc=5,1769040658,Best new beauty products to buy in 2026 – January - Prestige Hong Kong,Best new beauty products to buy in 2026 – January - Prestige Hong Kong,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5,1768559400,The Vogue Business Beauty Trend Tracker - Vogue,The Vogue Business Beauty Trend Tracker - Vogue,makeup trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHI2WHV6bzd5TXFwbXJmQXpiRWNCdXc2NTRURjVQVVg5V3pSN1lVOFRjZy1kdUEzc2pxVVNka1Jia1hrcGZnckxaQlFtZGQ2ODZmRW5aWktiUEM0QWVYOU8xUVNqc2tiNGVtYzc2TlU4MHg4X014Ty1Va2E3YlN4c3dwb9IBiAFBVV95cUxNbjNKVGJXeU5BV1RrYlZicFZMam9SRVNJYXZiVFZWd05qYmxqT2dqUjdQUlhtZ0F4Ql9wei1qdU5Xa1NrWkdvSk1ENUtGTnJwX1gtQmpkb0R1R2h2LXhyOVFadXZsTmZmcmRrb2lfSXFPNklsSWVGb2lqU0d1QjUzQ3hfb0F4TXNJ?oc=5,1769040658,Best new beauty products to buy in 2026 – January - Prestige Hong Kong,Best new beauty products to buy in 2026 – January - Prestige Hong Kong,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMickFVX3lxTFBEWEdRWC1XNUEwRF9KQ1hoZTM5WWlYaGZtb0x2bUtpcU5wRzdvdkxnY3FPUnNSeVVLbzJjNFRLWXFqV0VVV0Y3TC1lV1J3Tkh0TXN2YVJlaHRndVE5Z3FrOEF1RTM0QzNWSjNoZlFUMlFCUQ?oc=5,1766995200,‘Sad Blush’ Is the Unexpected Makeup Trend Taking Over TikTok This Winter - Glamour,‘Sad Blush’ Is the Unexpected Makeup Trend Taking Over TikTok This Winter - Glamour,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NRnUzeFc2c0hzNWJFNlVuOTZMV2hqamZTdmw1emRjNGtEMHpGLTdJMldwSE9LZEhRb2F3dS01Rng0MGpMMlRJWFg5X01GX180LTROXzI2Mms?oc=5,1767081600,‘Halo Lips’ Are the Volumizing Makeup Trend Replacing Glossy Lips in 2026 - Glamour,‘Halo Lips’ Are the Volumizing Makeup Trend Replacing Glossy Lips in 2026 - Glamour,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnZrR1lfTEd0MW8ySnBuOUlfYTY3aFpJWk5aTG01a2haN1FtSXgzeHN5a1c3cmxUNFRUYlJoeEhkWHNNUXczZlc4T3ZLcG9jRU5TUi1qdUN0eGNEOHNGVVM3MVBaRHZHQ3oyTktFZlNaUmgwQWM2QkZXNG9rYkJTdjNnMl9jN0o1ak1wb200MU1RNWNTb0ZoQ2Nsb1l6V2RZbDN3Rk80QkY?oc=5,1768584257,We’re Calling It: Burgundy Mascara Will Be a Top Beauty Trend of 2026 - Good Housekeeping,We’re Calling It: Burgundy Mascara Will Be a Top Beauty Trend of 2026 - Good Housekeeping,makeup trend
@@ -1027,9 +1507,9 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMiY0FVX3lxTE00dGQwR
 gnews,news.google.com,https://news.google.com/rss/articles/CBMifEFVX3lxTE9DWmQ3R2ZaZkdrVEVDTkREaGxFeTgzaE9xVG1ZdVVKcjJtWmtXM1dHNHZTbEJ2VHVpa1hEMHFmQm5paDRiblN5N0lSODlxSHRzbTFfc1dSbWFjNTFRNjhXdE9PRVRMQW9PLV8wSU5FTnE4Q1RxR2wwWERLMnU?oc=5,1766131200,"The 7 makeup trends that defined 2025, according to celebrity makeup artists - voguescandinavia.com","The 7 makeup trends that defined 2025, according to celebrity makeup artists - voguescandinavia.com",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMVN2ZlF3dm1MUGFkR1VWUjhRQ2YzTllSakRVc0t2Y0huRExRMnItVm5ibVRsZE9Zd0RyT2h4U2wyOFBTaURubFFDaVlhUW50NnJvWG9VbjlUUUlyaDNhQkpDSzVhTVRiT05SanFYQW1pWG84?oc=5,1766736000,All the Beauty Girls Are Ditching Skinimilism for Bold Makeup in 2026 - Marie Claire,All the Beauty Girls Are Ditching Skinimilism for Bold Makeup in 2026 - Marie Claire,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMibEFVX3lxTE1CeEZjLTJ4dXlIVG81S1Bqb294MEthaHVUaVJGLWdXWlc5ZFFzY05JYVhCMldCbENZeXRFTTZNYndDdUI0Q3l1NjUzNVMwNzlVc3YxeGt6bWdIb3hTQlFjbXJYc2tfNHAyZ2huWA?oc=5,1765440000,"The 8 biggest makeup trends for 2026, according to top artists - voguescandinavia.com","The 8 biggest makeup trends for 2026, according to top artists - voguescandinavia.com",makeup trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMidEFVX3lxTE1VUmwyRHNHeUJEWGt2Q25fUW9oVHJRS0t0U3F2dXVIU1ZkQkRYX3J6a1ZhUGJEX0JJSENrX1I2MVd3M1Q0ejRqSk85MmZHTkFfWXFHOUlkOWVzTldCMGdYMHVHemptVkR1VmJld2NGT25BREFJ?oc=5,1768594500,The 7 Best K-Beauty Makeup Trends to Try in 2026 - AOL.com,The 7 Best K-Beauty Makeup Trends to Try in 2026 - AOL.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUFrS1RTMkMxd1R6N0RfV2VhZFAxcU80SlJHdGowSDJGSXZCSVF0aDVBTE9EUDhlNmU0bVFkaTF3ZlNjc0tqZV9BSGx5cmNnSnBXcXhqUlBJbHNlLVE4Q3U0N3psRy1yVmxjcWJ3YzdhcjlzT1ZqQmFHWEkwZjNnRGFn?oc=5,1767686400,Toffee Makeup Is Winter’s Warmest Beauty Trend For Black Women - essence.com,Toffee Makeup Is Winter’s Warmest Beauty Trend For Black Women - essence.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiakFVX3lxTE9WYTJrd2pLbkRFT2lxcnhOX0MwWS1uYXNoZ3RXcl9qdS0zbnZ0aTRhaThOdExlRzRkeG9iS3dwNUp5SzgycWV0VU01bmktNTU4OEEyUHlXdHJMLXpCc0tPd3JFYmo5TnpSc3c?oc=5,1765353600,The French-Inspired Eye Makeup Trend That’s Flattering at Any Age - Parade,The French-Inspired Eye Makeup Trend That’s Flattering at Any Age - Parade,makeup trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMidEFVX3lxTE1VUmwyRHNHeUJEWGt2Q25fUW9oVHJRS0t0U3F2dXVIU1ZkQkRYX3J6a1ZhUGJEX0JJSENrX1I2MVd3M1Q0ejRqSk85MmZHTkFfWXFHOUlkOWVzTldCMGdYMHVHemptVkR1VmJld2NGT25BREFJ?oc=5,1768594500,The 7 Best K-Beauty Makeup Trends to Try in 2026 - AOL.com,The 7 Best K-Beauty Makeup Trends to Try in 2026 - AOL.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMijgFBVV95cUxPX09wQlA5U2MtZ3Byc3dPeGx2VXNLZG5HM0V4LTR6VHFWWlJ2SGMxeFdWX0E0MF9SWlI1alAyNVhRbGhfdmtjLXB4eWFsaHNRSGlkT0l0dWh3TGpVU3dha0d6SEc2cWhTYjVzZ003b2M0MUREZHpBb2YwZlRHTW5FX2UxYlpHb1Q3NG9fTXl3?oc=5,1767945600,The biggest makeup trends of 2026 you need to know about - Vogue India,The biggest makeup trends of 2026 you need to know about - Vogue India,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMidEFVX3lxTE11N3Byc2VLMUo5MDcwblNyYjJFYnNfamp4SHNFMnJTMTRXRjFKWTNQMTJYZWhfRTFZNDZRSnh3QVdmVkZhdFZteGRyU0hETUF4OXVHUDJVelpNMjhRLVgyM0pwWjJVZTUzYTc3OGtudXlwa2xE?oc=5,1768849200,"I’ve Tried Many in My Time, but These Are by Far the 6 Best Lip Liner Stains for Colour That Doesn’t Move - Marie Claire UK","I’ve Tried Many in My Time, but These Are by Far the 6 Best Lip Liner Stains for Colour That Doesn’t Move - Marie Claire UK",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMifEFVX3lxTFBVWGJyenl4U0ZaSmZrVUlTMUZGMXM4WUx2eGswdk1PVTRIVDljd3R2Vjg4c2lzV05SSFNsRW51Y1k3aGE0dGJqY2dfM0NOeEVwNzZWUk5EeE9Ib1d6Q0FIOC0zSnlER3NySXJzMm1vaWNyU0JRcE5ZMlBsU1Y?oc=5,1768478400,6 Youthful Makeup Looks For Older Women That Will Totally Be On Trend In 2026 - women.com,6 Youthful Makeup Looks For Older Women That Will Totally Be On Trend In 2026 - women.com,makeup trend
@@ -1042,10 +1522,12 @@ gnews,news.google.com,https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVNpT
 gnews,news.google.com,https://news.google.com/rss/articles/CBMifkFVX3lxTFBHdFNMZFd2MWVBbjRYMG1aT0NkRkZEQjQ4SENBaUg0ZmZRdzh1WjNLRU1GNzlfRGpVWmtULUNITXVCSzhyd1MwQ1prNzdEQzNLNVNHRDdkVGNFYkNHLXNpaU5JOXhNSGZpNjY1b3F3RDh2YkhRUEo3T3JCLU8zQQ?oc=5,1765353600,"Bye Bye, Boring Shadows and Liners—Colorful Glam Is Trending for 2026 - Marie Claire","Bye Bye, Boring Shadows and Liners—Colorful Glam Is Trending for 2026 - Marie Claire",makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkJ1al9Uclg2Wl95WjFxWEdpTVoyOFRZUXZvZ3l1RmRlRDlTUHFLck1YdkJMY2NKUTVDNkdCMWxHMkNheTJKWmpJZTk3YU51c0VNVVk1ZGFiOVIteHFyUUNkZlh4SHFSWGR5bGZELUZya3lNWkV0UlA4bzVaQjNuWEFLOXhQSkttZ19kQjlhU3lMZUZQaGp5NVBPUkZXRUtOVTlDejdKQVAxUm93XzFGeWFR0gHAAUFVX3lxTE5HNlBJc0FoN2otN2cycHZ4VUNYa1gxZDRpYzhrMjY4c0NIeVdGa3o4UUdpblVHd2ZWZDZLLUlrTjJ4b0VJaExvSklsVTY0WUxJU2czTDZhTXRRUDRYV041Y2c3WmJvRlMwcXREVkFQSWxBRG40R3htLXN4aHJ6eHN3VEc0T0plclcyeXBjV1lGa1pVeFZVak42Y2hRemw0NVJEcEZLVUtQbm01UGFKZHZ2VVN6aXA5cE1WU0Q3Z2N0cg?oc=5,1767945600,Victoria Beckham just made this Gen Z makeup trend cool for women in their 50s - HELLO! Magazine,Victoria Beckham just made this Gen Z makeup trend cool for women in their 50s - HELLO! Magazine,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMingFBVV95cUxNeG0tcS1YZ3ZuVEZyYVpKMWd3VWJfOEdTOExnWERIRmxtMUozN3dMTE1LZ295OWNFVUJnb29UQWkyQXFac0N0LTdjSVZFU2pqWGNtaHdXUHY1YUNyS1BjZWRSMTJpRnFMOHFIN25MREVBVVc0eWh5QzFCNmdIa0V6ZkZLSUZwOVN6bnBNNVl1R1BkdWc5MGVqb0NzT0ZEUQ?oc=5,1766563200,The Viral Cold Girl Makeup Trend Is Back—Get the Look With These Bubblegum Pink Essentials - L'OFFICIEL USA,The Viral Cold Girl Makeup Trend Is Back—Get the Look With These Bubblegum Pink Essentials - L'OFFICIEL USA,makeup trend
-gnews,news.google.com,https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTNkR0FoWDE1YjZZdWpUcTk1UjhiWkpYMGZ0X2FRaXdWRk1YdHFEVjFkcjFEaXVkX0FaVXQydHpsdE5USXR6ekM3bUZKZjRZbURmQTJra1NyS2pnNlI4bGk1S0YxNHUzS3hac0d4VXNUZTExS2VWSDNFQ0Z1anc2UVkyWjFobTlOTkhUeVdYVnRfcThjWWVZWDRUNlZPNTFU?oc=5,1768744800,Karoline Leavitt Is Nearly Unrecognizable In Pics Before Mar-A-Lago Face Transformation - glam.com,Karoline Leavitt Is Nearly Unrecognizable In Pics Before Mar-A-Lago Face Transformation - glam.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDljSHhoWnNZd05jUTQ0WVloaUpZeDUwR0l4UjNObkZUT3AtQXFrQ2gtS2djUkZSTmQ3MHFmTDdUeVdIQ3dtNDgzZ1JlUWxlNHNpS3lqUFIyZV84SWRZelBBUHFRQnhvN3VvMjVMWFpVZnhTSGhnUnNSUE1TbmZSbDFxeDFiYi1zaWduTlU4RkNtTUlZ?oc=5,1768204800,Kylie Jenner Goes Makeup-Free as She Embraces a Viral Beauty Trend as Part of her Golden Globes 2026 Prep - instyle.com,Kylie Jenner Goes Makeup-Free as She Embraces a Viral Beauty Trend as Part of her Golden Globes 2026 Prep - instyle.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0lYU2VPaWF3ei1mRFdKTnlBMEV2QWtuTTNEYUFTNDh3elIzLUM2YUVkVzNkaTAxbjllZ2RxTUJWU1JOaHMwbkxGSGhhcTFab2I1eFJHM2YxVnFqNWZiUDF4RDhNQlRGb2o5ZzhoeGx1Qkd3by1SQmt1STg4N1JlZG8tbkpMVnJx?oc=5,1765526400,"Holiday Season Makeup Trends: Tinsel Shadow, Cherry Lips, Sugarplum Blush and More - WWD","Holiday Season Makeup Trends: Tinsel Shadow, Cherry Lips, Sugarplum Blush and More - WWD",makeup trend
+gnews,news.google.com,https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTNkR0FoWDE1YjZZdWpUcTk1UjhiWkpYMGZ0X2FRaXdWRk1YdHFEVjFkcjFEaXVkX0FaVXQydHpsdE5USXR6ekM3bUZKZjRZbURmQTJra1NyS2pnNlI4bGk1S0YxNHUzS3hac0d4VXNUZTExS2VWSDNFQ0Z1anc2UVkyWjFobTlOTkhUeVdYVnRfcThjWWVZWDRUNlZPNTFU?oc=5,1768744800,Karoline Leavitt Is Nearly Unrecognizable In Pics Before Mar-A-Lago Face Transformation - glam.com,Karoline Leavitt Is Nearly Unrecognizable In Pics Before Mar-A-Lago Face Transformation - glam.com,makeup trend
 gnews,news.google.com,https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZi1mU3BoOUg5TUdRdm9Fa2tpR1BlM1pVRGVFNkp0UnNtY005eEtYN1otaU1PcWZHUi04cDVzRGs2QVlwbUR2X1hyWXN5N1RuOHRTMFZDYmZFaVNrQS1ha3M1QXFrQV84OXhSSkNpeTAzc1FyODhrUEZLUQ?oc=5,1768978800,Want Plump Lips Without the Burn? These Next Gen Lip Plumpers Don’t Skimp on Results - Marie Claire UK,Want Plump Lips Without the Burn? These Next Gen Lip Plumpers Don’t Skimp on Results - Marie Claire UK,makeup trend
+youtube,,https://www.youtube.com/watch?v=ChXhXISjk-0,1769094991,Viral Luxury Beauty Trends Youll Actually Use #shorts,"Viral Luxury Beauty Trends You'll Actually Use — Discover the top beauty trends to try right now for a luxe, modern glow.",beauty trends
+youtube,,https://www.youtube.com/watch?v=PjFNHou9H9M,1769094047,Beauty Trends to Leave Behind &amp; What’s Next in 2026,"n this episode of More Than A Pretty Face, Dr. Azi and Nurse Lacie reflect on the biggest beauty, skincare, and wellness trends of ...",beauty trends
 youtube,,https://www.youtube.com/watch?v=i-brnbg_eqM,1769088750,Durefisha: Hottest TikTok Beauty Trends (For You Page!),"Dive into the hottest beauty trends sweeping TikTok, featuring the stunning Durefisha! Get inspired by these viral looks that are ...",beauty trends
 youtube,,https://www.youtube.com/watch?v=iAAKYAX-reM,1769084914,@LancomeInternational @LancomeUKIreland Lash Idole Curl Goddess #beautytrends #makeupartist,Achieve unstoppable volume and unwavering curl with Lancôme Lash Idôle Curl Goddess Mascara. Powered by the fast-setting ...,beauty trends
 youtube,,https://www.youtube.com/watch?v=rCcrJX5yvpc,1769076904,Future makeup trends decoded. #MakeupFuture #BeautyTrends,"Makeup is shifting toward skin-first, minimal techniques that work both on camera and in real life. This short explains what's ...",beauty trends
@@ -1069,8 +1551,7 @@ youtube,,https://www.youtube.com/watch?v=WN5Y-9tVWzk,1768999508,2025 Skincare Tr
 youtube,,https://www.youtube.com/watch?v=sBDUO5hmy3g,1768995057,"2026 Beauty Trends (SPF, Juicy Lips, Refreshing Your Braids) #viralvideo #beauty #fyp #haircare","Consider this your glossy, no-filter wake-up call. If you're serious about glowing skin, juicy lips, and main-character energy, these ...",beauty trends
 youtube,,https://www.youtube.com/watch?v=E7KEXEEXr7c,1768993452,Ranjhana naino ki #burning2heart #lovemusic #trends #beauty,,beauty trends
 youtube,,https://www.youtube.com/watch?v=WDd1Ch5rMAw,1768989541,Fenty Gloss Bomb Lip Luminizer Hot Chocolit.. #shorts #fentyglossbomb #beautytrendsuganda,Fenty Gloss Bomb Lip Luminizer Hot Chocolit shade available at 110k    . Call/Whatsapp 0704 261 720 for deliveries.,beauty trends
-youtube,,https://www.youtube.com/watch?v=SH5XQK1wMvU,1768989033,Viral TikTok Beauty Trends,Curious about bold makeup but don't want the mess? gildai for iOS has you covered. Upload your photo and try virtual makeup ...,beauty trends
-youtube,,https://www.youtube.com/watch?v=jG_bLtONHnc,1768984806,Макияж одним продуктом #румяна #макияж #тренды,"В выпуске «Бьюти-тренд» узнали у эксперта, как создать полноценный макияж с помощью румян. Полную версию смотрите ...",beauty trends
+youtube,,https://www.youtube.com/watch?v=gHPzL5c48Rk,1769093639,manfaat buah bagi kecantikan kulit #skincare #2026 #trending #buah #skincareroutine #subscribe,,skincare routine trend
 youtube,,https://www.youtube.com/watch?v=ywaWANLvjfs,1769087781,CELEBRITIES SKINCARE ROUTINE SECRET,"Everyone wants that flawless, glowing skin we see on celebrities, but most people try to get it by following viral trends that don't ...",skincare routine trend
 youtube,,https://www.youtube.com/watch?v=I0aDoJpiXyI,1769071148,korean face pack at home 🏡/winter skin care routine 💫#shortsfeed #skincare #trending #trend,face pack for glowing skin homemade how to make simple face pack at home how to make natural face pack at home how to ...,skincare routine trend
 youtube,,https://www.youtube.com/watch?v=Xe5Dm9wbnxo,1769057661,✨🫧IF BOYS ARE SO SMART…🫧✨#skincare #makeup #skincareroutine #preppy #elf #boy #fypシ #viral #trend,,skincare routine trend
@@ -1095,7 +1576,6 @@ youtube,,https://www.youtube.com/watch?v=sBgTGEVSsVk,1768921257,#homeremedies #s
 youtube,,https://www.youtube.com/watch?v=d28K0h0B8VY,1768912250,"Girls, Stop Following These Beauty Trends 🚫 | They’re Ruining Your Natural Glow","Most viral beauty trends look tempting… but not all of them are good for your skin In this short podcast, Anika breaks down the ...",skincare routine trend
 youtube,,https://www.youtube.com/watch?v=A-pJslO72KI,1768903157,You finally stop copying random skincare trends and follow a simple routine🌸,"Glowing skin isn't magic—it's consistency In this video, I'm sharing my simple day & night skincare POV that helped calm my ...",skincare routine trend
 youtube,,https://www.youtube.com/watch?v=_oQ1EhQa7OA,1768893920,How to know if you have Dry Skin? #skincareroutine #skincare #skin #shortvideo #shortsfeed,When your skin drier than Atacama Desert… 🏜️   Moisturize like your life depends on it (it kinda does). #shortvideo #shortsfeed ...,skincare routine trend
-youtube,,https://www.youtube.com/watch?v=gLh0urebeUY,1768888235,meesho product under 100₹.#beauty #skincare #onlineshopping #daily #skincareroutine #trend #order,meesho product under 100₹.#beauty #skincare #onlineshopping #daily #skincareroutine #trend #order @suyashfashion3847 ...,skincare routine trend
 youtube,,https://www.youtube.com/watch?v=PWKTWnmzgDo,1769087621,Simple to Glam Look in 30 Seconds 💄”#GirlsMakeup #MakeupTransformation #Makeup2025 #MakeupShorts,Simple to Glam Look in 30 Seconds ” #GirlsMakeup #MakeupTransformation #Makeup2025 #MakeupShorts ...,makeup trend 2025
 youtube,,https://www.youtube.com/watch?v=g9JuoE0rbho,1769087439,Simple to Glam Look in 30 Seconds 💄”#GirlsMakeup #MakeupTransformation #Makeup2025 #MakeupShorts,Simple to Glam Look in 30 Seconds ” #GirlsMakeup #MakeupTransformation #Makeup2025 #MakeupShorts ...,makeup trend 2025
 youtube,,https://www.youtube.com/watch?v=_6zeLcm8Csg,1769086909,Simple to Glam Look in 30 Seconds 💄”#GirlsMakeup #MakeupTransformation #Makeup2025 #MakeupShorts,Simple to Glam Look in 30 Seconds ” #GirlsMakeup #MakeupTransformation #Makeup2025 #MakeupShorts ...,makeup trend 2025
