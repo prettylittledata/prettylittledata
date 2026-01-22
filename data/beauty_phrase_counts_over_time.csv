@@ -41,10 +41,12 @@ period,Term,Count
 2025-12-08,nails,4
 2025-12-08,pdrn,4
 2025-12-08,predictions,2
+2025-12-08,real,2
 2025-12-08,say,2
 2025-12-08,search,4
 2025-12-08,season,2
 2025-12-08,set,2
+2025-12-08,set dominate,2
 2025-12-08,skincare,8
 2025-12-08,skincare trend,2
 2025-12-08,skincare trends,2
@@ -61,7 +63,6 @@ period,Term,Count
 2025-12-08,wear,4
 2025-12-08,winter,2
 2025-12-08,winter glamour,2
-2025-12-08,wwd,2
 2025-12-15,according,2
 2025-12-15,artists,2
 2025-12-15,asked,2
@@ -193,7 +194,6 @@ period,Term,Count
 2025-12-22,wear,4
 2025-12-22,weigh,2
 2025-12-22,work,2
-2025-12-22,wwd,2
 2025-12-29,according,4
 2025-12-29,achieve,2
 2025-12-29,actually,2
@@ -208,14 +208,15 @@ period,Term,Count
 2025-12-29,blush,6
 2025-12-29,cloud,4
 2025-12-29,comeback,4
+2025-12-29,cool,2
 2025-12-29,cosmopolitan,2
 2025-12-29,dewy,4
+2025-12-29,dominate,2
 2025-12-29,experts,4
 2025-12-29,fashion,2
-2025-12-29,girl,2
-2025-12-29,girl makeup,2
 2025-12-29,giving,2
 2025-12-29,glamour,4
+2025-12-29,glossy,2
 2025-12-29,good,2
 2025-12-29,good housekeeping,2
 2025-12-29,growing,2
@@ -232,16 +233,16 @@ period,Term,Count
 2025-12-29,lips,6
 2025-12-29,look,6
 2025-12-29,magazine,2
-2025-12-29,make,4
-2025-12-29,makeup,20
+2025-12-29,make,6
+2025-12-29,makeup,18
 2025-12-29,makeup trend,6
 2025-12-29,makeup trends,8
-2025-12-29,pack,2
 2025-12-29,people,2
 2025-12-29,predict,2
 2025-12-29,recommended,2
 2025-12-29,research,4
-2025-12-29,set,4
+2025-12-29,set,6
+2025-12-29,set dominate,2
 2025-12-29,skin,6
 2025-12-29,skincare,6
 2025-12-29,skincare trends,2
@@ -249,13 +250,13 @@ period,Term,Count
 2025-12-29,teen,4
 2025-12-29,teen vogue,4
 2025-12-29,tiktok,2
-2025-12-29,trend,16
+2025-12-29,trend,18
 2025-12-29,trends,26
 2025-12-29,trends vogue,4
 2025-12-29,viral,2
 2025-12-29,vogue,14
 2025-12-29,voguescandinavia,2
-2025-12-29,wear,10
+2025-12-29,wear,8
 2025-12-29,winter,2
 2025-12-29,winter glamour,2
 2025-12-29,worth,2
@@ -303,7 +304,6 @@ period,Term,Count
 2026-01-05,serum,2
 2026-01-05,set,2
 2026-01-05,shaping,4
-2026-01-05,shares,4
 2026-01-05,shopping,2
 2026-01-05,skincare,6
 2026-01-05,skincare trend,2
@@ -328,15 +328,13 @@ period,Term,Count
 2026-01-05,work,2
 2026-01-12,according,2
 2026-01-12,achieve,1
-2026-01-12,ahead,2
-2026-01-12,beauty,48
+2026-01-12,beauty,38
 2026-01-12,beauty editor,2
-2026-01-12,beauty trend,24
+2026-01-12,beauty trend,22
 2026-01-12,beauty trend good,6
 2026-01-12,beauty trend tracker,6
-2026-01-12,beauty trends,16
-2026-01-12,beauty trends shaping,6
-2026-01-12,best,6
+2026-01-12,beauty trends,10
+2026-01-12,best,5
 2026-01-12,best beauty,4
 2026-01-12,biggest,6
 2026-01-12,biggest beauty,2
@@ -351,12 +349,8 @@ period,Term,Count
 2026-01-12,calling,6
 2026-01-12,calling burgundy,6
 2026-01-12,calling burgundy mascara,6
-2026-01-12,clean,2
 2026-01-12,cloud,4
-2026-01-12,color,2
-2026-01-12,color mixing,2
-2026-01-12,colors,1
-2026-01-12,creates,1
+2026-01-12,color,1
 2026-01-12,dermatologist,2
 2026-01-12,did,1
 2026-01-12,doing,1
@@ -364,18 +358,16 @@ period,Term,Count
 2026-01-12,essence,2
 2026-01-12,exclusive,4
 2026-01-12,face,4
-2026-01-12,familiar,2
 2026-01-12,feels,2
-2026-01-12,flawless,1
 2026-01-12,free,4
-2026-01-12,french,2
 2026-01-12,fun,4
-2026-01-12,girl,4
+2026-01-12,girl,2
 2026-01-12,girl makeup,2
 2026-01-12,girl makeup trend,2
 2026-01-12,glam,2
 2026-01-12,glamour,4
 2026-01-12,globes,10
+2026-01-12,glossy,2
 2026-01-12,glowing,2
 2026-01-12,glowing skin,2
 2026-01-12,going,2
@@ -386,64 +378,68 @@ period,Term,Count
 2026-01-12,good housekeeping calling,3
 2026-01-12,grwm,1
 2026-01-12,hairstyle,2
+2026-01-12,hairstyle inspiration,1
+2026-01-12,hairstyle inspiration makeup,1
 2026-01-12,hold,2
 2026-01-12,housekeeping,6
 2026-01-12,housekeeping calling,3
 2026-01-12,housekeeping calling burgundy,3
 2026-01-12,ingredient,2
 2026-01-12,inspiration,1
+2026-01-12,inspiration makeup,1
+2026-01-12,inspiration makeup shorts,1
 2026-01-12,instyle,4
 2026-01-12,jenner,8
+2026-01-12,kashees,2
+2026-01-12,kashees viral,1
+2026-01-12,kashees viral look,1
 2026-01-12,kind,2
 2026-01-12,korean,2
 2026-01-12,kylie,8
 2026-01-12,kylie jenner,8
 2026-01-12,like,3
-2026-01-12,lip,3
+2026-01-12,lip,1
 2026-01-12,lips,5
-2026-01-12,look,8
+2026-01-12,lipstick,2
+2026-01-12,look,6
+2026-01-12,look trending,1
+2026-01-12,look trending makeup,1
 2026-01-12,loves,4
-2026-01-12,makeup,46
+2026-01-12,makeup,40
+2026-01-12,makeup hairstyle,1
+2026-01-12,makeup hairstyle inspiration,1
 2026-01-12,makeup look,4
 2026-01-12,makeup shorts,1
-2026-01-12,makeup trend,13
+2026-01-12,makeup shorts kashees,1
+2026-01-12,makeup trend,11
 2026-01-12,makeup trends,6
 2026-01-12,makeupartist,1
 2026-01-12,makeuptutorial,1
 2026-01-12,mascara,6
 2026-01-12,mascara beauty,6
 2026-01-12,mascara beauty trend,6
-2026-01-12,mixing,3
 2026-01-12,nail,2
 2026-01-12,natural,1
-2026-01-12,new,5
-2026-01-12,new beauty,2
+2026-01-12,new,3
 2026-01-12,nicole,4
 2026-01-12,nicole richie,4
 2026-01-12,old,1
 2026-01-12,people,4
-2026-01-12,perfect,2
+2026-01-12,perfect,1
 2026-01-12,products,1
 2026-01-12,puja,2
 2026-01-12,puja makeup,2
 2026-01-12,puja makeup look,2
 2026-01-12,purewow,4
-2026-01-12,red,4
 2026-01-12,reveals,4
 2026-01-12,richie,4
 2026-01-12,saraswati,2
 2026-01-12,saraswati puja,2
 2026-01-12,saraswati puja makeup,2
 2026-01-12,sephora,2
-2026-01-12,shade,1
-2026-01-12,shaping,6
-2026-01-12,shaping vogue,6
-2026-01-12,shaping vogue beauty,3
-2026-01-12,shares,2
-2026-01-12,shine,2
+2026-01-12,shaping,4
 2026-01-12,shorts,5
-2026-01-12,shortsfeed,1
-2026-01-12,silk,2
+2026-01-12,shorts kashees,1
 2026-01-12,simple,1
 2026-01-12,skin,4
 2026-01-12,skincare,8
@@ -451,13 +447,13 @@ period,Term,Count
 2026-01-12,spring,4
 2026-01-12,style,4
 2026-01-12,taking,2
-2026-01-12,tiktok,11
+2026-01-12,tiktok,9
 2026-01-12,times,2
 2026-01-12,tracker,6
 2026-01-12,tracker vogue,6
 2026-01-12,tracker vogue vogue,3
 2026-01-12,transformation,2
-2026-01-12,trend,51
+2026-01-12,trend,44
 2026-01-12,trend golden,8
 2026-01-12,trend golden globes,8
 2026-01-12,trend good,6
@@ -466,30 +462,29 @@ period,Term,Count
 2026-01-12,trend tracker vogue,6
 2026-01-12,trending,2
 2026-01-12,trending makeup,1
-2026-01-12,trends,24
-2026-01-12,trends shaping,6
-2026-01-12,trends shaping vogue,6
+2026-01-12,trending makeup hairstyle,1
+2026-01-12,trends,16
+2026-01-12,trends shaping,4
 2026-01-12,trends try,4
 2026-01-12,tried,2
 2026-01-12,try,4
 2026-01-12,video,1
 2026-01-12,viral,11
 2026-01-12,viral beauty,4
+2026-01-12,viral look,1
+2026-01-12,viral look trending,1
 2026-01-12,viral shorts,1
 2026-01-12,viral skincare,4
 2026-01-12,viral skincare trend,2
-2026-01-12,vogue,20
-2026-01-12,vogue beauty,3
-2026-01-12,vogue beauty trends,3
+2026-01-12,vogue,16
+2026-01-12,vogue beauty,2
+2026-01-12,vogue beauty trends,2
 2026-01-12,vogue business,6
 2026-01-12,vogue business beauty,6
 2026-01-12,vogue vogue,3
 2026-01-12,vogue vogue business,3
-2026-01-12,wear,2
 2026-01-12,weigh,2
 2026-01-12,winter,2
-2026-01-12,wwd,2
-2026-01-12,year,2
 2026-01-12,years,4
 2026-01-12,youtubeshorts,3
 2026-01-12,ytshorts,1
@@ -498,7 +493,7 @@ period,Term,Count
 2026-01-19,achieve,1
 2026-01-19,acid,33
 2026-01-19,acids,5
-2026-01-19,acne,4
+2026-01-19,acne,5
 2026-01-19,act,4
 2026-01-19,active,4
 2026-01-19,actually,13
@@ -507,7 +502,6 @@ period,Term,Count
 2026-01-19,added,3
 2026-01-19,adds,6
 2026-01-19,aesthetic,3
-2026-01-19,ahead,2
 2026-01-19,alongside,4
 2026-01-19,antioxidant,5
 2026-01-19,aren,5
@@ -543,6 +537,7 @@ period,Term,Count
 2026-01-19,bubblegum,4
 2026-01-19,butter,6
 2026-01-19,buy,5
+2026-01-19,calming,4
 2026-01-19,care,8
 2026-01-19,causes,4
 2026-01-19,celebrity,1
@@ -553,14 +548,11 @@ period,Term,Count
 2026-01-19,chic,4
 2026-01-19,chinese,4
 2026-01-19,choice,4
-2026-01-19,claire,2
-2026-01-19,clean,2
+2026-01-19,claire,4
 2026-01-19,cleansing,6
 2026-01-19,cloud,2
 2026-01-19,cold,4
 2026-01-19,color,193
-2026-01-19,color mixing,1
-2026-01-19,colors,2
 2026-01-19,come,4
 2026-01-19,comeback,3
 2026-01-19,comes,7
@@ -574,7 +566,6 @@ period,Term,Count
 2026-01-19,couple,5
 2026-01-19,cozy,4
 2026-01-19,cream,31
-2026-01-19,creates,2
 2026-01-19,cut,23
 2026-01-19,daily,11
 2026-01-19,day,11
@@ -602,14 +593,14 @@ period,Term,Count
 2026-01-19,doing delivers,6
 2026-01-19,doing delivers prestige,6
 2026-01-19,dominate,3
-2026-01-19,don,17
+2026-01-19,don,19
 2026-01-19,don just,3
 2026-01-19,don just word,3
 2026-01-19,don want,3
 2026-01-19,drop,4
 2026-01-19,dry,29
 2026-01-19,dry skin,13
-2026-01-19,earn,3
+2026-01-19,earn,4
 2026-01-19,easy,5
 2026-01-19,editor,1
 2026-01-19,editors,3
@@ -622,11 +613,10 @@ period,Term,Count
 2026-01-19,experience,6
 2026-01-19,expert,7
 2026-01-19,experts,3
-2026-01-19,explains,5
+2026-01-19,explains,6
 2026-01-19,eyes,2
 2026-01-19,face,23
 2026-01-19,facial,3
-2026-01-19,familiar,2
 2026-01-19,family,64
 2026-01-19,fan,3
 2026-01-19,far,4
@@ -641,19 +631,20 @@ period,Term,Count
 2026-01-19,figure div,8
 2026-01-19,figure img,44
 2026-01-19,figure img src,22
-2026-01-19,flawless,2
 2026-01-19,form,4
 2026-01-19,free,8
 2026-01-19,french,2
 2026-01-19,friends,3
 2026-01-19,frosted,5
 2026-01-19,fun,2
+2026-01-19,future,3
 2026-01-19,gave,3
 2026-01-19,girl,2
 2026-01-19,giving,2
 2026-01-19,glam,1
 2026-01-19,glamour,1
 2026-01-19,gloss,6
+2026-01-19,glossy,1
 2026-01-19,glow,10
 2026-01-19,glowing,8
 2026-01-19,glowing skin,7
@@ -671,7 +662,9 @@ period,Term,Count
 2026-01-19,grunge,4
 2026-01-19,grwm,2
 2026-01-19,hair,59
-2026-01-19,hairstyle,2
+2026-01-19,hairstyle,3
+2026-01-19,hairstyle inspiration,2
+2026-01-19,hairstyle inspiration makeup,2
 2026-01-19,hands,8
 2026-01-19,hard,9
 2026-01-19,having,8
@@ -710,13 +703,18 @@ period,Term,Count
 2026-01-19,ingredients,9
 2026-01-19,inkey,5
 2026-01-19,inkey list,5
-2026-01-19,inspiration,2
+2026-01-19,inspiration,3
+2026-01-19,inspiration makeup,2
+2026-01-19,inspiration makeup shorts,2
 2026-01-19,instagram,31
 2026-01-19,isn,11
 2026-01-19,january,6
 2026-01-19,jenner,1
 2026-01-19,just,13
 2026-01-19,just word,3
+2026-01-19,kashees,4
+2026-01-19,kashees viral,2
+2026-01-19,kashees viral look,2
 2026-01-19,keeping,5
 2026-01-19,kind,2
 2026-01-19,know,9
@@ -737,20 +735,24 @@ period,Term,Count
 2026-01-19,length,12
 2026-01-19,let,8
 2026-01-19,level,3
+2026-01-19,life,7
 2026-01-19,lightweight,4
-2026-01-19,like,48
+2026-01-19,like,47
 2026-01-19,like goodness,8
 2026-01-19,like goodness right,8
 2026-01-19,likely,4
 2026-01-19,line,57
-2026-01-19,lip,5
-2026-01-19,lips,3
+2026-01-19,lip,7
+2026-01-19,lips,5
+2026-01-19,lipstick,1
 2026-01-19,list,8
 2026-01-19,little,8
 2026-01-19,live,3
 2026-01-19,long,16
 2026-01-19,longer,10
-2026-01-19,look,31
+2026-01-19,look,32
+2026-01-19,look trending,2
+2026-01-19,look trending makeup,2
 2026-01-19,looking,11
 2026-01-19,looks,13
 2026-01-19,lotion,6
@@ -760,22 +762,24 @@ period,Term,Count
 2026-01-19,magazine,2
 2026-01-19,make,20
 2026-01-19,makes,5
-2026-01-19,makeup,65
+2026-01-19,makeup,69
+2026-01-19,makeup hairstyle,2
+2026-01-19,makeup hairstyle inspiration,2
 2026-01-19,makeup look,13
 2026-01-19,makeup looks,4
 2026-01-19,makeup makeup,4
-2026-01-19,makeup shorts,3
+2026-01-19,makeup shorts,4
+2026-01-19,makeup shorts kashees,2
 2026-01-19,makeup trend,9
-2026-01-19,makeup trends,1
+2026-01-19,makeup trends,2
 2026-01-19,makeupartist,4
 2026-01-19,makeuptutorial,5
 2026-01-19,making,5
-2026-01-19,marie,2
-2026-01-19,marie claire,2
+2026-01-19,marie,4
+2026-01-19,marie claire,4
 2026-01-19,match,3
 2026-01-19,means,4
 2026-01-19,mind,6
-2026-01-19,mixing,1
 2026-01-19,moisture,15
 2026-01-19,moisturizer,34
 2026-01-19,moisturizers,7
@@ -790,7 +794,6 @@ period,Term,Count
 2026-01-19,neck,8
 2026-01-19,need,8
 2026-01-19,new,17
-2026-01-19,new beauty,4
 2026-01-19,niacinamide,8
 2026-01-19,nicole,2
 2026-01-19,nicole richie,2
@@ -810,7 +813,6 @@ period,Term,Count
 2026-01-19,outfit,3
 2026-01-19,outfits,6
 2026-01-19,overall,5
-2026-01-19,pack,5
 2026-01-19,particularly,3
 2026-01-19,patients,8
 2026-01-19,pdrn,1
@@ -839,13 +841,14 @@ period,Term,Count
 2026-01-19,quickly,4
 2026-01-19,radiant,4
 2026-01-19,reach,3
+2026-01-19,real,2
 2026-01-19,really,6
 2026-01-19,reasons,2
 2026-01-19,recently,3
 2026-01-19,recommend,8
+2026-01-19,recommendations,3
 2026-01-19,recommended,4
 2026-01-19,recommends,6
-2026-01-19,red,1
 2026-01-19,rel,77
 2026-01-19,rel noreferrer,49
 2026-01-19,rel noreferrer noopener,49
@@ -854,7 +857,7 @@ period,Term,Count
 2026-01-19,require,4
 2026-01-19,research,1
 2026-01-19,result,4
-2026-01-19,results,5
+2026-01-19,results,7
 2026-01-19,reveals,2
 2026-01-19,reveals beauty,2
 2026-01-19,rich,13
@@ -862,7 +865,7 @@ period,Term,Count
 2026-01-19,right,63
 2026-01-19,right strong,10
 2026-01-19,rough,6
-2026-01-19,routine,20
+2026-01-19,routine,19
 2026-01-19,salon,10
 2026-01-19,saraswati,8
 2026-01-19,saraswati puja,8
@@ -876,34 +879,36 @@ period,Term,Count
 2026-01-19,sephora,3
 2026-01-19,serum,24
 2026-01-19,set,6
+2026-01-19,set dominate,1
 2026-01-19,shade,5
 2026-01-19,shape,1
 2026-01-19,shea,7
 2026-01-19,shea butter,6
 2026-01-19,shine,6
 2026-01-19,shopping,3
-2026-01-19,short,7
-2026-01-19,shorts,20
-2026-01-19,shortsfeed,2
+2026-01-19,short,8
+2026-01-19,shorts,21
+2026-01-19,shorts kashees,2
+2026-01-19,shortsfeed,3
 2026-01-19,silk,4
 2026-01-19,similar,4
 2026-01-19,simple,8
 2026-01-19,simply,3
 2026-01-19,sits,3
 2026-01-19,size,47
-2026-01-19,skin,151
+2026-01-19,skin,152
 2026-01-19,skin care,3
 2026-01-19,skin cells,7
 2026-01-19,skin looks,4
-2026-01-19,skincare,55
+2026-01-19,skincare,56
 2026-01-19,skincare makeup,4
 2026-01-19,skincare routine,3
-2026-01-19,skincare skincareroutine,6
+2026-01-19,skincare skincareroutine,7
 2026-01-19,skincare trend,6
 2026-01-19,skincare trend doing,6
 2026-01-19,skincare trending,3
 2026-01-19,skincare trends,7
-2026-01-19,skincareroutine,16
+2026-01-19,skincareroutine,17
 2026-01-19,skincaretips,4
 2026-01-19,skinimalism,6
 2026-01-19,skinimalism skincare,6
@@ -957,10 +962,11 @@ period,Term,Count
 2026-01-19,trend,46
 2026-01-19,trend doing,6
 2026-01-19,trend doing delivers,6
-2026-01-19,trending,22
-2026-01-19,trending makeup,3
+2026-01-19,trending,24
+2026-01-19,trending makeup,4
+2026-01-19,trending makeup hairstyle,2
 2026-01-19,trending trend,5
-2026-01-19,trends,46
+2026-01-19,trends,47
 2026-01-19,trends define,1
 2026-01-19,trends set,1
 2026-01-19,tried,11
@@ -971,12 +977,14 @@ period,Term,Count
 2026-01-19,using,17
 2026-01-19,vibes,3
 2026-01-19,video,4
-2026-01-19,viral,14
+2026-01-19,viral,16
 2026-01-19,viral beauty,3
+2026-01-19,viral look,2
+2026-01-19,viral look trending,2
 2026-01-19,viral shorts,2
 2026-01-19,vitamin,14
 2026-01-19,vogue,6
-2026-01-19,want,23
+2026-01-19,want,25
 2026-01-19,wash,6
 2026-01-19,wasn,4
 2026-01-19,water,9
@@ -992,7 +1000,7 @@ period,Term,Count
 2026-01-19,women,4
 2026-01-19,won,3
 2026-01-19,word,3
-2026-01-19,work,7
+2026-01-19,work,8
 2026-01-19,worked,4
 2026-01-19,works,3
 2026-01-19,world,6
@@ -1001,4 +1009,4 @@ period,Term,Count
 2026-01-19,year,16
 2026-01-19,years,11
 2026-01-19,youtubeshorts,6
-2026-01-19,ytshorts,12
+2026-01-19,ytshorts,13
