@@ -2,6 +2,7 @@ period,Term,Count
 2025-12-15,bazaar,2
 2025-12-15,biggest,2
 2025-12-15,biggest fashion,2
+2025-12-15,biggest fashion trend,2
 2025-12-15,clothes,2
 2025-12-15,collaboration,4
 2025-12-15,elle,2
@@ -59,7 +60,9 @@ period,Term,Count
 2025-12-22,trend,2
 2025-12-22,trends,6
 2025-12-22,winter,2
-2025-12-29,biggest,8
+2025-12-29,biggest,10
+2025-12-29,biggest style,6
+2025-12-29,biggest style trends,6
 2025-12-29,biggest trends,4
 2025-12-29,brown,4
 2025-12-29,dressing,4
@@ -81,14 +84,17 @@ period,Term,Count
 2025-12-29,solution,4
 2025-12-29,spring,2
 2025-12-29,spring fashion,2
-2025-12-29,style,4
-2025-12-29,style trends,4
+2025-12-29,style,6
+2025-12-29,style trends,6
+2025-12-29,style trends biggest,3
 2025-12-29,stylist,2
 2025-12-29,teen,8
 2025-12-29,times,4
 2025-12-29,trend,14
 2025-12-29,trend predictions,4
-2025-12-29,trends,16
+2025-12-29,trends,18
+2025-12-29,trends biggest,3
+2025-12-29,trends biggest style,3
 2025-12-29,vogue,14
 2025-12-29,wear,4
 2025-12-29,winter,2
@@ -101,6 +107,7 @@ period,Term,Count
 2026-01-05,bold,4
 2026-01-05,claire,2
 2026-01-05,dated,2
+2026-01-05,drop,2
 2026-01-05,fashion,22
 2026-01-05,fashion trend,4
 2026-01-05,fashion trends,16
@@ -109,6 +116,7 @@ period,Term,Count
 2026-01-05,harper,2
 2026-01-05,harper bazaar,2
 2026-01-05,hottest,4
+2026-01-05,instead,2
 2026-01-05,just,2
 2026-01-05,know,4
 2026-01-05,leaving,2
@@ -136,16 +144,18 @@ period,Term,Count
 2026-01-05,year,2
 2026-01-12,biggest,4
 2026-01-12,biggest fashion,2
+2026-01-12,biggest fashion trend,2
 2026-01-12,biggest trends,2
 2026-01-12,fall,2
 2026-01-12,fall winter,2
-2026-01-12,fashion,10
+2026-01-12,fashion,12
 2026-01-12,fashion trend,8
-2026-01-12,fashion trends,2
+2026-01-12,fashion trends,4
 2026-01-12,february,4
 2026-01-12,february wear,4
 2026-01-12,glamour,2
 2026-01-12,inspired,4
+2026-01-12,instead,2
 2026-01-12,jeans,2
 2026-01-12,look,2
 2026-01-12,people,4
@@ -154,16 +164,17 @@ period,Term,Count
 2026-01-12,style,2
 2026-01-12,trend,14
 2026-01-12,trend predictions,2
-2026-01-12,trends,4
+2026-01-12,trends,6
 2026-01-12,vogue,2
 2026-01-12,wear,4
 2026-01-12,western,4
-2026-01-12,winter,2
+2026-01-12,winter,4
 2026-01-19,autumn,4
 2026-01-19,autumn winter,4
 2026-01-19,best,6
 2026-01-19,biggest,5
-2026-01-19,biggest fashion,2
+2026-01-19,biggest fashion,4
+2026-01-19,biggest fashion trend,2
 2026-01-19,black,2
 2026-01-19,bold,1
 2026-01-19,boots,2
@@ -176,10 +187,9 @@ period,Term,Count
 2026-01-19,claire,10
 2026-01-19,clothes,3
 2026-01-19,clothing,4
-2026-01-19,coat,4
+2026-01-19,coat,6
 2026-01-19,collaboration,1
-2026-01-19,color,6
-2026-01-19,color trend,2
+2026-01-19,color,4
 2026-01-19,colours,4
 2026-01-19,cotton,2
 2026-01-19,couture,1
@@ -189,11 +199,11 @@ period,Term,Count
 2026-01-19,denim trend,2
 2026-01-19,dior,4
 2026-01-19,dresses,2
-2026-01-19,elegant,2
+2026-01-19,drop,1
 2026-01-19,fall,6
 2026-01-19,fall winter,5
-2026-01-19,fashion,29
-2026-01-19,fashion trend,8
+2026-01-19,fashion,31
+2026-01-19,fashion trend,10
 2026-01-19,fashion trend predictions,4
 2026-01-19,fashion trends,6
 2026-01-19,fashion week,1
@@ -213,26 +223,27 @@ period,Term,Count
 2026-01-19,hoodie,3
 2026-01-19,hoodies,1
 2026-01-19,inspired,1
+2026-01-19,instead,2
 2026-01-19,jacket,7
 2026-01-19,jackets,4
 2026-01-19,jeans,6
 2026-01-19,just,1
 2026-01-19,know,2
 2026-01-19,ladies,1
+2026-01-19,latest,1
 2026-01-19,leather,2
 2026-01-19,leaving,2
 2026-01-19,leg,4
 2026-01-19,life,6
 2026-01-19,like,1
 2026-01-19,long,6
-2026-01-19,look,7
+2026-01-19,look,5
 2026-01-19,looks,2
 2026-01-19,loose,5
 2026-01-19,love,5
 2026-01-19,loves,2
 2026-01-19,luxury,2
 2026-01-19,magazine,5
-2026-01-19,make,4
 2026-01-19,man,2
 2026-01-19,marie,10
 2026-01-19,marie claire,10
@@ -246,7 +257,7 @@ period,Term,Count
 2026-01-19,new york times,3
 2026-01-19,news,4
 2026-01-19,online,2
-2026-01-19,outfit,7
+2026-01-19,outfit,5
 2026-01-19,outfits,1
 2026-01-19,pants,7
 2026-01-19,paris,6
@@ -265,7 +276,7 @@ period,Term,Count
 2026-01-19,slim,3
 2026-01-19,sneakers,1
 2026-01-19,solution,2
-2026-01-19,spring,12
+2026-01-19,spring,10
 2026-01-19,spring summer,4
 2026-01-19,spring summer trends,4
 2026-01-19,statement,2
@@ -281,7 +292,7 @@ period,Term,Count
 2026-01-19,tops,4
 2026-01-19,trend,28
 2026-01-19,trend predictions,4
-2026-01-19,trends,24
+2026-01-19,trends,22
 2026-01-19,trends define,2
 2026-01-19,trends marie,4
 2026-01-19,trends marie claire,4
@@ -295,8 +306,8 @@ period,Term,Count
 2026-01-19,viral,2
 2026-01-19,vogue,6
 2026-01-19,want,3
-2026-01-19,wardrobe,3
-2026-01-19,wear,21
+2026-01-19,wardrobe,1
+2026-01-19,wear,17
 2026-01-19,wearing,8
 2026-01-19,week,3
 2026-01-19,wide,6
@@ -304,11 +315,11 @@ period,Term,Count
 2026-01-19,women,12
 2026-01-19,wore,1
 2026-01-19,world,3
-2026-01-19,year,5
+2026-01-19,year,3
 2026-01-19,years,6
 2026-01-19,york,7
 2026-01-19,york times,3
-2026-01-19,zara,6
+2026-01-19,zara,4
 2026-01-19,zipper,6
 2026-01-26,autumn,7
 2026-01-26,autumn winter,3
@@ -316,6 +327,7 @@ period,Term,Count
 2026-01-26,bazaar,8
 2026-01-26,best,6
 2026-01-26,bet,4
+2026-01-26,biggest,2
 2026-01-26,black,4
 2026-01-26,bold,2
 2026-01-26,boots,6
@@ -331,7 +343,6 @@ period,Term,Count
 2026-01-26,coat,4
 2026-01-26,collection,13
 2026-01-26,color,7
-2026-01-26,color trend,4
 2026-01-26,colours,2
 2026-01-26,comeback,6
 2026-01-26,cotton,3
@@ -346,7 +357,7 @@ period,Term,Count
 2026-01-26,dress,10
 2026-01-26,dresses,6
 2026-01-26,dressing,2
-2026-01-26,elegant,3
+2026-01-26,drop,2
 2026-01-26,elle,2
 2026-01-26,explore,4
 2026-01-26,fashion,118
@@ -388,8 +399,9 @@ period,Term,Count
 2026-01-26,jacket,4
 2026-01-26,jackets,5
 2026-01-26,jeans,17
-2026-01-26,just,12
+2026-01-26,just,14
 2026-01-26,ladies,3
+2026-01-26,latest,4
 2026-01-26,leather,8
 2026-01-26,leg,2
 2026-01-26,life,2
@@ -404,7 +416,6 @@ period,Term,Count
 2026-01-26,magazine,10
 2026-01-26,magazine meghan,3
 2026-01-26,magazine meghan markle,3
-2026-01-26,make,2
 2026-01-26,man,8
 2026-01-26,marie,6
 2026-01-26,marie claire,6
@@ -428,7 +439,7 @@ period,Term,Count
 2026-01-26,new collection,6
 2026-01-26,new york,6
 2026-01-26,new york times,4
-2026-01-26,news,7
+2026-01-26,news,9
 2026-01-26,online,5
 2026-01-26,ootd,7
 2026-01-26,ootd fashioninspo,6
@@ -499,7 +510,7 @@ period,Term,Count
 2026-01-26,trend hunter,2
 2026-01-26,trending,14
 2026-01-26,trendingshorts,10
-2026-01-26,trends,35
+2026-01-26,trends,37
 2026-01-26,trends define,4
 2026-01-26,trends try,4
 2026-01-26,trends wear,2
