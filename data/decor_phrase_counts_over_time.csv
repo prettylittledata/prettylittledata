@@ -1,6 +1,6 @@
 period,Term,Count
 2025-12-15,according,2
-2025-12-15,apartment,2
+2025-12-15,apartment,4
 2025-12-15,art,2
 2025-12-15,bedroom,2
 2025-12-15,big,2
@@ -42,12 +42,12 @@ period,Term,Count
 2025-12-15,room,2
 2025-12-15,say,2
 2025-12-15,share,2
-2025-12-15,small,2
+2025-12-15,small,4
 2025-12-15,smart,2
 2025-12-15,southern,2
 2025-12-15,southern living,2
 2025-12-15,space,2
-2025-12-15,spaces,2
+2025-12-15,spaces,4
 2025-12-15,style,4
 2025-12-15,trends,12
 2025-12-15,trends according,2
@@ -120,10 +120,9 @@ period,Term,Count
 2025-12-29,business insider interior,2
 2025-12-29,color,2
 2025-12-29,dead,4
-2025-12-29,decor,28
+2025-12-29,decor,26
 2025-12-29,decor home,2
 2025-12-29,decor home decor,2
-2025-12-29,decor ideas,2
 2025-12-29,decor trends,6
 2025-12-29,define,4
 2025-12-29,design,20
@@ -150,9 +149,8 @@ period,Term,Count
 2025-12-29,gardens,6
 2025-12-29,gardens design,2
 2025-12-29,gardens design trends,2
-2025-12-29,home,28
-2025-12-29,home decor,12
-2025-12-29,home decor ideas,2
+2025-12-29,home,26
+2025-12-29,home decor,10
 2025-12-29,home decor trends,4
 2025-12-29,home design,6
 2025-12-29,home design trends,4
@@ -169,7 +167,6 @@ period,Term,Count
 2025-12-29,house,6
 2025-12-29,house beautiful,6
 2025-12-29,huge,6
-2025-12-29,ideas,2
 2025-12-29,insider,4
 2025-12-29,insider interior,2
 2025-12-29,instantly,2
@@ -183,15 +180,13 @@ period,Term,Count
 2025-12-29,interiors,6
 2025-12-29,interiors trends,6
 2025-12-29,just,4
-2025-12-29,living,8
+2025-12-29,living,6
 2025-12-29,living room,4
 2025-12-29,living room trends,4
 2025-12-29,livingetc,2
 2025-12-29,look,2
-2025-12-29,magazine,6
 2025-12-29,mcgee,4
 2025-12-29,new,8
-2025-12-29,nostalgia,2
 2025-12-29,old,4
 2025-12-29,old new,4
 2025-12-29,outdated,8
@@ -215,7 +210,6 @@ period,Term,Count
 2025-12-29,today,2
 2025-12-29,totally,2
 2025-12-29,trend,2
-2025-12-29,trending,2
 2025-12-29,trends,54
 2025-12-29,trends according,4
 2025-12-29,trends designers,6
@@ -308,7 +302,6 @@ period,Term,Count
 2026-01-05,new,8
 2026-01-05,new year,4
 2026-01-05,new york,4
-2026-01-05,nostalgia,4
 2026-01-05,perfect,6
 2026-01-05,predict,4
 2026-01-05,reveal,2
@@ -338,7 +331,7 @@ period,Term,Count
 2026-01-12,architectural,4
 2026-01-12,area,2
 2026-01-12,art,2
-2026-01-12,beautiful,4
+2026-01-12,beautiful,6
 2026-01-12,bedroom,2
 2026-01-12,best,2
 2026-01-12,better,4
@@ -351,6 +344,7 @@ period,Term,Count
 2026-01-12,decor trends,4
 2026-01-12,decorating,2
 2026-01-12,define,2
+2026-01-12,defining,4
 2026-01-12,design,18
 2026-01-12,design trends,8
 2026-01-12,designer,2
@@ -366,10 +360,10 @@ period,Term,Count
 2026-01-12,elle,8
 2026-01-12,elle decor,8
 2026-01-12,end,2
-2026-01-12,forget,2
+2026-01-12,forget,4
 2026-01-12,furniture,2
 2026-01-12,furniture trends,2
-2026-01-12,gardens,10
+2026-01-12,gardens,12
 2026-01-12,gardens designers,1
 2026-01-12,gardens designers agree,1
 2026-01-12,gardens home,1
@@ -385,14 +379,14 @@ period,Term,Count
 2026-01-12,home trends,4
 2026-01-12,home trends designers,2
 2026-01-12,homegoods,2
-2026-01-12,homes,10
-2026-01-12,homes gardens,10
+2026-01-12,homes,12
+2026-01-12,homes gardens,12
 2026-01-12,homes gardens designers,1
 2026-01-12,homes gardens home,1
 2026-01-12,hottest,2
 2026-01-12,hottest home,2
-2026-01-12,house,2
-2026-01-12,house beautiful,2
+2026-01-12,house,4
+2026-01-12,house beautiful,4
 2026-01-12,housekeeping,4
 2026-01-12,housekeeping home,1
 2026-01-12,housekeeping home trends,1
@@ -403,37 +397,44 @@ period,Term,Count
 2026-01-12,interior design trends,6
 2026-01-12,interior designers,4
 2026-01-12,interior designers share,2
-2026-01-12,interiors,2
+2026-01-12,interiors,4
 2026-01-12,just,2
-2026-01-12,living,6
-2026-01-12,living room,6
-2026-01-12,living room trends,6
+2026-01-12,living,10
+2026-01-12,living room,10
+2026-01-12,living room trend,2
+2026-01-12,living room trends,8
 2026-01-12,look,4
 2026-01-12,major,2
 2026-01-12,make,2
+2026-01-12,mcgee,2
 2026-01-12,mean,4
 2026-01-12,minimalism,2
-2026-01-12,new,2
+2026-01-12,need,2
+2026-01-12,new,4
 2026-01-12,outdated,2
 2026-01-12,reveal,4
-2026-01-12,room,6
-2026-01-12,room trends,6
+2026-01-12,room,10
+2026-01-12,room trend,2
+2026-01-12,room trends,8
 2026-01-12,rooms,2
 2026-01-12,say,6
 2026-01-12,says,2
 2026-01-12,share,2
 2026-01-12,share trends,2
+2026-01-12,shea,2
+2026-01-12,shea mcgee,2
 2026-01-12,small,4
 2026-01-12,small spaces,4
 2026-01-12,spaces,4
 2026-01-12,storage,2
 2026-01-12,style,2
+2026-01-12,target,2
 2026-01-12,time,2
 2026-01-12,times,2
 2026-01-12,transform,2
 2026-01-12,transform home,2
-2026-01-12,trend,4
-2026-01-12,trends,34
+2026-01-12,trend,6
+2026-01-12,trends,36
 2026-01-12,trends designers,2
 2026-01-12,trends designers say,2
 2026-01-12,trends good,2
@@ -454,6 +455,7 @@ period,Term,Count
 2026-01-19,decorating,4
 2026-01-19,decorating trends,4
 2026-01-19,decorating trends making,4
+2026-01-19,defining,2
 2026-01-19,design,16
 2026-01-19,design trends,14
 2026-01-19,designers,8
@@ -499,6 +501,7 @@ period,Term,Count
 2026-01-19,making,6
 2026-01-19,making comeback,6
 2026-01-19,mean,2
+2026-01-19,need,2
 2026-01-19,new,4
 2026-01-19,nostalgic,4
 2026-01-19,nostalgic decorating,4
@@ -560,7 +563,7 @@ period,Term,Count
 2026-01-26,buy,3
 2026-01-26,camping,8
 2026-01-26,cardboard,7
-2026-01-26,center,12
+2026-01-26,center,14
 2026-01-26,city,4
 2026-01-26,class,43
 2026-01-26,class attachment,10
@@ -591,7 +594,7 @@ period,Term,Count
 2026-01-26,decorating trends,4
 2026-01-26,decorating trends making,4
 2026-01-26,define,6
-2026-01-26,design,100
+2026-01-26,design,103
 2026-01-26,design ideas,19
 2026-01-26,design perfect,5
 2026-01-26,design perfect modern,5
@@ -600,8 +603,8 @@ period,Term,Count
 2026-01-26,design trends,30
 2026-01-26,designed,5
 2026-01-26,designer,5
-2026-01-26,designers,26
-2026-01-26,designers say,10
+2026-01-26,designers,28
+2026-01-26,designers say,12
 2026-01-26,designers share,4
 2026-01-26,designers share trends,4
 2026-01-26,designing,4
@@ -639,7 +642,7 @@ period,Term,Count
 2026-01-26,functional,4
 2026-01-26,furniture,10
 2026-01-26,garden,4
-2026-01-26,gardens,18
+2026-01-26,gardens,16
 2026-01-26,gardens designers,1
 2026-01-26,genius,3
 2026-01-26,good,2
@@ -653,18 +656,19 @@ period,Term,Count
 2026-01-26,height src width,10
 2026-01-26,high,4
 2026-01-26,historic,7
-2026-01-26,home,72
+2026-01-26,home,74
 2026-01-26,home decor,31
 2026-01-26,home decor idea,4
 2026-01-26,home decor ideas,14
 2026-01-26,home decor trends,2
-2026-01-26,home design,4
+2026-01-26,home design,6
 2026-01-26,home design trends,3
 2026-01-26,home trend,2
+2026-01-26,home trends,2
 2026-01-26,homedecor,30
 2026-01-26,homedecor interiordesign,6
-2026-01-26,homes,27
-2026-01-26,homes gardens,18
+2026-01-26,homes,25
+2026-01-26,homes gardens,16
 2026-01-26,homes gardens designers,1
 2026-01-26,house,37
 2026-01-26,house beautiful,8
@@ -711,10 +715,10 @@ period,Term,Count
 2026-01-26,led mirror design,5
 2026-01-26,led mirror explore,5
 2026-01-26,lighting,4
-2026-01-26,like,9
+2026-01-26,like,10
 2026-01-26,live,3
-2026-01-26,living,33
-2026-01-26,living room,21
+2026-01-26,living,31
+2026-01-26,living room,19
 2026-01-26,living room decorating,3
 2026-01-26,living room trend,6
 2026-01-26,living space,3
@@ -725,9 +729,9 @@ period,Term,Count
 2026-01-26,love,1
 2026-01-26,luxury,24
 2026-01-26,major,4
-2026-01-26,make,6
+2026-01-26,make,7
 2026-01-26,makeover,5
-2026-01-26,making,7
+2026-01-26,making,8
 2026-01-26,mansion,1
 2026-01-26,marble,4
 2026-01-26,market,6
@@ -744,6 +748,7 @@ period,Term,Count
 2026-01-26,modular,6
 2026-01-26,moment,1
 2026-01-26,multifunctional,4
+2026-01-26,need,1
 2026-01-26,new,17
 2026-01-26,new year,1
 2026-01-26,new york,1
@@ -760,6 +765,7 @@ period,Term,Count
 2026-01-26,perfect,7
 2026-01-26,perfect modern,5
 2026-01-26,plan,5
+2026-01-26,possible,5
 2026-01-26,post,31
 2026-01-26,post image,10
 2026-01-26,post image height,10
@@ -776,7 +782,7 @@ period,Term,Count
 2026-01-26,right,8
 2026-01-26,right homes,6
 2026-01-26,right homes gardens,6
-2026-01-26,room,30
+2026-01-26,room,28
 2026-01-26,room decorating,3
 2026-01-26,room decorating ideas,3
 2026-01-26,room trend,6
@@ -787,7 +793,7 @@ period,Term,Count
 2026-01-26,rws img alt,10
 2026-01-26,rws title,10
 2026-01-26,rws title style,10
-2026-01-26,say,10
+2026-01-26,say,12
 2026-01-26,says,4
 2026-01-26,scale,5
 2026-01-26,sensor,5
@@ -828,7 +834,7 @@ period,Term,Count
 2026-01-26,start,2
 2026-01-26,storage,3
 2026-01-26,strong,10
-2026-01-26,studio,11
+2026-01-26,studio,12
 2026-01-26,stunning,4
 2026-01-26,style,16
 2026-01-26,style text,10
@@ -861,9 +867,9 @@ period,Term,Count
 2026-01-26,touch sensor led,5
 2026-01-26,transform,9
 2026-01-26,transform home,4
-2026-01-26,trend,18
+2026-01-26,trend,16
 2026-01-26,trending,5
-2026-01-26,trends,52
+2026-01-26,trends,54
 2026-01-26,trends designers,2
 2026-01-26,trends good,2
 2026-01-26,trends good housekeeping,2
@@ -882,8 +888,8 @@ period,Term,Count
 2026-01-26,upgrade,3
 2026-01-26,urban,4
 2026-01-26,use,8
-2026-01-26,used,5
-2026-01-26,using,6
+2026-01-26,used,3
+2026-01-26,using,7
 2026-01-26,video,16
 2026-01-26,video explore,3
 2026-01-26,video showcase,5
@@ -895,13 +901,13 @@ period,Term,Count
 2026-01-26,wall,9
 2026-01-26,warm,3
 2026-01-26,watch,6
-2026-01-26,way,2
+2026-01-26,way,5
 2026-01-26,welcome,7
 2026-01-26,width,10
 2026-01-26,width class,10
 2026-01-26,width class rws,10
 2026-01-26,work,7
 2026-01-26,year,10
-2026-01-26,years,5
+2026-01-26,years,3
 2026-01-26,york,1
 2026-01-26,youtubeshorts,4
