@@ -11,7 +11,6 @@ period,Term,Count
 2025-12-15,care,4
 2025-12-15,color,2
 2025-12-15,cosmetics,6
-2025-12-15,cosmetics business,6
 2025-12-15,cosmopolitan,2
 2025-12-15,defined,2
 2025-12-15,essence,2
@@ -58,8 +57,9 @@ period,Term,Count
 2025-12-15,year,2
 2025-12-15,young,2
 2025-12-22,according,2
-2025-12-22,beauty,6
+2025-12-22,beauty,8
 2025-12-22,beauty editor,2
+2025-12-22,beauty industry,4
 2025-12-22,blurred,2
 2025-12-22,blurred lips,2
 2025-12-22,bold,4
@@ -72,13 +72,13 @@ period,Term,Count
 2025-12-22,eyes,2
 2025-12-22,glamour,2
 2025-12-22,india,2
-2025-12-22,industry,2
+2025-12-22,industry,4
 2025-12-22,know,2
 2025-12-22,lips,2
 2025-12-22,makeup,6
 2025-12-22,makeup trend,2
 2025-12-22,new,2
-2025-12-22,shape,2
+2025-12-22,shape,4
 2025-12-22,skin,2
 2025-12-22,skin care,2
 2025-12-22,skincare,8
@@ -89,14 +89,14 @@ period,Term,Count
 2025-12-22,times,2
 2025-12-22,times india,2
 2025-12-22,trend,6
-2025-12-22,trends,10
+2025-12-22,trends,12
 2025-12-22,trends define,4
 2025-12-22,wear,2
 2025-12-22,work,2
 2025-12-29,according,4
-2025-12-29,actually,2
+2025-12-29,actually,4
 2025-12-29,artist,4
-2025-12-29,beauty,18
+2025-12-29,beauty,20
 2025-12-29,beauty trend,4
 2025-12-29,beauty trends,12
 2025-12-29,big,2
@@ -111,6 +111,7 @@ period,Term,Count
 2025-12-29,glossy,2
 2025-12-29,hair,2
 2025-12-29,halo,6
+2025-12-29,head,2
 2025-12-29,huge,4
 2025-12-29,know,2
 2025-12-29,lip,4
@@ -121,6 +122,8 @@ period,Term,Count
 2025-12-29,makeup,18
 2025-12-29,makeup trend,6
 2025-12-29,makeup trends,8
+2025-12-29,meet,2
+2025-12-29,products,2
 2025-12-29,research,4
 2025-12-29,season,2
 2025-12-29,set,2
@@ -129,12 +132,13 @@ period,Term,Count
 2025-12-29,skincare,4
 2025-12-29,skincare trends,2
 2025-12-29,taking,2
-2025-12-29,tiktok,4
+2025-12-29,tiktok,6
+2025-12-29,told,2
 2025-12-29,trend,10
 2025-12-29,trends,22
 2025-12-29,unexpected,2
 2025-12-29,vogue,12
-2025-12-29,wear,10
+2025-12-29,wear,12
 2025-12-29,winter,2
 2025-12-29,worth,2
 2025-12-29,wwd,2
@@ -158,12 +162,10 @@ period,Term,Count
 2026-01-05,black,4
 2026-01-05,blurred,4
 2026-01-05,blurred lips,4
-2026-01-05,business,4
+2026-01-05,business,2
 2026-01-05,care,2
-2026-01-05,clean,4
+2026-01-05,clean,2
 2026-01-05,color,2
-2026-01-05,cosmetics,2
-2026-01-05,cosmetics business,2
 2026-01-05,cosmic,2
 2026-01-05,cosmopolitan,2
 2026-01-05,define,4
@@ -175,7 +177,6 @@ period,Term,Count
 2026-01-05,face,2
 2026-01-05,fashion,2
 2026-01-05,fashion trends,1
-2026-01-05,girl,2
 2026-01-05,glass,4
 2026-01-05,glass nails,4
 2026-01-05,globes,2
@@ -193,7 +194,6 @@ period,Term,Count
 2026-01-05,luxurylondon,6
 2026-01-05,luxurylondon biggest,3
 2026-01-05,luxurylondon biggest beauty,3
-2026-01-05,make,2
 2026-01-05,makeup,16
 2026-01-05,makeup trend,2
 2026-01-05,makeup trends,8
@@ -235,16 +235,20 @@ period,Term,Count
 2026-01-05,work,2
 2026-01-12,according,2
 2026-01-12,bazaar,4
-2026-01-12,beauty,26
+2026-01-12,beauty,28
 2026-01-12,beauty editor,2
-2026-01-12,beauty trend,10
+2026-01-12,beauty trend,12
 2026-01-12,beauty trends,10
 2026-01-12,beauty trends defining,2
 2026-01-12,best,2
 2026-01-12,best beauty,2
 2026-01-12,biggest,2
-2026-01-12,burgundy,4
-2026-01-12,calling,4
+2026-01-12,burgundy,6
+2026-01-12,burgundy mascara,6
+2026-01-12,burgundy mascara beauty,6
+2026-01-12,calling,6
+2026-01-12,calling burgundy,6
+2026-01-12,calling burgundy mascara,6
 2026-01-12,cloud,2
 2026-01-12,coming,2
 2026-01-12,defining,2
@@ -276,6 +280,9 @@ period,Term,Count
 2026-01-12,makeup,16
 2026-01-12,makeup trend,6
 2026-01-12,makeup trends,4
+2026-01-12,mascara,6
+2026-01-12,mascara beauty,6
+2026-01-12,mascara beauty trend,6
 2026-01-12,nail,2
 2026-01-12,new,4
 2026-01-12,officially,4
@@ -292,7 +299,7 @@ period,Term,Count
 2026-01-12,taking,2
 2026-01-12,tiktok,4
 2026-01-12,treatments,2
-2026-01-12,trend,22
+2026-01-12,trend,24
 2026-01-12,trend good,4
 2026-01-12,trends,14
 2026-01-12,trends defining,2
@@ -305,6 +312,7 @@ period,Term,Count
 2026-01-12,viral skincare trend,2
 2026-01-12,vogue,4
 2026-01-12,winter,2
+2026-01-12,yahoo,4
 2026-01-12,years,2
 2026-01-19,achieve,4
 2026-01-19,age,2
@@ -442,6 +450,7 @@ period,Term,Count
 2026-01-26,beautiful,4
 2026-01-26,beauty,91
 2026-01-26,beauty editor,1
+2026-01-26,beauty industry,1
 2026-01-26,beauty trend,17
 2026-01-26,beauty trends,19
 2026-01-26,beauty trends fall,6
@@ -956,6 +965,7 @@ period,Term,Count
 2026-01-26,tips,8
 2026-01-26,tired,5
 2026-01-26,today,13
+2026-01-26,told,2
 2026-01-26,took,7
 2026-01-26,total,9
 2026-01-26,traditional,4
@@ -1013,6 +1023,7 @@ period,Term,Count
 2026-01-26,worth,5
 2026-01-26,writing,8
 2026-01-26,wwd,4
+2026-01-26,yahoo,2
 2026-01-26,year,18
 2026-01-26,years,22
 2026-01-26,yes,13
