@@ -135,6 +135,7 @@ period,Term,Count
 2026-01-12,designer,3
 2026-01-12,designers,2
 2026-01-12,end,1
+2026-01-12,familiar,2
 2026-01-12,feels,1
 2026-01-12,font,4
 2026-01-12,fonts,3
@@ -142,6 +143,7 @@ period,Term,Count
 2026-01-12,fresh,1
 2026-01-12,friendly,1
 2026-01-12,graphic,4
+2026-01-12,include,2
 2026-01-12,interface,1
 2026-01-12,like,1
 2026-01-12,looking,1
@@ -163,7 +165,7 @@ period,Term,Count
 2026-01-12,techniques,1
 2026-01-12,tips,1
 2026-01-12,today,1
-2026-01-12,trends,7
+2026-01-12,trends,9
 2026-01-12,tutorials,1
 2026-01-12,typography,3
 2026-01-12,using,3
@@ -182,7 +184,7 @@ period,Term,Count
 2026-01-19,choice,1
 2026-01-19,concept,1
 2026-01-19,decide,1
-2026-01-19,design,15
+2026-01-19,design,13
 2026-01-19,design projects,1
 2026-01-19,design trends,3
 2026-01-19,designs,2
@@ -193,8 +195,8 @@ period,Term,Count
 2026-01-19,fonts,8
 2026-01-19,free,2
 2026-01-19,fresh,2
-2026-01-19,graphic,4
-2026-01-19,graphic design,3
+2026-01-19,graphic,2
+2026-01-19,graphic design,1
 2026-01-19,hard,1
 2026-01-19,know,1
 2026-01-19,learn,2
@@ -206,7 +208,6 @@ period,Term,Count
 2026-01-19,modern,1
 2026-01-19,multi,1
 2026-01-19,new,1
-2026-01-19,notice,2
 2026-01-19,perfect,3
 2026-01-19,pixel,3
 2026-01-19,pixel perfect,3
@@ -221,12 +222,11 @@ period,Term,Count
 2026-01-19,testing,1
 2026-01-19,tips,1
 2026-01-19,trend,2
-2026-01-19,trends,8
+2026-01-19,trends,6
 2026-01-19,trust,1
 2026-01-19,tutorial,1
 2026-01-19,use,1
 2026-01-19,user,2
-2026-01-19,video,2
 2026-01-19,way,2
 2026-01-19,web,4
 2026-01-19,web design,4
@@ -376,7 +376,6 @@ period,Term,Count
 2026-02-02,short,1
 2026-02-02,shorts,1
 2026-02-02,simple,1
-2026-02-02,statistics,2
 2026-02-02,text,3
 2026-02-02,trend,1
 2026-02-02,trending,1
@@ -389,7 +388,7 @@ period,Term,Count
 2026-02-02,web design,7
 2026-02-02,web design trends,2
 2026-02-02,webdesign,4
-2026-02-02,website,11
+2026-02-02,website,9
 2026-02-02,website design,4
 2026-02-02,websites,1
 2026-02-02,welcome,2
@@ -407,7 +406,9 @@ period,Term,Count
 2026-02-09,adobe,20
 2026-02-09,adobe illustrator,15
 2026-02-09,adobeillustrator,3
-2026-02-09,advanced,4
+2026-02-09,advanced,5
+2026-02-09,advanced poster,3
+2026-02-09,advanced poster design,3
 2026-02-09,age,6
 2026-02-09,agentic,3
 2026-02-09,agents,3
@@ -503,8 +504,9 @@ period,Term,Count
 2026-02-09,create,18
 2026-02-09,created,3
 2026-02-09,creating,6
-2026-02-09,creative,11
-2026-02-09,creative design,2
+2026-02-09,creative,12
+2026-02-09,creative design,3
+2026-02-09,creative design poster,3
 2026-02-09,creativity,3
 2026-02-09,creators,3
 2026-02-09,css,1
@@ -515,11 +517,16 @@ period,Term,Count
 2026-02-09,decide,3
 2026-02-09,decision,9
 2026-02-09,decisions,17
-2026-02-09,design,231
+2026-02-09,design,236
 2026-02-09,design design,3
-2026-02-09,design ideas,2
+2026-02-09,design ideas,3
+2026-02-09,design ideas modern,3
 2026-02-09,design inspiration,3
 2026-02-09,design patterns,1
+2026-02-09,design photoshop,3
+2026-02-09,design photoshop techniques,3
+2026-02-09,design poster,3
+2026-02-09,design poster design,3
 2026-02-09,design process,8
 2026-02-09,design projects,1
 2026-02-09,design trend,2
@@ -527,7 +534,9 @@ period,Term,Count
 2026-02-09,design trends shaping,2
 2026-02-09,designed,5
 2026-02-09,designer,18
-2026-02-09,designers,38
+2026-02-09,designers,39
+2026-02-09,designers advanced,3
+2026-02-09,designers advanced poster,3
 2026-02-09,designers developers,2
 2026-02-09,designing,9
 2026-02-09,designs,10
@@ -570,6 +579,7 @@ period,Term,Count
 2026-02-09,explaining,4
 2026-02-09,explore,6
 2026-02-09,fall,4
+2026-02-09,familiar,3
 2026-02-09,far,6
 2026-02-09,fast,4
 2026-02-09,faster,10
@@ -587,7 +597,7 @@ period,Term,Count
 2026-02-09,feels,5
 2026-02-09,figcaption,37
 2026-02-09,figcaption figure,13
-2026-02-09,figma,18
+2026-02-09,figma,17
 2026-02-09,figure,54
 2026-02-09,figure img,27
 2026-02-09,figure img alt,27
@@ -637,7 +647,9 @@ period,Term,Count
 2026-02-09,human,46
 2026-02-09,humans,10
 2026-02-09,idea,11
-2026-02-09,ideas,13
+2026-02-09,ideas,14
+2026-02-09,ideas modern,3
+2026-02-09,ideas modern poster,3
 2026-02-09,illustrator,23
 2026-02-09,illustrator adobe,4
 2026-02-09,image,15
@@ -649,6 +661,7 @@ period,Term,Count
 2026-02-09,img alt height,3
 2026-02-09,important,7
 2026-02-09,improve,2
+2026-02-09,include,2
 2026-02-09,individual,5
 2026-02-09,industry,6
 2026-02-09,information,11
@@ -714,7 +727,9 @@ period,Term,Count
 2026-02-09,missing,2
 2026-02-09,model,10
 2026-02-09,models,16
-2026-02-09,modern,14
+2026-02-09,modern,15
+2026-02-09,modern poster,3
+2026-02-09,modern poster design,3
 2026-02-09,moment,4
 2026-02-09,month,4
 2026-02-09,multi,1
@@ -722,7 +737,6 @@ period,Term,Count
 2026-02-09,need,42
 2026-02-09,needs,6
 2026-02-09,new,38
-2026-02-09,notice,3
 2026-02-09,offer,2
 2026-02-09,offering,4
 2026-02-09,old,5
@@ -745,14 +759,18 @@ period,Term,Count
 2026-02-09,perfect,4
 2026-02-09,person,7
 2026-02-09,personal,6
-2026-02-09,photoshop,3
+2026-02-09,photoshop,4
+2026-02-09,photoshop techniques,3
+2026-02-09,photoshop techniques designers,3
 2026-02-09,pixel,2
 2026-02-09,pixel perfect,2
 2026-02-09,plugins,3
 2026-02-09,point,11
 2026-02-09,points,3
-2026-02-09,poster,12
-2026-02-09,poster design,10
+2026-02-09,poster,16
+2026-02-09,poster design,14
+2026-02-09,poster design ideas,3
+2026-02-09,poster design photoshop,3
 2026-02-09,power,3
 2026-02-09,powered,4
 2026-02-09,powerful,3
@@ -823,7 +841,7 @@ period,Term,Count
 2026-02-09,shift,3
 2026-02-09,ship,8
 2026-02-09,short,6
-2026-02-09,shorts,6
+2026-02-09,shorts,7
 2026-02-09,shouldn,5
 2026-02-09,showed,3
 2026-02-09,showing,13
@@ -870,7 +888,9 @@ period,Term,Count
 2026-02-09,tasks,12
 2026-02-09,team,26
 2026-02-09,technical,6
-2026-02-09,techniques,2
+2026-02-09,techniques,3
+2026-02-09,techniques designers,3
+2026-02-09,techniques designers advanced,3
 2026-02-09,tell,6
 2026-02-09,test,26
 2026-02-09,tested,8
