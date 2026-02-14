@@ -22,13 +22,9 @@ period,Term,Count
 2025-12-29,spruce,6
 2025-12-29,style,2
 2025-12-29,trends,10
-2026-01-05,apartment,2
-2026-01-05,beautiful,2
 2026-01-05,better,2
 2026-01-05,better homes,2
 2026-01-05,better homes gardens,2
-2026-01-05,big,2
-2026-01-05,cozy,2
 2026-01-05,decor,2
 2026-01-05,decor trend,2
 2026-01-05,design,12
@@ -52,8 +48,6 @@ period,Term,Count
 2026-01-05,hottest,4
 2026-01-05,hottest home,4
 2026-01-05,hottest home design,4
-2026-01-05,house,2
-2026-01-05,house beautiful,2
 2026-01-05,housekeeping,6
 2026-01-05,housekeeping designers,1
 2026-01-05,housekeeping home,2
@@ -69,7 +63,7 @@ period,Term,Count
 2026-01-05,predict,2
 2026-01-05,southern,2
 2026-01-05,southern living,2
-2026-01-05,stylish,6
+2026-01-05,stylish,4
 2026-01-05,times,4
 2026-01-05,trend,2
 2026-01-05,trends,16
@@ -81,7 +75,8 @@ period,Term,Count
 2026-01-12,agree,2
 2026-01-12,apartment,2
 2026-01-12,apartment therapy,2
-2026-01-12,architectural,2
+2026-01-12,architectural,4
+2026-01-12,architectural digest,4
 2026-01-12,area,2
 2026-01-12,better,2
 2026-01-12,better homes,2
@@ -97,9 +92,10 @@ period,Term,Count
 2026-01-12,design trends,8
 2026-01-12,designers,10
 2026-01-12,designers say,4
-2026-01-12,digest,2
+2026-01-12,digest,4
 2026-01-12,gardens,6
 2026-01-12,gardens home,2
+2026-01-12,genius,2
 2026-01-12,good,4
 2026-01-12,good housekeeping,4
 2026-01-12,good housekeeping home,2
@@ -113,6 +109,7 @@ period,Term,Count
 2026-01-12,housekeeping,4
 2026-01-12,housekeeping home,2
 2026-01-12,housekeeping home trends,2
+2026-01-12,ideas,2
 2026-01-12,interior,6
 2026-01-12,interior design,6
 2026-01-12,interior design trends,4
@@ -120,7 +117,9 @@ period,Term,Count
 2026-01-12,make,2
 2026-01-12,outdated,2
 2026-01-12,say,8
-2026-01-12,small,2
+2026-01-12,small,4
+2026-01-12,spaces,4
+2026-01-12,storage,2
 2026-01-12,therapy,2
 2026-01-12,time,4
 2026-01-12,times,2
@@ -175,7 +174,7 @@ period,Term,Count
 2026-01-26,age,2
 2026-01-26,agree,4
 2026-01-26,aol,2
-2026-01-26,apartment,6
+2026-01-26,apartment,4
 2026-01-26,apartment therapy,2
 2026-01-26,beautiful,4
 2026-01-26,biggest,2
@@ -192,14 +191,14 @@ period,Term,Count
 2026-01-26,details,2
 2026-01-26,dining,2
 2026-01-26,doesn,2
-2026-01-26,gardens,4
+2026-01-26,gardens,2
 2026-01-26,good,2
 2026-01-26,good housekeeping,2
 2026-01-26,good housekeeping designers,1
 2026-01-26,home,6
 2026-01-26,home trends,2
-2026-01-26,homes,4
-2026-01-26,homes gardens,4
+2026-01-26,homes,2
+2026-01-26,homes gardens,2
 2026-01-26,house,6
 2026-01-26,house beautiful,4
 2026-01-26,housekeeping,2
@@ -211,17 +210,16 @@ period,Term,Count
 2026-01-26,interior design,16
 2026-01-26,interior design trends,14
 2026-01-26,interior designers,4
-2026-01-26,living,8
+2026-01-26,living,6
 2026-01-26,living room,2
 2026-01-26,local,2
 2026-01-26,magazine,2
 2026-01-26,maximize,2
-2026-01-26,pieces,2
 2026-01-26,room,2
 2026-01-26,say,2
 2026-01-26,share,2
-2026-01-26,small,4
-2026-01-26,small apartment,4
+2026-01-26,small,2
+2026-01-26,small apartment,2
 2026-01-26,southern,2
 2026-01-26,southern living,2
 2026-01-26,space,2
@@ -243,6 +241,7 @@ period,Term,Count
 2026-02-02,apartment,4
 2026-02-02,apartment therapy,4
 2026-02-02,architectural,2
+2026-02-02,architectural digest,2
 2026-02-02,asked,2
 2026-02-02,bed,2
 2026-02-02,bedroom,2
@@ -279,7 +278,6 @@ period,Term,Count
 2026-02-02,magazine,2
 2026-02-02,make,2
 2026-02-02,minimalist,2
-2026-02-02,pieces,2
 2026-02-02,quietly,4
 2026-02-02,room,2
 2026-02-02,say,6
@@ -307,7 +305,7 @@ period,Term,Count
 2026-02-09,alt class,10
 2026-02-09,alt class attachment,10
 2026-02-09,aol,6
-2026-02-09,apartment,27
+2026-02-09,apartment,32
 2026-02-09,apartment therapy,2
 2026-02-09,architects,5
 2026-02-09,architectural,6
@@ -332,7 +330,7 @@ period,Term,Count
 2026-02-09,budget,10
 2026-02-09,budget friendly,3
 2026-02-09,building,6
-2026-02-09,built,7
+2026-02-09,built,6
 2026-02-09,center,14
 2026-02-09,cheap,8
 2026-02-09,city,9
@@ -349,9 +347,10 @@ period,Term,Count
 2026-02-09,color,5
 2026-02-09,colors,2
 2026-02-09,comeback,2
+2026-02-09,compact,3
 2026-02-09,construction,4
 2026-02-09,contemporary,5
-2026-02-09,cozy,8
+2026-02-09,cozy,9
 2026-02-09,cozy aesthetic,3
 2026-02-09,craft,10
 2026-02-09,creative,6
@@ -375,7 +374,7 @@ period,Term,Count
 2026-02-09,design ideas,4
 2026-02-09,design trends,39
 2026-02-09,design trends modern,4
-2026-02-09,designed,6
+2026-02-09,designed,7
 2026-02-09,designer,7
 2026-02-09,designers,38
 2026-02-09,designers say,10
@@ -408,7 +407,7 @@ period,Term,Count
 2026-02-09,feels like,3
 2026-02-09,forecast,1
 2026-02-09,friendly,6
-2026-02-09,furniture,10
+2026-02-09,furniture,11
 2026-02-09,gardens,15
 2026-02-09,gardens home,1
 2026-02-09,genius,5
@@ -461,7 +460,7 @@ period,Term,Count
 2026-02-09,inside,3
 2026-02-09,inspired,5
 2026-02-09,instead,8
-2026-02-09,interior,52
+2026-02-09,interior,53
 2026-02-09,interior design,25
 2026-02-09,interior design trends,21
 2026-02-09,interior designer,6
@@ -470,18 +469,17 @@ period,Term,Count
 2026-02-09,interiors,4
 2026-02-09,intervention,4
 2026-02-09,just,9
-2026-02-09,kitchen,20
+2026-02-09,kitchen,21
 2026-02-09,kitchen design,6
-2026-02-09,landscape,3
 2026-02-09,life,8
 2026-02-09,light,3
 2026-02-09,like,5
 2026-02-09,living,23
-2026-02-09,living room,13
+2026-02-09,living room,14
 2026-02-09,living room look,5
 2026-02-09,livingetc,4
 2026-02-09,local,4
-2026-02-09,located,3
+2026-02-09,located,4
 2026-02-09,loft,4
 2026-02-09,long,8
 2026-02-09,look,16
@@ -498,7 +496,7 @@ period,Term,Count
 2026-02-09,modern living,4
 2026-02-09,modern living room,4
 2026-02-09,moving,5
-2026-02-09,new,4
+2026-02-09,new,7
 2026-02-09,new york,2
 2026-02-09,noopener,16
 2026-02-09,noopener target,16
@@ -506,7 +504,6 @@ period,Term,Count
 2026-02-09,outdated,12
 2026-02-09,outdated home,8
 2026-02-09,perfect,5
-2026-02-09,pieces,2
 2026-02-09,place,7
 2026-02-09,popular,6
 2026-02-09,post,30
@@ -517,7 +514,7 @@ period,Term,Count
 2026-02-09,post thumbnail size,10
 2026-02-09,practice,4
 2026-02-09,predict,4
-2026-02-09,project,12
+2026-02-09,project,13
 2026-02-09,projects,6
 2026-02-09,pull,6
 2026-02-09,quietly,1
@@ -529,7 +526,7 @@ period,Term,Count
 2026-02-09,renter,6
 2026-02-09,residence,4
 2026-02-09,reveals,4
-2026-02-09,room,27
+2026-02-09,room,28
 2026-02-09,room decor,5
 2026-02-09,room design,4
 2026-02-09,room look,5
@@ -544,8 +541,8 @@ period,Term,Count
 2026-02-09,share,2
 2026-02-09,shorts,22
 2026-02-09,simple,10
-2026-02-09,site,6
-2026-02-09,size,11
+2026-02-09,site,5
+2026-02-09,size,12
 2026-02-09,size post,10
 2026-02-09,size post thumbnail,10
 2026-02-09,slidingdoor,6
@@ -557,7 +554,8 @@ period,Term,Count
 2026-02-09,smart,4
 2026-02-09,southern,4
 2026-02-09,southern living,2
-2026-02-09,space,23
+2026-02-09,space,22
+2026-02-09,spaces,1
 2026-02-09,spatial,4
 2026-02-09,spruce,8
 2026-02-09,src,10
@@ -619,7 +617,7 @@ period,Term,Count
 2026-02-09,width,10
 2026-02-09,width class,10
 2026-02-09,width class rws,10
-2026-02-09,work,6
+2026-02-09,work,7
 2026-02-09,world,6
 2026-02-09,year,4
 2026-02-09,years,4
