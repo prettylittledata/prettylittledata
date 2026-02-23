@@ -4,13 +4,15 @@ period,Term,Count
 2026-01-05,trends,2
 2026-01-05,wear,2
 2026-01-12,according,2
+2026-01-12,beauty,2
 2026-01-12,colour,2
 2026-01-12,comeback,2
 2026-01-12,fall,6
 2026-01-12,fall winter,4
-2026-01-12,fashion,6
+2026-01-12,fashion,8
 2026-01-12,fashion colour,2
 2026-01-12,fashion trend,4
+2026-01-12,fashion trends,2
 2026-01-12,home,2
 2026-01-12,menswear,4
 2026-01-12,people,4
@@ -19,6 +21,7 @@ period,Term,Count
 2026-01-12,shades,2
 2026-01-12,spring,2
 2026-01-12,spring summer,2
+2026-01-12,stop,2
 2026-01-12,style,2
 2026-01-12,style trends,2
 2026-01-12,summer,2
@@ -26,42 +29,46 @@ period,Term,Count
 2026-01-12,tell,4
 2026-01-12,trend,8
 2026-01-12,trend predictions,4
-2026-01-12,trending,4
-2026-01-12,trends,8
-2026-01-12,vogue,10
+2026-01-12,trending,2
+2026-01-12,trends,10
+2026-01-12,vogue,8
 2026-01-12,want,2
 2026-01-12,wear,2
 2026-01-12,western,4
 2026-01-12,winter,4
 2026-01-12,woman,2
 2026-01-12,woman home,2
-2026-01-19,approved,2
 2026-01-19,biggest,2
+2026-01-19,bringing,2
 2026-01-19,claire,2
 2026-01-19,color,2
 2026-01-19,color trends,2
-2026-01-19,fashion,14
+2026-01-19,fashion,18
 2026-01-19,fashion trend,8
-2026-01-19,fashion trends,4
+2026-01-19,fashion trends,8
+2026-01-19,fashion trends marie,2
 2026-01-19,gen,2
 2026-01-19,heights,4
-2026-01-19,jacket,2
 2026-01-19,key,2
 2026-01-19,marie,2
 2026-01-19,marie claire,2
 2026-01-19,predictions,4
-2026-01-19,runway,2
-2026-01-19,spring,4
+2026-01-19,spring,2
 2026-01-19,trend,8
 2026-01-19,trend predictions,4
-2026-01-19,trends,8
-2026-01-19,vogue,6
+2026-01-19,trends,10
+2026-01-19,trends marie,2
+2026-01-19,trends marie claire,2
+2026-01-19,vogue,4
 2026-01-19,want,4
-2026-01-19,year,2
-2026-01-26,blue,4
-2026-01-26,buy,4
+2026-01-19,wearable,6
+2026-01-19,wearable fashion,6
+2026-01-19,wearable fashion trends,6
+2026-01-19,year,4
+2026-01-26,blue,2
+2026-01-26,bringing,2
 2026-01-26,claire,6
-2026-01-26,color,6
+2026-01-26,color,4
 2026-01-26,color trends,2
 2026-01-26,elle,2
 2026-01-26,fashion,14
@@ -87,39 +94,41 @@ period,Term,Count
 2026-01-26,trends elle,2
 2026-01-26,trends worth,2
 2026-01-26,vogue,12
-2026-01-26,want,4
+2026-01-26,want,2
 2026-01-26,woman,2
 2026-01-26,woman home,2
 2026-01-26,worth,2
 2026-02-02,biggest,2
 2026-02-02,claire,2
-2026-02-02,fall,2
-2026-02-02,fall winter,2
+2026-02-02,color,2
 2026-02-02,fashion,14
 2026-02-02,fashion trend,2
-2026-02-02,fashion trends,4
+2026-02-02,fashion trends,6
 2026-02-02,fashion week,2
-2026-02-02,key,2
-2026-02-02,magazine,2
+2026-02-02,instead,6
+2026-02-02,key,4
+2026-02-02,looks,2
+2026-02-02,magazine,4
 2026-02-02,marie,2
 2026-02-02,marie claire,2
-2026-02-02,menswear,2
+2026-02-02,real,4
 2026-02-02,red,2
-2026-02-02,shop,2
-2026-02-02,spring,8
+2026-02-02,shop,4
+2026-02-02,spring,10
 2026-02-02,spring fashion,2
 2026-02-02,spring fashion trends,2
-2026-02-02,spring summer,2
+2026-02-02,spring summer,4
 2026-02-02,spring trends,2
 2026-02-02,style,2
-2026-02-02,summer,2
+2026-02-02,summer,4
 2026-02-02,trend,2
 2026-02-02,trending,2
-2026-02-02,trends,10
-2026-02-02,vogue,2
-2026-02-02,wear,6
+2026-02-02,trends,12
+2026-02-02,trends shop,4
+2026-02-02,vogue,4
+2026-02-02,wear,8
 2026-02-02,week,2
-2026-02-02,winter,4
+2026-02-02,winter,6
 2026-02-09,american,1
 2026-02-09,asked,1
 2026-02-09,baseball,2
@@ -131,7 +140,6 @@ period,Term,Count
 2026-02-09,brings,1
 2026-02-09,brings best,1
 2026-02-09,brings best streetwear,1
-2026-02-09,buy,1
 2026-02-09,caps,1
 2026-02-09,caps latest,1
 2026-02-09,caps latest sneaker,1
@@ -146,6 +154,7 @@ period,Term,Count
 2026-02-09,fall,2
 2026-02-09,fall winter,2
 2026-02-09,fashion,8
+2026-02-09,funny,1
 2026-02-09,graphic,1
 2026-02-09,hoodie,3
 2026-02-09,hoodies,2
@@ -199,6 +208,7 @@ period,Term,Count
 2026-02-09,streetwear inspo hoodies,1
 2026-02-09,style,3
 2026-02-09,summer,2
+2026-02-09,taylor,1
 2026-02-09,trend,4
 2026-02-09,trend report,2
 2026-02-09,trending,2
@@ -210,13 +220,14 @@ period,Term,Count
 2026-02-09,woman,2
 2026-02-09,world,1
 2026-02-09,york,2
-2026-02-16,according,6
+2026-02-16,according,4
 2026-02-16,agree,10
 2026-02-16,american,1
 2026-02-16,approved,6
 2026-02-16,asked,3
 2026-02-16,baftas,6
-2026-02-16,best,14
+2026-02-16,beauty,2
+2026-02-16,best,13
 2026-02-16,best streetwear,5
 2026-02-16,biggest,16
 2026-02-16,biggest color,8
@@ -224,6 +235,7 @@ period,Term,Count
 2026-02-16,black,3
 2026-02-16,blue,2
 2026-02-16,book,5
+2026-02-16,bringing,4
 2026-02-16,brings,5
 2026-02-16,brings best,5
 2026-02-16,brings best streetwear,5
@@ -231,12 +243,11 @@ period,Term,Count
 2026-02-16,caps latest,5
 2026-02-16,caps latest sneaker,5
 2026-02-16,carpet,4
-2026-02-16,casual,1
 2026-02-16,city,2
 2026-02-16,claire,30
-2026-02-16,clothing,5
+2026-02-16,clothing,4
 2026-02-16,coat,3
-2026-02-16,collection,2
+2026-02-16,collection,1
 2026-02-16,color,15
 2026-02-16,color trends,10
 2026-02-16,colour,4
@@ -250,29 +261,27 @@ period,Term,Count
 2026-02-16,drops,5
 2026-02-16,drops short,5
 2026-02-16,drops short brings,5
-2026-02-16,editor,5
 2026-02-16,elle,16
 2026-02-16,end,5
 2026-02-16,everyday,2
 2026-02-16,fall,9
 2026-02-16,fall winter,4
 2026-02-16,family,3
-2026-02-16,fashion,100
+2026-02-16,fashion,101
 2026-02-16,fashion colour,4
-2026-02-16,fashion editor,5
 2026-02-16,fashion girls,8
 2026-02-16,fashion streetwear,3
 2026-02-16,fashion streetwear inspo,3
 2026-02-16,fashion trend,8
-2026-02-16,fashion trends,24
+2026-02-16,fashion trends,25
 2026-02-16,fashion trends elle,4
-2026-02-16,fashion week,17
+2026-02-16,fashion trends marie,4
+2026-02-16,fashion week,19
 2026-02-16,fashionstyle,1
-2026-02-16,fashiontrends,4
+2026-02-16,fashiontrends,3
 2026-02-16,fashiontrends fashionstyle,1
 2026-02-16,gen,6
 2026-02-16,girls,10
-2026-02-16,glamour,6
 2026-02-16,going,2
 2026-02-16,got,8
 2026-02-16,heights,7
@@ -282,29 +291,31 @@ period,Term,Count
 2026-02-16,hoodies jorts,5
 2026-02-16,hoodies jorts caps,5
 2026-02-16,industry,3
+2026-02-16,influential,5
+2026-02-16,influential fashion,5
 2026-02-16,inspiration,2
 2026-02-16,inspo,9
 2026-02-16,inspo hoodies,5
 2026-02-16,inspo hoodies jorts,5
 2026-02-16,jacket,4
-2026-02-16,jeans,5
+2026-02-16,jeans,4
 2026-02-16,jordan,1
 2026-02-16,jorts,5
 2026-02-16,jorts caps,5
 2026-02-16,jorts caps latest,5
 2026-02-16,just,10
-2026-02-16,key,4
+2026-02-16,key,2
 2026-02-16,latest,9
 2026-02-16,latest sneaker,5
 2026-02-16,latest sneaker drops,5
 2026-02-16,lillard,4
 2026-02-16,links,1
-2026-02-16,london,9
-2026-02-16,london fashion,6
-2026-02-16,london fashion week,6
+2026-02-16,london,11
+2026-02-16,london fashion,8
+2026-02-16,london fashion week,8
 2026-02-16,long,4
 2026-02-16,look,6
-2026-02-16,looks,3
+2026-02-16,looks,2
 2026-02-16,love,4
 2026-02-16,magazine,2
 2026-02-16,make,4
@@ -313,20 +324,19 @@ period,Term,Count
 2026-02-16,market,1
 2026-02-16,matthew,4
 2026-02-16,matthew lillard,4
-2026-02-16,men,7
-2026-02-16,mensfashion,1
-2026-02-16,menswear,3
+2026-02-16,men,4
+2026-02-16,menswear,2
 2026-02-16,mescal,5
 2026-02-16,minimalism,4
 2026-02-16,need,2
-2026-02-16,new,33
+2026-02-16,new,32
 2026-02-16,new york,14
 2026-02-16,new york fashion,11
 2026-02-16,nyfw,12
 2026-02-16,ootd,1
-2026-02-16,outfit,5
+2026-02-16,outfit,3
 2026-02-16,outfit inspiration,2
-2026-02-16,outfits,8
+2026-02-16,outfits,5
 2026-02-16,party,5
 2026-02-16,paul,5
 2026-02-16,paul mescal,5
@@ -335,36 +345,39 @@ period,Term,Count
 2026-02-16,prince,5
 2026-02-16,princess,8
 2026-02-16,princess wales,4
-2026-02-16,product,4
+2026-02-16,product,3
 2026-02-16,product links,1
 2026-02-16,rachel,2
+2026-02-16,real,2
 2026-02-16,red,5
 2026-02-16,red carpet,4
 2026-02-16,report,6
 2026-02-16,revival,4
-2026-02-16,rich,3
+2026-02-16,rich,1
 2026-02-16,runway,10
 2026-02-16,runways,5
-2026-02-16,season,6
+2026-02-16,season,4
 2026-02-16,set,2
 2026-02-16,shades,4
-2026-02-16,shirts,7
+2026-02-16,shirts,6
 2026-02-16,shop,2
 2026-02-16,shopping,4
 2026-02-16,short,5
 2026-02-16,short brings,5
 2026-02-16,short brings best,5
+2026-02-16,shows,6
 2026-02-16,sneaker,7
 2026-02-16,sneaker drops,5
 2026-02-16,sneaker drops short,5
-2026-02-16,spring,56
+2026-02-16,spring,54
 2026-02-16,spring biggest,4
 2026-02-16,spring fashion,12
 2026-02-16,spring fashion trends,8
-2026-02-16,spring trends,8
+2026-02-16,spring trends,6
 2026-02-16,spring wear,8
 2026-02-16,statement,2
 2026-02-16,statement trend,2
+2026-02-16,stop,2
 2026-02-16,street,9
 2026-02-16,street style,6
 2026-02-16,street style trends,2
@@ -377,33 +390,35 @@ period,Term,Count
 2026-02-16,style trends,2
 2026-02-16,styles,4
 2026-02-16,styling,1
-2026-02-16,stylish,3
+2026-02-16,taylor,1
 2026-02-16,tell,1
 2026-02-16,time,7
 2026-02-16,times,2
-2026-02-16,trend,42
+2026-02-16,today,2
+2026-02-16,trend,40
 2026-02-16,trend marie,4
 2026-02-16,trend marie claire,4
 2026-02-16,trend predictions,2
 2026-02-16,trending,2
-2026-02-16,trends,63
+2026-02-16,trends,64
 2026-02-16,trends elle,4
+2026-02-16,trends marie,4
+2026-02-16,trends marie claire,4
+2026-02-16,trends shop,2
 2026-02-16,trends spring,4
 2026-02-16,trends wear,8
 2026-02-16,trends worth,4
 2026-02-16,turned,3
 2026-02-16,valentine,5
 2026-02-16,valentine day,5
-2026-02-16,viralvideo,1
 2026-02-16,vogue,6
 2026-02-16,wales,5
 2026-02-16,wants,2
-2026-02-16,wardrobe,6
-2026-02-16,wear,40
+2026-02-16,wardrobe,4
+2026-02-16,wear,42
 2026-02-16,wear biggest,4
 2026-02-16,wearing,16
-2026-02-16,week,20
-2026-02-16,wide,5
+2026-02-16,week,22
 2026-02-16,winning,1
 2026-02-16,winter,11
 2026-02-16,woman,3
@@ -423,17 +438,20 @@ period,Term,Count
 2026-02-23,app,6
 2026-02-23,baftas,4
 2026-02-23,baseball,2
+2026-02-23,beauty,2
 2026-02-23,best,10
 2026-02-23,best outfit,4
 2026-02-23,biggest,2
-2026-02-23,carpet,2
+2026-02-23,black,1
+2026-02-23,carpet,4
 2026-02-23,casual,5
+2026-02-23,check,3
 2026-02-23,claire,10
 2026-02-23,clothing,7
 2026-02-23,coat,1
 2026-02-23,collection,3
 2026-02-23,color,1
-2026-02-23,colour,5
+2026-02-23,colour,4
 2026-02-23,combination,4
 2026-02-23,comeback,2
 2026-02-23,critic,1
@@ -442,128 +460,124 @@ period,Term,Count
 2026-02-23,dress,5
 2026-02-23,everyday,1
 2026-02-23,fall,1
-2026-02-23,fashion,65
-2026-02-23,fashion fashiontrends,9
-2026-02-23,fashion fashiontrends foryou,3
+2026-02-23,fashion,74
+2026-02-23,fashion fashiontrends,6
 2026-02-23,fashion trend,2
-2026-02-23,fashion trends,7
+2026-02-23,fashion trends,9
 2026-02-23,fashion week,14
-2026-02-23,fashionstyle,6
-2026-02-23,fashiontrends,37
-2026-02-23,fashiontrends fashionstyle,4
-2026-02-23,fashiontrends foryou,3
-2026-02-23,foryou,5
-2026-02-23,foryoupage,4
+2026-02-23,fashionstyle,8
+2026-02-23,fashiontrends,40
+2026-02-23,fashiontrends fashion,4
+2026-02-23,fashiontrends fashionstyle,6
+2026-02-23,funny,2
 2026-02-23,going,4
 2026-02-23,graphic,4
 2026-02-23,home,2
+2026-02-23,ideas,3
 2026-02-23,industry,4
 2026-02-23,inspiration,4
 2026-02-23,inspo,2
 2026-02-23,jacket,2
 2026-02-23,jaket,6
 2026-02-23,jeans,4
-2026-02-23,latest,2
+2026-02-23,latest,3
 2026-02-23,lillard,2
 2026-02-23,links,2
 2026-02-23,london,12
 2026-02-23,london fashion,12
 2026-02-23,london fashion week,12
 2026-02-23,long,1
-2026-02-23,look,4
+2026-02-23,look,5
 2026-02-23,looks,2
 2026-02-23,love,4
 2026-02-23,magazine,4
 2026-02-23,make,3
 2026-02-23,marie,10
 2026-02-23,marie claire,10
-2026-02-23,market,5
+2026-02-23,market,8
 2026-02-23,matthew,2
 2026-02-23,matthew lillard,2
-2026-02-23,men,19
-2026-02-23,men fashion,4
+2026-02-23,meesho,3
+2026-02-23,men,25
+2026-02-23,men fashion,6
 2026-02-23,mens,8
 2026-02-23,mensfashion,3
+2026-02-23,mescal,2
 2026-02-23,minimalism,2
 2026-02-23,murah,3
 2026-02-23,need,4
-2026-02-23,new,16
+2026-02-23,new,21
 2026-02-23,new york,4
 2026-02-23,new york fashion,2
-2026-02-23,ootd,4
-2026-02-23,ootd outfit,3
-2026-02-23,ootd outfit style,3
-2026-02-23,outfit,17
+2026-02-23,ootd,2
+2026-02-23,outfit,15
 2026-02-23,outfit inspiration,4
-2026-02-23,outfit style,3
-2026-02-23,outfit style fashion,3
 2026-02-23,outfitideas,5
-2026-02-23,outfits,6
+2026-02-23,outfits,7
 2026-02-23,pants,6
-2026-02-23,party,1
+2026-02-23,party,2
+2026-02-23,paul,2
+2026-02-23,paul mescal,2
 2026-02-23,people,2
 2026-02-23,premium,4
-2026-02-23,prince,5
-2026-02-23,princess,3
-2026-02-23,princess wales,3
+2026-02-23,price,5
+2026-02-23,prince,3
+2026-02-23,princess,1
+2026-02-23,princess wales,1
 2026-02-23,product,1
 2026-02-23,product links,1
-2026-02-23,red,4
-2026-02-23,red carpet,2
-2026-02-23,reels,3
-2026-02-23,reels ootd,3
-2026-02-23,reels ootd outfit,3
+2026-02-23,red,6
+2026-02-23,red carpet,4
 2026-02-23,report,4
 2026-02-23,rich,3
 2026-02-23,set,5
 2026-02-23,shirt,6
-2026-02-23,shirts,6
+2026-02-23,shirts,7
 2026-02-23,shop,2
 2026-02-23,shopping,2
 2026-02-23,short,4
-2026-02-23,shorts,19
+2026-02-23,shorts,18
 2026-02-23,shorts fashion,4
-2026-02-23,shorts reels,3
-2026-02-23,shorts reels ootd,3
 2026-02-23,sleeve,2
 2026-02-23,sneakers,1
 2026-02-23,spring,6
 2026-02-23,spring biggest,2
 2026-02-23,spring fashion,1
+2026-02-23,stand,3
+2026-02-23,stop,2
 2026-02-23,street,11
 2026-02-23,street style,11
 2026-02-23,street style trends,4
-2026-02-23,style,24
-2026-02-23,style fashion,3
-2026-02-23,style fashion fashiontrends,3
-2026-02-23,style trends,4
+2026-02-23,style,25
+2026-02-23,style trends,5
 2026-02-23,styles,2
-2026-02-23,styling,2
-2026-02-23,stylish,2
+2026-02-23,styling,3
 2026-02-23,summer,13
 2026-02-23,summer fashion,2
+2026-02-23,taylor,2
 2026-02-23,times,6
-2026-02-23,trend,17
+2026-02-23,today,2
+2026-02-23,trend,18
 2026-02-23,trend marie,2
 2026-02-23,trend marie claire,2
 2026-02-23,trend report,4
-2026-02-23,trending,11
-2026-02-23,trends,18
+2026-02-23,trending,10
+2026-02-23,trends,21
 2026-02-23,trends spring,1
 2026-02-23,video,6
-2026-02-23,viral,5
-2026-02-23,viralvideo,4
-2026-02-23,wales,3
+2026-02-23,viral,7
+2026-02-23,viral fashiontrends,5
+2026-02-23,wales,1
 2026-02-23,want,1
 2026-02-23,wardrobe,2
-2026-02-23,wear,6
+2026-02-23,wear,7
 2026-02-23,wearing,2
 2026-02-23,week,14
 2026-02-23,western,2
 2026-02-23,winning,4
-2026-02-23,women,4
+2026-02-23,women,6
 2026-02-23,world,1
 2026-02-23,york,4
 2026-02-23,york fashion,2
 2026-02-23,york fashion week,2
-2026-02-23,youtubeshorts,8
+2026-02-23,youtubeshorts,9
