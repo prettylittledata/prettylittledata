@@ -7,13 +7,12 @@ period,Term,Count
 2026-01-12,better homes gardens,2
 2026-01-12,buzzfeed,4
 2026-01-12,comeback,2
-2026-01-12,dated,6
 2026-01-12,decor,2
 2026-01-12,decorating,2
 2026-01-12,define,2
 2026-01-12,design,12
 2026-01-12,design trends,8
-2026-01-12,designers,10
+2026-01-12,designers,8
 2026-01-12,designers say,6
 2026-01-12,end,4
 2026-01-12,gardens,8
@@ -25,16 +24,13 @@ period,Term,Count
 2026-01-12,home trends,6
 2026-01-12,homes,8
 2026-01-12,homes gardens,8
-2026-01-12,house,2
 2026-01-12,housekeeping,6
 2026-01-12,immediately,4
-2026-01-12,interior,6
+2026-01-12,interior,4
 2026-01-12,interior design,4
-2026-01-12,interior designers,2
-2026-01-12,look,8
-2026-01-12,look dated,6
+2026-01-12,look,6
 2026-01-12,make,2
-2026-01-12,making,4
+2026-01-12,making,2
 2026-01-12,making comeback,2
 2026-01-12,modern,4
 2026-01-12,modern home,4
@@ -47,8 +43,8 @@ period,Term,Count
 2026-01-12,time,4
 2026-01-12,trends,18
 2026-01-12,trends designers,4
+2026-01-12,trends making,2
 2026-01-12,use,2
-2026-01-12,veranda,2
 2026-01-12,vogue,4
 2026-01-12,want,4
 2026-01-12,year,2
@@ -87,6 +83,7 @@ period,Term,Count
 2026-01-19,space,2
 2026-01-19,today,2
 2026-01-19,trends,10
+2026-01-19,trends making,2
 2026-01-26,according,10
 2026-01-26,according designers,6
 2026-01-26,according designers house,6
@@ -227,12 +224,13 @@ period,Term,Count
 2026-02-09,better,2
 2026-02-09,better homes,2
 2026-02-09,better homes gardens,2
+2026-02-09,buzzfeed,2
 2026-02-09,decor,8
 2026-02-09,decor trends,4
 2026-02-09,decor trends designers,4
 2026-02-09,define,2
-2026-02-09,design,2
-2026-02-09,design trends,2
+2026-02-09,design,4
+2026-02-09,design trends,4
 2026-02-09,designers,8
 2026-02-09,designers house,2
 2026-02-09,designers house beautiful,2
@@ -248,9 +246,9 @@ period,Term,Count
 2026-02-09,homes gardens outdated,1
 2026-02-09,house,2
 2026-02-09,house beautiful,2
-2026-02-09,interior,4
-2026-02-09,interior design,2
-2026-02-09,interior design trends,2
+2026-02-09,interior,6
+2026-02-09,interior design,4
+2026-02-09,interior design trends,4
 2026-02-09,interior designers,2
 2026-02-09,life,2
 2026-02-09,magazine,2
@@ -264,11 +262,13 @@ period,Term,Count
 2026-02-09,studio,2
 2026-02-09,studio apartment,2
 2026-02-09,style,2
+2026-02-09,taking,2
 2026-02-09,trend,2
-2026-02-09,trends,8
+2026-02-09,trends,10
 2026-02-09,trends designers,4
 2026-02-09,watch,2
 2026-02-09,ways,2
+2026-02-09,work,2
 2026-02-16,according,2
 2026-02-16,aol,2
 2026-02-16,aol home,1
@@ -334,7 +334,7 @@ period,Term,Count
 2026-02-23,alt,10
 2026-02-23,alt class,10
 2026-02-23,alt class attachment,10
-2026-02-23,aol,4
+2026-02-23,aol,6
 2026-02-23,aol home,2
 2026-02-23,apartment,15
 2026-02-23,apartments,4
@@ -391,7 +391,7 @@ period,Term,Count
 2026-02-23,craft idea,8
 2026-02-23,create,5
 2026-02-23,creative,5
-2026-02-23,decor,48
+2026-02-23,decor,50
 2026-02-23,decor idea,3
 2026-02-23,decor ideas,9
 2026-02-23,decor trends,3
@@ -399,7 +399,7 @@ period,Term,Count
 2026-02-23,decoration,21
 2026-02-23,decoration ideas,13
 2026-02-23,decoration ideas home,3
-2026-02-23,design,80
+2026-02-23,design,82
 2026-02-23,design ideas,16
 2026-02-23,design ideas interior,6
 2026-02-23,design ideas small,5
@@ -409,7 +409,7 @@ period,Term,Count
 2026-02-23,design planner free,3
 2026-02-23,design trends,12
 2026-02-23,designed,6
-2026-02-23,designers,18
+2026-02-23,designers,20
 2026-02-23,designers agree,2
 2026-02-23,designers say,4
 2026-02-23,designs,7
@@ -444,15 +444,16 @@ period,Term,Count
 2026-02-23,furniture,3
 2026-02-23,future,5
 2026-02-23,garden,4
-2026-02-23,gardens,8
+2026-02-23,gardens,10
+2026-02-23,gardens outdated,1
 2026-02-23,glass,4
 2026-02-23,height,10
 2026-02-23,height src,10
 2026-02-23,height src width,10
 2026-02-23,heritage,7
 2026-02-23,high,4
-2026-02-23,home,82
-2026-02-23,home decor,25
+2026-02-23,home,86
+2026-02-23,home decor,27
 2026-02-23,home decor ideas,7
 2026-02-23,home decor trends,3
 2026-02-23,home decoration,8
@@ -460,8 +461,9 @@ period,Term,Count
 2026-02-23,home design trends,3
 2026-02-23,home trends,12
 2026-02-23,homedecor,11
-2026-02-23,homes,14
-2026-02-23,homes gardens,8
+2026-02-23,homes,16
+2026-02-23,homes gardens,10
+2026-02-23,homes gardens outdated,1
 2026-02-23,house,34
 2026-02-23,house design,9
 2026-02-23,house design ideas,3
@@ -490,21 +492,23 @@ period,Term,Count
 2026-02-23,inspired,2
 2026-02-23,inspiring,3
 2026-02-23,instantly,4
-2026-02-23,interior,40
+2026-02-23,interior,42
 2026-02-23,interior design,25
 2026-02-23,interior design ideas,10
 2026-02-23,interior design trends,6
 2026-02-23,interior designers,10
+2026-02-23,interior trends,4
 2026-02-23,interiordesign,10
 2026-02-23,interiordesign viral,3
 2026-02-23,jar,5
 2026-02-23,just,7
-2026-02-23,kitchen,19
+2026-02-23,kitchen,21
 2026-02-23,kitchen trends,6
 2026-02-23,kitchens,5
 2026-02-23,latest,9
 2026-02-23,led,8
 2026-02-23,life,2
+2026-02-23,lighting,4
 2026-02-23,like,7
 2026-02-23,living,33
 2026-02-23,living room,18
@@ -516,7 +520,7 @@ period,Term,Count
 2026-02-23,magazine,6
 2026-02-23,make,5
 2026-02-23,makeover,6
-2026-02-23,making,2
+2026-02-23,making,4
 2026-02-23,materials,3
 2026-02-23,mini,6
 2026-02-23,minimalist,2
@@ -533,7 +537,7 @@ period,Term,Count
 2026-02-23,noopener,12
 2026-02-23,noopener target,12
 2026-02-23,officially,5
-2026-02-23,outdated,4
+2026-02-23,outdated,6
 2026-02-23,parisian,5
 2026-02-23,park,3
 2026-02-23,people,3
@@ -554,7 +558,7 @@ period,Term,Count
 2026-02-23,post thumbnail post,10
 2026-02-23,post thumbnail size,10
 2026-02-23,project,13
-2026-02-23,quietly,2
+2026-02-23,quietly,4
 2026-02-23,real,9
 2026-02-23,real simple,6
 2026-02-23,recreationalvehicle,3
@@ -563,7 +567,7 @@ period,Term,Count
 2026-02-23,rel,12
 2026-02-23,rel noopener,12
 2026-02-23,rel noopener target,12
-2026-02-23,renovation,5
+2026-02-23,renovation,7
 2026-02-23,rich,2
 2026-02-23,right,6
 2026-02-23,room,29
@@ -585,7 +589,7 @@ period,Term,Count
 2026-02-23,shorts,23
 2026-02-23,shortsfeed,3
 2026-02-23,showcase,3
-2026-02-23,simple,13
+2026-02-23,simple,15
 2026-02-23,site,7
 2026-02-23,size,10
 2026-02-23,size post,10
@@ -638,7 +642,7 @@ period,Term,Count
 2026-02-23,trailer,3
 2026-02-23,trailer camping,3
 2026-02-23,trailer camping automobile,3
-2026-02-23,transform,5
+2026-02-23,transform,7
 2026-02-23,transformation,8
 2026-02-23,travel,6
 2026-02-23,travel camping,3
@@ -647,8 +651,10 @@ period,Term,Count
 2026-02-23,travel trailer camping,3
 2026-02-23,trend,7
 2026-02-23,trending,5
-2026-02-23,trends,61
+2026-02-23,trends,65
 2026-02-23,trends according,2
+2026-02-23,trends designers,2
+2026-02-23,trends making,2
 2026-02-23,ultimate,7
 2026-02-23,upgrade,3
 2026-02-23,urban,4
@@ -674,5 +680,6 @@ period,Term,Count
 2026-02-23,width class rws,10
 2026-02-23,wood,4
 2026-02-23,wooden,5
+2026-02-23,work,3
 2026-02-23,year,11
 2026-02-23,years,8
