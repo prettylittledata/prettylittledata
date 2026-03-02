@@ -29,7 +29,6 @@ period,Term,Count
 2026-01-19,trend,10
 2026-01-19,trends,2
 2026-01-19,vogue,4
-2026-01-19,vogue soft,1
 2026-01-19,winter,2
 2026-01-19,women,2
 2026-01-19,year,2
@@ -56,25 +55,22 @@ period,Term,Count
 2026-01-26,spring,2
 2026-01-26,trend,6
 2026-01-26,trends,8
-2026-01-26,trends according,2
 2026-01-26,try,2
 2026-01-26,vogue,4
 2026-01-26,wear,4
-2026-02-02,according,2
 2026-02-02,bazaar,2
-2026-02-02,beauty,16
+2026-02-02,beauty,14
 2026-02-02,beauty trend,6
-2026-02-02,beauty trends,4
+2026-02-02,beauty trends,2
 2026-02-02,biggest,2
 2026-02-02,biggest beauty,2
 2026-02-02,biggest beauty trend,2
 2026-02-02,black,4
 2026-02-02,black women,4
-2026-02-02,blurred,4
+2026-02-02,blurred,2
 2026-02-02,business,4
-2026-02-02,claire,2
 2026-02-02,did,2
-2026-02-02,era,4
+2026-02-02,era,2
 2026-02-02,essence,6
 2026-02-02,experts,2
 2026-02-02,explained,2
@@ -84,22 +80,19 @@ period,Term,Count
 2026-02-02,harper bazaar,2
 2026-02-02,heights,2
 2026-02-02,just,2
-2026-02-02,makeup,10
+2026-02-02,makeup,8
 2026-02-02,makeup trend,2
 2026-02-02,new,4
 2026-02-02,new york,2
 2026-02-02,new york fashion,2
 2026-02-02,report,2
 2026-02-02,set,2
-2026-02-02,soft,4
+2026-02-02,soft,2
 2026-02-02,trend,8
-2026-02-02,trends,4
-2026-02-02,trends according,2
-2026-02-02,undone,4
-2026-02-02,vogue,4
-2026-02-02,vogue soft,2
+2026-02-02,trends,2
+2026-02-02,vogue,2
 2026-02-02,week,2
-2026-02-02,welcome,4
+2026-02-02,welcome,2
 2026-02-02,winter,4
 2026-02-02,women,4
 2026-02-02,wuthering,2
@@ -108,8 +101,9 @@ period,Term,Count
 2026-02-02,york fashion,2
 2026-02-02,york fashion week,2
 2026-02-09,bazaar,2
-2026-02-09,beauty,6
+2026-02-09,beauty,8
 2026-02-09,beauty trend,6
+2026-02-09,beauty trends,2
 2026-02-09,big,2
 2026-02-09,glass,4
 2026-02-09,harper,2
@@ -117,13 +111,19 @@ period,Term,Count
 2026-02-09,japanese,2
 2026-02-09,lip,2
 2026-02-09,new,4
+2026-02-09,season,2
+2026-02-09,set,2
 2026-02-09,skin,6
 2026-02-09,skincare,2
 2026-02-09,skincare beauty,2
-2026-02-09,spring,2
+2026-02-09,spring,4
+2026-02-09,spring summer,2
+2026-02-09,summer,2
 2026-02-09,times,2
 2026-02-09,trend,6
+2026-02-09,trends,2
 2026-02-09,try,2
+2026-02-09,wear,2
 2026-02-16,actually,4
 2026-02-16,actually means,4
 2026-02-16,bazaar,2
@@ -249,7 +249,7 @@ period,Term,Count
 2026-02-23,cancer,4
 2026-02-23,care,9
 2026-02-23,carry,6
-2026-02-23,case,3
+2026-02-23,case,5
 2026-02-23,catch,1
 2026-02-23,certain,4
 2026-02-23,challenge,3
@@ -258,7 +258,6 @@ period,Term,Count
 2026-02-23,chinese,2
 2026-02-23,choose,4
 2026-02-23,circle,5
-2026-02-23,claire,3
 2026-02-23,clarity,4
 2026-02-23,clear,4
 2026-02-23,collection,3
@@ -271,7 +270,7 @@ period,Term,Count
 2026-02-23,connection,3
 2026-02-23,considered,1
 2026-02-23,control,8
-2026-02-23,cool,1
+2026-02-23,cool,3
 2026-02-23,coolest,4
 2026-02-23,course,2
 2026-02-23,create,2
@@ -364,7 +363,7 @@ period,Term,Count
 2026-02-23,gets,3
 2026-02-23,girl,11
 2026-02-23,girl makeup,8
-2026-02-23,girls,10
+2026-02-23,girls,12
 2026-02-23,given,1
 2026-02-23,giving,10
 2026-02-23,glam,9
@@ -382,7 +381,7 @@ period,Term,Count
 2026-02-23,got,1
 2026-02-23,great,4
 2026-02-23,hair,5
-2026-02-23,hairstyle,1
+2026-02-23,hairstyle,3
 2026-02-23,hands,2
 2026-02-23,happy,3
 2026-02-23,having,6
@@ -456,6 +455,7 @@ period,Term,Count
 2026-02-23,makeup trend,19
 2026-02-23,makeup trends,4
 2026-02-23,makeup viral,9
+2026-02-23,making,3
 2026-02-23,march,65
 2026-02-23,march strong,6
 2026-02-23,massive,2
@@ -586,7 +586,8 @@ period,Term,Count
 2026-02-23,spend,3
 2026-02-23,sports,6
 2026-02-23,spotlight,5
-2026-02-23,spring,37
+2026-02-23,spring,39
+2026-02-23,spring summer,4
 2026-02-23,src,76
 2026-02-23,src figure,29
 2026-02-23,src figure div,16
@@ -630,7 +631,6 @@ period,Term,Count
 2026-02-23,trending,16
 2026-02-23,trending trend,2
 2026-02-23,trends,31
-2026-02-23,trends according,2
 2026-02-23,tried,3
 2026-02-23,truly,3
 2026-02-23,try,7
@@ -638,7 +638,6 @@ period,Term,Count
 2026-02-23,turning,16
 2026-02-23,turns,3
 2026-02-23,understand,4
-2026-02-23,undone,2
 2026-02-23,unexpected,2
 2026-02-23,use,6
 2026-02-23,using,6
@@ -656,7 +655,7 @@ period,Term,Count
 2026-02-23,watching,1
 2026-02-23,water,6
 2026-02-23,way,7
-2026-02-23,wear,16
+2026-02-23,wear,18
 2026-02-23,wearing,7
 2026-02-23,week,25
 2026-02-23,weeks,31
@@ -880,6 +879,7 @@ period,Term,Count
 2026-03-02,makes,4
 2026-03-02,makeup,8
 2026-03-02,makeup look,2
+2026-03-02,making,1
 2026-03-02,march,23
 2026-03-02,march strong,7
 2026-03-02,massive,1
