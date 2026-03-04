@@ -12,7 +12,6 @@ period,Term,Count
 2026-01-19,design trends,8
 2026-01-19,designers,6
 2026-01-19,designers say,2
-2026-01-19,details,4
 2026-01-19,experts,2
 2026-01-19,gardens,4
 2026-01-19,gardens designers,2
@@ -23,7 +22,6 @@ period,Term,Count
 2026-01-19,house,2
 2026-01-19,house beautiful,2
 2026-01-19,ideas,2
-2026-01-19,ideas make,2
 2026-01-19,instead,4
 2026-01-19,instead homes,4
 2026-01-19,instead homes gardens,4
@@ -45,6 +43,7 @@ period,Term,Count
 2026-01-19,space,2
 2026-01-19,tired,4
 2026-01-19,trends,8
+2026-01-19,way,2
 2026-01-26,according,8
 2026-01-26,according designers,6
 2026-01-26,according designers house,6
@@ -57,6 +56,7 @@ period,Term,Count
 2026-01-26,comeback,2
 2026-01-26,comeback southern,2
 2026-01-26,comeback southern living,2
+2026-01-26,create,2
 2026-01-26,decorating,2
 2026-01-26,design,8
 2026-01-26,design trends,6
@@ -128,7 +128,6 @@ period,Term,Count
 2026-02-02,designers say,8
 2026-02-02,disappeared,4
 2026-02-02,elle,2
-2026-02-02,expert,2
 2026-02-02,gardens,6
 2026-02-02,gardens outdated,2
 2026-02-02,home,16
@@ -174,6 +173,7 @@ period,Term,Count
 2026-02-02,taking,8
 2026-02-02,taking homes,4
 2026-02-02,therapy,2
+2026-02-02,today,2
 2026-02-02,trend,6
 2026-02-02,trending,2
 2026-02-02,trends,32
@@ -197,8 +197,8 @@ period,Term,Count
 2026-02-09,decor,6
 2026-02-09,decor trend,2
 2026-02-09,decor trends,4
-2026-02-09,design,4
-2026-02-09,design trends,4
+2026-02-09,design,6
+2026-02-09,design trends,6
 2026-02-09,designers,10
 2026-02-09,designers house,2
 2026-02-09,designers house beautiful,2
@@ -211,14 +211,19 @@ period,Term,Count
 2026-02-09,homes gardens,2
 2026-02-09,house,2
 2026-02-09,house beautiful,2
+2026-02-09,interior,2
+2026-02-09,interior design,2
+2026-02-09,interior design trends,2
 2026-02-09,living,4
 2026-02-09,living room,4
 2026-02-09,living room trends,2
 2026-02-09,look,2
+2026-02-09,magazine,2
 2026-02-09,make,2
 2026-02-09,old,4
 2026-02-09,outdated,4
 2026-02-09,outdated home,2
+2026-02-09,perfect,2
 2026-02-09,real,2
 2026-02-09,real simple,2
 2026-02-09,room,4
@@ -226,13 +231,14 @@ period,Term,Count
 2026-02-09,simple,2
 2026-02-09,spruce,6
 2026-02-09,studio,2
+2026-02-09,studio apartment,2
 2026-02-09,therapy,2
 2026-02-09,think,4
 2026-02-09,tired,2
 2026-02-09,trend,2
-2026-02-09,trends,12
+2026-02-09,trends,14
 2026-02-09,trends designers,6
-2026-02-09,trends make,2
+2026-02-09,watch,2
 2026-02-09,ways,2
 2026-02-16,agree,2
 2026-02-16,country,2
@@ -242,12 +248,12 @@ period,Term,Count
 2026-02-16,design,8
 2026-02-16,design trends,6
 2026-02-16,designers,2
-2026-02-16,expert,4
+2026-02-16,focus,4
 2026-02-16,furniture,2
 2026-02-16,gardens,2
 2026-02-16,good,4
 2026-02-16,good housekeeping,2
-2026-02-16,home,6
+2026-02-16,home,4
 2026-02-16,homes,2
 2026-02-16,homes gardens,2
 2026-02-16,housekeeping,2
@@ -260,18 +266,14 @@ period,Term,Count
 2026-02-16,living magazine,2
 2026-02-16,magazine,2
 2026-02-16,nature,2
-2026-02-16,real,2
-2026-02-16,real simple,2
 2026-02-16,retire,2
-2026-02-16,simple,2
-2026-02-16,space,2
 2026-02-16,spring,2
 2026-02-16,style,2
 2026-02-16,trends,8
-2026-02-23,according,6
+2026-02-23,according,8
 2026-02-23,according designers,2
-2026-02-23,according interior,4
-2026-02-23,according interior designers,4
+2026-02-23,according interior,6
+2026-02-23,according interior designers,6
 2026-02-23,asked,4
 2026-02-23,comeback,4
 2026-02-23,country,2
@@ -279,28 +281,31 @@ period,Term,Count
 2026-02-23,country living magazine,2
 2026-02-23,decor,2
 2026-02-23,decorating,4
-2026-02-23,design,4
-2026-02-23,design trends,4
-2026-02-23,designers,18
+2026-02-23,design,6
+2026-02-23,design trends,6
+2026-02-23,designers,20
 2026-02-23,elle,2
 2026-02-23,experts,4
+2026-02-23,explore,2
 2026-02-23,gardens,4
 2026-02-23,good,4
 2026-02-23,good housekeeping,4
 2026-02-23,grandma,2
 2026-02-23,green,2
-2026-02-23,home,6
+2026-02-23,home,10
 2026-02-23,home design,2
 2026-02-23,home design trends,2
-2026-02-23,home trends,4
+2026-02-23,home trends,8
 2026-02-23,homes,4
 2026-02-23,homes gardens,4
 2026-02-23,housekeeping,4
 2026-02-23,instead,2
 2026-02-23,instead homes,2
 2026-02-23,instead homes gardens,2
-2026-02-23,interior,10
-2026-02-23,interior designers,10
+2026-02-23,interior,14
+2026-02-23,interior design,2
+2026-02-23,interior design trends,2
+2026-02-23,interior designers,12
 2026-02-23,kitchen,2
 2026-02-23,like,2
 2026-02-23,living,2
@@ -309,11 +314,12 @@ period,Term,Count
 2026-02-23,making,4
 2026-02-23,making comeback,4
 2026-02-23,old,4
+2026-02-23,outdated,2
 2026-02-23,paint,4
 2026-02-23,real,4
 2026-02-23,real simple,4
+2026-02-23,regret,4
 2026-02-23,right,4
-2026-02-23,sage,2
 2026-02-23,say,4
 2026-02-23,say making,4
 2026-02-23,say making comeback,4
@@ -326,12 +332,12 @@ period,Term,Count
 2026-02-23,think,2
 2026-02-23,tiny,2
 2026-02-23,trend,4
-2026-02-23,trends,14
+2026-02-23,trends,20
 2026-02-23,trends right,4
 2026-02-23,trends taking,2
 2026-02-23,veranda,4
 2026-02-23,year,4
-2026-02-23,years,2
+2026-02-23,years,4
 2026-03-02,according,2
 2026-03-02,according interior,2
 2026-03-02,according interior designers,2
@@ -341,28 +347,24 @@ period,Term,Count
 2026-03-02,alt,10
 2026-03-02,alt class,10
 2026-03-02,alt class attachment,10
-2026-03-02,aol,6
 2026-03-02,apartment,19
+2026-03-02,apartments,3
 2026-03-02,architectural,6
-2026-03-02,architecture,22
-2026-03-02,art,18
-2026-03-02,art craft,5
+2026-03-02,architecture,23
+2026-03-02,art,6
 2026-03-02,attachment,10
 2026-03-02,attachment post,10
 2026-03-02,attachment post thumbnail,10
-2026-03-02,beautiful,4
-2026-03-02,bed,12
-2026-03-02,bed video,3
-2026-03-02,bed video explore,3
-2026-03-02,bedroom,8
-2026-03-02,beds,3
-2026-03-02,best,9
+2026-03-02,beautiful,8
+2026-03-02,bed,13
+2026-03-02,bedroom,9
+2026-03-02,best,5
 2026-03-02,better,5
 2026-03-02,better homes,2
 2026-03-02,better homes gardens,2
 2026-03-02,biggest,2
 2026-03-02,building,9
-2026-03-02,built,3
+2026-03-02,built,6
 2026-03-02,buzzfeed,2
 2026-03-02,buzzfeed people,1
 2026-03-02,buzzfeed people calling,1
@@ -380,150 +382,154 @@ period,Term,Count
 2026-03-02,class rws excerpt,10
 2026-03-02,class rws img,10
 2026-03-02,class rws title,10
-2026-03-02,collection,3
+2026-03-02,collection,4
 2026-03-02,come,4
-2026-03-02,convertible,3
-2026-03-02,convertible sofa,3
-2026-03-02,convertible sofa sofa,3
-2026-03-02,country,9
+2026-03-02,comfort,3
+2026-03-02,country,8
 2026-03-02,country living,8
 2026-03-02,country living magazine,8
-2026-03-02,cozy,12
-2026-03-02,craft,16
+2026-03-02,cozy,16
+2026-03-02,craft,7
+2026-03-02,create,2
 2026-03-02,current,2
-2026-03-02,decor,48
-2026-03-02,decor idea,5
-2026-03-02,decor ideas,12
+2026-03-02,cute,4
+2026-03-02,decor,52
+2026-03-02,decor idea,7
+2026-03-02,decor ideas,21
+2026-03-02,decor ideas cozy,3
+2026-03-02,decor ideas diy,4
 2026-03-02,decor trend,4
 2026-03-02,decor trends,1
 2026-03-02,decorating,7
 2026-03-02,decorating ideas,3
-2026-03-02,decoration,5
-2026-03-02,design,66
+2026-03-02,decoration,6
+2026-03-02,decoration idea,4
+2026-03-02,design,57
 2026-03-02,design ideas,5
 2026-03-02,design luxury,4
-2026-03-02,design trends,24
+2026-03-02,design trends,22
 2026-03-02,design trends need,1
 2026-03-02,designed,3
 2026-03-02,designers,10
 2026-03-02,designers say,8
-2026-03-02,designs,6
-2026-03-02,details,1
+2026-03-02,designs,7
 2026-03-02,development,3
-2026-03-02,dining,11
+2026-03-02,dining,14
 2026-03-02,disappeared,1
+2026-03-02,discover,5
 2026-03-02,div,20
 2026-03-02,div class,10
 2026-03-02,div class rws,10
-2026-03-02,diy,31
-2026-03-02,easy,11
-2026-03-02,easy home,6
+2026-03-02,diy,20
+2026-03-02,diy home,4
+2026-03-02,diy home decor,4
+2026-03-02,easy,9
+2026-03-02,easy home,7
 2026-03-02,easy home decor,6
-2026-03-02,elegant,9
+2026-03-02,elegant,15
 2026-03-02,elle,2
+2026-03-02,epoxy,4
+2026-03-02,epoxy floor,4
 2026-03-02,excerpt,10
 2026-03-02,existing,3
 2026-03-02,explore,7
-2026-03-02,explore sofas,3
-2026-03-02,explore sofas convertible,3
 2026-03-02,family,4
+2026-03-02,featuring,3
 2026-03-02,feel,7
-2026-03-02,floor,8
-2026-03-02,flower,4
-2026-03-02,foldable,5
-2026-03-02,folding,4
+2026-03-02,floor,7
+2026-03-02,focus,3
 2026-03-02,form,3
-2026-03-02,friendly,4
-2026-03-02,friendly home,3
-2026-03-02,furniture,10
+2026-03-02,furniture,12
 2026-03-02,gardens,8
 2026-03-02,gardens designers,1
 2026-03-02,gardens outdated,1
 2026-03-02,genius,7
-2026-03-02,grandma,8
+2026-03-02,grandma,10
 2026-03-02,green,5
-2026-03-02,handmade,7
 2026-03-02,health,4
 2026-03-02,height,10
 2026-03-02,height src,10
 2026-03-02,height src width,10
-2026-03-02,home,70
-2026-03-02,home decor,25
-2026-03-02,home decor idea,4
+2026-03-02,holi,9
+2026-03-02,home,74
+2026-03-02,home decor,26
+2026-03-02,home decor idea,6
+2026-03-02,home decor ideas,8
 2026-03-02,home decor trends,1
 2026-03-02,home design,7
 2026-03-02,home design trends,3
-2026-03-02,home trends,6
-2026-03-02,homedecor,9
-2026-03-02,homes,19
+2026-03-02,home trends,2
+2026-03-02,homedecor,11
+2026-03-02,homes,20
 2026-03-02,homes gardens,6
 2026-03-02,homes gardens designers,1
 2026-03-02,homes gardens outdated,1
-2026-03-02,house,5
-2026-03-02,idea,12
-2026-03-02,ideas,39
-2026-03-02,ideas diy,5
-2026-03-02,ideas make,3
+2026-03-02,house,8
+2026-03-02,idea,15
+2026-03-02,ideas,41
+2026-03-02,ideas cozy,3
+2026-03-02,ideas diy,4
 2026-03-02,image,10
 2026-03-02,image height,10
 2026-03-02,image height src,10
 2026-03-02,img,10
 2026-03-02,img alt,10
 2026-03-02,img alt class,10
-2026-03-02,inspired,2
-2026-03-02,instead,3
-2026-03-02,interior,37
-2026-03-02,interior design,22
-2026-03-02,interior design trends,13
+2026-03-02,inspired,4
+2026-03-02,instead,2
+2026-03-02,interior,33
+2026-03-02,interior design,20
+2026-03-02,interior design trends,11
 2026-03-02,interior designers,2
-2026-03-02,interiordesign,7
-2026-03-02,interiors,5
+2026-03-02,interiordesign,9
+2026-03-02,interiors,8
 2026-03-02,international,4
-2026-03-02,just,7
-2026-03-02,kitchen,7
+2026-03-02,just,12
+2026-03-02,kitchen,10
 2026-03-02,landscape,4
-2026-03-02,latest,6
-2026-03-02,life,3
-2026-03-02,light,9
+2026-03-02,latest,7
+2026-03-02,life,4
+2026-03-02,light,11
 2026-03-02,lighting,7
-2026-03-02,like,9
-2026-03-02,living,38
+2026-03-02,like,7
+2026-03-02,living,30
 2026-03-02,living magazine,8
 2026-03-02,living magazine grandma,4
-2026-03-02,living room,11
+2026-03-02,living room,7
 2026-03-02,living room trends,1
-2026-03-02,living space,6
-2026-03-02,living space ultimate,3
+2026-03-02,living space,4
 2026-03-02,long,4
-2026-03-02,look,9
-2026-03-02,looking,3
-2026-03-02,love,8
+2026-03-02,look,6
+2026-03-02,looking,4
+2026-03-02,love,9
 2026-03-02,luxury,30
 2026-03-02,luxury interior,7
 2026-03-02,luxury interior design,6
 2026-03-02,magazine,8
 2026-03-02,magazine grandma,4
-2026-03-02,make,8
+2026-03-02,magic,5
+2026-03-02,make,7
+2026-03-02,makeover,4
+2026-03-02,making,1
 2026-03-02,materials,3
 2026-03-02,memory,6
-2026-03-02,modern,22
-2026-03-02,multifunctional,6
-2026-03-02,multifunctional sofa,3
-2026-03-02,multifunctional sofa bed,3
-2026-03-02,mwc,10
+2026-03-02,modern,29
+2026-03-02,modular,5
+2026-03-02,multifunctional,4
 2026-03-02,nature,3
 2026-03-02,need,1
-2026-03-02,new,10
+2026-03-02,new,14
 2026-03-02,noopener,11
 2026-03-02,noopener target,11
 2026-03-02,old,2
-2026-03-02,outdated,5
+2026-03-02,outdated,3
 2026-03-02,outdated home,1
 2026-03-02,paint,1
+2026-03-02,parisian,6
 2026-03-02,people,2
 2026-03-02,people calling,2
+2026-03-02,perfect,2
 2026-03-02,place,3
-2026-03-02,planter,8
 2026-03-02,post,31
 2026-03-02,post image,10
 2026-03-02,post image height,10
@@ -535,72 +541,61 @@ period,Term,Count
 2026-03-02,quietly,1
 2026-03-02,real,2
 2026-03-02,real simple,2
-2026-03-02,redefining,4
+2026-03-02,regret,1
 2026-03-02,rel,11
 2026-03-02,rel noopener,11
 2026-03-02,rel noopener target,11
 2026-03-02,relationship,3
+2026-03-02,reveal,4
 2026-03-02,right,2
-2026-03-02,room,23
+2026-03-02,room,20
 2026-03-02,room trends,3
-2026-03-02,royal,5
 2026-03-02,rws,30
 2026-03-02,rws excerpt,10
 2026-03-02,rws img,10
 2026-03-02,rws img alt,10
 2026-03-02,rws title,10
 2026-03-02,rws title style,10
-2026-03-02,sage,3
 2026-03-02,say,10
 2026-03-02,school,5
-2026-03-02,series,3
-2026-03-02,set,4
-2026-03-02,sharing,4
+2026-03-02,set,5
+2026-03-02,share,3
+2026-03-02,sharing,3
 2026-03-02,shift,7
-2026-03-02,shorts,25
-2026-03-02,shortsfeed,5
-2026-03-02,shortsfeed upgrade,3
-2026-03-02,shortsfeed upgrade living,3
-2026-03-02,simple,7
+2026-03-02,shorts,17
+2026-03-02,shortsfeed,4
+2026-03-02,simple,4
 2026-03-02,site,4
 2026-03-02,size,10
 2026-03-02,size post,10
 2026-03-02,size post thumbnail,10
-2026-03-02,small,24
+2026-03-02,small,25
 2026-03-02,small apartment,6
 2026-03-02,small space,4
 2026-03-02,smart,15
-2026-03-02,sofa,17
-2026-03-02,sofa bed,4
-2026-03-02,sofa bed video,3
-2026-03-02,sofa beds,3
-2026-03-02,sofa sofa,3
-2026-03-02,sofa sofa beds,3
-2026-03-02,sofas,4
-2026-03-02,sofas convertible,3
-2026-03-02,sofas convertible sofa,3
+2026-03-02,sofa,16
+2026-03-02,sofas,3
 2026-03-02,southern,1
-2026-03-02,space,23
-2026-03-02,space ultimate,3
-2026-03-02,space ultimate multifunctional,3
-2026-03-02,spaces,7
-2026-03-02,spring,11
-2026-03-02,spring home,5
+2026-03-02,space,21
+2026-03-02,spaces,4
+2026-03-02,spatial,3
+2026-03-02,spring,9
 2026-03-02,src,10
 2026-03-02,src width,10
 2026-03-02,src width class,10
-2026-03-02,stone,6
-2026-03-02,studio,10
-2026-03-02,stunning,7
-2026-03-02,style,16
+2026-03-02,studio,15
+2026-03-02,studio apartment,4
+2026-03-02,stunning,8
+2026-03-02,style,17
 2026-03-02,style text,10
 2026-03-02,style text align,10
-2026-03-02,stylish,4
-2026-03-02,subscribe,3
-2026-03-02,table,4
-2026-03-02,taking,8
+2026-03-02,styling,3
+2026-03-02,stylish,8
+2026-03-02,systems,3
+2026-03-02,table,3
+2026-03-02,taking,9
 2026-03-02,taking homes,4
-2026-03-02,target,13
+2026-03-02,target,14
 2026-03-02,text,10
 2026-03-02,text align,10
 2026-03-02,text align center,10
@@ -610,48 +605,44 @@ period,Term,Count
 2026-03-02,thumbnail post image,10
 2026-03-02,thumbnail size,10
 2026-03-02,thumbnail size post,10
-2026-03-02,tiny,8
-2026-03-02,tiny apartment,5
-2026-03-02,title,11
+2026-03-02,timeless,6
+2026-03-02,tiny,10
+2026-03-02,tiny apartment,6
+2026-03-02,title,12
 2026-03-02,title style,10
 2026-03-02,title style text,10
-2026-03-02,transform,4
-2026-03-02,transformation,4
-2026-03-02,transformed,4
+2026-03-02,today,2
+2026-03-02,transform,7
+2026-03-02,transformation,5
+2026-03-02,transforming,3
 2026-03-02,trend,10
-2026-03-02,trending,9
-2026-03-02,trends,47
-2026-03-02,trends make,3
+2026-03-02,trending,6
+2026-03-02,trends,40
 2026-03-02,trends need,1
 2026-03-02,trends right,2
 2026-03-02,trends taking,4
 2026-03-02,trends taking homes,4
-2026-03-02,ultimate,5
-2026-03-02,ultimate multifunctional,3
-2026-03-02,ultimate multifunctional sofa,3
-2026-03-02,upgrade,4
-2026-03-02,upgrade living,3
-2026-03-02,upgrade living space,3
+2026-03-02,ultimate,4
+2026-03-02,upgrade,3
 2026-03-02,using,3
 2026-03-02,veranda,2
-2026-03-02,video,17
-2026-03-02,video explore,7
-2026-03-02,video explore sofas,3
+2026-03-02,video,15
+2026-03-02,video explore,6
 2026-03-02,video sharing,3
-2026-03-02,viral,10
-2026-03-02,viralshorts,6
-2026-03-02,viralvideo,3
-2026-03-02,wall,16
-2026-03-02,walls,4
+2026-03-02,viral,11
+2026-03-02,wall,19
+2026-03-02,wall decor,4
+2026-03-02,walls,3
 2026-03-02,warm,4
+2026-03-02,watch,3
+2026-03-02,way,2
 2026-03-02,welcome,9
 2026-03-02,width,10
 2026-03-02,width class,10
 2026-03-02,width class rws,10
 2026-03-02,won,3
+2026-03-02,wood,4
 2026-03-02,world,9
-2026-03-02,year,6
+2026-03-02,year,5
 2026-03-02,years,2
-2026-03-02,youtube,4
-2026-03-02,youtubeshorts,6
 2026-03-02,ytshorts,4
