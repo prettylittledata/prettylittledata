@@ -5,10 +5,8 @@ period,Term,Count
 2026-01-19,miss,2
 2026-01-19,trend,4
 2026-01-26,claire,4
-2026-01-26,elle,2
-2026-01-26,fashion,6
+2026-01-26,fashion,4
 2026-01-26,fashion trend,2
-2026-01-26,fashion trends,2
 2026-01-26,love,2
 2026-01-26,marie,4
 2026-01-26,marie claire,4
@@ -16,7 +14,6 @@ period,Term,Count
 2026-01-26,runways,2
 2026-01-26,spring,2
 2026-01-26,trend,4
-2026-01-26,trends,2
 2026-01-26,vogue,2
 2026-02-02,biggest,2
 2026-02-02,book,2
@@ -50,45 +47,61 @@ period,Term,Count
 2026-02-02,week,4
 2026-02-02,winter,2
 2026-02-02,women,2
-2026-02-09,biggest,2
-2026-02-09,color,2
+2026-02-09,biggest,4
+2026-02-09,biggest color,4
+2026-02-09,color,4
 2026-02-09,fall,4
 2026-02-09,fall winter,4
 2026-02-09,report,2
 2026-02-09,runway,2
 2026-02-09,runway trend,2
-2026-02-09,trend,6
+2026-02-09,trend,8
 2026-02-09,trend report,2
 2026-02-09,vogue,2
-2026-02-09,wear,2
+2026-02-09,wear,4
+2026-02-09,wear biggest,2
+2026-02-09,wear biggest color,2
 2026-02-09,winter,4
+2026-02-16,according,2
 2026-02-16,bazaar,2
+2026-02-16,beauty,2
 2026-02-16,biggest,2
-2026-02-16,color,2
-2026-02-16,color trends,2
+2026-02-16,biggest color,2
+2026-02-16,claire,2
+2026-02-16,color,4
+2026-02-16,color trends,4
 2026-02-16,everyday,2
-2026-02-16,fashion,6
+2026-02-16,fall,2
+2026-02-16,fashion,8
 2026-02-16,fashion trends,2
-2026-02-16,fashion week,4
+2026-02-16,fashion week,6
 2026-02-16,gen,2
 2026-02-16,harper,2
 2026-02-16,harper bazaar,2
 2026-02-16,just,4
-2026-02-16,new,4
-2026-02-16,new york,4
-2026-02-16,new york fashion,4
+2026-02-16,marie,2
+2026-02-16,marie claire,2
+2026-02-16,new,6
+2026-02-16,new york,6
+2026-02-16,new york fashion,6
 2026-02-16,runway,2
 2026-02-16,runway trend,2
+2026-02-16,set,2
 2026-02-16,shop,2
 2026-02-16,spring,4
 2026-02-16,spring fashion,2
 2026-02-16,spring fashion trends,2
 2026-02-16,trend,2
-2026-02-16,trends,6
+2026-02-16,trends,10
+2026-02-16,try,2
+2026-02-16,vogue,2
 2026-02-16,wear,4
-2026-02-16,week,4
-2026-02-16,york,4
-2026-02-16,york fashion,4
+2026-02-16,wear biggest,1
+2026-02-16,wear biggest color,1
+2026-02-16,week,6
+2026-02-16,york,6
+2026-02-16,york fashion,6
+2026-02-16,york fashion week,6
 2026-02-23,fall,2
 2026-02-23,fall fashion,2
 2026-02-23,fall fashion trends,2
@@ -114,7 +127,7 @@ period,Term,Count
 2026-03-02,autumn,4
 2026-03-02,beauty,1
 2026-03-02,bessette,5
-2026-03-02,best,8
+2026-03-02,best,6
 2026-03-02,best streetwear,2
 2026-03-02,biggest,2
 2026-03-02,book,2
@@ -138,8 +151,7 @@ period,Term,Count
 2026-03-02,closet,2
 2026-03-02,clothes,4
 2026-03-02,coat,4
-2026-03-02,color,3
-2026-03-02,coming,5
+2026-03-02,color,1
 2026-03-02,cotton,4
 2026-03-02,culture,2
 2026-03-02,dark,2
@@ -204,7 +216,6 @@ period,Term,Count
 2026-03-02,look,2
 2026-03-02,love,9
 2026-03-02,luxury,2
-2026-03-02,magazine,2
 2026-03-02,make,2
 2026-03-02,makes,2
 2026-03-02,making,1
@@ -238,8 +249,6 @@ period,Term,Count
 2026-03-02,power,1
 2026-03-02,princess,2
 2026-03-02,right,1
-2026-03-02,runway,2
-2026-03-02,runway trend,2
 2026-03-02,runways,3
 2026-03-02,season,2
 2026-03-02,sex,2
@@ -276,11 +285,12 @@ period,Term,Count
 2026-03-02,tiktok,2
 2026-03-02,tom,7
 2026-03-02,took,3
-2026-03-02,trend,26
+2026-03-02,trend,22
 2026-03-02,trend marie,2
 2026-03-02,trend marie claire,2
 2026-03-02,trend wear,6
 2026-03-02,trends,18
+2026-03-02,try,4
 2026-03-02,tshirt,6
 2026-03-02,tyla,2
 2026-03-02,unexpected,1
@@ -288,7 +298,7 @@ period,Term,Count
 2026-03-02,vintage,6
 2026-03-02,vogue,4
 2026-03-02,waist,6
-2026-03-02,wear,21
+2026-03-02,wear,19
 2026-03-02,wedding,12
 2026-03-02,week,13
 2026-03-02,winter,4
