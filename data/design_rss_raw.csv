@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/,1773309600,Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI,"Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI
+
+For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners."
 rss,smashingmagazine.com,https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/,1773147600,Building Dynamic Forms In React And Next.js,"Building Dynamic Forms In React And Next.js
 
 Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them."
