@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/,1773741600,Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow,"Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow
+
+Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design."
 rss,smashingmagazine.com,https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/,1773406800,Moving From Moment.js To The JS Temporal API,"Moving From Moment.js To The JS Temporal API
 
 The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API."
