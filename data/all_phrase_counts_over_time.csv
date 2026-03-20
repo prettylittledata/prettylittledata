@@ -26,6 +26,7 @@ period,Term,Count
 2026-02-02,confidence,1
 2026-02-02,country,2
 2026-02-02,country living,2
+2026-02-02,country living magazine,2
 2026-02-02,css,4
 2026-02-02,current,4
 2026-02-02,day,2
@@ -43,8 +44,6 @@ period,Term,Count
 2026-02-02,essence,6
 2026-02-02,expert,2
 2026-02-02,fail,2
-2026-02-02,fall,2
-2026-02-02,fall winter,2
 2026-02-02,fashion,4
 2026-02-02,fashion week,2
 2026-02-02,finally,1
@@ -63,9 +62,11 @@ period,Term,Count
 2026-02-02,interior design,4
 2026-02-02,interior design trends,4
 2026-02-02,living,4
+2026-02-02,living magazine,2
 2026-02-02,longer,1
 2026-02-02,looking,2
-2026-02-02,make,2
+2026-02-02,magazine,2
+2026-02-02,make,4
 2026-02-02,makeup,10
 2026-02-02,makeup trend,2
 2026-02-02,minimalist,2
@@ -80,7 +81,7 @@ period,Term,Count
 2026-02-02,quickly,4
 2026-02-02,quietly,6
 2026-02-02,revealing,2
-2026-02-02,right,5
+2026-02-02,right,3
 2026-02-02,room,2
 2026-02-02,say,8
 2026-02-02,say decor,4
@@ -100,15 +101,13 @@ period,Term,Count
 2026-02-02,trend,8
 2026-02-02,trends,32
 2026-02-02,trends taking,4
-2026-02-02,trends try,2
-2026-02-02,try,2
 2026-02-02,video,1
-2026-02-02,vogue,4
+2026-02-02,vogue,6
 2026-02-02,way,2
 2026-02-02,wear,4
 2026-02-02,week,2
 2026-02-02,welcome,4
-2026-02-02,winter,6
+2026-02-02,winter,4
 2026-02-02,women,4
 2026-02-02,won,2
 2026-02-02,world,1
@@ -153,7 +152,8 @@ period,Term,Count
 2026-02-09,fall winter,2
 2026-02-09,fashion,2
 2026-02-09,framework,3
-2026-02-09,girl,4
+2026-02-09,french,2
+2026-02-09,girl,6
 2026-02-09,girl makeup,2
 2026-02-09,glass,4
 2026-02-09,glass skin,4
@@ -197,7 +197,6 @@ period,Term,Count
 2026-02-09,report,3
 2026-02-09,room,2
 2026-02-09,runway,2
-2026-02-09,runway trend,2
 2026-02-09,season,8
 2026-02-09,set,4
 2026-02-09,shaping,1
@@ -208,8 +207,9 @@ period,Term,Count
 2026-02-09,sleepy,2
 2026-02-09,social,2
 2026-02-09,social media,2
-2026-02-09,spring,4
+2026-02-09,spring,6
 2026-02-09,spring summer,4
+2026-02-09,spring trends,2
 2026-02-09,spruce,4
 2026-02-09,stay,1
 2026-02-09,stop,1
@@ -221,7 +221,7 @@ period,Term,Count
 2026-02-09,tone,1
 2026-02-09,trend,10
 2026-02-09,trend report,2
-2026-02-09,trends,24
+2026-02-09,trends,26
 2026-02-09,trends know,1
 2026-02-09,trends make,2
 2026-02-09,trends set,4
@@ -232,7 +232,7 @@ period,Term,Count
 2026-02-09,use,1
 2026-02-09,video,1
 2026-02-09,visual,1
-2026-02-09,wear,4
+2026-02-09,wear,6
 2026-02-09,wear spring,2
 2026-02-09,web,1
 2026-02-09,winter,2
@@ -242,13 +242,12 @@ period,Term,Count
 2026-02-09,youtube,1
 2026-02-16,according,2
 2026-02-16,actually,4
-2026-02-16,agree,2
 2026-02-16,align,1
 2026-02-16,apartment,2
 2026-02-16,apartment therapy,2
 2026-02-16,art,2
 2026-02-16,artwork,1
-2026-02-16,bazaar,4
+2026-02-16,bazaar,2
 2026-02-16,beautiful,2
 2026-02-16,beauty,20
 2026-02-16,beauty trend,6
@@ -261,22 +260,26 @@ period,Term,Count
 2026-02-16,blurred,2
 2026-02-16,bold,2
 2026-02-16,capcut,1
+2026-02-16,color,2
+2026-02-16,color trend,2
 2026-02-16,cosmopolitan,4
 2026-02-16,culture,1
 2026-02-16,decor,2
 2026-02-16,design,17
 2026-02-16,design trends,9
 2026-02-16,designing,2
+2026-02-16,dominate,2
 2026-02-16,don,2
 2026-02-16,editor,2
-2026-02-16,elle,8
+2026-02-16,elegant,2
+2026-02-16,elle,6
 2026-02-16,everyday,2
 2026-02-16,expert,2
-2026-02-16,fall,8
+2026-02-16,fall,6
 2026-02-16,fall winter,2
-2026-02-16,fashion,14
+2026-02-16,fashion,12
 2026-02-16,fashion trends,2
-2026-02-16,fashion week,8
+2026-02-16,fashion week,6
 2026-02-16,film,1
 2026-02-16,focus,2
 2026-02-16,forecast,1
@@ -289,8 +292,8 @@ period,Term,Count
 2026-02-16,good,2
 2026-02-16,graphic,1
 2026-02-16,graphic design,1
-2026-02-16,harper,4
-2026-02-16,harper bazaar,4
+2026-02-16,harper,2
+2026-02-16,harper bazaar,2
 2026-02-16,home,2
 2026-02-16,homes,2
 2026-02-16,homes gardens,2
@@ -301,7 +304,7 @@ period,Term,Count
 2026-02-16,interior,2
 2026-02-16,interior design,2
 2026-02-16,interior design trends,2
-2026-02-16,just,6
+2026-02-16,just,4
 2026-02-16,know,2
 2026-02-16,latest,1
 2026-02-16,let,2
@@ -318,13 +321,14 @@ period,Term,Count
 2026-02-16,means,4
 2026-02-16,mixed,1
 2026-02-16,model,2
+2026-02-16,moments,2
 2026-02-16,natural,4
 2026-02-16,natural beauty,4
 2026-02-16,need,3
 2026-02-16,need know,2
-2026-02-16,new,8
-2026-02-16,new york,8
-2026-02-16,new york fashion,8
+2026-02-16,new,6
+2026-02-16,new york,6
+2026-02-16,new york fashion,6
 2026-02-16,news,2
 2026-02-16,poster,2
 2026-02-16,poster design,1
@@ -340,23 +344,20 @@ period,Term,Count
 2026-02-16,reels,2
 2026-02-16,rich,2
 2026-02-16,rise,4
-2026-02-16,runway,2
-2026-02-16,runway trend,2
-2026-02-16,runways,2
+2026-02-16,runway,4
 2026-02-16,shaping,1
-2026-02-16,shop,2
 2026-02-16,simple,2
 2026-02-16,sleepy,6
 2026-02-16,slightly,6
-2026-02-16,spring,4
+2026-02-16,spring,8
 2026-02-16,spring fashion,2
 2026-02-16,spring fashion trends,2
+2026-02-16,spring wear,2
 2026-02-16,start,2
 2026-02-16,step,2
 2026-02-16,step step,1
-2026-02-16,style,2
+2026-02-16,style,4
 2026-02-16,styles,2
-2026-02-16,surgery,4
 2026-02-16,systems,1
 2026-02-16,taking,6
 2026-02-16,text,1
@@ -364,48 +365,47 @@ period,Term,Count
 2026-02-16,therapy,2
 2026-02-16,trend,14
 2026-02-16,trending,1
-2026-02-16,trends,32
+2026-02-16,trends,30
 2026-02-16,trends need,2
 2026-02-16,trends taking,6
-2026-02-16,trends try,2
 2026-02-16,try,2
 2026-02-16,tutorial,3
 2026-02-16,typography,5
-2026-02-16,unexpected,2
 2026-02-16,using,2
 2026-02-16,visual,1
-2026-02-16,vogue,2
+2026-02-16,vogue,6
 2026-02-16,want,2
-2026-02-16,wear,12
+2026-02-16,ways,2
+2026-02-16,wear,16
+2026-02-16,wear spring,2
 2026-02-16,web,4
 2026-02-16,web design,4
 2026-02-16,web design trends,2
 2026-02-16,website,2
 2026-02-16,website design,2
 2026-02-16,websites,2
-2026-02-16,week,8
+2026-02-16,week,6
 2026-02-16,winter,6
-2026-02-16,years,2
-2026-02-16,york,8
-2026-02-16,york fashion,8
-2026-02-16,york fashion week,8
+2026-02-16,years,4
+2026-02-16,york,6
+2026-02-16,york fashion,6
+2026-02-16,york fashion week,6
 2026-02-23,according,4
 2026-02-23,according designers,2
 2026-02-23,actually,2
 2026-02-23,adds,1
-2026-02-23,agree,4
 2026-02-23,april,1
 2026-02-23,artist,2
-2026-02-23,asked,2
+2026-02-23,asked,4
+2026-02-23,autumn,2
 2026-02-23,ballet,4
 2026-02-23,bazaar,2
-2026-02-23,beauty,16
-2026-02-23,beauty trend,10
+2026-02-23,beauty,18
+2026-02-23,beauty trend,12
 2026-02-23,beauty trends,6
 2026-02-23,best,2
-2026-02-23,biggest,10
+2026-02-23,biggest,8
 2026-02-23,biggest beauty,4
-2026-02-23,blue,2
 2026-02-23,blush,4
 2026-02-23,bold,2
 2026-02-23,boost,1
@@ -415,7 +415,7 @@ period,Term,Count
 2026-02-23,change,1
 2026-02-23,chic,2
 2026-02-23,choices,1
-2026-02-23,claire,4
+2026-02-23,claire,2
 2026-02-23,clean,2
 2026-02-23,collection,1
 2026-02-23,color,2
@@ -423,12 +423,12 @@ period,Term,Count
 2026-02-23,community,2
 2026-02-23,complete,1
 2026-02-23,complex,1
-2026-02-23,connect,2
 2026-02-23,cool,2
 2026-02-23,cosmopolitan,2
 2026-02-23,cost,1
 2026-02-23,country,4
 2026-02-23,country living,4
+2026-02-23,country living magazine,4
 2026-02-23,creative,2
 2026-02-23,dated,2
 2026-02-23,day,2
@@ -436,11 +436,12 @@ period,Term,Count
 2026-02-23,decor,2
 2026-02-23,decorating,6
 2026-02-23,defined,1
-2026-02-23,design,17
-2026-02-23,design trends,9
+2026-02-23,defining,2
+2026-02-23,design,15
+2026-02-23,design trends,7
 2026-02-23,designed,1
 2026-02-23,designer,2
-2026-02-23,designers,11
+2026-02-23,designers,9
 2026-02-23,did,2
 2026-02-23,don,1
 2026-02-23,edition,2
@@ -448,37 +449,34 @@ period,Term,Count
 2026-02-23,effortless,4
 2026-02-23,elle,6
 2026-02-23,enjoy,1
-2026-02-23,era,5
+2026-02-23,era,3
 2026-02-23,expert,2
 2026-02-23,eye,4
 2026-02-23,eye spring,4
 2026-02-23,face,2
-2026-02-23,fall,10
-2026-02-23,fall winter,4
+2026-02-23,fall,8
+2026-02-23,fall winter,2
 2026-02-23,fan,2
 2026-02-23,fashion,16
-2026-02-23,fashion trend,2
 2026-02-23,fashion trends,6
-2026-02-23,fashion week,6
+2026-02-23,fashion week,8
 2026-02-23,feels,1
 2026-02-23,floral,2
 2026-02-23,follow,2
 2026-02-23,free,2
 2026-02-23,fresh,6
 2026-02-23,friendly,2
-2026-02-23,furniture,2
 2026-02-23,game,1
 2026-02-23,gardens,2
 2026-02-23,gen,2
 2026-02-23,glamour,6
 2026-02-23,glamour ballet,2
 2026-02-23,global,4
-2026-02-23,going,2
 2026-02-23,good,2
 2026-02-23,good housekeeping,2
 2026-02-23,got,2
 2026-02-23,grandma,4
-2026-02-23,graphic,9
+2026-02-23,graphic,7
 2026-02-23,graphic design,2
 2026-02-23,graphicdesign,1
 2026-02-23,harper,2
@@ -494,33 +492,32 @@ period,Term,Count
 2026-02-23,inspiration,1
 2026-02-23,inspired,4
 2026-02-23,interfaces,2
-2026-02-23,interior,8
-2026-02-23,interior design,2
-2026-02-23,interior design trends,2
+2026-02-23,interior,6
 2026-02-23,interior designers,6
 2026-02-23,jeans,2
 2026-02-23,just,2
 2026-02-23,key,4
 2026-02-23,know,4
 2026-02-23,like,4
+2026-02-23,lip,2
 2026-02-23,little,1
 2026-02-23,living,4
-2026-02-23,living decorating,2
+2026-02-23,living magazine,4
 2026-02-23,london,12
 2026-02-23,look,6
 2026-02-23,love,1
-2026-02-23,magazine,2
+2026-02-23,magazine,6
 2026-02-23,make,6
 2026-02-23,makeup,12
 2026-02-23,makeup trend,4
 2026-02-23,makeup trends,6
 2026-02-23,march,2
-2026-02-23,marie,4
-2026-02-23,marie claire,4
+2026-02-23,marie,2
+2026-02-23,marie claire,2
 2026-02-23,matter,1
 2026-02-23,maybe,1
 2026-02-23,meet,3
-2026-02-23,milan,6
+2026-02-23,milan,8
 2026-02-23,minimalism,2
 2026-02-23,modern,4
 2026-02-23,national,4
@@ -538,17 +535,15 @@ period,Term,Count
 2026-02-23,ready,1
 2026-02-23,real,2
 2026-02-23,real simple,2
-2026-02-23,red,4
+2026-02-23,red,2
 2026-02-23,report,6
 2026-02-23,reveals,4
 2026-02-23,right,2
-2026-02-23,runway,2
-2026-02-23,runways,10
+2026-02-23,runways,8
 2026-02-23,say,2
 2026-02-23,season,2
 2026-02-23,share,1
 2026-02-23,shares,6
-2026-02-23,shirts,4
 2026-02-23,shop,2
 2026-02-23,short,1
 2026-02-23,simple,2
@@ -561,19 +556,17 @@ period,Term,Count
 2026-02-23,spring makeup trend,4
 2026-02-23,spring wear,2
 2026-02-23,stay,2
-2026-02-23,street,2
-2026-02-23,street style,2
-2026-02-23,style,2
-2026-02-23,support,2
+2026-02-23,street,4
+2026-02-23,street style,4
+2026-02-23,style,4
 2026-02-23,swapping,2
-2026-02-23,taking,5
-2026-02-23,tiktok,4
+2026-02-23,taking,3
+2026-02-23,tiktok,2
 2026-02-23,timeless,2
 2026-02-23,tips,2
 2026-02-23,today,4
-2026-02-23,trend,22
+2026-02-23,trend,20
 2026-02-23,trend report,6
-2026-02-23,trend taking,2
 2026-02-23,trends,48
 2026-02-23,trends know,4
 2026-02-23,trends make,2
@@ -586,7 +579,7 @@ period,Term,Count
 2026-02-23,usa,2
 2026-02-23,video,2
 2026-02-23,vintage,2
-2026-02-23,vogue,18
+2026-02-23,vogue,20
 2026-02-23,vogue vogue,3
 2026-02-23,wear,8
 2026-02-23,web,5
@@ -594,70 +587,69 @@ period,Term,Count
 2026-02-23,web design trends,4
 2026-02-23,website,4
 2026-02-23,website design,4
-2026-02-23,week,6
-2026-02-23,winning,4
+2026-02-23,week,8
+2026-02-23,winning,2
 2026-02-23,winter,4
 2026-02-23,won,2
 2026-02-23,years,2
-2026-03-02,according,6
+2026-03-02,according,4
 2026-03-02,according designers,2
 2026-03-02,achieve,2
-2026-03-02,actually,5
+2026-03-02,actually,3
 2026-03-02,aesthetic,2
 2026-03-02,air,2
 2026-03-02,apartment,2
 2026-03-02,applying,2
 2026-03-02,artist,2
+2026-03-02,autumn,2
 2026-03-02,away,4
 2026-03-02,beauty,18
 2026-03-02,beauty biggest,6
 2026-03-02,beauty trend,4
 2026-03-02,beauty trends,6
 2026-03-02,beauty trends taking,2
-2026-03-02,best,4
-2026-03-02,better,6
+2026-03-02,best,2
+2026-03-02,better,2
 2026-03-02,biggest,8
 2026-03-02,biggest beauty,2
 2026-03-02,biggest beauty trends,2
 2026-03-02,bit,2
 2026-03-02,black,2
 2026-03-02,black women,2
+2026-03-02,bloom,2
 2026-03-02,blurred,2
 2026-03-02,blurred lips,2
-2026-03-02,book,6
+2026-03-02,book,8
 2026-03-02,brand,2
 2026-03-02,breaking,4
 2026-03-02,budget,1
 2026-03-02,build,1
 2026-03-02,business,4
-2026-03-02,buy,2
 2026-03-02,buzzfeed,6
 2026-03-02,buzzfeed people,1
 2026-03-02,care,4
-2026-03-02,change,2
-2026-03-02,chasing,2
 2026-03-02,chic,2
 2026-03-02,claire,2
 2026-03-02,clean,6
 2026-03-02,clean girl,6
-2026-03-02,clothing,3
-2026-03-02,color,2
+2026-03-02,clothing,1
 2026-03-02,come,1
-2026-03-02,cosmopolitan,4
+2026-03-02,coming,2
 2026-03-02,country,2
 2026-03-02,country living,2
+2026-03-02,country living magazine,2
 2026-03-02,creating,1
 2026-03-02,dead,4
-2026-03-02,decor,14
+2026-03-02,decor,10
 2026-03-02,decor trends,2
 2026-03-02,defining,2
 2026-03-02,design,16
 2026-03-02,design trends,12
-2026-03-02,designers,14
-2026-03-02,designers say,6
+2026-03-02,designers,12
+2026-03-02,designers say,4
 2026-03-02,details,1
 2026-03-02,different,1
-2026-03-02,dominate,4
+2026-03-02,dominate,2
 2026-03-02,easy,2
 2026-03-02,editor,2
 2026-03-02,elegant,2
@@ -665,8 +657,7 @@ period,Term,Count
 2026-03-02,entire,1
 2026-03-02,essence,2
 2026-03-02,excited,2
-2026-03-02,expert,2
-2026-03-02,fashion,15
+2026-03-02,fashion,13
 2026-03-02,fashion trend,4
 2026-03-02,fashion trends,8
 2026-03-02,fast,4
@@ -675,34 +666,35 @@ period,Term,Count
 2026-03-02,foundation,2
 2026-03-02,fresh,4
 2026-03-02,fun,2
-2026-03-02,gardens,4
+2026-03-02,gardens,2
 2026-03-02,gen,2
 2026-03-02,getting,2
 2026-03-02,girl,6
 2026-03-02,girl makeup,6
 2026-03-02,glad,2
+2026-03-02,glamour,2
 2026-03-02,glowing,2
 2026-03-02,good,4
 2026-03-02,grandma,4
 2026-03-02,hack,2
 2026-03-02,hacks,2
 2026-03-02,happens,1
-2026-03-02,home,19
-2026-03-02,home decor,6
+2026-03-02,home,13
+2026-03-02,home decor,4
 2026-03-02,home design,2
 2026-03-02,home design trends,2
-2026-03-02,homes,4
-2026-03-02,homes gardens,4
+2026-03-02,homes,2
+2026-03-02,homes gardens,2
 2026-03-02,hottest,2
 2026-03-02,human,2
 2026-03-02,immediately,2
 2026-03-02,inspired,4
-2026-03-02,instead,4
+2026-03-02,instead,2
 2026-03-02,interfaces,1
-2026-03-02,interior,10
+2026-03-02,interior,8
 2026-03-02,interior design,4
 2026-03-02,interior design trends,4
-2026-03-02,interior designers,6
+2026-03-02,interior designers,4
 2026-03-02,jelly,4
 2026-03-02,just,4
 2026-03-02,learn,1
@@ -710,6 +702,7 @@ period,Term,Count
 2026-03-02,lipstick,2
 2026-03-02,lived,2
 2026-03-02,living,4
+2026-03-02,living magazine,2
 2026-03-02,living room,2
 2026-03-02,looks,4
 2026-03-02,magazine,2
@@ -717,41 +710,32 @@ period,Term,Count
 2026-03-02,makeup,14
 2026-03-02,makeup trend,2
 2026-03-02,makeup trends,4
-2026-03-02,man,2
 2026-03-02,marie,2
 2026-03-02,marie claire,2
 2026-03-02,matter,1
 2026-03-02,minimalism,8
 2026-03-02,model,1
-2026-03-02,modern,5
-2026-03-02,msn,2
+2026-03-02,modern,3
 2026-03-02,music,1
 2026-03-02,need,2
 2026-03-02,new,5
 2026-03-02,news,2
 2026-03-02,nostalgic,4
-2026-03-02,outdated,4
+2026-03-02,outdated,2
 2026-03-02,people,4
-2026-03-02,picks,2
-2026-03-02,pieces,2
-2026-03-02,plus,2
 2026-03-02,popsugar,4
 2026-03-02,process,1
 2026-03-02,ready,2
 2026-03-02,real,6
 2026-03-02,real simple,6
-2026-03-02,recently,2
 2026-03-02,red,2
 2026-03-02,report,2
 2026-03-02,research,5
 2026-03-02,revealing,2
 2026-03-02,reveals,2
 2026-03-02,right,5
-2026-03-02,romantic,4
 2026-03-02,room,4
-2026-03-02,runway,4
-2026-03-02,runway trend,2
-2026-03-02,runways,2
+2026-03-02,runway,2
 2026-03-02,say,6
 2026-03-02,shape,2
 2026-03-02,shaping,1
@@ -767,19 +751,19 @@ period,Term,Count
 2026-03-02,smart,2
 2026-03-02,space,4
 2026-03-02,spring,26
-2026-03-02,spring fashion,6
-2026-03-02,spring fashion trends,6
+2026-03-02,spring fashion,8
+2026-03-02,spring fashion trends,8
 2026-03-02,spring summer,2
 2026-03-02,spring trends,2
 2026-03-02,stand,2
 2026-03-02,started,2
-2026-03-02,stop,2
 2026-03-02,streetwear,1
+2026-03-02,style,2
 2026-03-02,styles,1
 2026-03-02,summer,2
 2026-03-02,swapping,2
 2026-03-02,systems,2
-2026-03-02,taking,8
+2026-03-02,taking,6
 2026-03-02,talking,2
 2026-03-02,technology,1
 2026-03-02,thanks,2
@@ -788,15 +772,14 @@ period,Term,Count
 2026-03-02,today,1
 2026-03-02,tools,2
 2026-03-02,transform,3
-2026-03-02,trend,28
-2026-03-02,trend taking,4
+2026-03-02,trend,24
+2026-03-02,trend taking,2
 2026-03-02,trending,2
-2026-03-02,trends,49
+2026-03-02,trends,47
 2026-03-02,trends make,4
 2026-03-02,trends need,2
 2026-03-02,trends spring,4
 2026-03-02,trends taking,2
-2026-03-02,trends try,4
 2026-03-02,try,6
 2026-03-02,turns,1
 2026-03-02,typography,1
@@ -816,6 +799,7 @@ period,Term,Count
 2026-03-02,women,2
 2026-03-02,words,2
 2026-03-02,wrong,2
+2026-03-02,yahoo,2
 2026-03-09,absolutely,1
 2026-03-09,abstract,1
 2026-03-09,according,2
@@ -840,6 +824,7 @@ period,Term,Count
 2026-03-09,better,2
 2026-03-09,big,2
 2026-03-09,black,1
+2026-03-09,bloom,2
 2026-03-09,blurred,4
 2026-03-09,blurred lips,4
 2026-03-09,blush,2
@@ -868,9 +853,7 @@ period,Term,Count
 2026-03-09,carpet,8
 2026-03-09,challenge,2
 2026-03-09,channel,2
-2026-03-09,chasing,3
 2026-03-09,check,1
-2026-03-09,chic,2
 2026-03-09,children,1
 2026-03-09,chinese,3
 2026-03-09,choices,3
@@ -878,7 +861,7 @@ period,Term,Count
 2026-03-09,claire,6
 2026-03-09,coding,1
 2026-03-09,coffee,1
-2026-03-09,color,4
+2026-03-09,color,2
 2026-03-09,comeback,2
 2026-03-09,content,1
 2026-03-09,coolest,8
@@ -918,7 +901,7 @@ period,Term,Count
 2026-03-09,editors,4
 2026-03-09,effortless,1
 2026-03-09,eid,10
-2026-03-09,elle,2
+2026-03-09,elle,4
 2026-03-09,end,2
 2026-03-09,everyday,2
 2026-03-09,exactly,2
@@ -949,9 +932,8 @@ period,Term,Count
 2026-03-09,fyp,1
 2026-03-09,game,4
 2026-03-09,girl,1
-2026-03-09,giving,2
 2026-03-09,glad,4
-2026-03-09,glamour,6
+2026-03-09,glamour,4
 2026-03-09,glass,2
 2026-03-09,glass skin,2
 2026-03-09,glassmorphism,1
@@ -980,7 +962,6 @@ period,Term,Count
 2026-03-09,hoodies jorts,5
 2026-03-09,hoodies jorts caps,5
 2026-03-09,hottest,2
-2026-03-09,huge,2
 2026-03-09,idea,1
 2026-03-09,ideas,6
 2026-03-09,india,3
@@ -991,7 +972,7 @@ period,Term,Count
 2026-03-09,instagram,2
 2026-03-09,instead,4
 2026-03-09,instyle,6
-2026-03-09,interior,6
+2026-03-09,interior,4
 2026-03-09,interior design,2
 2026-03-09,interior design trends,2
 2026-03-09,jorts,5
@@ -1013,7 +994,6 @@ period,Term,Count
 2026-03-09,like,7
 2026-03-09,lips,4
 2026-03-09,living,10
-2026-03-09,living decorating,3
 2026-03-09,living room,2
 2026-03-09,livingetc,2
 2026-03-09,logo,2
@@ -1101,7 +1081,6 @@ period,Term,Count
 2026-03-09,ruled oscars,4
 2026-03-09,ruled oscars red,4
 2026-03-09,runway,2
-2026-03-09,runway trend,2
 2026-03-09,say,2
 2026-03-09,says,3
 2026-03-09,scratch,3
@@ -1114,7 +1093,6 @@ period,Term,Count
 2026-03-09,shape,3
 2026-03-09,share,4
 2026-03-09,shares,1
-2026-03-09,shirts,1
 2026-03-09,shop,4
 2026-03-09,short,6
 2026-03-09,short brings,5
@@ -1145,8 +1123,7 @@ period,Term,Count
 2026-03-09,southern living,8
 2026-03-09,space,1
 2026-03-09,special,2
-2026-03-09,spring,24
-2026-03-09,spring color,2
+2026-03-09,spring,22
 2026-03-09,spring coolest,8
 2026-03-09,spring coolest makeup,8
 2026-03-09,spring fashion,4
@@ -1201,7 +1178,7 @@ period,Term,Count
 2026-03-09,trending,5
 2026-03-09,trending viral,1
 2026-03-09,trendingshorts,2
-2026-03-09,trends,35
+2026-03-09,trends,31
 2026-03-09,trends know,4
 2026-03-09,trends shorts,2
 2026-03-09,trends spring,2
@@ -1231,7 +1208,7 @@ period,Term,Count
 2026-03-09,want,6
 2026-03-09,warm,3
 2026-03-09,way,2
-2026-03-09,wear,10
+2026-03-09,wear,8
 2026-03-09,web,11
 2026-03-09,web design,9
 2026-03-09,website,3
@@ -1245,7 +1222,7 @@ period,Term,Count
 2026-03-09,winter,5
 2026-03-09,work,1
 2026-03-09,world,1
-2026-03-09,yahoo,6
+2026-03-09,yahoo,4
 2026-03-09,year,7
 2026-03-09,years,4
 2026-03-09,yes,1
@@ -1269,7 +1246,6 @@ period,Term,Count
 2026-03-16,africa,9
 2026-03-16,age,4
 2026-03-16,ago,3
-2026-03-16,agree,3
 2026-03-16,ahead,5
 2026-03-16,air,18
 2026-03-16,align,14
@@ -1280,7 +1256,7 @@ period,Term,Count
 2026-03-16,alt height,4
 2026-03-16,alt height src,4
 2026-03-16,amazing,4
-2026-03-16,amazon,14
+2026-03-16,amazon,16
 2026-03-16,american,12
 2026-03-16,analysis,6
 2026-03-16,annual,4
@@ -1308,6 +1284,7 @@ period,Term,Count
 2026-03-16,attachment post,10
 2026-03-16,attachment post thumbnail,10
 2026-03-16,attention,4
+2026-03-16,autumn,5
 2026-03-16,available,67
 2026-03-16,avoid,9
 2026-03-16,awards,7
@@ -1319,7 +1296,6 @@ period,Term,Count
 2026-03-16,bannerdesign socialmediadesign digitaldesign,5
 2026-03-16,base,12
 2026-03-16,based,22
-2026-03-16,bazaar,2
 2026-03-16,beautiful,14
 2026-03-16,beauty,118
 2026-03-16,beauty biggest,2
@@ -1331,7 +1307,7 @@ period,Term,Count
 2026-03-16,bed,3
 2026-03-16,bedroom,14
 2026-03-16,believe,7
-2026-03-16,best,57
+2026-03-16,best,55
 2026-03-16,better,12
 2026-03-16,big,26
 2026-03-16,biggest,18
@@ -1340,6 +1316,7 @@ period,Term,Count
 2026-03-16,black,31
 2026-03-16,black women,1
 2026-03-16,blockquote,22
+2026-03-16,bloom,3
 2026-03-16,blue,11
 2026-03-16,blurred,4
 2026-03-16,blurred lips,4
@@ -1361,7 +1338,7 @@ period,Term,Count
 2026-03-16,brings,3
 2026-03-16,british,6
 2026-03-16,brown,9
-2026-03-16,budget,8
+2026-03-16,budget,10
 2026-03-16,build,12
 2026-03-16,building,27
 2026-03-16,building premium,5
@@ -1392,14 +1369,13 @@ period,Term,Count
 2026-03-16,challenges,3
 2026-03-16,change,7
 2026-03-16,channel,6
-2026-03-16,chasing,1
 2026-03-16,check,5
 2026-03-16,chic,4
 2026-03-16,children,4
 2026-03-16,chinese,3
 2026-03-16,choices,2
 2026-03-16,choose,6
-2026-03-16,claire,26
+2026-03-16,claire,24
 2026-03-16,claire spring,6
 2026-03-16,class,88
 2026-03-16,class attachment,10
@@ -1424,12 +1400,12 @@ period,Term,Count
 2026-03-16,collective div,6
 2026-03-16,collective medium,4
 2026-03-16,collective medium people,4
-2026-03-16,color,70
-2026-03-16,color trend,8
+2026-03-16,color,68
+2026-03-16,color trend,6
 2026-03-16,colors,5
 2026-03-16,colour,7
 2026-03-16,come,9
-2026-03-16,comeback,16
+2026-03-16,comeback,14
 2026-03-16,comes,16
 2026-03-16,comfort,8
 2026-03-16,comfortable,4
@@ -1441,7 +1417,6 @@ period,Term,Count
 2026-03-16,concept,8
 2026-03-16,concrete,25
 2026-03-16,confidence,9
-2026-03-16,connect,4
 2026-03-16,considering,8
 2026-03-16,content,8
 2026-03-16,context,19
@@ -1479,7 +1454,7 @@ period,Term,Count
 2026-03-16,cutting,4
 2026-03-16,daily,8
 2026-03-16,daniel,12
-2026-03-16,dark,7
+2026-03-16,dark,5
 2026-03-16,date,3
 2026-03-16,dated,4
 2026-03-16,day,14
@@ -1602,13 +1577,13 @@ period,Term,Count
 2026-03-16,fan,7
 2026-03-16,fans,9
 2026-03-16,far,6
-2026-03-16,fashion,144
+2026-03-16,fashion,140
 2026-03-16,fashion fashiontrends,6
 2026-03-16,fashion month,8
 2026-03-16,fashion shorts,6
 2026-03-16,fashion trend,4
 2026-03-16,fashion trends,26
-2026-03-16,fashion week,5
+2026-03-16,fashion week,3
 2026-03-16,fashionstyle,6
 2026-03-16,fashiontrends,46
 2026-03-16,fashiontrends fashion,7
@@ -1665,7 +1640,7 @@ period,Term,Count
 2026-03-16,future,22
 2026-03-16,fyp,10
 2026-03-16,game,5
-2026-03-16,garden,11
+2026-03-16,garden,9
 2026-03-16,gardens,4
 2026-03-16,gave,9
 2026-03-16,gen,1
@@ -1674,7 +1649,7 @@ period,Term,Count
 2026-03-16,getting,8
 2026-03-16,girl,14
 2026-03-16,girl makeup,1
-2026-03-16,girls,11
+2026-03-16,girls,9
 2026-03-16,given,7
 2026-03-16,giving,6
 2026-03-16,glad,1
@@ -1703,6 +1678,7 @@ period,Term,Count
 2026-03-16,goodness right,10
 2026-03-16,goodness right strong,10
 2026-03-16,got,8
+2026-03-16,grandma,2
 2026-03-16,graphic,16
 2026-03-16,graphic design,7
 2026-03-16,graphic design designing,5
@@ -1726,8 +1702,6 @@ period,Term,Count
 2026-03-16,happening,4
 2026-03-16,happens,5
 2026-03-16,hard,7
-2026-03-16,harper,2
-2026-03-16,harper bazaar,2
 2026-03-16,haul,3
 2026-03-16,haven,3
 2026-03-16,having,10
@@ -1736,8 +1710,8 @@ period,Term,Count
 2026-03-16,height,103
 2026-03-16,height src,68
 2026-03-16,height src width,68
-2026-03-16,hello,15
-2026-03-16,hello magazine,12
+2026-03-16,hello,13
+2026-03-16,hello magazine,10
 2026-03-16,help,11
 2026-03-16,helping,4
 2026-03-16,helps,7
@@ -1748,16 +1722,16 @@ period,Term,Count
 2026-03-16,hold,6
 2026-03-16,hollywood,8
 2026-03-16,home,90
-2026-03-16,home decor,31
+2026-03-16,home decor,33
 2026-03-16,home decor ideas,11
 2026-03-16,home design,14
 2026-03-16,home design trends,2
 2026-03-16,homedecor,17
-2026-03-16,homes,14
+2026-03-16,homes,12
 2026-03-16,homes gardens,4
 2026-03-16,hottest,2
 2026-03-16,hours,6
-2026-03-16,house,27
+2026-03-16,house,29
 2026-03-16,housekeeping,12
 2026-03-16,huge,12
 2026-03-16,human,37
@@ -1836,7 +1810,6 @@ period,Term,Count
 2026-03-16,level,12
 2026-03-16,lies,4
 2026-03-16,life,14
-2026-03-16,lifestyle,7
 2026-03-16,light,12
 2026-03-16,like,129
 2026-03-16,like goodness,9
@@ -1855,7 +1828,7 @@ period,Term,Count
 2026-03-16,lives,4
 2026-03-16,living,30
 2026-03-16,living room,9
-2026-03-16,livingetc,8
+2026-03-16,livingetc,6
 2026-03-16,located,5
 2026-03-16,logo,19
 2026-03-16,logo design,5
@@ -1867,9 +1840,9 @@ period,Term,Count
 2026-03-16,london,6
 2026-03-16,long,14
 2026-03-16,longer,3
-2026-03-16,look,47
+2026-03-16,look,49
 2026-03-16,look like,7
-2026-03-16,looking,23
+2026-03-16,looking,25
 2026-03-16,looking perfect,4
 2026-03-16,looks,34
 2026-03-16,looks like,11
@@ -1879,7 +1852,7 @@ period,Term,Count
 2026-03-16,low,11
 2026-03-16,luxurious,7
 2026-03-16,luxury,29
-2026-03-16,magazine,22
+2026-03-16,magazine,20
 2026-03-16,major,7
 2026-03-16,make,29
 2026-03-16,makeover,2
@@ -1891,11 +1864,10 @@ period,Term,Count
 2026-03-16,makeup trends,5
 2026-03-16,makeup tutorial,9
 2026-03-16,makeuptutorial,6
-2026-03-16,making,24
-2026-03-16,man,7
+2026-03-16,making,22
 2026-03-16,march,13
-2026-03-16,marie,26
-2026-03-16,marie claire,26
+2026-03-16,marie,24
+2026-03-16,marie claire,24
 2026-03-16,marie claire spring,6
 2026-03-16,market,7
 2026-03-16,marketing,4
@@ -1933,7 +1905,6 @@ period,Term,Count
 2026-03-16,month,13
 2026-03-16,morning,4
 2026-03-16,moving,4
-2026-03-16,msn,6
 2026-03-16,music,7
 2026-03-16,musicai,8
 2026-03-16,musicai trends,8
@@ -1949,7 +1920,7 @@ period,Term,Count
 2026-03-16,need,23
 2026-03-16,need know,3
 2026-03-16,needs,8
-2026-03-16,new,120
+2026-03-16,new,118
 2026-03-16,new york,15
 2026-03-16,new york times,13
 2026-03-16,newmusic,8
@@ -2009,13 +1980,12 @@ period,Term,Count
 2026-03-16,person,7
 2026-03-16,personal,7
 2026-03-16,pick,2
-2026-03-16,picks,4
-2026-03-16,pieces,10
+2026-03-16,pieces,12
 2026-03-16,pink,12
 2026-03-16,pinterest,11
 2026-03-16,place,14
 2026-03-16,plan,9
-2026-03-16,plastic,6
+2026-03-16,plastic,4
 2026-03-16,play,7
 2026-03-16,plus,10
 2026-03-16,point,23
@@ -2105,11 +2075,10 @@ period,Term,Count
 2026-03-16,revealing,4
 2026-03-16,reveals,2
 2026-03-16,review,8
-2026-03-16,rich,7
+2026-03-16,rich,5
 2026-03-16,right,47
 2026-03-16,right strong,11
 2026-03-16,rise,6
-2026-03-16,romantic,2
 2026-03-16,room,23
 2026-03-16,routine,10
 2026-03-16,rug,6
@@ -2153,7 +2122,6 @@ period,Term,Count
 2026-03-16,shares,3
 2026-03-16,shift,11
 2026-03-16,shifting,3
-2026-03-16,shirts,1
 2026-03-16,shop,20
 2026-03-16,short,6
 2026-03-16,shorts,112
@@ -2210,14 +2178,13 @@ period,Term,Count
 2026-03-16,spatial,40
 2026-03-16,special,3
 2026-03-16,spot,8
-2026-03-16,spring,146
-2026-03-16,spring color,6
+2026-03-16,spring,144
 2026-03-16,spring fashion,4
 2026-03-16,spring fashion trends,3
 2026-03-16,spring makeup,8
 2026-03-16,spring makeup trend,4
 2026-03-16,spring summer,4
-2026-03-16,spring trends,6
+2026-03-16,spring trends,4
 2026-03-16,spring wear,8
 2026-03-16,src,116
 2026-03-16,src figcaption,21
@@ -2264,7 +2231,6 @@ period,Term,Count
 2026-03-16,super,6
 2026-03-16,support,14
 2026-03-16,sure,8
-2026-03-16,surgery,3
 2026-03-16,swapping,4
 2026-03-16,sweet,17
 2026-03-16,systems,30
@@ -2320,9 +2286,9 @@ period,Term,Count
 2026-03-16,transformation,9
 2026-03-16,transforming,5
 2026-03-16,transition,3
-2026-03-16,travel,4
+2026-03-16,travel,6
 2026-03-16,tree,7
-2026-03-16,trend,157
+2026-03-16,trend,149
 2026-03-16,trend marie,6
 2026-03-16,trend marie claire,6
 2026-03-16,trend oscars,11
@@ -2333,7 +2299,7 @@ period,Term,Count
 2026-03-16,trending,31
 2026-03-16,trending viral,4
 2026-03-16,trendingshorts,12
-2026-03-16,trends,174
+2026-03-16,trends,172
 2026-03-16,trends know,2
 2026-03-16,trends need,4
 2026-03-16,trends set,4
@@ -2355,7 +2321,7 @@ period,Term,Count
 2026-03-16,tutorials,5
 2026-03-16,typography,7
 2026-03-16,ulta,4
-2026-03-16,ultimate,6
+2026-03-16,ultimate,8
 2026-03-16,unexpected,5
 2026-03-16,unique,5
 2026-03-16,upcoming,2
@@ -2399,7 +2365,6 @@ period,Term,Count
 2026-03-16,warm,11
 2026-03-16,waste,5
 2026-03-16,watch,19
-2026-03-16,watching,7
 2026-03-16,water,10
 2026-03-16,way,26
 2026-03-16,ways,6
@@ -2414,7 +2379,7 @@ period,Term,Count
 2026-03-16,website design,3
 2026-03-16,websites,5
 2026-03-16,wedding,18
-2026-03-16,week,16
+2026-03-16,week,14
 2026-03-16,welcome,11
 2026-03-16,west,2
 2026-03-16,white,15
@@ -2434,7 +2399,7 @@ period,Term,Count
 2026-03-16,works,7
 2026-03-16,world,48
 2026-03-16,world fashion,8
-2026-03-16,worth,8
+2026-03-16,worth,6
 2026-03-16,wrong,9
 2026-03-16,yahoo,4
 2026-03-16,year,12
