@@ -11,7 +11,6 @@ period,Term,Count
 2026-02-09,designers,1
 2026-02-09,designing,4
 2026-02-09,digital,2
-2026-02-09,discover,1
 2026-02-09,faster,1
 2026-02-09,framework,3
 2026-02-09,frameworks,1
@@ -51,7 +50,6 @@ period,Term,Count
 2026-02-09,voice,1
 2026-02-09,web,1
 2026-02-09,work,1
-2026-02-09,year,1
 2026-02-09,youtube,1
 2026-02-16,art,2
 2026-02-16,artwork,1
@@ -101,6 +99,7 @@ period,Term,Count
 2026-02-16,website,2
 2026-02-16,website design,2
 2026-02-16,websites,2
+2026-02-23,animation,1
 2026-02-23,boost,1
 2026-02-23,brand,2
 2026-02-23,change,1
@@ -113,6 +112,7 @@ period,Term,Count
 2026-02-23,don,1
 2026-02-23,feels,1
 2026-02-23,friendly,2
+2026-02-23,game,1
 2026-02-23,graphic,3
 2026-02-23,graphic design,2
 2026-02-23,graphic design trends,1
@@ -132,13 +132,13 @@ period,Term,Count
 2026-02-23,performance,5
 2026-02-23,photoshop,1
 2026-02-23,reveals,4
-2026-02-23,say,2
 2026-02-23,taking,1
 2026-02-23,today,4
 2026-02-23,trends,8
 2026-02-23,typography,4
 2026-02-23,typography trends,2
 2026-02-23,video,2
+2026-02-23,wave,2
 2026-02-23,web,5
 2026-02-23,web design,4
 2026-02-23,web design trends,4
@@ -162,6 +162,7 @@ period,Term,Count
 2026-03-02,javascript,1
 2026-03-02,learn,1
 2026-03-02,make,3
+2026-03-02,make website,2
 2026-03-02,matter,1
 2026-03-02,modern,1
 2026-03-02,new,3
@@ -171,7 +172,6 @@ period,Term,Count
 2026-03-02,right,1
 2026-03-02,shaping,1
 2026-03-02,single,1
-2026-03-02,solving,1
 2026-03-02,systems,2
 2026-03-02,technology,1
 2026-03-02,thinking,1
@@ -180,43 +180,37 @@ period,Term,Count
 2026-03-02,trends,3
 2026-03-02,typography,1
 2026-03-02,using,2
+2026-03-02,wave,1
 2026-03-02,web,2
 2026-03-02,web design,2
 2026-03-02,web design trends,2
 2026-03-02,website,2
-2026-03-02,workflow,2
 2026-03-09,abstract,1
 2026-03-09,actually,1
 2026-03-09,based,2
-2026-03-09,best,1
 2026-03-09,brand,2
 2026-03-09,building,2
 2026-03-09,built,1
 2026-03-09,css,2
 2026-03-09,design,6
 2026-03-09,design trends,2
-2026-03-09,designers,1
 2026-03-09,different,1
-2026-03-09,discover,1
 2026-03-09,everyday,2
 2026-03-09,finally,1
 2026-03-09,follow,4
 2026-03-09,graphicdesign,1
 2026-03-09,haven,2
-2026-03-09,high,1
 2026-03-09,javascript,1
 2026-03-09,just,1
 2026-03-09,like,1
 2026-03-09,logo,2
 2026-03-09,logo design,2
 2026-03-09,logodesign,1
-2026-03-09,look,2
+2026-03-09,look,1
 2026-03-09,love,2
-2026-03-09,modern,1
 2026-03-09,moving,2
 2026-03-09,new,3
 2026-03-09,practical,1
-2026-03-09,premium,1
 2026-03-09,product,1
 2026-03-09,results,1
 2026-03-09,right,1
@@ -229,14 +223,10 @@ period,Term,Count
 2026-03-09,trends,3
 2026-03-09,typography,5
 2026-03-09,typography trend,4
-2026-03-09,use,1
 2026-03-09,using,1
-2026-03-09,video,6
+2026-03-09,video,5
 2026-03-09,visual,1
-2026-03-09,want,1
 2026-03-09,way,1
-2026-03-09,web,1
-2026-03-09,website,1
 2026-03-09,years,3
 2026-03-09,youtube,8
 2026-03-09,youtube video,4
@@ -245,13 +235,15 @@ period,Term,Count
 2026-03-16,abstract art,3
 2026-03-16,abstract art lovers,3
 2026-03-16,actually,1
-2026-03-16,adobe,8
-2026-03-16,adobe illustrator,7
-2026-03-16,adobeillustrator,4
+2026-03-16,adobe,9
+2026-03-16,adobe illustrator,8
+2026-03-16,adobeillustrator,6
+2026-03-16,adobeillustrator graphicdesign,4
 2026-03-16,agency,5
 2026-03-16,alt,19
 2026-03-16,alt height,3
 2026-03-16,alt height src,3
+2026-03-16,animation,2
 2026-03-16,app,4
 2026-03-16,aren,3
 2026-03-16,art,6
@@ -270,26 +262,25 @@ period,Term,Count
 2026-03-16,better,9
 2026-03-16,big,4
 2026-03-16,book,3
-2026-03-16,boost,2
+2026-03-16,boost,3
+2026-03-16,boost conversions,3
 2026-03-16,branding,6
 2026-03-16,branding logo,3
 2026-03-16,branding logo poster,3
 2026-03-16,build,11
-2026-03-16,building,16
-2026-03-16,building premium,4
-2026-03-16,building premium glassmorphism,4
+2026-03-16,building,14
+2026-03-16,building premium,3
+2026-03-16,building premium glassmorphism,3
 2026-03-16,built,6
-2026-03-16,card,9
-2026-03-16,card using,4
-2026-03-16,card using pure,4
+2026-03-16,card,8
+2026-03-16,card using,3
+2026-03-16,card using pure,3
 2026-03-16,change,4
 2026-03-16,check,4
 2026-03-16,class,28
 2026-03-16,class medium,28
 2026-03-16,class medium feed,28
 2026-03-16,clear,7
-2026-03-16,clients,3
-2026-03-16,coding,3
 2026-03-16,collective,10
 2026-03-16,collective div,7
 2026-03-16,collective medium,3
@@ -303,9 +294,12 @@ period,Term,Count
 2026-03-16,conversation highlighting,3
 2026-03-16,conversation highlighting responding,3
 2026-03-16,conversations,16
-2026-03-16,conversions,3
-2026-03-16,create,5
-2026-03-16,creating,7
+2026-03-16,conversions,4
+2026-03-16,convert,4
+2026-03-16,convert visitors,3
+2026-03-16,convert visitors customers,3
+2026-03-16,create,6
+2026-03-16,creating,6
 2026-03-16,creative,1
 2026-03-16,creativity,3
 2026-03-16,creativity artwork,3
@@ -313,20 +307,20 @@ period,Term,Count
 2026-03-16,creators,3
 2026-03-16,creators follow,3
 2026-03-16,creators follow sylusskydesigns,3
-2026-03-16,css,7
-2026-03-16,css design,4
-2026-03-16,css design inspired,4
+2026-03-16,css,6
+2026-03-16,css design,3
+2026-03-16,css design inspired,3
 2026-03-16,culture,2
-2026-03-16,customers,3
+2026-03-16,customers,6
 2026-03-16,described,5
-2026-03-16,design,104
+2026-03-16,design,107
 2026-03-16,design adobe,5
 2026-03-16,design designing,3
 2026-03-16,design designing designer,3
-2026-03-16,design inspired,4
-2026-03-16,design trends,12
+2026-03-16,design inspired,3
+2026-03-16,design trends,14
 2026-03-16,design tutorial,4
-2026-03-16,designer,9
+2026-03-16,designer,11
 2026-03-16,designer graphics,4
 2026-03-16,designer graphics creativity,3
 2026-03-16,designers,16
@@ -338,18 +332,17 @@ period,Term,Count
 2026-03-16,designmodo,4
 2026-03-16,designtrends,3
 2026-03-16,different,5
-2026-03-16,digital,15
+2026-03-16,digital,16
 2026-03-16,digital branding,3
 2026-03-16,digital branding logo,3
-2026-03-16,digital marketing,4
+2026-03-16,digital marketing,5
 2026-03-16,digitaldesign,3
-2026-03-16,discover,1
 2026-03-16,div,14
 2026-03-16,div class,7
 2026-03-16,div class medium,7
 2026-03-16,does,10
 2026-03-16,don,4
-2026-03-16,effect,4
+2026-03-16,effect,5
 2026-03-16,effective,32
 2026-03-16,emotional,4
 2026-03-16,entire,4
@@ -385,21 +378,22 @@ period,Term,Count
 2026-03-16,frameworks,2
 2026-03-16,friendly,2
 2026-03-16,future,6
+2026-03-16,game,6
 2026-03-16,generated,7
 2026-03-16,gets,4
-2026-03-16,glassmorphism,8
-2026-03-16,glassmorphism product,4
-2026-03-16,glassmorphism product card,4
+2026-03-16,glassmorphism,6
+2026-03-16,glassmorphism product,3
+2026-03-16,glassmorphism product card,3
 2026-03-16,going,6
-2026-03-16,good,7
+2026-03-16,good,8
 2026-03-16,google,9
-2026-03-16,graphic,22
+2026-03-16,graphic,24
 2026-03-16,graphic design,11
 2026-03-16,graphic design designing,3
-2026-03-16,graphic designer,4
+2026-03-16,graphic designer,6
 2026-03-16,graphic designers,4
 2026-03-16,graphic designers abstract,3
-2026-03-16,graphicdesign,15
+2026-03-16,graphicdesign,17
 2026-03-16,graphicdesign graphicdesigner,3
 2026-03-16,graphicdesign graphicdesigner logodesign,3
 2026-03-16,graphicdesigner,3
@@ -408,29 +402,29 @@ period,Term,Count
 2026-03-16,graphics,5
 2026-03-16,graphics creativity,3
 2026-03-16,graphics creativity artwork,3
+2026-03-16,great,6
 2026-03-16,happens,4
 2026-03-16,haven,1
 2026-03-16,height,3
 2026-03-16,height src,3
 2026-03-16,height src width,3
-2026-03-16,high,4
+2026-03-16,high,3
 2026-03-16,highlighting,5
 2026-03-16,highlighting responding,3
 2026-03-16,highlighting responding story,3
 2026-03-16,human,25
 2026-03-16,ideas,8
-2026-03-16,illustrator,14
+2026-03-16,illustrator,15
 2026-03-16,illustrator creators,3
 2026-03-16,illustrator creators follow,3
 2026-03-16,image,18
 2026-03-16,image src,7
 2026-03-16,image src width,7
-2026-03-16,imagine,4
 2026-03-16,img,19
 2026-03-16,img alt,19
 2026-03-16,img alt height,3
 2026-03-16,impact,4
-2026-03-16,inspired,5
+2026-03-16,inspired,4
 2026-03-16,instagram,2
 2026-03-16,intent,2
 2026-03-16,interesting,6
@@ -440,11 +434,11 @@ period,Term,Count
 2026-03-16,item class,7
 2026-03-16,item class medium,7
 2026-03-16,job,4
-2026-03-16,just,24
+2026-03-16,just,25
 2026-03-16,know,14
-2026-03-16,learn,5
-2026-03-16,level,5
-2026-03-16,like,29
+2026-03-16,learn,6
+2026-03-16,level,6
+2026-03-16,like,30
 2026-03-16,link,7
 2026-03-16,link reading,7
 2026-03-16,link reading collective,7
@@ -456,17 +450,18 @@ period,Term,Count
 2026-03-16,logodesign,5
 2026-03-16,logodesign posterdesign,3
 2026-03-16,logodesign posterdesign flyerdesign,3
-2026-03-16,look,5
+2026-03-16,look,6
 2026-03-16,looking,6
 2026-03-16,love,1
 2026-03-16,lovers,3
 2026-03-16,lovers illustrator,3
 2026-03-16,lovers illustrator creators,3
-2026-03-16,make,9
+2026-03-16,make,10
+2026-03-16,make website,2
 2026-03-16,makes,6
 2026-03-16,making,5
-2026-03-16,marketing,7
-2026-03-16,master,3
+2026-03-16,marketing,8
+2026-03-16,master,5
 2026-03-16,matter,3
 2026-03-16,means,5
 2026-03-16,media,3
@@ -479,11 +474,10 @@ period,Term,Count
 2026-03-16,medium people,3
 2026-03-16,medium people continuing,3
 2026-03-16,meet,2
-2026-03-16,modern,14
+2026-03-16,modern,17
 2026-03-16,moving,3
 2026-03-16,need,6
 2026-03-16,new,10
-2026-03-16,obvious,4
 2026-03-16,originally,3
 2026-03-16,originally published,3
 2026-03-16,originally published collective,3
@@ -495,10 +489,9 @@ period,Term,Count
 2026-03-16,perfect,4
 2026-03-16,performance,1
 2026-03-16,person,11
-2026-03-16,photoshop,4
+2026-03-16,photoshop,2
 2026-03-16,platform,4
 2026-03-16,plays,4
-2026-03-16,point,5
 2026-03-16,poster,9
 2026-03-16,poster design,6
 2026-03-16,poster graphicdesign,3
@@ -510,20 +503,20 @@ period,Term,Count
 2026-03-16,practical,2
 2026-03-16,practices,2
 2026-03-16,premium,5
-2026-03-16,premium glassmorphism,4
-2026-03-16,premium glassmorphism product,4
-2026-03-16,problem,16
-2026-03-16,process,5
-2026-03-16,product,12
-2026-03-16,product card,4
-2026-03-16,product card using,4
+2026-03-16,premium glassmorphism,3
+2026-03-16,premium glassmorphism product,3
+2026-03-16,problem,14
+2026-03-16,process,4
+2026-03-16,product,11
+2026-03-16,product card,3
+2026-03-16,product card using,3
 2026-03-16,products,5
 2026-03-16,published,4
 2026-03-16,published collective,3
 2026-03-16,published collective medium,3
-2026-03-16,pure,4
-2026-03-16,pure css,4
-2026-03-16,pure css design,4
+2026-03-16,pure,3
+2026-03-16,pure css,3
+2026-03-16,pure css design,3
 2026-03-16,push,4
 2026-03-16,question,10
 2026-03-16,reach,3
@@ -536,26 +529,24 @@ period,Term,Count
 2026-03-16,research,3
 2026-03-16,responding,5
 2026-03-16,responding story,3
-2026-03-16,results,3
+2026-03-16,results,4
 2026-03-16,reveals,1
-2026-03-16,right,11
-2026-03-16,say,2
+2026-03-16,right,12
 2026-03-16,scratch,5
 2026-03-16,sense,6
 2026-03-16,shape,2
 2026-03-16,shaping,1
 2026-03-16,shift,5
-2026-03-16,shorts,7
+2026-03-16,shorts,9
 2026-03-16,showing,6
 2026-03-16,shows,6
-2026-03-16,simple,6
+2026-03-16,simple,5
 2026-03-16,single,2
 2026-03-16,smarter,3
 2026-03-16,snippet,8
-2026-03-16,social,5
+2026-03-16,social,4
 2026-03-16,socialmediadesign,3
 2026-03-16,socialmediadesign digitaldesign,3
-2026-03-16,solving,2
 2026-03-16,src,26
 2026-03-16,src figcaption,16
 2026-03-16,src width,10
@@ -564,10 +555,11 @@ period,Term,Count
 2026-03-16,stay,2
 2026-03-16,step,14
 2026-03-16,step step,3
-2026-03-16,stop,4
+2026-03-16,stop,3
 2026-03-16,story,4
 2026-03-16,strategies,3
 2026-03-16,strong,94
+2026-03-16,struggling,3
 2026-03-16,sylusskydesigns,3
 2026-03-16,sylusskydesigns tips,3
 2026-03-16,sylusskydesigns tips tutorials,3
@@ -585,22 +577,21 @@ period,Term,Count
 2026-03-16,think,11
 2026-03-16,thinking,9
 2026-03-16,time,27
-2026-03-16,tips,6
+2026-03-16,tips,7
 2026-03-16,tips tutorials,3
 2026-03-16,tips tutorials like,3
-2026-03-16,today,10
-2026-03-16,today video,4
-2026-03-16,today video building,4
+2026-03-16,today,8
+2026-03-16,today video,3
+2026-03-16,today video building,3
 2026-03-16,tone,4
 2026-03-16,trend,3
 2026-03-16,trending,2
-2026-03-16,trends,22
-2026-03-16,trick,3
+2026-03-16,trends,24
 2026-03-16,trust,10
 2026-03-16,truth,3
 2026-03-16,trying,3
-2026-03-16,turn,6
-2026-03-16,tutorial,10
+2026-03-16,turn,7
+2026-03-16,tutorial,11
 2026-03-16,tutorials,7
 2026-03-16,tutorials like,3
 2026-03-16,typography,11
@@ -608,31 +599,32 @@ period,Term,Count
 2026-03-16,use,3
 2026-03-16,user,18
 2026-03-16,using,23
-2026-03-16,using pure,4
-2026-03-16,using pure css,4
-2026-03-16,video,17
-2026-03-16,video building,4
-2026-03-16,video building premium,4
-2026-03-16,visual,10
+2026-03-16,using pure,3
+2026-03-16,using pure css,3
+2026-03-16,video,16
+2026-03-16,video building,3
+2026-03-16,video building premium,3
+2026-03-16,viral,3
+2026-03-16,visitors,4
+2026-03-16,visitors customers,3
+2026-03-16,visual,12
 2026-03-16,voice,3
-2026-03-16,want,4
+2026-03-16,want,5
+2026-03-16,wave,2
 2026-03-16,way,8
-2026-03-16,web,22
-2026-03-16,web design,20
+2026-03-16,web,23
+2026-03-16,web design,21
 2026-03-16,web design trends,6
-2026-03-16,webdesign,3
-2026-03-16,website,7
-2026-03-16,website design,1
-2026-03-16,websites,6
+2026-03-16,website,10
+2026-03-16,website design,3
+2026-03-16,websites,5
 2026-03-16,welcome,3
 2026-03-16,width,10
 2026-03-16,width class,7
 2026-03-16,width class medium,7
 2026-03-16,work,10
-2026-03-16,workflow,3
 2026-03-16,working,5
 2026-03-16,world,3
-2026-03-16,year,3
 2026-03-16,years,8
 2026-03-16,youtube,2
 2026-03-16,youtube video,1
