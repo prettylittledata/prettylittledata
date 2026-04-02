@@ -25,20 +25,21 @@ period,Term,Count
 2026-02-16,gasp,6
 2026-02-16,gasp beauty,6
 2026-02-16,gasp beauty trends,6
-2026-02-16,girl,2
-2026-02-16,girl makeup,2
+2026-02-16,girl,4
+2026-02-16,girl makeup,4
 2026-02-16,harper,2
 2026-02-16,harper bazaar,2
+2026-02-16,home,2
 2026-02-16,know,2
 2026-02-16,lipstick,6
 2026-02-16,lipstick matte,6
 2026-02-16,lipstick matte makeup,6
-2026-02-16,look,2
+2026-02-16,look,4
 2026-02-16,looking,6
 2026-02-16,looking smudged,6
 2026-02-16,looking smudged smooched,6
 2026-02-16,magazine,2
-2026-02-16,makeup,12
+2026-02-16,makeup,14
 2026-02-16,makeup bangs,6
 2026-02-16,makeup bangs gasp,6
 2026-02-16,makeup trend,2
@@ -46,12 +47,14 @@ period,Term,Count
 2026-02-16,matte,6
 2026-02-16,matte makeup,6
 2026-02-16,matte makeup bangs,6
-2026-02-16,need,2
+2026-02-16,need,4
 2026-02-16,new,4
 2026-02-16,new york,4
+2026-02-16,news,2
 2026-02-16,real,2
+2026-02-16,romantic,2
 2026-02-16,simple,2
-2026-02-16,sleepy,6
+2026-02-16,sleepy,8
 2026-02-16,sleepy elle,6
 2026-02-16,sleepy elle biggest,3
 2026-02-16,slightly,6
@@ -67,6 +70,7 @@ period,Term,Count
 2026-02-16,taking wear,6
 2026-02-16,taking wear frosty,3
 2026-02-16,trend,4
+2026-02-16,trending,2
 2026-02-16,trends,18
 2026-02-16,trends looking,6
 2026-02-16,trends looking smudged,6
@@ -81,52 +85,56 @@ period,Term,Count
 2026-02-16,week,4
 2026-02-16,york,4
 2026-02-23,ballet,4
-2026-02-23,beauty,12
-2026-02-23,beauty trend,10
+2026-02-23,beauty,18
+2026-02-23,beauty trend,12
 2026-02-23,beauty trend report,6
-2026-02-23,beauty trends,2
-2026-02-23,biggest,4
-2026-02-23,biggest beauty,2
+2026-02-23,beauty trends,4
+2026-02-23,biggest,6
+2026-02-23,biggest beauty,4
 2026-02-23,biggest makeup,2
 2026-02-23,blush,4
+2026-02-23,bringing,2
 2026-02-23,cheeks,2
-2026-02-23,effortless,2
-2026-02-23,eye,2
+2026-02-23,effortless,4
+2026-02-23,eye,4
 2026-02-23,eyes,2
-2026-02-23,follow,2
-2026-02-23,fresh,2
+2026-02-23,fresh,4
 2026-02-23,glamour,4
 2026-02-23,glamour ballet,2
-2026-02-23,global,2
 2026-02-23,glowing,2
 2026-02-23,graphic,2
 2026-02-23,inspired,4
-2026-02-23,look,4
+2026-02-23,lifestyle,2
+2026-02-23,london,4
+2026-02-23,look,6
 2026-02-23,makeup,8
-2026-02-23,makeup trend,4
-2026-02-23,makeup trends,4
+2026-02-23,makeup trend,6
+2026-02-23,makeup trends,2
 2026-02-23,makeup trends spring,2
 2026-02-23,men,2
 2026-02-23,milan,6
 2026-02-23,milan beauty,6
 2026-02-23,milan beauty trend,6
-2026-02-23,news,6
+2026-02-23,mua,4
+2026-02-23,new,2
+2026-02-23,news,8
+2026-02-23,products,2
 2026-02-23,report,6
 2026-02-23,report vogue,6
 2026-02-23,report vogue vogue,3
 2026-02-23,skin,2
 2026-02-23,skincare,2
-2026-02-23,spring,8
+2026-02-23,spring,10
 2026-02-23,spring makeup,4
 2026-02-23,spring makeup trend,4
-2026-02-23,trend,14
+2026-02-23,trend,18
 2026-02-23,trend report,6
 2026-02-23,trend report vogue,6
 2026-02-23,trends,6
 2026-02-23,trends spring,2
 2026-02-23,try,4
 2026-02-23,viral,2
-2026-02-23,vogue,14
+2026-02-23,vogue,16
 2026-02-23,vogue milan,6
 2026-02-23,vogue milan beauty,6
 2026-02-23,vogue vogue,3
@@ -145,8 +153,8 @@ period,Term,Count
 2026-03-02,beauty,20
 2026-03-02,beauty biggest,6
 2026-03-02,beauty biggest trend,6
-2026-03-02,beauty trend,2
-2026-03-02,beauty trends,10
+2026-03-02,beauty trend,4
+2026-03-02,beauty trends,8
 2026-03-02,best,2
 2026-03-02,biggest,8
 2026-03-02,biggest beauty,2
@@ -154,7 +162,6 @@ period,Term,Count
 2026-03-02,biggest trend,6
 2026-03-02,biggest trend shifting,6
 2026-03-02,bit,2
-2026-03-02,bloom,2
 2026-03-02,brands,2
 2026-03-02,claire,6
 2026-03-02,claire according,3
@@ -167,7 +174,7 @@ period,Term,Count
 2026-03-02,elle clean girl,3
 2026-03-02,ethereal,2
 2026-03-02,fashion,2
-2026-03-02,feel,2
+2026-03-02,feel,4
 2026-03-02,foundation,6
 2026-03-02,foundation wrong,6
 2026-03-02,foundation wrong marie,6
@@ -176,12 +183,10 @@ period,Term,Count
 2026-03-02,girl,6
 2026-03-02,girl makeup,6
 2026-03-02,girl makeup beauty,6
-2026-03-02,glass,2
-2026-03-02,glass skin,2
 2026-03-02,glowing,2
-2026-03-02,good,2
+2026-03-02,good,4
 2026-03-02,hottest,2
-2026-03-02,korean,2
+2026-03-02,jelly,4
 2026-03-02,lips,2
 2026-03-02,lipstick,2
 2026-03-02,living,2
@@ -204,7 +209,7 @@ period,Term,Count
 2026-03-02,meghan,6
 2026-03-02,meghan markle,6
 2026-03-02,meghan markle makeup,6
-2026-03-02,nostalgic,2
+2026-03-02,nostalgic,4
 2026-03-02,people,2
 2026-03-02,products,2
 2026-03-02,radar,2
@@ -213,7 +218,7 @@ period,Term,Count
 2026-03-02,shifting,6
 2026-03-02,shifting elle,6
 2026-03-02,shifting elle clean,3
-2026-03-02,skin,6
+2026-03-02,skin,2
 2026-03-02,skincare,2
 2026-03-02,spring,8
 2026-03-02,spring beauty,2
@@ -221,10 +226,10 @@ period,Term,Count
 2026-03-02,spring hottest,2
 2026-03-02,sun,2
 2026-03-02,thanks,2
-2026-03-02,trend,10
+2026-03-02,trend,12
 2026-03-02,trend shifting,6
 2026-03-02,trend shifting elle,6
-2026-03-02,trends,14
+2026-03-02,trends,12
 2026-03-02,try,2
 2026-03-02,vintage,2
 2026-03-02,want,2
@@ -236,45 +241,30 @@ period,Term,Count
 2026-03-02,wwd,2
 2026-03-02,year,2
 2026-03-09,allure,2
-2026-03-09,beauty,8
-2026-03-09,beauty trend,2
-2026-03-09,beauty trends,6
+2026-03-09,beauty,4
+2026-03-09,beauty trends,4
 2026-03-09,big,2
-2026-03-09,bloom,2
 2026-03-09,blue,2
 2026-03-09,blue eyeshadow,2
 2026-03-09,breezy,4
-2026-03-09,carpet,2
 2026-03-09,cbc,2
-2026-03-09,define,2
 2026-03-09,eyeshadow,2
 2026-03-09,fall,2
 2026-03-09,fashion,4
 2026-03-09,fashion week,4
-2026-03-09,know,2
 2026-03-09,lips,2
 2026-03-09,makeup,6
 2026-03-09,makeup trends,6
 2026-03-09,makeup trends spring,4
-2026-03-09,need,2
 2026-03-09,paris,2
 2026-03-09,paris fashion,2
 2026-03-09,paris fashion week,2
-2026-03-09,red,2
-2026-03-09,red carpet,2
-2026-03-09,report,2
-2026-03-09,season,2
-2026-03-09,set,2
-2026-03-09,skin,2
 2026-03-09,spring,6
 2026-03-09,spring makeup,2
 2026-03-09,spring vogue,4
-2026-03-09,times,2
-2026-03-09,trend,2
-2026-03-09,trends,12
+2026-03-09,trends,10
 2026-03-09,trends spring,4
 2026-03-09,vogue,6
-2026-03-09,wear,2
 2026-03-09,week,4
 2026-03-16,artist,2
 2026-03-16,ballet,2
@@ -282,13 +272,14 @@ period,Term,Count
 2026-03-16,beauty,12
 2026-03-16,beauty trend,2
 2026-03-16,beauty trends,10
+2026-03-16,best,2
 2026-03-16,biggest,6
 2026-03-16,biggest makeup,4
 2026-03-16,blue,4
 2026-03-16,blue eyeshadow,2
+2026-03-16,blurred,2
 2026-03-16,bridal,2
 2026-03-16,business,2
-2026-03-16,carpet,2
 2026-03-16,city,2
 2026-03-16,claire,4
 2026-03-16,color,4
@@ -306,45 +297,21 @@ period,Term,Count
 2026-03-16,harper bazaar,2
 2026-03-16,just,2
 2026-03-16,like,2
-2026-03-16,lips,2
+2026-03-16,lips,4
 2026-03-16,look,2
-2026-03-16,look transition,2
-2026-03-16,look transition shorts,2
 2026-03-16,magazine,2
-2026-03-16,makeup,15
+2026-03-16,makeup,12
 2026-03-16,makeup artist,2
-2026-03-16,makeup look,2
-2026-03-16,makeup look transition,2
-2026-03-16,makeup poppy,1
-2026-03-16,makeup power,2
-2026-03-16,makeup power makeup,2
-2026-03-16,makeup trend,4
+2026-03-16,makeup trend,6
 2026-03-16,makeup trends,4
 2026-03-16,marie,4
 2026-03-16,marie claire,4
 2026-03-16,month,2
-2026-03-16,normal,2
-2026-03-16,normal makeup,2
-2026-03-16,normal makeup look,2
 2026-03-16,paris,2
-2026-03-16,poppy,1
-2026-03-16,power,3
-2026-03-16,power makeup,3
-2026-03-16,power makeup poppy,1
-2026-03-16,power makeup power,2
-2026-03-16,queries,1
-2026-03-16,queries power,1
-2026-03-16,queries power makeup,1
 2026-03-16,red,2
-2026-03-16,red carpet,2
 2026-03-16,season,6
 2026-03-16,set,2
 2026-03-16,share,2
-2026-03-16,shorts,2
-2026-03-16,shorts normal,1
-2026-03-16,shorts normal makeup,1
-2026-03-16,shorts queries,1
-2026-03-16,shorts queries power,1
 2026-03-16,skincare,4
 2026-03-16,skincare trend,2
 2026-03-16,spring,10
@@ -353,11 +320,7 @@ period,Term,Count
 2026-03-16,spring makeup,4
 2026-03-16,spring makeup trend,2
 2026-03-16,straight,2
-2026-03-16,transition,2
-2026-03-16,transition shorts,2
-2026-03-16,transition shorts normal,1
-2026-03-16,transition shorts queries,1
-2026-03-16,trend,8
+2026-03-16,trend,10
 2026-03-16,trends,16
 2026-03-16,tried,2
 2026-03-16,vogue,6
@@ -408,12 +371,13 @@ period,Term,Count
 2026-03-23,look transition,8
 2026-03-23,look transition shorts,8
 2026-03-23,looking,2
-2026-03-23,looks,4
+2026-03-23,looks,6
 2026-03-23,magazine,4
-2026-03-23,makeup,72
+2026-03-23,makeup,74
 2026-03-23,makeup artist,2
 2026-03-23,makeup look,13
 2026-03-23,makeup look transition,8
+2026-03-23,makeup looks,4
 2026-03-23,makeup poppy,5
 2026-03-23,makeup power,12
 2026-03-23,makeup power makeup,12
@@ -423,8 +387,6 @@ period,Term,Count
 2026-03-23,meet,2
 2026-03-23,new,4
 2026-03-23,normal,4
-2026-03-23,normal makeup,4
-2026-03-23,normal makeup look,4
 2026-03-23,playful,4
 2026-03-23,pop,2
 2026-03-23,poppy,5
@@ -438,10 +400,9 @@ period,Term,Count
 2026-03-23,queries power,6
 2026-03-23,queries power makeup,6
 2026-03-23,ranking,3
+2026-03-23,saving,2
 2026-03-23,short,1
 2026-03-23,shorts,17
-2026-03-23,shorts normal,2
-2026-03-23,shorts normal makeup,2
 2026-03-23,shorts queries,6
 2026-03-23,shorts queries power,6
 2026-03-23,shortsfeed,2
@@ -454,7 +415,8 @@ period,Term,Count
 2026-03-23,spring,4
 2026-03-23,spring makeup,4
 2026-03-23,spring makeup trend,4
-2026-03-23,stop,2
+2026-03-23,stop,4
+2026-03-23,stunning,2
 2026-03-23,taking,5
 2026-03-23,time,2
 2026-03-23,tracker,6
@@ -462,7 +424,6 @@ period,Term,Count
 2026-03-23,tracker vogue vogue,3
 2026-03-23,transition,12
 2026-03-23,transition shorts,10
-2026-03-23,transition shorts normal,2
 2026-03-23,transition shorts queries,5
 2026-03-23,trend,37
 2026-03-23,trend beauty,4
@@ -479,10 +440,10 @@ period,Term,Count
 2026-03-23,vogue business beauty,6
 2026-03-23,vogue vogue,3
 2026-03-23,vogue vogue business,3
-2026-03-23,wear,2
-2026-03-23,wedding,2
+2026-03-23,wear,4
+2026-03-23,wedding,4
 2026-03-23,white,2
-2026-03-23,won,2
+2026-03-23,won,4
 2026-03-23,works,2
 2026-03-23,world,1
 2026-03-23,years,2
@@ -508,15 +469,15 @@ period,Term,Count
 2026-03-30,ask,7
 2026-03-30,attention,6
 2026-03-30,away,8
-2026-03-30,baby,6
+2026-03-30,baby,7
 2026-03-30,bag,10
 2026-03-30,ballet,1
 2026-03-30,base,6
 2026-03-30,bazaar,1
-2026-03-30,beauty,52
-2026-03-30,beauty trend,13
-2026-03-30,beauty trends,7
-2026-03-30,beautytrends,6
+2026-03-30,beauty,54
+2026-03-30,beauty trend,14
+2026-03-30,beauty trends,6
+2026-03-30,beautytrends,4
 2026-03-30,believe,2
 2026-03-30,best,13
 2026-03-30,better,6
@@ -525,7 +486,6 @@ period,Term,Count
 2026-03-30,biggest,3
 2026-03-30,bit,4
 2026-03-30,black,23
-2026-03-30,bloom,2
 2026-03-30,blue,11
 2026-03-30,blue eyeshadow,2
 2026-03-30,blurred,7
@@ -536,13 +496,13 @@ period,Term,Count
 2026-03-30,breezy,1
 2026-03-30,bridal,5
 2026-03-30,bright,6
+2026-03-30,bringing,2
 2026-03-30,brought,5
 2026-03-30,brown,13
 2026-03-30,build,3
 2026-03-30,burgundy,4
 2026-03-30,business,2
 2026-03-30,care,4
-2026-03-30,carpet,1
 2026-03-30,cart,4
 2026-03-30,catch,4
 2026-03-30,cbc,2
@@ -550,6 +510,7 @@ period,Term,Count
 2026-03-30,celebrity makeup,4
 2026-03-30,center,43
 2026-03-30,change,3
+2026-03-30,character,3
 2026-03-30,check,4
 2026-03-30,cheeks,6
 2026-03-30,chic,6
@@ -625,13 +586,12 @@ period,Term,Count
 2026-03-30,finally,2
 2026-03-30,fit,7
 2026-03-30,focused,3
-2026-03-30,follow,2
 2026-03-30,foryou,3
 2026-03-30,foundation,5
 2026-03-30,free,9
 2026-03-30,fresh,13
 2026-03-30,fun,2
-2026-03-30,fyp,8
+2026-03-30,fyp,7
 2026-03-30,getty,14
 2026-03-30,getty images,14
 2026-03-30,getty images figcaption,13
@@ -640,7 +600,6 @@ period,Term,Count
 2026-03-30,gives,3
 2026-03-30,glam,5
 2026-03-30,glass,4
-2026-03-30,glass skin,2
 2026-03-30,global,5
 2026-03-30,glossy,2
 2026-03-30,glow,11
@@ -652,17 +611,17 @@ period,Term,Count
 2026-03-30,goodness,10
 2026-03-30,goodness right,10
 2026-03-30,goodness right strong,10
-2026-03-30,got,5
+2026-03-30,got,6
 2026-03-30,graphic,3
 2026-03-30,great,4
-2026-03-30,hack,3
+2026-03-30,hack,2
 2026-03-30,hailey,6
 2026-03-30,hailey bieber,4
 2026-03-30,hair,57
 2026-03-30,hair subtle,6
 2026-03-30,hair subtle trend,6
-2026-03-30,hand,5
-2026-03-30,hands,6
+2026-03-30,hand,7
+2026-03-30,hands,9
 2026-03-30,hard,6
 2026-03-30,harper,1
 2026-03-30,harper bazaar,1
@@ -684,38 +643,41 @@ period,Term,Count
 2026-03-30,impact,3
 2026-03-30,inspiration,9
 2026-03-30,inspire,3
-2026-03-30,inspired,3
+2026-03-30,inspired,4
 2026-03-30,investing,3
 2026-03-30,isn,7
+2026-03-30,jelly,1
 2026-03-30,jewelry,5
 2026-03-30,joy,3
 2026-03-30,just,34
 2026-03-30,key,7
-2026-03-30,know,19
-2026-03-30,korean,4
+2026-03-30,know,20
+2026-03-30,korea,5
+2026-03-30,korean,7
 2026-03-30,lace,5
 2026-03-30,latest,4
 2026-03-30,layered,4
 2026-03-30,leading,2
 2026-03-30,leg,11
 2026-03-30,length,4
-2026-03-30,lifestyle,4
+2026-03-30,lifestyle,3
 2026-03-30,light,7
 2026-03-30,lights,3
-2026-03-30,like,64
+2026-03-30,like,65
 2026-03-30,like goodness,10
 2026-03-30,like goodness right,10
 2026-03-30,line,72
-2026-03-30,lip,10
-2026-03-30,lips,6
+2026-03-30,lip,12
+2026-03-30,lips,9
 2026-03-30,little,7
 2026-03-30,living,4
+2026-03-30,london,3
 2026-03-30,long,14
-2026-03-30,look,32
+2026-03-30,look,33
 2026-03-30,look makeup,5
 2026-03-30,looking,12
 2026-03-30,looks,9
-2026-03-30,love,16
+2026-03-30,love,15
 2026-03-30,loved,6
 2026-03-30,low,7
 2026-03-30,luxe,5
@@ -723,10 +685,11 @@ period,Term,Count
 2026-03-30,magazine,2
 2026-03-30,make,18
 2026-03-30,makes,7
-2026-03-30,makeup,55
+2026-03-30,makeup,57
 2026-03-30,makeup artist,6
-2026-03-30,makeup beauty,2
-2026-03-30,makeup look,5
+2026-03-30,makeup beauty,3
+2026-03-30,makeup look,6
+2026-03-30,makeup looks,1
 2026-03-30,makeup trend,4
 2026-03-30,makeup trends,4
 2026-03-30,makeuptutorial,1
@@ -750,6 +713,7 @@ period,Term,Count
 2026-03-30,moment,5
 2026-03-30,month,12
 2026-03-30,morning,5
+2026-03-30,mua,1
 2026-03-30,multiple,5
 2026-03-30,need,8
 2026-03-30,needs,4
@@ -786,6 +750,7 @@ period,Term,Count
 2026-03-30,pop,4
 2026-03-30,post,37
 2026-03-30,power,1
+2026-03-30,pretty,7
 2026-03-30,prints,3
 2026-03-30,product,7
 2026-03-30,products,4
@@ -802,7 +767,6 @@ period,Term,Count
 2026-03-30,really,9
 2026-03-30,recommend,3
 2026-03-30,red,6
-2026-03-30,red carpet,1
 2026-03-30,rel,86
 2026-03-30,rel noreferrer,51
 2026-03-30,rel noreferrer noopener,51
@@ -828,9 +792,10 @@ period,Term,Count
 2026-03-30,shine,8
 2026-03-30,shopping,7
 2026-03-30,short,6
-2026-03-30,shorts,30
+2026-03-30,shorts,29
 2026-03-30,shortsfeed,4
 2026-03-30,shortvideo,4
+2026-03-30,shows,3
 2026-03-30,simple,4
 2026-03-30,sister,4
 2026-03-30,skin,27
@@ -846,7 +811,7 @@ period,Term,Count
 2026-03-30,smudged,2
 2026-03-30,sneakers,24
 2026-03-30,socks,5
-2026-03-30,soft,13
+2026-03-30,soft,16
 2026-03-30,song,3
 2026-03-30,soon,4
 2026-03-30,space,7
@@ -872,7 +837,7 @@ period,Term,Count
 2026-03-30,strong like goodness,10
 2026-03-30,strong strong,53
 2026-03-30,stunning,3
-2026-03-30,style,514
+2026-03-30,style,515
 2026-03-30,styles,13
 2026-03-30,subtle,12
 2026-03-30,subtle trend,6
@@ -895,22 +860,21 @@ period,Term,Count
 2026-03-30,things,11
 2026-03-30,think,8
 2026-03-30,time,24
-2026-03-30,times,2
-2026-03-30,tips,10
+2026-03-30,tips,12
 2026-03-30,today,7
 2026-03-30,tone,15
 2026-03-30,tone hair,6
 2026-03-30,tone hair subtle,6
 2026-03-30,touch,5
 2026-03-30,transition,2
-2026-03-30,trend,63
+2026-03-30,trend,64
 2026-03-30,trend beauty,1
 2026-03-30,trend skincare,3
 2026-03-30,trend spring,6
 2026-03-30,trend spring vogue,6
 2026-03-30,trending,17
 2026-03-30,trending viral,2
-2026-03-30,trends,36
+2026-03-30,trends,35
 2026-03-30,tried,4
 2026-03-30,true,4
 2026-03-30,truly,4
@@ -923,13 +887,13 @@ period,Term,Count
 2026-03-30,vibe,4
 2026-03-30,video,4
 2026-03-30,vintage,2
-2026-03-30,viral,23
+2026-03-30,viral,20
 2026-03-30,viral shorts,4
 2026-03-30,viralvideo,3
 2026-03-30,vogue,14
 2026-03-30,vogue skin,3
 2026-03-30,vogue skin tone,3
-2026-03-30,want,11
+2026-03-30,want,12
 2026-03-30,warm,5
 2026-03-30,watch,14
 2026-03-30,way,17
@@ -955,6 +919,6 @@ period,Term,Count
 2026-03-30,years,3
 2026-03-30,york,11
 2026-03-30,young,2
-2026-03-30,youtube,8
-2026-03-30,youtubeshorts,9
+2026-03-30,youtube,7
+2026-03-30,youtubeshorts,7
 2026-03-30,ytshorts,5
