@@ -6,7 +6,6 @@ period,Term,Count
 2026-02-23,cobalt blue,2
 2026-02-23,elle,4
 2026-02-23,fall,2
-2026-02-23,fall runways,2
 2026-02-23,fashion,12
 2026-02-23,fashion trend,8
 2026-02-23,fashion week,2
@@ -51,11 +50,13 @@ period,Term,Count
 2026-03-02,spring summer trends,4
 2026-03-02,summer,6
 2026-03-02,summer trends,4
+2026-03-02,teen,4
 2026-03-02,trend,6
 2026-03-02,trend predictions,2
 2026-03-02,trends,16
 2026-03-02,try,4
 2026-03-02,vogue,4
+2026-03-02,vogue spring,2
 2026-03-02,wear,8
 2026-03-02,wear spring,2
 2026-03-02,week,4
@@ -70,9 +71,7 @@ period,Term,Count
 2026-03-09,fashion month standout,4
 2026-03-09,fashion trend,6
 2026-03-09,fashion trends,2
-2026-03-09,global,2
 2026-03-09,good,4
-2026-03-09,hunter,2
 2026-03-09,like,2
 2026-03-09,looks,2
 2026-03-09,love,2
@@ -87,7 +86,6 @@ period,Term,Count
 2026-03-09,runways,2
 2026-03-09,season,2
 2026-03-09,shoe,2
-2026-03-09,shoe trend,2
 2026-03-09,shopping,2
 2026-03-09,spring,2
 2026-03-09,spring fashion,2
@@ -95,11 +93,9 @@ period,Term,Count
 2026-03-09,standout,4
 2026-03-09,standout runway,4
 2026-03-09,standout runway trend,4
-2026-03-09,streetwear,2
 2026-03-09,tech,4
-2026-03-09,trend,14
+2026-03-09,trend,12
 2026-03-09,trend defining,4
-2026-03-09,trend hunter,2
 2026-03-09,trends,2
 2026-03-09,ultimate,2
 2026-03-09,wear,2
@@ -126,7 +122,6 @@ period,Term,Count
 2026-03-16,harper,2
 2026-03-16,harper bazaar,2
 2026-03-16,instyle,2
-2026-03-16,key,2
 2026-03-16,luxury,2
 2026-03-16,models,2
 2026-03-16,models fashion,2
@@ -134,6 +129,9 @@ period,Term,Count
 2026-03-16,month,4
 2026-03-16,month standout,2
 2026-03-16,month standout runway,2
+2026-03-16,new,4
+2026-03-16,new york,4
+2026-03-16,new york times,4
 2026-03-16,nice,4
 2026-03-16,runway,4
 2026-03-16,runway trend,4
@@ -152,6 +150,7 @@ period,Term,Count
 2026-03-16,streetwear,2
 2026-03-16,style,4
 2026-03-16,styles,2
+2026-03-16,times,4
 2026-03-16,trend,10
 2026-03-16,trends,16
 2026-03-16,trends fall,4
@@ -162,6 +161,8 @@ period,Term,Count
 2026-03-16,week,2
 2026-03-16,winter,2
 2026-03-16,world,2
+2026-03-16,york,4
+2026-03-16,york times,4
 2026-03-23,angeles,2
 2026-03-23,best,2
 2026-03-23,brings,1
@@ -174,7 +175,6 @@ period,Term,Count
 2026-03-23,define,6
 2026-03-23,denim,2
 2026-03-23,denim trends,2
-2026-03-23,dressing,2
 2026-03-23,explains,4
 2026-03-23,fall,2
 2026-03-23,fans,4
@@ -186,7 +186,7 @@ period,Term,Count
 2026-03-23,good,1
 2026-03-23,hello,2
 2026-03-23,hunter,4
-2026-03-23,inspo,1
+2026-03-23,instead,4
 2026-03-23,latest,1
 2026-03-23,live,1
 2026-03-23,local,8
@@ -231,6 +231,7 @@ period,Term,Count
 2026-03-23,trends,17
 2026-03-23,trends fall,2
 2026-03-23,turn,4
+2026-03-23,vibe,1
 2026-03-23,vintage,5
 2026-03-23,vogue,10
 2026-03-23,wear,8
@@ -253,43 +254,32 @@ period,Term,Count
 2026-03-30,cobalt,2
 2026-03-30,cobalt blue,2
 2026-03-30,color,2
-2026-03-30,cosmopolitan,2
 2026-03-30,culture,1
 2026-03-30,day,2
 2026-03-30,days,5
-2026-03-30,denim,5
-2026-03-30,designer,2
-2026-03-30,destination,1
+2026-03-30,denim,3
 2026-03-30,discover,1
 2026-03-30,don,6
 2026-03-30,dress,2
-2026-03-30,dresses,2
 2026-03-30,elegant,2
-2026-03-30,fall,4
-2026-03-30,fall runways,4
+2026-03-30,fall,2
 2026-03-30,fans,1
-2026-03-30,fashion,25
+2026-03-30,fashion,21
 2026-03-30,fashion trend,10
-2026-03-30,fashion trends,2
-2026-03-30,featuring,1
-2026-03-30,feel,3
+2026-03-30,feel,1
 2026-03-30,fit,3
 2026-03-30,friend,1
 2026-03-30,future,4
-2026-03-30,global,1
-2026-03-30,good,4
-2026-03-30,good housekeeping,2
+2026-03-30,good,2
 2026-03-30,got,5
 2026-03-30,harper,2
 2026-03-30,harper bazaar,2
 2026-03-30,home,4
 2026-03-30,house,2
-2026-03-30,housekeeping,2
 2026-03-30,india,4
 2026-03-30,inspired,2
 2026-03-30,jeans,1
 2026-03-30,just,2
-2026-03-30,key,4
 2026-03-30,latest,1
 2026-03-30,like,6
 2026-03-30,live,1
@@ -297,7 +287,7 @@ period,Term,Count
 2026-03-30,los,4
 2026-03-30,los angeles,4
 2026-03-30,love,4
-2026-03-30,magazine,8
+2026-03-30,magazine,6
 2026-03-30,makes,1
 2026-03-30,modern,1
 2026-03-30,modern love,1
@@ -313,24 +303,20 @@ period,Term,Count
 2026-03-30,perfect,6
 2026-03-30,premium,1
 2026-03-30,quality,2
-2026-03-30,reader,2
+2026-03-30,reader,1
 2026-03-30,review,4
 2026-03-30,rules,4
 2026-03-30,runway,3
-2026-03-30,runways,4
-2026-03-30,season,4
+2026-03-30,runways,2
+2026-03-30,season,2
 2026-03-30,shocking,2
-2026-03-30,shoe,2
-2026-03-30,shoe trend,2
 2026-03-30,shopping,4
-2026-03-30,short,1
 2026-03-30,shorts,3
 2026-03-30,single,3
 2026-03-30,slate,4
 2026-03-30,slate magazine,4
 2026-03-30,sneakerhead,2
-2026-03-30,spring,10
-2026-03-30,spring wear,4
+2026-03-30,spring,4
 2026-03-30,store,2
 2026-03-30,stories,4
 2026-03-30,streetwear,10
@@ -339,15 +325,13 @@ period,Term,Count
 2026-03-30,tech,2
 2026-03-30,times,4
 2026-03-30,today,3
-2026-03-30,trend,16
+2026-03-30,trend,14
 2026-03-30,trending,2
-2026-03-30,trends,16
-2026-03-30,trends fall,4
-2026-03-30,unexpected,2
-2026-03-30,vogue,8
-2026-03-30,wardrobe,4
-2026-03-30,wear,14
-2026-03-30,wedding,13
+2026-03-30,trends,8
+2026-03-30,trends fall,2
+2026-03-30,vogue,6
+2026-03-30,wear,12
+2026-03-30,wedding,10
 2026-03-30,winter,2
 2026-03-30,women,5
 2026-03-30,world,3
@@ -358,17 +342,19 @@ period,Term,Count
 2026-04-06,bag,2
 2026-04-06,bazaar,6
 2026-04-06,beautiful,6
-2026-04-06,best,7
-2026-04-06,biggest,8
+2026-04-06,beauty,4
+2026-04-06,best,9
+2026-04-06,biggest,6
 2026-04-06,blue,6
-2026-04-06,bold,2
-2026-04-06,brings,3
+2026-04-06,bold,3
+2026-04-06,brings,2
 2026-04-06,brought,3
-2026-04-06,channel,7
-2026-04-06,channel brings,3
+2026-04-06,casual,4
+2026-04-06,channel,6
 2026-04-06,chic,8
 2026-04-06,chic spring,6
 2026-04-06,claire,2
+2026-04-06,clothing,4
 2026-04-06,cobalt,2
 2026-04-06,cobalt blue,2
 2026-04-06,collection,5
@@ -377,7 +363,7 @@ period,Term,Count
 2026-04-06,comeback,4
 2026-04-06,cool,8
 2026-04-06,cosmopolitan,8
-2026-04-06,coveteur,6
+2026-04-06,coveteur,8
 2026-04-06,culture,2
 2026-04-06,dated,6
 2026-04-06,dated wear,6
@@ -387,203 +373,162 @@ period,Term,Count
 2026-04-06,denim,5
 2026-04-06,denim trends,4
 2026-04-06,design,4
-2026-04-06,designer,3
-2026-04-06,destination,4
-2026-04-06,destination men,3
-2026-04-06,destination men fashion,3
-2026-04-06,discover,3
-2026-04-06,dress,5
+2026-04-06,destination,3
+2026-04-06,discover,4
+2026-04-06,dress,6
 2026-04-06,dresses,3
-2026-04-06,dressing,3
 2026-04-06,elegant,2
-2026-04-06,elevate,4
-2026-04-06,essentials,5
-2026-04-06,essentials channel,3
-2026-04-06,essentials channel brings,3
 2026-04-06,explains,2
-2026-04-06,fashion,96
-2026-04-06,fashion fashiontrends,7
-2026-04-06,fashion style,7
-2026-04-06,fashion style guide,3
-2026-04-06,fashion style inspiration,3
+2026-04-06,fall,1
+2026-04-06,fashion,91
+2026-04-06,fashion fashiontrends,6
 2026-04-06,fashion trend,7
-2026-04-06,fashion trends,19
-2026-04-06,fashionstyle,4
-2026-04-06,fashiontrends,35
-2026-04-06,fashiontrends ootd,6
-2026-04-06,fashiontrends shorts,5
-2026-04-06,featuring,2
+2026-04-06,fashion trends,21
+2026-04-06,fashionstyle,7
+2026-04-06,fashiontrends,34
+2026-04-06,fashiontrends ootd,5
+2026-04-06,fashiontrends shorts,4
 2026-04-06,feel,4
 2026-04-06,festival,7
 2026-04-06,friend,2
 2026-04-06,future,1
 2026-04-06,fyp,6
-2026-04-06,global,2
 2026-04-06,good,4
-2026-04-06,good housekeeping,4
 2026-04-06,got,4
-2026-04-06,guide,3
-2026-04-06,guide modern,3
-2026-04-06,guide modern outfits,3
 2026-04-06,harper,8
 2026-04-06,harper bazaar,6
 2026-04-06,hello,3
 2026-04-06,hola,8
 2026-04-06,house,3
-2026-04-06,housekeeping,4
 2026-04-06,hunter,2
-2026-04-06,india,1
-2026-04-06,inspiration,4
-2026-04-06,inspiration modern,3
-2026-04-06,inspiration modern wardrobe,3
+2026-04-06,india,2
 2026-04-06,inspired,3
-2026-04-06,inspo,4
+2026-04-06,instead,2
 2026-04-06,instyle,4
-2026-04-06,jeans,14
+2026-04-06,jeans,17
 2026-04-06,jennifer,8
 2026-04-06,jennifer lawrence,8
-2026-04-06,just,6
-2026-04-06,know,7
-2026-04-06,latest,2
+2026-04-06,just,5
+2026-04-06,know,6
+2026-04-06,latest,1
 2026-04-06,lawrence,8
 2026-04-06,like,13
 2026-04-06,live,3
 2026-04-06,local,3
-2026-04-06,look,17
-2026-04-06,looks,9
+2026-04-06,look,16
+2026-04-06,looks,8
 2026-04-06,love,11
 2026-04-06,luxury,6
-2026-04-06,magazine,1
+2026-04-06,magazine,3
 2026-04-06,makes,3
-2026-04-06,men,25
-2026-04-06,men fashion,14
-2026-04-06,men fashion style,7
+2026-04-06,men,22
+2026-04-06,men fashion,10
 2026-04-06,men fashion trends,7
 2026-04-06,mensfashion,9
 2026-04-06,mensstyle,5
-2026-04-06,menswear,3
-2026-04-06,modern,9
+2026-04-06,menswear,4
+2026-04-06,modern,4
 2026-04-06,modern love,3
-2026-04-06,modern outfits,3
-2026-04-06,modern outfits trends,3
-2026-04-06,modern wardrobe,3
-2026-04-06,modern wardrobe essentials,3
 2026-04-06,moment,4
-2026-04-06,myntra,5
-2026-04-06,need,5
+2026-04-06,myntra,4
+2026-04-06,need,4
 2026-04-06,new,15
 2026-04-06,new york,4
+2026-04-06,new york times,2
 2026-04-06,nice,3
 2026-04-06,online,2
-2026-04-06,ootd,8
+2026-04-06,ootd,7
 2026-04-06,ootd streetwear,2
 2026-04-06,ootdguide,5
 2026-04-06,ootdguide fashiontrends,5
-2026-04-06,outfit,21
-2026-04-06,outfit outfit,3
-2026-04-06,outfits,9
-2026-04-06,outfits trends,3
-2026-04-06,outfits trends smart,3
+2026-04-06,outfit,18
+2026-04-06,outfitideas,4
+2026-04-06,outfits,6
 2026-04-06,people,4
 2026-04-06,perfect,2
 2026-04-06,person,6
 2026-04-06,pieces,6
 2026-04-06,predictions,1
-2026-04-06,premium,14
+2026-04-06,premium,16
 2026-04-06,price,6
 2026-04-06,pull,5
-2026-04-06,quality,2
-2026-04-06,reader,1
+2026-04-06,quality,4
+2026-04-06,reader,2
 2026-04-06,return,1
 2026-04-06,review,1
 2026-04-06,rules,2
 2026-04-06,runway,9
 2026-04-06,runway trend,4
-2026-04-06,season,6
+2026-04-06,season,7
 2026-04-06,shirt,7
 2026-04-06,shirts,6
 2026-04-06,shoe,4
-2026-04-06,shoe trend,2
-2026-04-06,shoes,4
+2026-04-06,shoes,6
 2026-04-06,shopping,1
-2026-04-06,short,8
+2026-04-06,short,7
 2026-04-06,shorts,18
+2026-04-06,shorts fashion,4
 2026-04-06,shows,1
 2026-04-06,single,2
-2026-04-06,smart,4
-2026-04-06,smart styling,3
-2026-04-06,smart styling tips,3
 2026-04-06,sneakerhead,2
-2026-04-06,spring,51
+2026-04-06,spring,52
 2026-04-06,spring denim,4
 2026-04-06,spring denim trends,4
-2026-04-06,spring fashion,3
+2026-04-06,spring fashion,4
 2026-04-06,spring fashion trend,2
-2026-04-06,spring fashion trends,1
+2026-04-06,spring fashion trends,2
 2026-04-06,spring summer,10
 2026-04-06,spring summer trends,4
 2026-04-06,spring trends,6
-2026-04-06,spring wear,2
-2026-04-06,store,1
+2026-04-06,store,3
 2026-04-06,stories,3
-2026-04-06,street,8
-2026-04-06,street style,8
+2026-04-06,street,9
+2026-04-06,street style,9
 2026-04-06,streetwear,5
 2026-04-06,streetwear fashion,1
-2026-04-06,style,54
-2026-04-06,style fashiontrends,3
-2026-04-06,style guide,3
-2026-04-06,style guide modern,3
-2026-04-06,style inspiration,3
-2026-04-06,style inspiration modern,3
+2026-04-06,style,50
 2026-04-06,style vogue,6
-2026-04-06,styleinspo,3
 2026-04-06,styles,1
-2026-04-06,styling,5
-2026-04-06,styling tips,3
-2026-04-06,styling tips welcome,3
-2026-04-06,summer,19
+2026-04-06,stylish,3
+2026-04-06,suit,4
+2026-04-06,summer,17
 2026-04-06,summer trends,4
 2026-04-06,sunglasses,6
 2026-04-06,tech,3
+2026-04-06,teen,2
 2026-04-06,times,2
-2026-04-06,tips,4
-2026-04-06,tips welcome,3
-2026-04-06,tips welcome ultimate,3
 2026-04-06,today,2
-2026-04-06,trend,46
+2026-04-06,trend,48
 2026-04-06,trend defining,2
 2026-04-06,trend fashion,6
 2026-04-06,trend hunter,2
 2026-04-06,trend spring,8
-2026-04-06,trending,10
-2026-04-06,trends,49
-2026-04-06,trends smart,3
-2026-04-06,trends smart styling,3
+2026-04-06,trending,9
+2026-04-06,trends,48
+2026-04-06,trends fall,1
+2026-04-06,trends style,5
 2026-04-06,try,2
 2026-04-06,turn,2
-2026-04-06,ultimate,4
-2026-04-06,ultimate destination,3
-2026-04-06,ultimate destination men,3
-2026-04-06,unexpected,4
+2026-04-06,ultimate,3
 2026-04-06,upgrade,4
+2026-04-06,vibe,3
 2026-04-06,video,5
+2026-04-06,vintage,1
+2026-04-06,viralvideo,3
 2026-04-06,vogue,16
-2026-04-06,want,5
-2026-04-06,wardrobe,12
-2026-04-06,wardrobe essentials,5
-2026-04-06,wardrobe essentials channel,3
-2026-04-06,way,6
-2026-04-06,wear,32
+2026-04-06,vogue spring,2
+2026-04-06,want,4
+2026-04-06,wardrobe,10
+2026-04-06,way,7
+2026-04-06,wear,34
 2026-04-06,wear spring,2
-2026-04-06,wearing,6
+2026-04-06,wearing,7
 2026-04-06,wearing wear,6
 2026-04-06,wedding,2
 2026-04-06,week,2
-2026-04-06,welcome,8
-2026-04-06,welcome ultimate,4
-2026-04-06,welcome ultimate destination,3
+2026-04-06,welcome,7
 2026-04-06,winter,3
-2026-04-06,women,8
+2026-04-06,women,9
 2026-04-06,york,4
+2026-04-06,york times,2
 2026-04-06,ytshorts,4
