@@ -40,10 +40,11 @@ period,Term,Count
 2026-03-09,vogue,8
 2026-03-09,week,2
 2026-03-16,artist,2
-2026-03-16,beauty,8
-2026-03-16,beauty trends,8
+2026-03-16,beauty,10
+2026-03-16,beauty trends,10
 2026-03-16,biggest,4
 2026-03-16,color,4
+2026-03-16,cosmopolitan,4
 2026-03-16,defining,4
 2026-03-16,elle,2
 2026-03-16,facial,2
@@ -53,16 +54,18 @@ period,Term,Count
 2026-03-16,makeup,6
 2026-03-16,makeup trend,2
 2026-03-16,makeup trends,2
+2026-03-16,oscars,6
+2026-03-16,red,4
 2026-03-16,season,4
 2026-03-16,skincare,2
 2026-03-16,skincare trend,2
-2026-03-16,spring,8
-2026-03-16,spring beauty,6
-2026-03-16,spring beauty trends,6
+2026-03-16,spring,10
+2026-03-16,spring beauty,8
+2026-03-16,spring beauty trends,8
 2026-03-16,spring makeup,2
 2026-03-16,spring makeup trend,2
 2026-03-16,trend,4
-2026-03-16,trends,10
+2026-03-16,trends,12
 2026-03-16,vogue,4
 2026-03-16,winter,2
 2026-03-23,beauty,8
@@ -124,8 +127,7 @@ period,Term,Count
 2026-03-30,know,4
 2026-03-30,lip,2
 2026-03-30,lip vogue,2
-2026-03-30,makeup,10
-2026-03-30,makeup trend,2
+2026-03-30,makeup,8
 2026-03-30,makeup trends,6
 2026-03-30,new,4
 2026-03-30,power,2
@@ -143,16 +145,13 @@ period,Term,Count
 2026-03-30,soft,2
 2026-03-30,spring,4
 2026-03-30,spring makeup,2
-2026-03-30,taking,2
 2026-03-30,think,2
 2026-03-30,tiktok,2
-2026-03-30,times,2
 2026-03-30,today,2
-2026-03-30,trend,14
+2026-03-30,trend,12
 2026-03-30,trends,14
 2026-03-30,vogue,6
 2026-03-30,watch,2
-2026-03-30,women,2
 2026-04-06,asked,4
 2026-04-06,beauty,7
 2026-04-06,beauty trend,6
@@ -338,6 +337,7 @@ period,Term,Count
 2026-04-13,conversation,4
 2026-04-13,conversations,3
 2026-04-13,cosmetics,5
+2026-04-13,cosmopolitan,2
 2026-04-13,couldn,2
 2026-04-13,country,4
 2026-04-13,course,2
@@ -388,7 +388,7 @@ period,Term,Count
 2026-04-13,edit,1
 2026-04-13,editors,1
 2026-04-13,elegant,6
-2026-04-13,elle,6
+2026-04-13,elle,4
 2026-04-13,emotional,8
 2026-04-13,energy,15
 2026-04-13,entirely,4
@@ -451,7 +451,7 @@ period,Term,Count
 2026-04-13,fragrances,2
 2026-04-13,france,1
 2026-04-13,free,11
-2026-04-13,fresh,3
+2026-04-13,fresh,1
 2026-04-13,friends,7
 2026-04-13,fully,3
 2026-04-13,funny,1
@@ -466,7 +466,7 @@ period,Term,Count
 2026-04-13,goes,2
 2026-04-13,going,10
 2026-04-13,gone,3
-2026-04-13,good,9
+2026-04-13,good,11
 2026-04-13,goodness,7
 2026-04-13,goodness right,7
 2026-04-13,goodness right strong,7
@@ -576,14 +576,14 @@ period,Term,Count
 2026-04-13,live,8
 2026-04-13,living,2
 2026-04-13,long,13
-2026-04-13,look,24
+2026-04-13,look,22
 2026-04-13,looking,7
-2026-04-13,looks,7
+2026-04-13,looks,9
 2026-04-13,looksmaxxing,2
 2026-04-13,love,6
 2026-04-13,magazine,5
 2026-04-13,major,5
-2026-04-13,make,12
+2026-04-13,make,10
 2026-04-13,make feel,2
 2026-04-13,makes,5
 2026-04-13,makeup,54
@@ -698,7 +698,6 @@ period,Term,Count
 2026-04-13,real time,5
 2026-04-13,really,2
 2026-04-13,recognize,4
-2026-04-13,recreate,2
 2026-04-13,reels,1
 2026-04-13,rel,90
 2026-04-13,rel noopener,6
@@ -776,7 +775,7 @@ period,Term,Count
 2026-04-13,space,9
 2026-04-13,specific,4
 2026-04-13,spent,4
-2026-04-13,spring,27
+2026-04-13,spring,25
 2026-04-13,src,84
 2026-04-13,src figure,26
 2026-04-13,src figure div,16
@@ -816,7 +815,6 @@ period,Term,Count
 2026-04-13,sure,4
 2026-04-13,surprise,1
 2026-04-13,takes,4
-2026-04-13,taking,4
 2026-04-13,talking,4
 2026-04-13,target,91
 2026-04-13,target div,3
@@ -1341,6 +1339,7 @@ period,Term,Count
 2026-04-20,really,3
 2026-04-20,recognize,1
 2026-04-20,recreate,8
+2026-04-20,red,1
 2026-04-20,reels,2
 2026-04-20,rel,16
 2026-04-20,rel noopener,8
