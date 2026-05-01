@@ -6,6 +6,7 @@ period,Term,Count
 2026-03-16,blue,2
 2026-03-16,blurred,2
 2026-03-16,blush,2
+2026-03-16,care,2
 2026-03-16,club,2
 2026-03-16,eye,2
 2026-03-16,eye makeup,2
@@ -14,6 +15,7 @@ period,Term,Count
 2026-03-16,fashion,2
 2026-03-16,harper,2
 2026-03-16,harper bazaar,2
+2026-03-16,korean,2
 2026-03-16,like,2
 2026-03-16,lips,4
 2026-03-16,look,2
@@ -22,6 +24,10 @@ period,Term,Count
 2026-03-16,month,2
 2026-03-16,nss,2
 2026-03-16,nss club,2
+2026-03-16,products,2
+2026-03-16,routine,2
+2026-03-16,skin,2
+2026-03-16,skin care,2
 2026-03-16,skincare,4
 2026-03-16,skincare trend,4
 2026-03-16,tiktok,2
@@ -47,37 +53,38 @@ period,Term,Count
 2026-03-23,korean skincare,2
 2026-03-23,korean skincare trend,2
 2026-03-23,lips,2
-2026-03-23,looking,4
-2026-03-23,looks,2
-2026-03-23,makeup,10
+2026-03-23,looking,2
+2026-03-23,looks,4
+2026-03-23,makeup,12
 2026-03-23,makeup trend,6
 2026-03-23,marie,2
 2026-03-23,marie claire,2
-2026-03-23,msn,2
 2026-03-23,new,2
 2026-03-23,nss,2
 2026-03-23,nss club,2
 2026-03-23,post,2
 2026-03-23,skin,2
-2026-03-23,skin flooding,2
-2026-03-23,skincare,6
-2026-03-23,skincare trend,6
+2026-03-23,skincare,4
+2026-03-23,skincare trend,4
 2026-03-23,spring,4
 2026-03-23,spring makeup,4
-2026-03-23,trend,12
+2026-03-23,stop,2
+2026-03-23,stunning,2
+2026-03-23,trend,10
 2026-03-23,trend beauty,4
 2026-03-23,vogue,6
-2026-03-23,wear,2
-2026-03-23,works,2
+2026-03-23,wear,4
+2026-03-23,wedding,2
 2026-03-30,ahead,2
 2026-03-30,beauty,10
 2026-03-30,beauty trend,6
 2026-03-30,blue,2
 2026-03-30,blurred,4
 2026-03-30,business,2
+2026-03-30,care,2
 2026-03-30,cosmetics,2
 2026-03-30,era,2
-2026-03-30,experts,2
+2026-03-30,experts,4
 2026-03-30,eye,2
 2026-03-30,eye makeup,2
 2026-03-30,eyeshadow,2
@@ -95,60 +102,68 @@ period,Term,Count
 2026-03-30,season,2
 2026-03-30,seen,2
 2026-03-30,skin,2
-2026-03-30,skincare,8
-2026-03-30,skincare trend,4
+2026-03-30,skin care,2
+2026-03-30,skincare,10
+2026-03-30,skincare trend,6
 2026-03-30,skincare trends,2
 2026-03-30,soft,2
 2026-03-30,spring,4
 2026-03-30,spring makeup,2
 2026-03-30,think,2
 2026-03-30,tiktok,2
-2026-03-30,trend,12
+2026-03-30,trend,14
+2026-03-30,trend experts,2
 2026-03-30,trends,10
 2026-03-30,trends makeup,2
 2026-03-30,vogue,4
 2026-03-30,watch,2
 2026-04-06,beauty,2
 2026-04-06,beauty trend,2
+2026-04-06,blush,2
 2026-04-06,check,2
 2026-04-06,come,4
 2026-04-06,flooding,2
 2026-04-06,health,2
-2026-04-06,india,2
 2026-04-06,lashes,2
 2026-04-06,lashes romantic,2
 2026-04-06,lip,2
 2026-04-06,living,4
-2026-04-06,makeup,6
+2026-04-06,low,2
+2026-04-06,makeup,8
 2026-04-06,makeup trend,6
 2026-04-06,makeup trend wait,2
+2026-04-06,makeup trends,2
 2026-04-06,old,4
 2026-04-06,romantic,2
+2026-04-06,shares,2
 2026-04-06,skin,2
-2026-04-06,skin flooding,2
 2026-04-06,skincare,4
 2026-04-06,skincare trend,2
-2026-04-06,spring,4
+2026-04-06,spring,6
 2026-04-06,spring makeup,2
+2026-04-06,summer,2
 2026-04-06,times,2
 2026-04-06,trend,10
 2026-04-06,trend wait,2
 2026-04-06,trend wait try,2
+2026-04-06,trends,4
 2026-04-06,try,2
 2026-04-06,try wet,1
 2026-04-06,try wet lashes,1
 2026-04-06,use,2
 2026-04-06,viral,2
 2026-04-06,viral skincare,2
-2026-04-06,viral skincare trend,2
 2026-04-06,wait,2
 2026-04-06,wait try,2
 2026-04-06,wait try wet,1
+2026-04-06,wear,2
 2026-04-06,wet,2
 2026-04-06,wet lashes,2
 2026-04-06,wet lashes romantic,2
-2026-04-13,beauty,2
-2026-04-13,bridal,2
+2026-04-13,bag,2
+2026-04-13,beach,2
+2026-04-13,brings,2
+2026-04-13,business,2
 2026-04-13,did,1
 2026-04-13,eye,2
 2026-04-13,eye makeup,2
@@ -156,39 +171,31 @@ period,Term,Count
 2026-04-13,eyeshadow,3
 2026-04-13,eyeshadow palette,2
 2026-04-13,eyeshadow palette used,1
-2026-04-13,flooding,2
 2026-04-13,going,4
 2026-04-13,good,2
-2026-04-13,india,2
-2026-04-13,know,2
 2026-04-13,korean,4
 2026-04-13,korean skincare,4
 2026-04-13,korean skincare trend,4
 2026-04-13,look,2
-2026-04-13,makeup,7
+2026-04-13,makeup,9
 2026-04-13,makeup look,2
 2026-04-13,makeup shorts,2
 2026-04-13,makeup trend,2
 2026-04-13,makeup trends,1
 2026-04-13,media,4
-2026-04-13,nail,2
-2026-04-13,new,2
 2026-04-13,palette,2
 2026-04-13,palette used,1
 2026-04-13,seen,2
 2026-04-13,shorts,2
-2026-04-13,skin,2
-2026-04-13,skin flooding,2
-2026-04-13,skincare,10
-2026-04-13,skincare trend,10
-2026-04-13,trend,12
-2026-04-13,trends,2
+2026-04-13,size,2
+2026-04-13,skincare,8
+2026-04-13,skincare trend,6
+2026-04-13,trend,8
+2026-04-13,trends,4
 2026-04-13,trends makeup,1
 2026-04-13,used,1
-2026-04-13,viral,8
-2026-04-13,viral skincare,4
-2026-04-13,viral skincare trend,4
-2026-04-13,wear,2
+2026-04-13,viral,6
+2026-04-13,viral skincare,2
 2026-04-13,wedding,2
 2026-04-20,beauty,7
 2026-04-20,beauty trend,6
@@ -240,7 +247,6 @@ period,Term,Count
 2026-04-20,makeup trends,2
 2026-04-20,makeuptutorial,1
 2026-04-20,marie,1
-2026-04-20,msn,2
 2026-04-20,music,1
 2026-04-20,natural,2
 2026-04-20,new,3
@@ -252,7 +258,6 @@ period,Term,Count
 2026-04-20,playtime,2
 2026-04-20,poppy,2
 2026-04-20,poppy playtime,2
-2026-04-20,popular,2
 2026-04-20,power,10
 2026-04-20,power makeup,10
 2026-04-20,power makeup poppy,2
@@ -262,7 +267,6 @@ period,Term,Count
 2026-04-20,queries,2
 2026-04-20,queries power,2
 2026-04-20,queries power makeup,2
-2026-04-20,right,2
 2026-04-20,september,2
 2026-04-20,short,2
 2026-04-20,shorts,6
@@ -270,15 +274,13 @@ period,Term,Count
 2026-04-20,shorts power makeup,2
 2026-04-20,shorts queries,2
 2026-04-20,shorts queries power,2
-2026-04-20,skin,4
-2026-04-20,skincare,2
-2026-04-20,skincare trend,2
+2026-04-20,skin,2
 2026-04-20,soft,2
 2026-04-20,sophisticated,2
 2026-04-20,spring,4
 2026-04-20,surprisingly,4
 2026-04-20,tiktok,7
-2026-04-20,trend,11
+2026-04-20,trend,9
 2026-04-20,trending,9
 2026-04-20,trending viral,4
 2026-04-20,trends,2
@@ -288,8 +290,6 @@ period,Term,Count
 2026-04-20,used bperfect cosmetics,4
 2026-04-20,viral,5
 2026-04-20,wedding,3
-2026-04-20,works,2
-2026-04-27,accessories,9
 2026-04-27,actually,5
 2026-04-27,add,3
 2026-04-27,addition,3
@@ -315,13 +315,13 @@ period,Term,Count
 2026-04-27,background,141
 2026-04-27,background color,140
 2026-04-27,background color height,140
+2026-04-27,bag,3
 2026-04-27,balance,4
 2026-04-27,based,3
 2026-04-27,bazaar,8
 2026-04-27,beach,5
 2026-04-27,beautiful,6
-2026-04-27,beauty,84
-2026-04-27,beauty looks,6
+2026-04-27,beauty,80
 2026-04-27,beauty skincare,5
 2026-04-27,beauty trend,13
 2026-04-27,beauty trend try,5
@@ -335,10 +335,10 @@ period,Term,Count
 2026-04-27,blockquote class,14
 2026-04-27,blockquote class instagram,14
 2026-04-27,blue,5
-2026-04-27,blurred,2
+2026-04-27,blurred,4
 2026-04-27,blush,5
 2026-04-27,bold,4
-2026-04-27,book,8
+2026-04-27,book,10
 2026-04-27,border,84
 2026-04-27,border left,28
 2026-04-27,border left solid,28
@@ -355,13 +355,14 @@ period,Term,Count
 2026-04-27,bridal,1
 2026-04-27,bright,5
 2026-04-27,bring,4
+2026-04-27,brings,2
 2026-04-27,budget,3
 2026-04-27,business,4
 2026-04-27,bustle,6
+2026-04-27,care,2
 2026-04-27,carnival,1
 2026-04-27,carnival interstellar,1
 2026-04-27,cart,7
-2026-04-27,celebrities,7
 2026-04-27,celebrity,5
 2026-04-27,center,31
 2026-04-27,center rel,14
@@ -373,7 +374,7 @@ period,Term,Count
 2026-04-27,chaotic,3
 2026-04-27,check,8
 2026-04-27,chic,5
-2026-04-27,claire,8
+2026-04-27,claire,6
 2026-04-27,class,14
 2026-04-27,class instagram,14
 2026-04-27,class instagram media,14
@@ -492,14 +493,12 @@ period,Term,Count
 2026-04-27,font weight line,14
 2026-04-27,font weight normal,14
 2026-04-27,fragrances,7
-2026-04-27,free,5
+2026-04-27,free,3
 2026-04-27,french,12
 2026-04-27,fresh,5
 2026-04-27,friends,3
 2026-04-27,fyp,8
-2026-04-27,gala,36
-2026-04-27,gala beauty,6
-2026-04-27,gala beauty looks,6
+2026-04-27,gala,34
 2026-04-27,girl,7
 2026-04-27,girlfriend,6
 2026-04-27,girls,5
@@ -518,7 +517,7 @@ period,Term,Count
 2026-04-27,green,4
 2026-04-27,grwm,5
 2026-04-27,gym,5
-2026-04-27,hard,7
+2026-04-27,hard,5
 2026-04-27,harper,8
 2026-04-27,harper bazaar,8
 2026-04-27,heading,4
@@ -555,7 +554,6 @@ period,Term,Count
 2026-04-27,img src figure,23
 2026-04-27,including,7
 2026-04-27,incredible,3
-2026-04-27,india,2
 2026-04-27,inspired,5
 2026-04-27,instagram,33
 2026-04-27,instagram div,14
@@ -602,11 +600,10 @@ period,Term,Count
 2026-04-27,live,3
 2026-04-27,living,2
 2026-04-27,long,12
-2026-04-27,look,23
+2026-04-27,look,21
 2026-04-27,look did,1
 2026-04-27,looking,6
-2026-04-27,looks,13
-2026-04-27,looks time,5
+2026-04-27,looks,11
 2026-04-27,lot,3
 2026-04-27,love,13
 2026-04-27,loves,2
@@ -614,9 +611,9 @@ period,Term,Count
 2026-04-27,luxe,3
 2026-04-27,luxury,7
 2026-04-27,main,4
-2026-04-27,make,19
+2026-04-27,make,17
 2026-04-27,makes,10
-2026-04-27,makeup,57
+2026-04-27,makeup,55
 2026-04-27,makeup look,8
 2026-04-27,makeup look did,1
 2026-04-27,makeup makeuptutorial,3
@@ -653,18 +650,17 @@ period,Term,Count
 2026-04-27,margin right width,14
 2026-04-27,margin width,28
 2026-04-27,margin width div,28
-2026-04-27,marie,8
-2026-04-27,marie claire,8
+2026-04-27,marie,6
+2026-04-27,marie claire,6
 2026-04-27,mark,37
-2026-04-27,matte,5
+2026-04-27,matte,7
 2026-04-27,matters,3
 2026-04-27,media,19
 2026-04-27,media style,14
 2026-04-27,media style border,14
 2026-04-27,meets,3
-2026-04-27,met,42
-2026-04-27,met gala,24
-2026-04-27,met gala beauty,6
+2026-04-27,met,40
+2026-04-27,met gala,22
 2026-04-27,modern,9
 2026-04-27,mom,16
 2026-04-27,moment,7
@@ -672,10 +668,8 @@ period,Term,Count
 2026-04-27,month,2
 2026-04-27,morning,3
 2026-04-27,mother,11
-2026-04-27,msn,2
 2026-04-27,multiple,4
 2026-04-27,music,4
-2026-04-27,nail,20
 2026-04-27,nails,23
 2026-04-27,natural,2
 2026-04-27,need,5
@@ -718,9 +712,9 @@ period,Term,Count
 2026-04-27,palette,1
 2026-04-27,palette used,1
 2026-04-27,palette used bperfect,1
-2026-04-27,paris,9
-2026-04-27,paris select,6
-2026-04-27,paris select book,6
+2026-04-27,paris,11
+2026-04-27,paris select,8
+2026-04-27,paris select book,8
 2026-04-27,perfect,14
 2026-04-27,personal,5
 2026-04-27,photo,6
@@ -728,7 +722,6 @@ period,Term,Count
 2026-04-27,playtime,1
 2026-04-27,poppy,1
 2026-04-27,poppy playtime,1
-2026-04-27,popular,2
 2026-04-27,post,28
 2026-04-27,post instagram,14
 2026-04-27,post instagram div,14
@@ -781,8 +774,8 @@ period,Term,Count
 2026-04-27,says,13
 2026-04-27,season,9
 2026-04-27,seen,2
-2026-04-27,select,6
-2026-04-27,select book,6
+2026-04-27,select,8
+2026-04-27,select book,8
 2026-04-27,september,3
 2026-04-27,serif,42
 2026-04-27,serif font,42
@@ -791,6 +784,7 @@ period,Term,Count
 2026-04-27,sets,7
 2026-04-27,shade,5
 2026-04-27,shared,15
+2026-04-27,shares,3
 2026-04-27,shift,7
 2026-04-27,shop,13
 2026-04-27,short,4
@@ -806,7 +800,8 @@ period,Term,Count
 2026-04-27,size font style,28
 2026-04-27,size line,14
 2026-04-27,size line height,14
-2026-04-27,skin,25
+2026-04-27,skin,27
+2026-04-27,skin care,2
 2026-04-27,skincare,30
 2026-04-27,skincare skincareroutine,8
 2026-04-27,skincare trend,1
@@ -843,7 +838,7 @@ period,Term,Count
 2026-04-27,strong like goodness,8
 2026-04-27,strong need,3
 2026-04-27,stuck,3
-2026-04-27,stunning,6
+2026-04-27,stunning,4
 2026-04-27,style,422
 2026-04-27,style background,140
 2026-04-27,style background color,140
@@ -866,10 +861,10 @@ period,Term,Count
 2026-04-27,style width,42
 2026-04-27,style width border,14
 2026-04-27,style width height,28
-2026-04-27,summer,25
+2026-04-27,summer,29
 2026-04-27,summer makeup,5
-2026-04-27,summer paris,6
-2026-04-27,summer paris select,6
+2026-04-27,summer paris,8
+2026-04-27,summer paris select,8
 2026-04-27,sure,6
 2026-04-27,surprisingly,1
 2026-04-27,talk,3
@@ -890,7 +885,7 @@ period,Term,Count
 2026-04-27,things,5
 2026-04-27,think,8
 2026-04-27,tiktok,3
-2026-04-27,time,19
+2026-04-27,time,17
 2026-04-27,times,4
 2026-04-27,transparent,56
 2026-04-27,transparent border,14
@@ -898,14 +893,15 @@ period,Term,Count
 2026-04-27,transparent div,42
 2026-04-27,transparent div div,42
 2026-04-27,trend,61
-2026-04-27,trend beauty,3
+2026-04-27,trend beauty,1
+2026-04-27,trend experts,4
 2026-04-27,trend harper,6
 2026-04-27,trend harper bazaar,6
 2026-04-27,trend try,5
 2026-04-27,trend try girlfriend,5
 2026-04-27,trend wait,4
 2026-04-27,trend wait try,4
-2026-04-27,trending,11
+2026-04-27,trending,13
 2026-04-27,trending viral,1
 2026-04-27,trendingshorts,5
 2026-04-27,trends,31
@@ -968,7 +964,6 @@ period,Term,Count
 2026-04-27,width target div,14
 2026-04-27,women,3
 2026-04-27,work,8
-2026-04-27,works,1
 2026-04-27,world,5
 2026-04-27,year,11
 2026-04-27,years,8
