@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/,1777968000,Rethinking The Experience Of System Tools,"Rethinking The Experience Of System Tools
+
+Design always starts with function &mdash; function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions."
 rss,smashingmagazine.com,https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/,1777622400,Designing Stable Interfaces For Streaming Content,"Designing Stable Interfaces For Streaming Content
 
 Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?"
