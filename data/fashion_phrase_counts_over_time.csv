@@ -1,7 +1,9 @@
 period,Term,Count
+2026-03-30,ahead,2
 2026-03-30,angeles,4
+2026-03-30,claire,2
 2026-03-30,days,2
-2026-03-30,fall,2
+2026-03-30,fall,6
 2026-03-30,fashion,10
 2026-03-30,fashion people,2
 2026-03-30,fashion people wearing,2
@@ -10,13 +12,19 @@ period,Term,Count
 2026-03-30,know,2
 2026-03-30,los,4
 2026-03-30,los angeles,4
-2026-03-30,magazine,2
+2026-03-30,magazine,4
+2026-03-30,marie,2
+2026-03-30,marie claire,2
 2026-03-30,media,4
 2026-03-30,people,4
 2026-03-30,people wearing,2
+2026-03-30,runways,4
+2026-03-30,shopping,2
 2026-03-30,spring,2
+2026-03-30,styling,2
+2026-03-30,time,2
 2026-03-30,trend,8
-2026-03-30,trends,4
+2026-03-30,trends,8
 2026-03-30,trends fashion,2
 2026-03-30,trends fashion people,2
 2026-03-30,wear,4
@@ -35,9 +43,9 @@ period,Term,Count
 2026-04-06,shopping,6
 2026-04-06,shopping right,6
 2026-04-06,shopping right spring,3
-2026-04-06,spring,12
+2026-04-06,spring,10
 2026-04-06,spring summer,2
-2026-04-06,spring trends,8
+2026-04-06,spring trends,6
 2026-04-06,spring trends staffers,6
 2026-04-06,staffers,6
 2026-04-06,staffers shopping,6
@@ -45,7 +53,7 @@ period,Term,Count
 2026-04-06,style,2
 2026-04-06,summer,2
 2026-04-06,trend,2
-2026-04-06,trends,16
+2026-04-06,trends,14
 2026-04-06,trends staffers,6
 2026-04-06,trends staffers shopping,6
 2026-04-06,vogue,2
@@ -56,6 +64,7 @@ period,Term,Count
 2026-04-13,fashion,6
 2026-04-13,fashion trend,4
 2026-04-13,fashion trends,2
+2026-04-13,global,2
 2026-04-13,needs,2
 2026-04-13,spring,2
 2026-04-13,trend,8
@@ -90,7 +99,6 @@ period,Term,Count
 2026-04-20,people,6
 2026-04-20,people wearing,6
 2026-04-20,people wearing wear,6
-2026-04-20,prada,2
 2026-04-20,shop,2
 2026-04-20,spring,8
 2026-04-20,spring summer,4
@@ -131,9 +139,9 @@ period,Term,Count
 2026-04-27,cool,3
 2026-04-27,derby,6
 2026-04-27,derby fashion,6
-2026-04-27,elle,4
-2026-04-27,fashion,16
-2026-04-27,fashion trend,10
+2026-04-27,elle,2
+2026-04-27,fashion,18
+2026-04-27,fashion trend,12
 2026-04-27,fashion trends,6
 2026-04-27,feels,3
 2026-04-27,flyshtdrew,2
@@ -142,14 +150,15 @@ period,Term,Count
 2026-04-27,gala,2
 2026-04-27,girls,2
 2026-04-27,girls wearing,2
+2026-04-27,global,4
 2026-04-27,good,2
 2026-04-27,high,1
 2026-04-27,history,2
 2026-04-27,jordan,4
 2026-04-27,life,1
 2026-04-27,looks,2
-2026-04-27,luxury,2
-2026-04-27,luxury fashion,2
+2026-04-27,luxury,4
+2026-04-27,luxury fashion,4
 2026-04-27,marie,2
 2026-04-27,marie claire,2
 2026-04-27,media,2
@@ -164,10 +173,10 @@ period,Term,Count
 2026-04-27,shorts flyshtdrew brands,2
 2026-04-27,stay,2
 2026-04-27,streetwear,3
-2026-04-27,style,6
+2026-04-27,style,4
 2026-04-27,summer,4
 2026-04-27,summer fashion,2
-2026-04-27,trend,10
+2026-04-27,trend,12
 2026-04-27,trends,8
 2026-04-27,vogue,2
 2026-04-27,wearing,6
@@ -175,17 +184,16 @@ period,Term,Count
 2026-04-27,white,2
 2026-04-27,year,2
 2026-04-27,york,4
-2026-05-04,add,3
 2026-05-04,aesthetic,1
 2026-05-04,alternative,1
 2026-05-04,amazon,3
 2026-05-04,arts,3
 2026-05-04,best,7
 2026-05-04,boho,2
-2026-05-04,bold,1
 2026-05-04,books,2
 2026-05-04,brands,7
 2026-05-04,bring,1
+2026-05-04,budget,1
 2026-05-04,buildings,2
 2026-05-04,built,2
 2026-05-04,buy,3
@@ -206,10 +214,12 @@ period,Term,Count
 2026-05-04,end,2
 2026-05-04,era,1
 2026-05-04,fall,2
-2026-05-04,fashion,39
+2026-05-04,fans,4
+2026-05-04,far,4
+2026-05-04,fashion,43
 2026-05-04,fashion person,4
 2026-05-04,fashion trend,8
-2026-05-04,fashion trends,8
+2026-05-04,fashion trends,12
 2026-05-04,featuring,1
 2026-05-04,film,3
 2026-05-04,flyshtdrew,2
@@ -230,7 +240,7 @@ period,Term,Count
 2026-05-04,like,5
 2026-05-04,like fashion,4
 2026-05-04,like fashion person,4
-2026-05-04,look,12
+2026-05-04,look,10
 2026-05-04,look like,5
 2026-05-04,looking,2
 2026-05-04,love,7
@@ -252,19 +262,20 @@ period,Term,Count
 2026-05-04,new york,3
 2026-05-04,old,3
 2026-05-04,ootd,1
-2026-05-04,outfit,7
+2026-05-04,outfit,5
 2026-05-04,outfit ideas,5
 2026-05-04,people,2
 2026-05-04,person,4
 2026-05-04,photos,2
-2026-05-04,prada,3
 2026-05-04,premium,3
 2026-05-04,printed,4
 2026-05-04,reader,3
-2026-05-04,running,1
+2026-05-04,real,2
 2026-05-04,runway,2
+2026-05-04,runways,1
+2026-05-04,school,1
 2026-05-04,shirt,8
-2026-05-04,shoe,3
+2026-05-04,shoe,1
 2026-05-04,short,1
 2026-05-04,shorts,7
 2026-05-04,shorts flyshtdrew,2
@@ -278,7 +289,7 @@ period,Term,Count
 2026-05-04,style,8
 2026-05-04,style summer,4
 2026-05-04,stylish,3
-2026-05-04,summer,14
+2026-05-04,summer,12
 2026-05-04,summer fashion,2
 2026-05-04,summer wear,4
 2026-05-04,tiktok,3
@@ -288,8 +299,9 @@ period,Term,Count
 2026-05-04,university,4
 2026-05-04,vintage,1
 2026-05-04,vogue,6
+2026-05-04,waist,2
 2026-05-04,want,2
-2026-05-04,wear,16
+2026-05-04,wear,12
 2026-05-04,wear fashion,3
 2026-05-04,wearing,4
 2026-05-04,week,2
@@ -297,174 +309,210 @@ period,Term,Count
 2026-05-04,winter,2
 2026-05-04,woman,3
 2026-05-04,women,2
+2026-05-04,won,3
 2026-05-04,work,1
 2026-05-04,year,2
 2026-05-04,years,3
 2026-05-04,york,3
-2026-05-11,add,1
 2026-05-11,aesthetic,3
 2026-05-11,ahead,6
 2026-05-11,amazon,4
 2026-05-11,angeles,1
 2026-05-11,arts,2
-2026-05-11,beautiful,3
-2026-05-11,best,7
-2026-05-11,bold,2
+2026-05-11,best,9
 2026-05-11,books,3
-2026-05-11,bring,2
+2026-05-11,bring,1
+2026-05-11,budget,2
 2026-05-11,buildings,2
-2026-05-11,built,2
-2026-05-11,buy,2
-2026-05-11,casual,6
+2026-05-11,built,1
+2026-05-11,casual,5
 2026-05-11,channels,2
 2026-05-11,claire,8
 2026-05-11,clothes,6
-2026-05-11,collection,5
+2026-05-11,clothing,1
+2026-05-11,collection,7
+2026-05-11,collection modern,3
+2026-05-11,collection modern ladies,3
 2026-05-11,college,4
-2026-05-11,color,6
-2026-05-11,comfortable,6
+2026-05-11,color,4
+2026-05-11,comfortable,8
+2026-05-11,comfortable shoes,3
+2026-05-11,comfortable shoes collection,3
 2026-05-11,cool,2
 2026-05-11,cosmopolitan,2
 2026-05-11,daily,1
 2026-05-11,days,1
+2026-05-11,denim,1
 2026-05-11,design,6
 2026-05-11,doesn,3
-2026-05-11,dress,5
-2026-05-11,elegant,7
-2026-05-11,elle,6
+2026-05-11,dress,6
+2026-05-11,elegant,8
+2026-05-11,elegant shoes,3
+2026-05-11,elegant shoes step,3
+2026-05-11,elle,4
 2026-05-11,end,3
 2026-05-11,era,3
 2026-05-11,fall,8
-2026-05-11,fashion,85
-2026-05-11,fashion fashiontrends,4
+2026-05-11,fans,1
+2026-05-11,far,2
+2026-05-11,fashion,91
+2026-05-11,fashion fashiontrends,5
 2026-05-11,fashion people,2
 2026-05-11,fashion person,6
-2026-05-11,fashion shorts,5
-2026-05-11,fashion trend,1
+2026-05-11,fashion shortsfeed,3
+2026-05-11,fashion shortsfeed elegant,3
+2026-05-11,fashion trend,2
 2026-05-11,fashion trends,16
 2026-05-11,fashion week,4
-2026-05-11,fashionstyle,8
-2026-05-11,fashionstyle fashiontrends,3
+2026-05-11,fashionstyle,6
+2026-05-11,fashionstyle fashiontrends,4
 2026-05-11,fashiontrends,27
+2026-05-11,fashiontrends mensfashion,3
 2026-05-11,fast,1
-2026-05-11,featuring,3
+2026-05-11,featuring,2
 2026-05-11,feels,4
 2026-05-11,film,2
+2026-05-11,footwear,3
+2026-05-11,footwear latest,3
+2026-05-11,footwear latest stylish,3
 2026-05-11,fyp,3
 2026-05-11,gala,2
 2026-05-11,girls,9
 2026-05-11,girls wearing,4
 2026-05-11,health,4
-2026-05-11,heel,4
 2026-05-11,high,3
 2026-05-11,history,4
-2026-05-11,ideas,7
+2026-05-11,ideas,11
 2026-05-11,inspired,5
 2026-05-11,instyle,10
 2026-05-11,jacket,5
-2026-05-11,jeans,7
+2026-05-11,jeans,11
 2026-05-11,kate,4
 2026-05-11,know,7
-2026-05-11,latest,9
-2026-05-11,latest stylish,3
+2026-05-11,ladies,3
+2026-05-11,latest,10
+2026-05-11,latest stylish,4
+2026-05-11,latest stylish comfortable,3
 2026-05-11,life,5
-2026-05-11,like,3
+2026-05-11,like,2
 2026-05-11,like fashion,2
 2026-05-11,like fashion person,2
-2026-05-11,look,14
+2026-05-11,look,13
 2026-05-11,looking,3
-2026-05-11,looks,6
+2026-05-11,looks,5
 2026-05-11,los,1
 2026-05-11,los angeles,1
 2026-05-11,love,1
-2026-05-11,low,4
 2026-05-11,luxury,6
 2026-05-11,luxury fashion,4
 2026-05-11,make,3
 2026-05-11,marie,8
 2026-05-11,marie claire,8
-2026-05-11,men,19
-2026-05-11,men fashion,7
+2026-05-11,men,17
+2026-05-11,men fashion,8
+2026-05-11,men fashion trends,3
+2026-05-11,mens,6
 2026-05-11,mensfashion,9
+2026-05-11,menswear,4
 2026-05-11,met,2
 2026-05-11,met gala,2
-2026-05-11,modern,3
+2026-05-11,modern,4
+2026-05-11,modern ladies,3
 2026-05-11,mother,1
 2026-05-11,museum,2
 2026-05-11,neck,3
-2026-05-11,new,13
+2026-05-11,new,14
 2026-05-11,new york,1
 2026-05-11,nyc,6
-2026-05-11,old,2
-2026-05-11,ootd,3
-2026-05-11,outfit,17
-2026-05-11,outfit ideas,5
+2026-05-11,old,3
+2026-05-11,ootd,2
+2026-05-11,outfit,21
+2026-05-11,outfit ideas,8
 2026-05-11,outfits,3
+2026-05-11,pants,5
 2026-05-11,people,4
 2026-05-11,person,6
 2026-05-11,photos,4
-2026-05-11,prada,2
-2026-05-11,premium,4
+2026-05-11,premium,1
 2026-05-11,printed,1
 2026-05-11,reader,1
 2026-05-11,ready,6
+2026-05-11,real,3
 2026-05-11,right,4
-2026-05-11,round,4
-2026-05-11,running,3
 2026-05-11,runway,2
+2026-05-11,school,2
 2026-05-11,shirt,1
-2026-05-11,shirts,6
 2026-05-11,shoe,6
-2026-05-11,shoes,6
+2026-05-11,shoes,9
+2026-05-11,shoes collection,3
+2026-05-11,shoes collection modern,3
+2026-05-11,shoes step,3
+2026-05-11,shoes step world,3
 2026-05-11,shop,4
 2026-05-11,short,3
-2026-05-11,shorts,13
-2026-05-11,spring,6
-2026-05-11,spring summer,1
+2026-05-11,shorts,11
+2026-05-11,shortsfeed,5
+2026-05-11,shortsfeed elegant,3
+2026-05-11,shortsfeed elegant shoes,3
+2026-05-11,soft,5
+2026-05-11,spring,4
 2026-05-11,stay,1
+2026-05-11,step,3
+2026-05-11,step world,3
+2026-05-11,step world trending,3
 2026-05-11,stories,2
-2026-05-11,street,10
+2026-05-11,street,9
 2026-05-11,street style,7
-2026-05-11,streetwear,3
-2026-05-11,style,24
+2026-05-11,streetwear,2
+2026-05-11,style,25
 2026-05-11,style summer,2
 2026-05-11,styling,4
-2026-05-11,stylish,12
-2026-05-11,summer,25
-2026-05-11,summer fashion,1
+2026-05-11,stylish,17
+2026-05-11,stylish comfortable,3
+2026-05-11,stylish comfortable shoes,3
+2026-05-11,summer,26
 2026-05-11,summer trends,2
 2026-05-11,summer wear,2
-2026-05-11,taking,5
+2026-05-11,taking,6
 2026-05-11,tiktok,4
-2026-05-11,trend,24
-2026-05-11,trending,18
-2026-05-11,trending women,3
-2026-05-11,trends,39
+2026-05-11,time,3
+2026-05-11,trend,29
+2026-05-11,trending,19
+2026-05-11,trending women,4
+2026-05-11,trending women footwear,3
+2026-05-11,trends,38
 2026-05-11,trends ahead,6
-2026-05-11,trendy,4
+2026-05-11,trendy,5
 2026-05-11,university,2
-2026-05-11,vintage,2
-2026-05-11,viral,9
+2026-05-11,vintage,3
+2026-05-11,viral,14
 2026-05-11,viral trending,6
 2026-05-11,vogue,6
+2026-05-11,waist,2
 2026-05-11,want,2
+2026-05-11,wardrobe,3
 2026-05-11,wear,22
 2026-05-11,wearing,11
 2026-05-11,wearing wear,2
 2026-05-11,week,6
 2026-05-11,welcome,4
 2026-05-11,western,1
-2026-05-11,white,4
+2026-05-11,white,3
 2026-05-11,winter,3
-2026-05-11,woman,3
-2026-05-11,women,18
-2026-05-11,women fashion,5
-2026-05-11,womensfashion,7
+2026-05-11,woman,2
+2026-05-11,women,29
+2026-05-11,women fashion,7
+2026-05-11,women footwear,3
+2026-05-11,women footwear latest,3
+2026-05-11,womensfashion,6
+2026-05-11,won,1
 2026-05-11,work,5
+2026-05-11,world,3
+2026-05-11,world trending,3
+2026-05-11,world trending women,3
 2026-05-11,wwd,4
 2026-05-11,year,3
 2026-05-11,years,2
 2026-05-11,years old,1
 2026-05-11,york,1
 2026-05-11,youtubeshorts,4
-2026-05-11,ytshorts,5
