@@ -35,7 +35,6 @@ period,Term,Count
 2026-03-30,today,2
 2026-03-30,trend,8
 2026-03-30,trends,8
-2026-03-30,trends watch,2
 2026-03-30,vogue,2
 2026-03-30,watch,2
 2026-04-06,asked,4
@@ -64,7 +63,6 @@ period,Term,Count
 2026-04-06,skincare trend,2
 2026-04-06,spring,6
 2026-04-06,spring makeup,4
-2026-04-06,spring makeup trend,4
 2026-04-06,super,2
 2026-04-06,times,2
 2026-04-06,trend,16
@@ -89,15 +87,18 @@ period,Term,Count
 2026-04-13,beauty,2
 2026-04-13,beauty trend,2
 2026-04-13,brings,2
+2026-04-13,color,2
 2026-04-13,doing,2
+2026-04-13,eye,2
 2026-04-13,flooding,2
 2026-04-13,going,2
 2026-04-13,good,2
 2026-04-13,india,2
 2026-04-13,korean,2
 2026-04-13,make,2
-2026-04-13,makeup,4
-2026-04-13,makeup trend,2
+2026-04-13,makeup,6
+2026-04-13,makeup trend,4
+2026-04-13,matter,2
 2026-04-13,media,2
 2026-04-13,natural,2
 2026-04-13,new,2
@@ -109,10 +110,13 @@ period,Term,Count
 2026-04-13,social,2
 2026-04-13,social media,2
 2026-04-13,sophisticated,2
-2026-04-13,trend,10
+2026-04-13,spring,2
+2026-04-13,trend,12
 2026-04-13,viral,6
 2026-04-13,viral skincare,4
 2026-04-13,viral skincare trend,4
+2026-04-13,vogue,2
+2026-04-13,wear,2
 2026-04-20,actually,2
 2026-04-20,beauty,4
 2026-04-20,beauty trend,4
@@ -143,15 +147,14 @@ period,Term,Count
 2026-04-20,watercolor,8
 2026-04-20,watercolor makeup,8
 2026-04-20,watercolor makeup trend,4
-2026-04-27,beauty,6
+2026-04-27,beauty,4
 2026-04-27,beauty trend,2
 2026-04-27,beauty trends,2
 2026-04-27,big,2
-2026-04-27,biggest,4
+2026-04-27,biggest,2
 2026-04-27,box,2
 2026-04-27,characters,2
 2026-04-27,cheeks,2
-2026-04-27,comeback,4
 2026-04-27,cool,2
 2026-04-27,cosmopolitan,2
 2026-04-27,dance,2
@@ -168,20 +171,18 @@ period,Term,Count
 2026-04-27,gala,2
 2026-04-27,lashes,4
 2026-04-27,lashes romantic,4
-2026-04-27,later,4
+2026-04-27,later,2
 2026-04-27,latest,2
 2026-04-27,lips,2
 2026-04-27,look,5
-2026-04-27,looks,4
+2026-04-27,looks,2
 2026-04-27,make,2
-2026-04-27,makeup,24
+2026-04-27,makeup,20
 2026-04-27,makeup look,5
-2026-04-27,makeup transition,1
 2026-04-27,makeup trend,8
 2026-04-27,makeup trend wait,4
-2026-04-27,makeup trends,4
-2026-04-27,making,4
-2026-04-27,making comeback,4
+2026-04-27,makeup trends,2
+2026-04-27,making,2
 2026-04-27,met,2
 2026-04-27,met gala,2
 2026-04-27,music,2
@@ -190,11 +191,10 @@ period,Term,Count
 2026-04-27,quick,1
 2026-04-27,romantic,4
 2026-04-27,skin,2
-2026-04-27,spring,4
+2026-04-27,spring,2
 2026-04-27,step,2
-2026-04-27,summer,4
-2026-04-27,summer makeup,4
-2026-04-27,think,2
+2026-04-27,summer,2
+2026-04-27,summer makeup,2
 2026-04-27,tiktok,5
 2026-04-27,transition,1
 2026-04-27,trend,10
@@ -203,18 +203,17 @@ period,Term,Count
 2026-04-27,trending,3
 2026-04-27,trending viral,3
 2026-04-27,trending viral duet,1
-2026-04-27,trends,6
+2026-04-27,trends,4
 2026-04-27,try,6
 2026-04-27,try wet,2
 2026-04-27,try wet lashes,2
 2026-04-27,viral,3
 2026-04-27,viral duet,1
 2026-04-27,viral duet duetdance,1
-2026-04-27,viral tiktok,2
 2026-04-27,wait,4
 2026-04-27,wait try,4
 2026-04-27,wait try wet,2
-2026-04-27,wear,4
+2026-04-27,wear,2
 2026-04-27,wet,4
 2026-04-27,wet lashes,4
 2026-04-27,wet lashes romantic,4
@@ -225,12 +224,11 @@ period,Term,Count
 2026-05-04,artist,2
 2026-05-04,aussie,6
 2026-05-04,aussie girl,6
-2026-05-04,beauty,27
+2026-05-04,beauty,23
 2026-05-04,beauty trend,6
 2026-05-04,beauty trend tracker,6
-2026-05-04,beauty trends,8
+2026-05-04,beauty trends,6
 2026-05-04,blue,2
-2026-05-04,blurred,2
 2026-05-04,bridal,7
 2026-05-04,bridal makeup,6
 2026-05-04,business,6
@@ -242,7 +240,7 @@ period,Term,Count
 2026-05-04,comes,1
 2026-05-04,cool,2
 2026-05-04,cosmetics,2
-2026-05-04,cosmopolitan,6
+2026-05-04,cosmopolitan,4
 2026-05-04,create,1
 2026-05-04,creative,1
 2026-05-04,dance,6
@@ -268,15 +266,13 @@ period,Term,Count
 2026-05-04,flooding,2
 2026-05-04,foundation,2
 2026-05-04,fresh,1
-2026-05-04,gala,12
-2026-05-04,gala beauty,5
+2026-05-04,gala,8
 2026-05-04,girl,8
 2026-05-04,glam,6
 2026-05-04,glow,2
 2026-05-04,good,4
 2026-05-04,got,1
 2026-05-04,heavy,1
-2026-05-04,hybrid,4
 2026-05-04,indian,3
 2026-05-04,ingredients,2
 2026-05-04,just,2
@@ -284,19 +280,17 @@ period,Term,Count
 2026-05-04,kind,2
 2026-05-04,know,4
 2026-05-04,korean,2
-2026-05-04,korean beauty,2
 2026-05-04,lashes,2
 2026-05-04,latest,2
 2026-05-04,layers,1
 2026-05-04,like,2
-2026-05-04,lips,2
 2026-05-04,living,2
 2026-05-04,look,17
 2026-05-04,look did,3
 2026-05-04,looks,1
 2026-05-04,lots,2
 2026-05-04,make,2
-2026-05-04,makeup,76
+2026-05-04,makeup,72
 2026-05-04,makeup look,15
 2026-05-04,makeup look did,3
 2026-05-04,makeup makeup,6
@@ -308,11 +302,9 @@ period,Term,Count
 2026-05-04,makeup shorts,5
 2026-05-04,makeup shorts power,2
 2026-05-04,makeup shorts queries,2
-2026-05-04,makeup transition,1
-2026-05-04,makeup trend,24
-2026-05-04,met,12
-2026-05-04,met gala,12
-2026-05-04,met gala beauty,5
+2026-05-04,makeup trend,20
+2026-05-04,met,8
+2026-05-04,met gala,8
 2026-05-04,modern,1
 2026-05-04,morning,4
 2026-05-04,music,6
@@ -324,7 +316,6 @@ period,Term,Count
 2026-05-04,playtime,2
 2026-05-04,poppy,2
 2026-05-04,poppy playtime,2
-2026-05-04,popular,2
 2026-05-04,power,10
 2026-05-04,power makeup,10
 2026-05-04,power makeup poppy,2
@@ -335,10 +326,10 @@ period,Term,Count
 2026-05-04,queries power makeup,2
 2026-05-04,ready,1
 2026-05-04,routine,1
-2026-05-04,says,6
+2026-05-04,says,4
 2026-05-04,seen,1
 2026-05-04,set,4
-2026-05-04,shift,6
+2026-05-04,shift,4
 2026-05-04,short,1
 2026-05-04,shorts,7
 2026-05-04,shorts power,2
@@ -348,12 +339,10 @@ period,Term,Count
 2026-05-04,shortvideo,2
 2026-05-04,skin,6
 2026-05-04,skin flooding,2
-2026-05-04,skincare,6
+2026-05-04,skincare,4
 2026-05-04,skincare trend,2
 2026-05-04,spot,2
-2026-05-04,spring,4
-2026-05-04,spring makeup,2
-2026-05-04,spring makeup trend,2
+2026-05-04,spring,2
 2026-05-04,stay,2
 2026-05-04,studio,1
 2026-05-04,style,2
@@ -365,28 +354,25 @@ period,Term,Count
 2026-05-04,tracker vogue,6
 2026-05-04,tracker vogue vogue,3
 2026-05-04,transition,3
-2026-05-04,trend,36
+2026-05-04,trend,32
 2026-05-04,trend tracker,6
 2026-05-04,trend tracker vogue,6
 2026-05-04,trending,14
 2026-05-04,trending viral,7
 2026-05-04,trending viral duet,3
-2026-05-04,trends,8
-2026-05-04,trends watch,4
-2026-05-04,truth,1
+2026-05-04,trends,6
 2026-05-04,used,2
 2026-05-04,usually,1
 2026-05-04,viral,13
 2026-05-04,viral duet,3
 2026-05-04,viral duet duetdance,3
-2026-05-04,viral tiktok,2
 2026-05-04,viralshorts,7
 2026-05-04,vogue,12
 2026-05-04,vogue business,6
 2026-05-04,vogue business beauty,6
 2026-05-04,vogue vogue,3
 2026-05-04,vogue vogue business,3
-2026-05-04,watch,4
+2026-05-04,watch,2
 2026-05-04,wear,4
 2026-05-04,works,2
 2026-05-11,able,8
@@ -398,75 +384,78 @@ period,Term,Count
 2026-05-11,add,7
 2026-05-11,addition,3
 2026-05-11,adds,6
+2026-05-11,affordable,4
 2026-05-11,age,5
 2026-05-11,ahead,6
-2026-05-11,align,74
-2026-05-11,align center,74
-2026-05-11,align center rel,37
-2026-05-11,align center text,37
+2026-05-11,align,72
+2026-05-11,align center,72
+2026-05-11,align center rel,36
+2026-05-11,align center text,36
 2026-05-11,angel,3
 2026-05-11,anti,5
 2026-05-11,apply,7
 2026-05-11,aren,3
-2026-05-11,arial,111
-2026-05-11,arial sans,111
-2026-05-11,arial sans serif,111
-2026-05-11,artist,8
+2026-05-11,arial,108
+2026-05-11,arial sans,108
+2026-05-11,arial sans serif,108
+2026-05-11,artist,7
 2026-05-11,ask,7
 2026-05-11,asked,4
-2026-05-11,auto,74
-2026-05-11,auto div,37
-2026-05-11,auto div style,37
-2026-05-11,auto width,37
-2026-05-11,auto width div,37
+2026-05-11,auto,72
+2026-05-11,auto div,36
+2026-05-11,auto div style,36
+2026-05-11,auto width,36
+2026-05-11,auto width div,36
 2026-05-11,away,6
-2026-05-11,background,372
-2026-05-11,background color,370
-2026-05-11,background color height,370
+2026-05-11,background,362
+2026-05-11,background color,360
+2026-05-11,background color height,360
 2026-05-11,bad,3
 2026-05-11,bag,12
 2026-05-11,bags,5
 2026-05-11,base,5
 2026-05-11,based,4
 2026-05-11,beach,7
-2026-05-11,beautiful,8
-2026-05-11,beauty,94
+2026-05-11,beautiful,7
+2026-05-11,beauty,91
 2026-05-11,beauty trend,13
-2026-05-11,beauty trends,18
+2026-05-11,beauty trends,22
 2026-05-11,beauty trends butterfly,5
 2026-05-11,begin,3
-2026-05-11,best,18
+2026-05-11,best,16
 2026-05-11,bieber,5
 2026-05-11,big,7
 2026-05-11,biggest,3
 2026-05-11,bizarre,4
-2026-05-11,black,8
+2026-05-11,black,6
 2026-05-11,block,3
-2026-05-11,blockquote,78
-2026-05-11,blockquote class,39
-2026-05-11,blockquote class instagram,37
-2026-05-11,blue,15
+2026-05-11,blockquote,76
+2026-05-11,blockquote class,38
+2026-05-11,blockquote class instagram,36
+2026-05-11,blue,13
 2026-05-11,blurred,1
 2026-05-11,blush,13
-2026-05-11,body,24
+2026-05-11,blush bronzer,4
+2026-05-11,body,23
 2026-05-11,bold,12
-2026-05-11,border,222
-2026-05-11,border left,74
-2026-05-11,border left solid,74
-2026-05-11,border margin,37
-2026-05-11,border margin padding,37
-2026-05-11,border right,37
-2026-05-11,border right solid,37
-2026-05-11,border solid,74
-2026-05-11,border solid transparent,74
+2026-05-11,border,216
+2026-05-11,border left,72
+2026-05-11,border left solid,72
+2026-05-11,border margin,36
+2026-05-11,border margin padding,36
+2026-05-11,border right,36
+2026-05-11,border right solid,36
+2026-05-11,border solid,72
+2026-05-11,border solid transparent,72
 2026-05-11,box,2
+2026-05-11,break,6
 2026-05-11,bridal,1
 2026-05-11,bright,7
 2026-05-11,brings,4
 2026-05-11,bronze,4
-2026-05-11,bronzer,5
+2026-05-11,bronzer,7
 2026-05-11,brow,13
-2026-05-11,brown,6
+2026-05-11,brown,5
 2026-05-11,build,5
 2026-05-11,built,3
 2026-05-11,business,2
@@ -474,33 +463,33 @@ period,Term,Count
 2026-05-11,butter,4
 2026-05-11,butterfly,8
 2026-05-11,butterfly wine,3
-2026-05-11,care,3
+2026-05-11,care,2
 2026-05-11,catch,6
-2026-05-11,center,81
-2026-05-11,center rel,37
-2026-05-11,center rel noopener,37
-2026-05-11,center text,37
-2026-05-11,center text decoration,37
+2026-05-11,center,79
+2026-05-11,center rel,36
+2026-05-11,center rel noopener,36
+2026-05-11,center text,36
+2026-05-11,center text decoration,36
 2026-05-11,characters,4
 2026-05-11,cheeks,2
+2026-05-11,chic,3
 2026-05-11,choice,4
 2026-05-11,claire,4
-2026-05-11,class,44
-2026-05-11,class instagram,37
-2026-05-11,class instagram media,37
+2026-05-11,class,43
+2026-05-11,class instagram,36
+2026-05-11,class instagram media,36
 2026-05-11,classic,10
 2026-05-11,clean,4
 2026-05-11,clear,8
 2026-05-11,cloud,7
 2026-05-11,collection,4
-2026-05-11,color,497
-2026-05-11,color font,111
-2026-05-11,color font family,111
-2026-05-11,color height,370
-2026-05-11,color height margin,111
-2026-05-11,color height width,259
+2026-05-11,color,483
+2026-05-11,color font,108
+2026-05-11,color font family,108
+2026-05-11,color height,360
+2026-05-11,color height margin,108
+2026-05-11,color height width,252
 2026-05-11,come,10
-2026-05-11,comeback,2
 2026-05-11,comes,9
 2026-05-11,comfortable,5
 2026-05-11,comfortably,3
@@ -513,45 +502,45 @@ period,Term,Count
 2026-05-11,cool,7
 2026-05-11,cosmetics,4
 2026-05-11,course,3
-2026-05-11,cream,11
+2026-05-11,cream,10
 2026-05-11,create,10
 2026-05-11,creative,4
 2026-05-11,crush,5
 2026-05-11,cut,36
 2026-05-11,daily,16
-2026-05-11,dance,3
+2026-05-11,dance,2
 2026-05-11,dark,3
-2026-05-11,day,33
+2026-05-11,day,32
 2026-05-11,days,8
-2026-05-11,decoration,74
-2026-05-11,decoration target,37
-2026-05-11,decoration target post,37
-2026-05-11,decoration width,37
-2026-05-11,decoration width target,37
-2026-05-11,did,13
+2026-05-11,decoration,72
+2026-05-11,decoration target,36
+2026-05-11,decoration target post,36
+2026-05-11,decoration width,36
+2026-05-11,decoration width target,36
+2026-05-11,did,12
 2026-05-11,didn,7
 2026-05-11,different,8
 2026-05-11,dimension,4
 2026-05-11,director,20
 2026-05-11,director rel,4
 2026-05-11,director rel noreferrer,4
-2026-05-11,div,1991
-2026-05-11,div blockquote,37
-2026-05-11,div div,1021
-2026-05-11,div div div,296
+2026-05-11,div,1939
+2026-05-11,div blockquote,36
+2026-05-11,div div,994
+2026-05-11,div div div,288
 2026-05-11,div div figure,5
-2026-05-11,div div style,703
+2026-05-11,div div style,684
 2026-05-11,div figure,12
 2026-05-11,div figure img,11
-2026-05-11,div style,888
-2026-05-11,div style background,370
-2026-05-11,div style color,74
-2026-05-11,div style height,37
-2026-05-11,div style margin,148
-2026-05-11,div style padding,148
-2026-05-11,div style width,111
+2026-05-11,div style,864
+2026-05-11,div style background,360
+2026-05-11,div style color,72
+2026-05-11,div style height,36
+2026-05-11,div style margin,144
+2026-05-11,div style padding,144
+2026-05-11,div style width,108
 2026-05-11,does,6
-2026-05-11,doesn,13
+2026-05-11,doesn,14
 2026-05-11,doing,1
 2026-05-11,don,19
 2026-05-11,don forget,3
@@ -562,7 +551,6 @@ period,Term,Count
 2026-05-11,effect,4
 2026-05-11,effortless,4
 2026-05-11,elle,5
-2026-05-11,end,4
 2026-05-11,endless,3
 2026-05-11,ends,6
 2026-05-11,energy,8
@@ -574,24 +562,23 @@ period,Term,Count
 2026-05-11,excited,4
 2026-05-11,expected,4
 2026-05-11,experience,7
-2026-05-11,explore,6
+2026-05-11,explore,5
 2026-05-11,extra,9
 2026-05-11,extremely,3
 2026-05-11,eye,9
 2026-05-11,eye shadow,5
 2026-05-11,eyeshadow,5
-2026-05-11,face,30
-2026-05-11,fall,5
-2026-05-11,family,120
-2026-05-11,family arial,111
-2026-05-11,family arial sans,111
+2026-05-11,face,32
+2026-05-11,fall,4
+2026-05-11,family,117
+2026-05-11,family arial,108
+2026-05-11,family arial sans,108
 2026-05-11,famous,3
-2026-05-11,fashion,10
+2026-05-11,fashion,8
 2026-05-11,fast,6
-2026-05-11,features,6
 2026-05-11,feel,20
 2026-05-11,feeling,7
-2026-05-11,feels,21
+2026-05-11,feels,23
 2026-05-11,feels like,7
 2026-05-11,figure,100
 2026-05-11,figure div,10
@@ -601,17 +588,17 @@ period,Term,Count
 2026-05-11,finish,20
 2026-05-11,focus,4
 2026-05-11,follow,3
-2026-05-11,font,370
-2026-05-11,font family,111
-2026-05-11,font family arial,111
-2026-05-11,font size,111
-2026-05-11,font size font,74
-2026-05-11,font size line,37
-2026-05-11,font style,74
-2026-05-11,font style normal,74
-2026-05-11,font weight,74
-2026-05-11,font weight line,37
-2026-05-11,font weight normal,37
+2026-05-11,font,360
+2026-05-11,font family,108
+2026-05-11,font family arial,108
+2026-05-11,font size,108
+2026-05-11,font size font,72
+2026-05-11,font size line,36
+2026-05-11,font style,72
+2026-05-11,font style normal,72
+2026-05-11,font weight,72
+2026-05-11,font weight line,36
+2026-05-11,font weight normal,36
 2026-05-11,forget,3
 2026-05-11,form,4
 2026-05-11,forward,4
@@ -626,10 +613,11 @@ period,Term,Count
 2026-05-11,getting,16
 2026-05-11,girl,2
 2026-05-11,gives,3
-2026-05-11,glam,6
+2026-05-11,glam,8
 2026-05-11,glass,4
 2026-05-11,gloss,4
-2026-05-11,glow,15
+2026-05-11,glow,17
+2026-05-11,glowing,3
 2026-05-11,goes,5
 2026-05-11,going,15
 2026-05-11,good,15
@@ -641,9 +629,10 @@ period,Term,Count
 2026-05-11,grow,3
 2026-05-11,growing,6
 2026-05-11,growth,4
+2026-05-11,grwm,3
 2026-05-11,hailey,5
 2026-05-11,hailey bieber,4
-2026-05-11,hair,30
+2026-05-11,hair,31
 2026-05-11,half,5
 2026-05-11,hard,16
 2026-05-11,hate,6
@@ -654,37 +643,36 @@ period,Term,Count
 2026-05-11,heard,4
 2026-05-11,heat,4
 2026-05-11,heavy,8
-2026-05-11,height,631
-2026-05-11,height border,74
-2026-05-11,height border left,37
-2026-05-11,height border solid,37
-2026-05-11,height margin,185
-2026-05-11,height margin auto,37
-2026-05-11,height margin margin,37
-2026-05-11,height margin right,37
-2026-05-11,height margin width,74
-2026-05-11,height padding,37
-2026-05-11,height padding text,37
-2026-05-11,height text,37
-2026-05-11,height text decoration,37
-2026-05-11,height view,37
-2026-05-11,height view post,37
-2026-05-11,height width,259
-2026-05-11,height width div,222
-2026-05-11,height width margin,37
+2026-05-11,height,614
+2026-05-11,height border,72
+2026-05-11,height border left,36
+2026-05-11,height border solid,36
+2026-05-11,height margin,180
+2026-05-11,height margin auto,36
+2026-05-11,height margin margin,36
+2026-05-11,height margin right,36
+2026-05-11,height margin width,72
+2026-05-11,height padding,36
+2026-05-11,height padding text,36
+2026-05-11,height text,36
+2026-05-11,height text decoration,36
+2026-05-11,height view,36
+2026-05-11,height view post,36
+2026-05-11,height width,252
+2026-05-11,height width div,216
+2026-05-11,height width margin,36
 2026-05-11,help,6
 2026-05-11,helping,3
-2026-05-11,hidden,37
-2026-05-11,hidden padding,37
-2026-05-11,hidden padding text,37
-2026-05-11,high,15
-2026-05-11,history,3
+2026-05-11,hidden,36
+2026-05-11,hidden padding,36
+2026-05-11,hidden padding text,36
+2026-05-11,high,13
+2026-05-11,history,5
 2026-05-11,home,14
 2026-05-11,hottest,6
 2026-05-11,hottest beauty,4
 2026-05-11,hottest beauty trend,4
 2026-05-11,huge,3
-2026-05-11,hybrid,1
 2026-05-11,img,51
 2026-05-11,img src,51
 2026-05-11,img src figure,47
@@ -695,64 +683,63 @@ period,Term,Count
 2026-05-11,indian,1
 2026-05-11,industry,3
 2026-05-11,ingredients,4
-2026-05-11,instagram,79
-2026-05-11,instagram div,37
-2026-05-11,instagram div div,37
-2026-05-11,instagram media,37
-2026-05-11,instagram media style,37
+2026-05-11,instagram,77
+2026-05-11,instagram div,36
+2026-05-11,instagram div div,36
+2026-05-11,instagram media,36
+2026-05-11,instagram media style,36
 2026-05-11,instead,9
 2026-05-11,intentional,3
 2026-05-11,internet,5
-2026-05-11,isn,7
+2026-05-11,isn,8
 2026-05-11,journey,4
-2026-05-11,just,36
+2026-05-11,just,37
 2026-05-11,just like,2
 2026-05-11,key,6
 2026-05-11,kind,3
 2026-05-11,knew,3
 2026-05-11,know,24
-2026-05-11,korean,10
-2026-05-11,korean beauty,3
+2026-05-11,korean,7
 2026-05-11,later,3
-2026-05-11,latest,3
+2026-05-11,latest,5
 2026-05-11,layer,7
 2026-05-11,layered,3
 2026-05-11,layers,20
 2026-05-11,leave,7
-2026-05-11,left,187
-2026-05-11,left auto,37
-2026-05-11,left auto div,37
-2026-05-11,left div,74
-2026-05-11,left div div,37
-2026-05-11,left div style,37
-2026-05-11,left solid,74
-2026-05-11,left solid border,37
-2026-05-11,left solid transparent,37
+2026-05-11,left,182
+2026-05-11,left auto,36
+2026-05-11,left auto div,36
+2026-05-11,left div,72
+2026-05-11,left div div,36
+2026-05-11,left div style,36
+2026-05-11,left solid,72
+2026-05-11,left solid border,36
+2026-05-11,left solid transparent,36
 2026-05-11,leftover,7
 2026-05-11,lengths,8
 2026-05-11,let,8
 2026-05-11,life,9
 2026-05-11,light,8
 2026-05-11,lightweight,11
-2026-05-11,like,93
+2026-05-11,like,92
 2026-05-11,like goodness,10
 2026-05-11,like goodness right,10
-2026-05-11,line,153
-2026-05-11,line height,148
-2026-05-11,line height margin,37
-2026-05-11,line height padding,37
-2026-05-11,line height text,37
-2026-05-11,line height view,37
+2026-05-11,line,149
+2026-05-11,line height,144
+2026-05-11,line height margin,36
+2026-05-11,line height padding,36
+2026-05-11,line height text,36
+2026-05-11,line height view,36
 2026-05-11,lip,15
-2026-05-11,lips,6
+2026-05-11,lips,5
 2026-05-11,listen,3
 2026-05-11,little,16
-2026-05-11,living,6
+2026-05-11,living,4
 2026-05-11,long,12
 2026-05-11,longer,15
 2026-05-11,look,39
 2026-05-11,looking,10
-2026-05-11,looks,13
+2026-05-11,looks,11
 2026-05-11,lot,17
 2026-05-11,lots,2
 2026-05-11,love,38
@@ -767,7 +754,7 @@ period,Term,Count
 2026-05-11,major,5
 2026-05-11,make,27
 2026-05-11,makes,16
-2026-05-11,makeup,71
+2026-05-11,makeup,73
 2026-05-11,makeup look,4
 2026-05-11,makeup makeup,1
 2026-05-11,makeup poppy,1
@@ -779,72 +766,71 @@ period,Term,Count
 2026-05-11,makeup shorts queries,1
 2026-05-11,makeup spring,1
 2026-05-11,makeup spring softest,1
-2026-05-11,makeup transition,1
 2026-05-11,makeup trend,8
 2026-05-11,makeup trends,4
 2026-05-11,making,13
-2026-05-11,making comeback,1
-2026-05-11,margin,481
-2026-05-11,margin auto,37
-2026-05-11,margin auto width,37
-2026-05-11,margin div,74
-2026-05-11,margin div div,37
-2026-05-11,margin div style,37
-2026-05-11,margin left,111
-2026-05-11,margin left auto,37
-2026-05-11,margin left div,74
-2026-05-11,margin margin,37
-2026-05-11,margin margin overflow,37
-2026-05-11,margin overflow,37
-2026-05-11,margin overflow hidden,37
-2026-05-11,margin padding,37
-2026-05-11,margin padding width,37
-2026-05-11,margin right,74
-2026-05-11,margin right margin,37
-2026-05-11,margin right width,37
-2026-05-11,margin width,74
-2026-05-11,margin width div,74
+2026-05-11,margin,468
+2026-05-11,margin auto,36
+2026-05-11,margin auto width,36
+2026-05-11,margin div,72
+2026-05-11,margin div div,36
+2026-05-11,margin div style,36
+2026-05-11,margin left,108
+2026-05-11,margin left auto,36
+2026-05-11,margin left div,72
+2026-05-11,margin margin,36
+2026-05-11,margin margin overflow,36
+2026-05-11,margin overflow,36
+2026-05-11,margin overflow hidden,36
+2026-05-11,margin padding,36
+2026-05-11,margin padding width,36
+2026-05-11,margin right,72
+2026-05-11,margin right margin,36
+2026-05-11,margin right width,36
+2026-05-11,margin width,72
+2026-05-11,margin width div,72
 2026-05-11,marie,4
 2026-05-11,marie claire,4
 2026-05-11,mask,4
+2026-05-11,matter,2
 2026-05-11,means,3
 2026-05-11,meant,4
-2026-05-11,media,39
-2026-05-11,media style,37
-2026-05-11,media style border,37
+2026-05-11,media,38
+2026-05-11,media style,36
+2026-05-11,media style border,36
 2026-05-11,melt,4
 2026-05-11,met,4
 2026-05-11,met gala,4
 2026-05-11,mind,5
 2026-05-11,mini,4
 2026-05-11,minimal,3
-2026-05-11,modern,6
+2026-05-11,modern,7
 2026-05-11,moment,12
 2026-05-11,morning,12
 2026-05-11,music,1
-2026-05-11,nails,13
-2026-05-11,natural,15
+2026-05-11,nails,14
+2026-05-11,natural,14
 2026-05-11,naturally,4
-2026-05-11,need,8
-2026-05-11,new,43
-2026-05-11,news,8
-2026-05-11,noopener,143
-2026-05-11,noopener noreferrer,74
-2026-05-11,noopener noreferrer style,74
+2026-05-11,need,10
+2026-05-11,new,46
+2026-05-11,news,10
+2026-05-11,noopener,141
+2026-05-11,noopener noreferrer,72
+2026-05-11,noopener noreferrer style,72
 2026-05-11,noopener target,69
-2026-05-11,noreferrer,143
+2026-05-11,noreferrer,141
 2026-05-11,noreferrer noopener,69
 2026-05-11,noreferrer noopener target,69
-2026-05-11,noreferrer style,74
-2026-05-11,noreferrer style color,37
-2026-05-11,noreferrer style line,37
-2026-05-11,normal,111
-2026-05-11,normal font,74
-2026-05-11,normal font weight,74
-2026-05-11,normal line,37
-2026-05-11,normal line height,37
+2026-05-11,noreferrer style,72
+2026-05-11,noreferrer style color,36
+2026-05-11,noreferrer style line,36
+2026-05-11,normal,108
+2026-05-11,normal font,72
+2026-05-11,normal font weight,72
+2026-05-11,normal line,36
+2026-05-11,normal line height,36
 2026-05-11,nyc,3
-2026-05-11,obsessed,6
+2026-05-11,obsessed,5
 2026-05-11,oil,4
 2026-05-11,oily,6
 2026-05-11,old,4
@@ -852,25 +838,25 @@ period,Term,Count
 2026-05-11,opt,4
 2026-05-11,options,5
 2026-05-11,outfits,3
-2026-05-11,overflow,37
-2026-05-11,overflow hidden,37
-2026-05-11,overflow hidden padding,37
+2026-05-11,overflow,36
+2026-05-11,overflow hidden,36
+2026-05-11,overflow hidden padding,36
 2026-05-11,oversized,4
-2026-05-11,padding,259
-2026-05-11,padding div,111
-2026-05-11,padding div div,74
-2026-05-11,padding div style,37
-2026-05-11,padding rel,37
-2026-05-11,padding rel noopener,37
-2026-05-11,padding text,74
-2026-05-11,padding text align,74
-2026-05-11,padding width,37
-2026-05-11,padding width div,37
+2026-05-11,padding,252
+2026-05-11,padding div,108
+2026-05-11,padding div div,72
+2026-05-11,padding div style,36
+2026-05-11,padding rel,36
+2026-05-11,padding rel noopener,36
+2026-05-11,padding text,72
+2026-05-11,padding text align,72
+2026-05-11,padding width,36
+2026-05-11,padding width div,36
 2026-05-11,palette,1
 2026-05-11,partner,4
 2026-05-11,parts,5
 2026-05-11,people,13
-2026-05-11,perfect,23
+2026-05-11,perfect,24
 2026-05-11,perfectly,4
 2026-05-11,phone,4
 2026-05-11,piece,3
@@ -884,11 +870,10 @@ period,Term,Count
 2026-05-11,point,8
 2026-05-11,poppy,1
 2026-05-11,poppy playtime,1
-2026-05-11,popular,3
-2026-05-11,post,74
-2026-05-11,post instagram,37
-2026-05-11,post instagram div,37
-2026-05-11,post shared,37
+2026-05-11,post,72
+2026-05-11,post instagram,36
+2026-05-11,post instagram div,36
+2026-05-11,post shared,36
 2026-05-11,power,8
 2026-05-11,power makeup,5
 2026-05-11,power makeup poppy,1
@@ -897,7 +882,7 @@ period,Term,Count
 2026-05-11,predicts,4
 2026-05-11,prefer,4
 2026-05-11,print,5
-2026-05-11,products,9
+2026-05-11,products,11
 2026-05-11,proves,5
 2026-05-11,pull,3
 2026-05-11,quality,3
@@ -907,7 +892,7 @@ period,Term,Count
 2026-05-11,quick,6
 2026-05-11,range,3
 2026-05-11,ready,16
-2026-05-11,real,11
+2026-05-11,real,12
 2026-05-11,really,32
 2026-05-11,reasons,3
 2026-05-11,recent,3
@@ -915,65 +900,66 @@ period,Term,Count
 2026-05-11,recreate,1
 2026-05-11,reels,5
 2026-05-11,reels hatelove,3
-2026-05-11,rel,143
-2026-05-11,rel noopener,74
-2026-05-11,rel noopener noreferrer,74
+2026-05-11,rel,141
+2026-05-11,rel noopener,72
+2026-05-11,rel noopener noreferrer,72
 2026-05-11,rel noreferrer,69
 2026-05-11,rel noreferrer noopener,69
 2026-05-11,responsible,4
 2026-05-11,result,3
-2026-05-11,review,3
-2026-05-11,right,137
-2026-05-11,right margin,37
-2026-05-11,right margin left,37
-2026-05-11,right solid,37
-2026-05-11,right solid transparent,37
+2026-05-11,review,4
+2026-05-11,review skincareroutine,3
+2026-05-11,right,134
+2026-05-11,right margin,36
+2026-05-11,right margin left,36
+2026-05-11,right solid,36
+2026-05-11,right solid transparent,36
 2026-05-11,right strong,10
-2026-05-11,right width,37
-2026-05-11,right width div,37
-2026-05-11,routine,18
-2026-05-11,sans,112
-2026-05-11,sans serif,111
-2026-05-11,sans serif font,111
+2026-05-11,right width,36
+2026-05-11,right width div,36
+2026-05-11,routine,13
+2026-05-11,sans,109
+2026-05-11,sans serif,108
+2026-05-11,sans serif font,108
 2026-05-11,say,10
 2026-05-11,says,52
 2026-05-11,school,9
 2026-05-11,season,18
 2026-05-11,seen,6
 2026-05-11,senior,12
-2026-05-11,serif,111
-2026-05-11,serif font,111
-2026-05-11,serif font size,111
+2026-05-11,serif,108
+2026-05-11,serif font,108
+2026-05-11,serif font size,108
 2026-05-11,set,12
 2026-05-11,shades,8
 2026-05-11,shadow,7
 2026-05-11,shape,10
 2026-05-11,share,9
-2026-05-11,shared,37
+2026-05-11,shared,36
 2026-05-11,shift,1
 2026-05-11,shop,7
 2026-05-11,short,8
-2026-05-11,shorts,17
+2026-05-11,shorts,18
 2026-05-11,shorts power,1
 2026-05-11,shorts power makeup,1
 2026-05-11,shorts queries,1
 2026-05-11,shorts queries power,1
-2026-05-11,shortvideo,5
+2026-05-11,shortvideo,6
 2026-05-11,shoulder,7
 2026-05-11,simple,3
 2026-05-11,single,10
 2026-05-11,sit,4
-2026-05-11,size,115
-2026-05-11,size font,74
-2026-05-11,size font style,74
-2026-05-11,size line,37
-2026-05-11,size line height,37
-2026-05-11,skin,67
-2026-05-11,skincare,41
-2026-05-11,skincare routine,7
-2026-05-11,skincare skincareroutine,3
-2026-05-11,skincare trend,2
-2026-05-11,skincareroutine,12
+2026-05-11,size,112
+2026-05-11,size font,72
+2026-05-11,size font style,72
+2026-05-11,size line,36
+2026-05-11,size line height,36
+2026-05-11,skin,68
+2026-05-11,skincare,33
+2026-05-11,skincare routine,4
+2026-05-11,skincare skincareroutine,4
+2026-05-11,skincare trend,1
+2026-05-11,skincareroutine,14
 2026-05-11,slightly,10
 2026-05-11,small,4
 2026-05-11,smooth,6
@@ -983,17 +969,17 @@ period,Term,Count
 2026-05-11,softest,1
 2026-05-11,softly,2
 2026-05-11,sold,4
-2026-05-11,solid,186
-2026-05-11,solid border,37
-2026-05-11,solid border solid,37
-2026-05-11,solid transparent,148
-2026-05-11,solid transparent border,37
-2026-05-11,solid transparent div,111
+2026-05-11,solid,181
+2026-05-11,solid border,36
+2026-05-11,solid border solid,36
+2026-05-11,solid transparent,144
+2026-05-11,solid transparent border,36
+2026-05-11,solid transparent div,108
 2026-05-11,sophisticated,2
 2026-05-11,special,5
 2026-05-11,spend,12
 2026-05-11,spot,3
-2026-05-11,spring,27
+2026-05-11,spring,26
 2026-05-11,spring softest,1
 2026-05-11,src,54
 2026-05-11,src figure,47
@@ -1001,7 +987,7 @@ period,Term,Count
 2026-05-11,star,6
 2026-05-11,start,10
 2026-05-11,statement,4
-2026-05-11,stay,6
+2026-05-11,stay,5
 2026-05-11,step,5
 2026-05-11,strong,125
 2026-05-11,strong like,11
@@ -1010,101 +996,98 @@ period,Term,Count
 2026-05-11,structured,6
 2026-05-11,stuck,4
 2026-05-11,studio,3
-2026-05-11,style,1083
-2026-05-11,style background,370
-2026-05-11,style background color,370
-2026-05-11,style border,37
-2026-05-11,style border margin,37
-2026-05-11,style color,111
-2026-05-11,style color font,111
-2026-05-11,style height,37
-2026-05-11,style height margin,37
-2026-05-11,style line,37
-2026-05-11,style line height,37
-2026-05-11,style margin,148
-2026-05-11,style margin div,74
-2026-05-11,style margin left,74
-2026-05-11,style normal,74
-2026-05-11,style normal font,74
-2026-05-11,style padding,148
-2026-05-11,style padding div,111
-2026-05-11,style padding rel,37
-2026-05-11,style width,111
-2026-05-11,style width border,37
-2026-05-11,style width height,74
+2026-05-11,style,1054
+2026-05-11,style background,360
+2026-05-11,style background color,360
+2026-05-11,style border,36
+2026-05-11,style border margin,36
+2026-05-11,style color,108
+2026-05-11,style color font,108
+2026-05-11,style height,36
+2026-05-11,style height margin,36
+2026-05-11,style line,36
+2026-05-11,style line height,36
+2026-05-11,style margin,144
+2026-05-11,style margin div,72
+2026-05-11,style margin left,72
+2026-05-11,style normal,72
+2026-05-11,style normal font,72
+2026-05-11,style padding,144
+2026-05-11,style padding div,108
+2026-05-11,style padding rel,36
+2026-05-11,style width,108
+2026-05-11,style width border,36
+2026-05-11,style width height,72
 2026-05-11,subtle,6
 2026-05-11,suit,3
-2026-05-11,summer,28
+2026-05-11,summer,29
 2026-05-11,sun,14
 2026-05-11,super,8
 2026-05-11,support,5
-2026-05-11,supreme,4
 2026-05-11,surprised,4
 2026-05-11,surprisingly,2
 2026-05-11,taken,4
 2026-05-11,takes,5
 2026-05-11,taking,5
 2026-05-11,talk,4
-2026-05-11,target,143
-2026-05-11,target div,37
-2026-05-11,target div div,37
-2026-05-11,target post,37
-2026-05-11,target post shared,37
+2026-05-11,target,141
+2026-05-11,target div,36
+2026-05-11,target div div,36
+2026-05-11,target post,36
+2026-05-11,target post shared,36
 2026-05-11,taste,4
 2026-05-11,tell,4
-2026-05-11,text,152
-2026-05-11,text align,74
-2026-05-11,text align center,74
-2026-05-11,text decoration,74
-2026-05-11,text decoration target,37
-2026-05-11,text decoration width,37
+2026-05-11,text,148
+2026-05-11,text align,72
+2026-05-11,text align center,72
+2026-05-11,text decoration,72
+2026-05-11,text decoration target,36
+2026-05-11,text decoration width,36
 2026-05-11,texture,20
-2026-05-11,thanks,9
+2026-05-11,thanks,8
 2026-05-11,thing,4
-2026-05-11,think,17
+2026-05-11,think,16
 2026-05-11,thinks,3
-2026-05-11,tiktok,9
+2026-05-11,tiktok,8
 2026-05-11,time,30
 2026-05-11,times,4
-2026-05-11,tip,10
-2026-05-11,today,8
-2026-05-11,transition,2
-2026-05-11,transparent,148
-2026-05-11,transparent border,37
-2026-05-11,transparent border left,37
-2026-05-11,transparent div,111
-2026-05-11,transparent div div,111
-2026-05-11,trend,53
-2026-05-11,trending,15
-2026-05-11,trending trendingshorts,3
-2026-05-11,trendingshorts,4
-2026-05-11,trendingshorts review,3
-2026-05-11,trends,37
+2026-05-11,today,10
+2026-05-11,transition,1
+2026-05-11,transparent,144
+2026-05-11,transparent border,36
+2026-05-11,transparent border left,36
+2026-05-11,transparent div,108
+2026-05-11,transparent div div,108
+2026-05-11,trend,55
+2026-05-11,trending,14
+2026-05-11,trending trendingshorts,4
+2026-05-11,trending trendingshorts review,3
+2026-05-11,trendingshorts,5
+2026-05-11,trendingshorts review,4
+2026-05-11,trendingshorts review skincareroutine,3
+2026-05-11,trends,39
 2026-05-11,trends butterfly,5
 2026-05-11,trends butterfly wine,3
 2026-05-11,trends spring,4
 2026-05-11,tried,9
-2026-05-11,truth,2
 2026-05-11,try,6
 2026-05-11,trying,7
 2026-05-11,turning,8
-2026-05-11,types,4
-2026-05-11,use,21
+2026-05-11,twist,3
+2026-05-11,use,24
 2026-05-11,used,4
-2026-05-11,using,13
+2026-05-11,using,15
 2026-05-11,usually,6
 2026-05-11,version,5
 2026-05-11,vibe,3
 2026-05-11,vibes,5
-2026-05-11,vibrant,5
-2026-05-11,victoria,5
-2026-05-11,video,25
-2026-05-11,view,38
-2026-05-11,view post,37
-2026-05-11,view post instagram,37
+2026-05-11,vibrant,4
+2026-05-11,video,23
+2026-05-11,view,37
+2026-05-11,view post,36
+2026-05-11,view post instagram,36
 2026-05-11,viral,8
 2026-05-11,viral skincare,3
-2026-05-11,viral tiktok,1
 2026-05-11,viralshorts,1
 2026-05-11,vogue,2
 2026-05-11,volume,6
@@ -1116,45 +1099,43 @@ period,Term,Count
 2026-05-11,watercolor makeup,4
 2026-05-11,watercolor makeup trend,4
 2026-05-11,way,21
-2026-05-11,wear,8
+2026-05-11,wear,6
 2026-05-11,wearable,6
 2026-05-11,wearing,5
 2026-05-11,wedding,5
 2026-05-11,week,15
 2026-05-11,weeks,5
-2026-05-11,weight,80
-2026-05-11,weight line,37
-2026-05-11,weight line height,37
-2026-05-11,weight normal,37
-2026-05-11,weight normal line,37
-2026-05-11,welcome,5
-2026-05-11,welcome vibrant,3
+2026-05-11,weight,78
+2026-05-11,weight line,36
+2026-05-11,weight line height,36
+2026-05-11,weight normal,36
+2026-05-11,weight normal line,36
+2026-05-11,welcome,4
 2026-05-11,wet,8
-2026-05-11,width,596
-2026-05-11,width border,37
-2026-05-11,width border right,37
-2026-05-11,width div,407
-2026-05-11,width div div,370
-2026-05-11,width div style,37
-2026-05-11,width height,74
-2026-05-11,width height border,74
-2026-05-11,width margin,37
-2026-05-11,width margin right,37
-2026-05-11,width target,37
-2026-05-11,width target div,37
+2026-05-11,width,580
+2026-05-11,width border,36
+2026-05-11,width border right,36
+2026-05-11,width div,396
+2026-05-11,width div div,360
+2026-05-11,width div style,36
+2026-05-11,width height,72
+2026-05-11,width height border,72
+2026-05-11,width margin,36
+2026-05-11,width margin right,36
+2026-05-11,width target,36
+2026-05-11,width target div,36
 2026-05-11,wine,3
-2026-05-11,winter,5
+2026-05-11,winter,4
 2026-05-11,witch,3
 2026-05-11,won,5
 2026-05-11,work,21
 2026-05-11,works,9
-2026-05-11,world,3
 2026-05-11,worn,3
 2026-05-11,worth,7
 2026-05-11,wrong,4
 2026-05-11,year,14
 2026-05-11,years,7
 2026-05-11,york,8
-2026-05-11,youtubeshorts,6
+2026-05-11,youtubeshorts,5
 2026-05-11,zalima,5
 2026-05-11,zalima vibes,4
