@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/,1779350400,Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`,"Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`
+
+Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000."
 rss,smashingmagazine.com,https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/,1778839200,Ten Data-Backed Truths Of User Experience ROI,"Ten Data-Backed Truths Of User Experience ROI
 
 Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth."
