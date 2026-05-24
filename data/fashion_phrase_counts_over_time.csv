@@ -13,30 +13,24 @@ period,Term,Count
 2026-04-06,styles,2
 2026-04-06,summer,2
 2026-04-06,trends,6
+2026-04-06,trends glamour,2
 2026-04-06,wear,6
-2026-04-06,wear fashion,1
 2026-04-06,wear spring,1
 2026-04-06,wear spring summer,1
 2026-04-06,winter,2
-2026-04-13,color,2
 2026-04-13,fashion,4
 2026-04-13,fashion trend,4
-2026-04-13,high,2
-2026-04-13,instead,2
-2026-04-13,style,2
-2026-04-13,trend,6
-2026-04-13,wear,6
+2026-04-13,trend,4
+2026-04-13,wear,4
 2026-04-20,bring,4
 2026-04-20,denim,4
 2026-04-20,denim trends,2
-2026-04-20,fashion,16
-2026-04-20,fashion trend,8
-2026-04-20,fast,4
-2026-04-20,fast fashion,4
+2026-04-20,fashion,12
+2026-04-20,fashion trend,6
+2026-04-20,fast,2
+2026-04-20,fast fashion,2
 2026-04-20,luxury,2
 2026-04-20,micro,2
-2026-04-20,news,2
-2026-04-20,offers,4
 2026-04-20,old,12
 2026-04-20,people,6
 2026-04-20,people wearing,6
@@ -47,7 +41,7 @@ period,Term,Count
 2026-04-20,stylish,4
 2026-04-20,summer,6
 2026-04-20,summer trends,6
-2026-04-20,trend,10
+2026-04-20,trend,8
 2026-04-20,trends,8
 2026-04-20,trends fashion,2
 2026-04-20,wear,8
@@ -55,38 +49,55 @@ period,Term,Count
 2026-04-20,wear spring summer,2
 2026-04-20,wearing,6
 2026-04-20,wearing wear,6
+2026-04-20,wwd,2
 2026-04-20,years,4
 2026-04-20,years old,4
 2026-04-27,add,2
 2026-04-27,baggy,2
 2026-04-27,best,2
-2026-04-27,claire,4
-2026-04-27,elle,2
+2026-04-27,claire,2
+2026-04-27,denim,2
+2026-04-27,denim trends,2
+2026-04-27,dots,4
+2026-04-27,elle,4
 2026-04-27,fall,2
-2026-04-27,fashion,22
-2026-04-27,fashion trend,10
-2026-04-27,fashion trends,10
-2026-04-27,good,4
+2026-04-27,fashion,18
+2026-04-27,fashion streetwear,2
+2026-04-27,fashion trend,8
+2026-04-27,fashion trends,8
+2026-04-27,good,2
 2026-04-27,jorts,2
 2026-04-27,looks,2
 2026-04-27,luxury,4
-2026-04-27,marie,4
-2026-04-27,marie claire,4
+2026-04-27,luxury fashion,4
+2026-04-27,luxury fashion trend,4
+2026-04-27,marie,2
+2026-04-27,marie claire,2
 2026-04-27,new,6
+2026-04-27,polka,4
+2026-04-27,polka dots,4
+2026-04-27,sandal,2
+2026-04-27,sandal trends,2
 2026-04-27,season,2
-2026-04-27,spring,4
+2026-04-27,spring,8
 2026-04-27,state,4
+2026-04-27,statement,2
 2026-04-27,streetwear,4
-2026-04-27,style,2
-2026-04-27,summer,4
-2026-04-27,summer fashion,4
-2026-04-27,summer fashion trends,4
+2026-04-27,style,4
+2026-04-27,summer,2
+2026-04-27,summer fashion,2
+2026-04-27,summer fashion trends,2
 2026-04-27,times,2
-2026-04-27,trend,10
-2026-04-27,trends,14
+2026-04-27,trend,8
+2026-04-27,trends,18
+2026-04-27,trends try,2
+2026-04-27,trends wear,2
+2026-04-27,try,2
+2026-04-27,vogue,2
 2026-04-27,wardrobe,2
-2026-04-27,wear,2
+2026-04-27,wear,6
 2026-04-27,went,2
+2026-04-27,wwd,2
 2026-04-27,zendaya,2
 2026-05-04,add,1
 2026-05-04,aesthetic,1
@@ -95,15 +106,18 @@ period,Term,Count
 2026-05-04,best,8
 2026-05-04,brands,4
 2026-05-04,casual,1
+2026-05-04,classy,2
 2026-05-04,clothing,1
 2026-05-04,define,2
 2026-05-04,easy,2
+2026-05-04,expensive,2
 2026-05-04,fall,2
-2026-05-04,fashion,18
+2026-05-04,fashion,14
 2026-05-04,fashion trend,2
-2026-05-04,fashion trends,8
+2026-05-04,fashion trends,6
 2026-05-04,fashion trends fashion,4
 2026-05-04,fyp,1
+2026-05-04,girl,2
 2026-05-04,good,2
 2026-05-04,ideas,1
 2026-05-04,inspired,1
@@ -111,10 +125,10 @@ period,Term,Count
 2026-05-04,jordan,1
 2026-05-04,leave,1
 2026-05-04,look,2
+2026-05-04,looking,3
 2026-05-04,men,2
 2026-05-04,mensfashion,2
 2026-05-04,modern,1
-2026-05-04,offers,2
 2026-05-04,ootd,1
 2026-05-04,outfit,1
 2026-05-04,outfit ideas,1
@@ -132,68 +146,84 @@ period,Term,Count
 2026-05-04,summer,10
 2026-05-04,summer fashion,4
 2026-05-04,summer fashion trends,4
-2026-05-04,summer wear,2
 2026-05-04,today,1
-2026-05-04,trend,2
+2026-05-04,trend,4
 2026-05-04,trending,2
-2026-05-04,trends,10
+2026-05-04,trends,8
 2026-05-04,trends fashion,4
+2026-05-04,trends summer,2
 2026-05-04,viral,1
 2026-05-04,want,1
-2026-05-04,wear,12
-2026-05-04,wear fashion,2
+2026-05-04,wear,10
 2026-05-04,winter,1
 2026-05-11,aesthetic,1
 2026-05-11,baggy,4
 2026-05-11,baggy jeans,2
 2026-05-11,best,3
-2026-05-11,brings,2
+2026-05-11,cannes,2
+2026-05-11,chic,2
+2026-05-11,cool,2
 2026-05-11,dated,2
 2026-05-11,day,4
-2026-05-11,denim,3
+2026-05-11,denim,5
 2026-05-11,denim trends,1
 2026-05-11,designer,2
 2026-05-11,don,3
 2026-05-11,dress,2
 2026-05-11,elegant,2
-2026-05-11,fashion,20
-2026-05-11,fashion trend,2
+2026-05-11,elle,2
+2026-05-11,fashion,24
+2026-05-11,fashion trend,4
 2026-05-11,fashion trends,6
 2026-05-11,fashion week,4
+2026-05-11,favorite,4
 2026-05-11,gen,2
-2026-05-11,glamour,2
+2026-05-11,glamour,4
 2026-05-11,inspo,2
 2026-05-11,jeans,5
 2026-05-11,jorts,2
+2026-05-11,know,2
 2026-05-11,latest,2
-2026-05-11,look,2
+2026-05-11,look,4
 2026-05-11,looks,4
+2026-05-11,luxury,2
+2026-05-11,luxury fashion,2
+2026-05-11,luxury fashion trend,2
 2026-05-11,men,2
 2026-05-11,men fashion,2
 2026-05-11,mensfashion,2
 2026-05-11,millennials,2
+2026-05-11,modern,2
+2026-05-11,news,2
 2026-05-11,old,1
+2026-05-11,people,2
+2026-05-11,shoe,2
 2026-05-11,short,2
 2026-05-11,simple,2
 2026-05-11,sneaker,2
+2026-05-11,spring,2
+2026-05-11,stop,3
 2026-05-11,street,6
 2026-05-11,street style,4
-2026-05-11,streetwear,7
-2026-05-11,style,6
-2026-05-11,summer,8
+2026-05-11,streetwear,9
+2026-05-11,style,8
+2026-05-11,summer,12
 2026-05-11,summer fashion,4
 2026-05-11,summer fashion trends,4
-2026-05-11,summer trends,2
-2026-05-11,trend,2
-2026-05-11,trends,9
+2026-05-11,summer trends,6
+2026-05-11,trend,4
+2026-05-11,trends,17
+2026-05-11,trends glamour,4
+2026-05-11,trends try,4
 2026-05-11,try,4
 2026-05-11,viral,1
+2026-05-11,viral youtubeshorts,1
 2026-05-11,vogue,4
 2026-05-11,want,3
 2026-05-11,wardrobe,2
-2026-05-11,wear,4
-2026-05-11,wearing,2
-2026-05-11,wearing wear,2
+2026-05-11,wear,6
+2026-05-11,wearing,4
+2026-05-11,wearing wear,4
 2026-05-11,week,4
 2026-05-11,women,2
 2026-05-11,years,1
@@ -203,213 +233,254 @@ period,Term,Count
 2026-05-18,actually,4
 2026-05-18,actually wear,4
 2026-05-18,add,2
-2026-05-18,aesthetic,1
-2026-05-18,art,8
+2026-05-18,aesthetic,2
+2026-05-18,art,6
 2026-05-18,baggy,5
 2026-05-18,baggy jeans,2
 2026-05-18,bazaar,6
-2026-05-18,beach,6
-2026-05-18,beautiful,4
-2026-05-18,best,9
+2026-05-18,beach,5
+2026-05-18,beautiful,6
+2026-05-18,best,8
 2026-05-18,black,8
 2026-05-18,brands,3
 2026-05-18,bring,2
-2026-05-18,brings,1
 2026-05-18,cannes,10
 2026-05-18,cannes film,6
 2026-05-18,cannes film festival,6
-2026-05-18,casual,4
-2026-05-18,chic,25
+2026-05-18,casual,3
+2026-05-18,chic,24
 2026-05-18,chic summer,6
 2026-05-18,claire,8
+2026-05-18,classy,3
 2026-05-18,clothes,4
 2026-05-18,clothing,5
-2026-05-18,collection,9
-2026-05-18,color,10
-2026-05-18,cosmopolitan,14
+2026-05-18,collection,8
+2026-05-18,color,9
+2026-05-18,cool,4
+2026-05-18,cosmopolitan,16
+2026-05-18,crazyfashion,4
+2026-05-18,crazyfashion shorts,4
+2026-05-18,crazyfashion shorts viral,4
+2026-05-18,creator,3
 2026-05-18,cruise,3
 2026-05-18,dated,4
 2026-05-18,day,2
 2026-05-18,define,2
-2026-05-18,denim,11
-2026-05-18,denim trends,2
-2026-05-18,designed,3
+2026-05-18,denim,15
+2026-05-18,denim trends,4
 2026-05-18,designer,3
-2026-05-18,designs,9
-2026-05-18,discover,6
+2026-05-18,designs,5
 2026-05-18,don,4
-2026-05-18,dress,25
+2026-05-18,dots,2
+2026-05-18,dress,24
 2026-05-18,dress trends,5
 2026-05-18,easy,4
-2026-05-18,elegant,11
+2026-05-18,elegant,7
 2026-05-18,elle,24
+2026-05-18,expensive,3
 2026-05-18,fall,2
-2026-05-18,fashion,116
+2026-05-18,fashion,117
 2026-05-18,fashion fashiontrends,4
 2026-05-18,fashion girls,6
 2026-05-18,fashion girls wearing,6
 2026-05-18,fashion lovers,6
-2026-05-18,fashion trend,16
-2026-05-18,fashion trends,22
-2026-05-18,fashion trends fashion,1
+2026-05-18,fashion streetwear,3
+2026-05-18,fashion trend,18
+2026-05-18,fashion trends,20
+2026-05-18,fashion trends fashion,2
 2026-05-18,fashion week,2
-2026-05-18,fashiontrends,27
+2026-05-18,fashiontrends,33
 2026-05-18,fast,8
 2026-05-18,fast fashion,7
+2026-05-18,favorite,2
 2026-05-18,featuring,4
 2026-05-18,festival,8
 2026-05-18,film,8
 2026-05-18,film festival,7
-2026-05-18,fit,4
-2026-05-18,fyp,6
+2026-05-18,foryou,4
+2026-05-18,foryou fyp,4
+2026-05-18,foryou fyp love,4
+2026-05-18,fyp,9
+2026-05-18,fyp love,4
+2026-05-18,fyp love crazyfashion,4
 2026-05-18,gen,8
 2026-05-18,getting,3
-2026-05-18,girls,21
-2026-05-18,girls wearing,10
+2026-05-18,girl,4
+2026-05-18,girls,20
+2026-05-18,girls wearing,12
 2026-05-18,girls wearing summer,8
 2026-05-18,glamour,4
 2026-05-18,good,4
 2026-05-18,got,4
-2026-05-18,gucci,6
 2026-05-18,harper,6
 2026-05-18,harper bazaar,6
+2026-05-18,haryanvisong,3
+2026-05-18,haryanvisong newdesign,3
+2026-05-18,haryanvisong newdesign fashiontrends,3
 2026-05-18,high,6
+2026-05-18,humor,4
 2026-05-18,ideas,6
 2026-05-18,inspired,6
 2026-05-18,inspo,2
-2026-05-18,instead,4
 2026-05-18,instyle,6
-2026-05-18,jeans,13
+2026-05-18,jeans,15
 2026-05-18,john,6
 2026-05-18,john travolta,6
 2026-05-18,jordan,2
-2026-05-18,just,14
+2026-05-18,just,12
 2026-05-18,know,13
 2026-05-18,know fashion,6
-2026-05-18,kurti,4
 2026-05-18,latest,9
 2026-05-18,leave,4
 2026-05-18,like,7
-2026-05-18,look,35
-2026-05-18,look chic,5
+2026-05-18,look,33
 2026-05-18,look cosmopolitan,6
-2026-05-18,looks,7
-2026-05-18,louis,7
-2026-05-18,louis vuitton,7
-2026-05-18,love,11
+2026-05-18,looking,2
+2026-05-18,looks,5
+2026-05-18,louis,5
+2026-05-18,louis vuitton,5
+2026-05-18,love,16
+2026-05-18,love crazyfashion,4
+2026-05-18,love crazyfashion shorts,4
 2026-05-18,lovers,6
-2026-05-18,luxury,4
+2026-05-18,luxury,5
+2026-05-18,luxury fashion,1
 2026-05-18,major,3
 2026-05-18,makes,5
+2026-05-18,mam,3
+2026-05-18,mam talentedrituinsan,3
 2026-05-18,marie,8
 2026-05-18,marie claire,8
 2026-05-18,married,5
-2026-05-18,men,36
-2026-05-18,men fashion,9
-2026-05-18,mensfashion,8
+2026-05-18,men,34
+2026-05-18,men fashion,8
+2026-05-18,mensfashion,7
 2026-05-18,micro,4
 2026-05-18,millennials,4
-2026-05-18,modern,5
+2026-05-18,modern,6
 2026-05-18,nail,6
-2026-05-18,new,15
+2026-05-18,new,16
+2026-05-18,newdesign,3
+2026-05-18,newdesign fashiontrends,3
 2026-05-18,news,8
 2026-05-18,old,5
-2026-05-18,ootd,4
-2026-05-18,ootdguide,4
-2026-05-18,outfit,30
+2026-05-18,ootd,3
+2026-05-18,outfit,25
 2026-05-18,outfit ideas,6
-2026-05-18,outfits,10
+2026-05-18,outfits,8
 2026-05-18,outfits summer,5
 2026-05-18,pair,6
 2026-05-18,pants,5
-2026-05-18,party,12
+2026-05-18,party,9
 2026-05-18,people,2
 2026-05-18,people wearing,2
-2026-05-18,perfect,4
+2026-05-18,perfect,3
 2026-05-18,performance,2
+2026-05-18,photos,7
+2026-05-18,polka,2
+2026-05-18,polka dots,2
 2026-05-18,print,5
 2026-05-18,reader,4
 2026-05-18,real,5
+2026-05-18,ritu,3
+2026-05-18,ritu mam,3
+2026-05-18,ritu mam talentedrituinsan,3
 2026-05-18,runway,4
-2026-05-18,sandal,6
+2026-05-18,sandal,8
+2026-05-18,sandal trends,4
 2026-05-18,saree,5
-2026-05-18,season,10
+2026-05-18,say,4
+2026-05-18,season,8
 2026-05-18,second,3
 2026-05-18,sets,6
 2026-05-18,shirt,14
 2026-05-18,shirts,8
 2026-05-18,shoe,4
-2026-05-18,shoes,13
+2026-05-18,shoes,11
 2026-05-18,shop,5
 2026-05-18,shopping,5
-2026-05-18,short,4
-2026-05-18,shorts,29
-2026-05-18,shorts fashion,3
-2026-05-18,shortsfeed,4
-2026-05-18,shortvideo,4
+2026-05-18,short,2
+2026-05-18,shorts,28
+2026-05-18,shorts viral,4
+2026-05-18,shorts viral youtubeshorts,4
+2026-05-18,shortsfeed,3
 2026-05-18,simple,3
-2026-05-18,skirt,5
+2026-05-18,skirt,7
 2026-05-18,sneaker,2
-2026-05-18,sneakers,5
-2026-05-18,soft,4
+2026-05-18,sneakers,3
 2026-05-18,spotted,4
 2026-05-18,spring,8
 2026-05-18,state,1
-2026-05-18,street,6
-2026-05-18,street style,3
-2026-05-18,streetwear,9
-2026-05-18,style,32
+2026-05-18,statement,4
+2026-05-18,stop,3
+2026-05-18,street,7
+2026-05-18,street style,4
+2026-05-18,streetwear,10
+2026-05-18,style,34
 2026-05-18,styles,4
-2026-05-18,styling,7
+2026-05-18,styling,5
 2026-05-18,stylish,14
+2026-05-18,subscribe,3
 2026-05-18,suit,10
-2026-05-18,summer,82
+2026-05-18,summer,81
 2026-05-18,summer fashion,11
 2026-05-18,summer fashion trends,4
-2026-05-18,summer trend,6
+2026-05-18,summer trend,8
 2026-05-18,summer trends,6
 2026-05-18,summer wear,10
+2026-05-18,talentedrituinsan,6
 2026-05-18,things,4
 2026-05-18,times,6
 2026-05-18,today,6
 2026-05-18,took,5
 2026-05-18,travolta,6
 2026-05-18,trend,76
-2026-05-18,trend elle,10
+2026-05-18,trend elle,8
 2026-05-18,trend fashion,6
 2026-05-18,trend style,4
-2026-05-18,trending,9
-2026-05-18,trendingshorts,3
-2026-05-18,trends,60
+2026-05-18,trending,6
+2026-05-18,trendingshorts,4
+2026-05-18,trends,61
 2026-05-18,trends elle,6
-2026-05-18,trends fashion,1
+2026-05-18,trends fashion,2
+2026-05-18,trends summer,4
 2026-05-18,trends wear,6
-2026-05-18,trendy,8
+2026-05-18,trendy,6
 2026-05-18,try,2
 2026-05-18,unexpected,5
-2026-05-18,upgrade,4
+2026-05-18,upgrade,3
 2026-05-18,upgrade style,3
-2026-05-18,video,5
-2026-05-18,viral,3
-2026-05-18,viralvideo,4
-2026-05-18,vogue,14
-2026-05-18,vuitton,7
+2026-05-18,video,4
+2026-05-18,viral,6
+2026-05-18,viral youtubeshorts,4
+2026-05-18,viral youtubeshorts fashiontrends,4
+2026-05-18,viralchannel,6
+2026-05-18,viralchannel haryanvisong,3
+2026-05-18,viralchannel haryanvisong newdesign,3
+2026-05-18,viralchannel viralvideo,3
+2026-05-18,viralchannel viralvideo talentedrituinsan,3
+2026-05-18,viralvideo,8
+2026-05-18,viralvideo talentedrituinsan,3
+2026-05-18,vogue,12
+2026-05-18,vuitton,5
 2026-05-18,want,4
-2026-05-18,wardrobe,4
+2026-05-18,wardrobe,6
 2026-05-18,way,5
-2026-05-18,wear,50
-2026-05-18,wearable,6
-2026-05-18,wearing,26
+2026-05-18,wear,51
+2026-05-18,wearable,8
+2026-05-18,wearing,28
 2026-05-18,wearing summer,14
-2026-05-18,wedding,7
+2026-05-18,wedding,9
 2026-05-18,week,5
-2026-05-18,welcome,3
+2026-05-18,welcome,4
 2026-05-18,went,4
 2026-05-18,white,13
 2026-05-18,winter,2
-2026-05-18,women,20
+2026-05-18,women,11
 2026-05-18,world,3
+2026-05-18,wwd,2
 2026-05-18,years,4
-2026-05-18,youtubeshorts,2
+2026-05-18,youtubeshorts,6
+2026-05-18,youtubeshorts fashiontrends,4
 2026-05-18,ytshorts,4
 2026-05-18,zendaya,6
