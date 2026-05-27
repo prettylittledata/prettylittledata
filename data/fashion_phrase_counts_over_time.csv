@@ -11,28 +11,21 @@ period,Term,Count
 2026-04-13,trends,2
 2026-04-13,wear,2
 2026-04-20,bring,4
-2026-04-20,claire,2
 2026-04-20,denim,4
 2026-04-20,denim trends,2
 2026-04-20,fashion,14
 2026-04-20,fashion trend,8
 2026-04-20,fast,4
 2026-04-20,fast fashion,4
-2026-04-20,just,2
 2026-04-20,luxury,2
-2026-04-20,marie,2
-2026-04-20,marie claire,2
 2026-04-20,offers,4
 2026-04-20,old,12
-2026-04-20,spring,4
+2026-04-20,spring,2
 2026-04-20,streetwear,2
 2026-04-20,trend,10
-2026-04-20,trends,4
+2026-04-20,trends,2
 2026-04-20,vintage,4
 2026-04-20,wear,2
-2026-04-20,wearing,2
-2026-04-20,week,2
-2026-04-20,woman,2
 2026-04-20,years,4
 2026-04-20,years old,4
 2026-04-27,claire,4
@@ -73,6 +66,7 @@ period,Term,Count
 2026-05-04,fashion insiders wear,2
 2026-05-04,fashion trends,2
 2026-05-04,game,1
+2026-05-04,hype,1
 2026-05-04,ideas,1
 2026-05-04,insiders,2
 2026-05-04,insiders wear,2
@@ -117,6 +111,7 @@ period,Term,Count
 2026-05-11,fashion trends,4
 2026-05-11,favorite,2
 2026-05-11,gen,2
+2026-05-11,hype,1
 2026-05-11,jeans,5
 2026-05-11,latest,2
 2026-05-11,look,2
@@ -139,6 +134,7 @@ period,Term,Count
 2026-05-11,trend,2
 2026-05-11,trends,7
 2026-05-11,viral,1
+2026-05-11,viral youtubeshorts,1
 2026-05-11,vogue,8
 2026-05-11,want,3
 2026-05-11,wear,2
@@ -151,6 +147,7 @@ period,Term,Count
 2026-05-11,youtubeshorts,1
 2026-05-18,according,5
 2026-05-18,art,4
+2026-05-18,bag,4
 2026-05-18,baggy,3
 2026-05-18,beach,5
 2026-05-18,black,7
@@ -161,17 +158,16 @@ period,Term,Count
 2026-05-18,dated,4
 2026-05-18,denim,2
 2026-05-18,denim trends,2
-2026-05-18,discover,1
 2026-05-18,don,3
 2026-05-18,dress,5
-2026-05-18,elegant,2
+2026-05-18,elegant,1
 2026-05-18,elle,2
-2026-05-18,fashion,22
+2026-05-18,fashion,20
 2026-05-18,fashion insiders,4
 2026-05-18,fashion insiders wear,4
 2026-05-18,fashion people,4
 2026-05-18,fashion trend,2
-2026-05-18,fashion trends,7
+2026-05-18,fashion trends,6
 2026-05-18,fast,3
 2026-05-18,fast fashion,2
 2026-05-18,favorite,2
@@ -200,7 +196,7 @@ period,Term,Count
 2026-05-18,men,3
 2026-05-18,men fashion,1
 2026-05-18,moments,2
-2026-05-18,new,8
+2026-05-18,new,7
 2026-05-18,new york,3
 2026-05-18,news,3
 2026-05-18,officially,4
@@ -219,23 +215,23 @@ period,Term,Count
 2026-05-18,shirts,2
 2026-05-18,shoe,2
 2026-05-18,shorts,2
+2026-05-18,sneakers,2
 2026-05-18,state,1
 2026-05-18,stop,3
 2026-05-18,street,2
 2026-05-18,streetwear,5
 2026-05-18,striped,1
 2026-05-18,style,5
-2026-05-18,stylish,1
 2026-05-18,suit,6
-2026-05-18,summer,17
-2026-05-18,summer fashion,5
-2026-05-18,summer fashion trends,5
+2026-05-18,summer,14
+2026-05-18,summer fashion,4
+2026-05-18,summer fashion trends,4
 2026-05-18,summer wear,6
 2026-05-18,times,2
 2026-05-18,took,3
 2026-05-18,travolta,6
 2026-05-18,trend,8
-2026-05-18,trends,16
+2026-05-18,trends,14
 2026-05-18,trends officially,4
 2026-05-18,upgrade,1
 2026-05-18,vacation,3
@@ -249,27 +245,24 @@ period,Term,Count
 2026-05-18,week,1
 2026-05-18,went,4
 2026-05-18,white,9
-2026-05-18,woman,1
-2026-05-18,women,2
 2026-05-18,world,2
 2026-05-18,worth,2
 2026-05-18,years,3
 2026-05-18,york,3
 2026-05-25,aesthetic,2
 2026-05-25,art,3
-2026-05-25,baggy,1
-2026-05-25,baggy jeans,1
+2026-05-25,bag,2
 2026-05-25,best,3
-2026-05-25,black,4
+2026-05-25,black,3
 2026-05-25,black white,1
 2026-05-25,brands,2
 2026-05-25,casual,5
 2026-05-25,celebrity,2
 2026-05-25,check,2
-2026-05-25,claire,6
+2026-05-25,claire,8
 2026-05-25,clothing,2
-2026-05-25,collection,12
-2026-05-25,comfortable,6
+2026-05-25,collection,10
+2026-05-25,comfortable,8
 2026-05-25,cosmopolitan,8
 2026-05-25,dated,2
 2026-05-25,day,2
@@ -280,40 +273,41 @@ period,Term,Count
 2026-05-25,dress,9
 2026-05-25,elegant,2
 2026-05-25,elle,4
-2026-05-25,fashion,73
+2026-05-25,fashion,76
 2026-05-25,fashion fashiontrends,4
 2026-05-25,fashion people,2
 2026-05-25,fashion trend,5
 2026-05-25,fashion trends,8
-2026-05-25,fashiontrends,24
+2026-05-25,fashiontrends,25
 2026-05-25,fast,1
 2026-05-25,favorite,2
 2026-05-25,fit,5
 2026-05-25,footwear,4
-2026-05-25,fyp,5
+2026-05-25,fyp,6
 2026-05-25,game,2
-2026-05-25,gen,4
+2026-05-25,gen,3
 2026-05-25,getting,1
-2026-05-25,good,2
+2026-05-25,good,3
 2026-05-25,got,2
 2026-05-25,gucci,2
 2026-05-25,highly,1
+2026-05-25,hype,2
 2026-05-25,ideas,2
 2026-05-25,inspired,1
-2026-05-25,jeans,2
+2026-05-25,jeans,1
 2026-05-25,just,6
 2026-05-25,know,3
 2026-05-25,ladies,4
-2026-05-25,latest,7
+2026-05-25,latest,9
 2026-05-25,life,2
 2026-05-25,look,12
 2026-05-25,looks,4
-2026-05-25,love,8
+2026-05-25,love,9
 2026-05-25,luxury,3
-2026-05-25,marie,6
-2026-05-25,marie claire,6
-2026-05-25,men,17
-2026-05-25,men fashion,2
+2026-05-25,marie,8
+2026-05-25,marie claire,8
+2026-05-25,men,18
+2026-05-25,men fashion,3
 2026-05-25,mens,5
 2026-05-25,mens fashion,5
 2026-05-25,mensfashion,7
@@ -341,13 +335,14 @@ period,Term,Count
 2026-05-25,shirt,7
 2026-05-25,shirts,4
 2026-05-25,shoe,2
-2026-05-25,shoes,6
+2026-05-25,shoes,8
 2026-05-25,short,3
 2026-05-25,shorts,12
-2026-05-25,shorts fashion,3
 2026-05-25,shortsfeed,4
 2026-05-25,sleeve,4
 2026-05-25,sneaker,2
+2026-05-25,sneakers,2
+2026-05-25,spring,2
 2026-05-25,stop,2
 2026-05-25,street,3
 2026-05-25,street style,3
@@ -356,33 +351,34 @@ period,Term,Count
 2026-05-25,style,26
 2026-05-25,styles,2
 2026-05-25,stylish,12
-2026-05-25,summer,32
-2026-05-25,summer fashion,5
+2026-05-25,summer,34
+2026-05-25,summer fashion,7
 2026-05-25,summer fashion trends,3
 2026-05-25,summer wear,6
-2026-05-25,times,8
+2026-05-25,times,10
 2026-05-25,took,1
 2026-05-25,trend,29
-2026-05-25,trending,13
-2026-05-25,trends,24
+2026-05-25,trending,12
+2026-05-25,trends,26
 2026-05-25,trends officially,2
 2026-05-25,trendy,5
+2026-05-25,tried,8
 2026-05-25,upgrade,5
 2026-05-25,vacation,2
-2026-05-25,video,4
+2026-05-25,video,3
 2026-05-25,viral,9
+2026-05-25,viral youtubeshorts,2
 2026-05-25,vogue,4
 2026-05-25,want,4
 2026-05-25,wants,4
 2026-05-25,wardrobe,2
-2026-05-25,wear,18
+2026-05-25,wear,20
 2026-05-25,wearing,4
 2026-05-25,wedding,3
 2026-05-25,week,2
-2026-05-25,white,2
-2026-05-25,woman,2
+2026-05-25,white,1
 2026-05-25,women,8
 2026-05-25,work,6
 2026-05-25,world,3
 2026-05-25,york,7
-2026-05-25,youtubeshorts,2
+2026-05-25,youtubeshorts,3
