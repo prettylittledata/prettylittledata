@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/,1779973200,Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`,"Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`
+
+Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS."
 rss,smashingmagazine.com,https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/,1779710400,Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It),"Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)
 
 There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness."
