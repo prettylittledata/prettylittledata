@@ -1,20 +1,17 @@
 period,Term,Count
 2026-04-13,apartment,2
+2026-04-13,architectural,2
 2026-04-13,balcony,2
 2026-04-13,comeback,2
 2026-04-13,decorating,2
-2026-04-13,decorating trend,2
-2026-04-13,garden,2
-2026-04-13,house,2
+2026-04-13,dining,2
 2026-04-13,ideas,6
-2026-04-13,living,4
-2026-04-13,living room,2
+2026-04-13,living,2
 2026-04-13,room,2
 2026-04-13,small,6
 2026-04-13,small apartment,2
 2026-04-13,southern,2
 2026-04-13,southern living,2
-2026-04-13,spaces,2
 2026-04-13,spruce,4
 2026-04-13,spruce small,2
 2026-04-13,style,2
@@ -23,16 +20,13 @@ period,Term,Count
 2026-04-20,according designers,4
 2026-04-20,apartment,8
 2026-04-20,apartment therapy,8
-2026-04-20,architectural,2
-2026-04-20,decorating,2
-2026-04-20,decorating trend,2
+2026-04-20,create,2
 2026-04-20,design,6
 2026-04-20,design ideas,2
 2026-04-20,design trends,4
 2026-04-20,designer,2
 2026-04-20,designers,10
 2026-04-20,genius,2
-2026-04-20,handmade,2
 2026-04-20,home,4
 2026-04-20,home trends,4
 2026-04-20,house,4
@@ -41,64 +35,70 @@ period,Term,Count
 2026-04-20,interior design,4
 2026-04-20,interior design trends,4
 2026-04-20,just,2
-2026-04-20,kitchen,2
 2026-04-20,living,2
+2026-04-20,living room,2
+2026-04-20,real,2
+2026-04-20,real simple,2
 2026-04-20,right,4
+2026-04-20,room,2
+2026-04-20,simple,2
 2026-04-20,summer,2
 2026-04-20,therapy,8
-2026-04-20,trend,2
-2026-04-20,trends,10
-2026-04-20,trends designers,2
+2026-04-20,trends,8
+2026-04-20,use,2
+2026-04-20,warm,2
 2026-04-27,apartment,2
 2026-04-27,apartment therapy,2
+2026-04-27,asked,4
+2026-04-27,asked designers,4
 2026-04-27,comeback,2
-2026-04-27,decor,6
-2026-04-27,decor trends,6
+2026-04-27,decor,8
+2026-04-27,decor trends,8
 2026-04-27,design,6
 2026-04-27,design trends,2
-2026-04-27,designers,10
+2026-04-27,designers,12
 2026-04-27,designers say,6
 2026-04-27,genius,2
 2026-04-27,good,2
-2026-04-27,good housekeeping,2
+2026-04-27,hold,4
 2026-04-27,homes,2
-2026-04-27,housekeeping,2
 2026-04-27,interior,2
 2026-04-27,interiors,2
 2026-04-27,living,10
 2026-04-27,living room,4
 2026-04-27,living room trends,4
 2026-04-27,making,2
-2026-04-27,real,4
-2026-04-27,real simple,4
+2026-04-27,real,6
+2026-04-27,real simple,6
 2026-04-27,right,2
 2026-04-27,room,4
 2026-04-27,room trends,4
 2026-04-27,say,6
-2026-04-27,simple,4
+2026-04-27,simple,6
 2026-04-27,southern,6
 2026-04-27,southern living,6
 2026-04-27,stylish,2
 2026-04-27,therapy,2
 2026-04-27,trend,4
-2026-04-27,trends,12
+2026-04-27,trends,14
 2026-04-27,trends designers,4
 2026-04-27,trends designers say,4
 2026-04-27,ways,2
+2026-04-27,year,4
 2026-04-27,years,2
 2026-05-04,according,2
 2026-05-04,apartment,2
 2026-05-04,apartment therapy,2
 2026-05-04,beautiful,4
-2026-05-04,decor,2
-2026-05-04,decor trends,2
+2026-05-04,decor,4
+2026-05-04,decor trends,4
 2026-05-04,decorating,2
-2026-05-04,decorating trend,2
-2026-05-04,design,6
+2026-05-04,design,8
 2026-05-04,design trends,4
 2026-05-04,designers,8
 2026-05-04,designers say,4
 2026-05-04,feel,2
+2026-05-04,forbes,4
 2026-05-04,good,2
 2026-05-04,home,4
 2026-05-04,home trends,4
@@ -113,53 +113,46 @@ period,Term,Count
 2026-05-04,say,4
 2026-05-04,simple,2
 2026-05-04,style,2
-2026-05-04,summer,6
+2026-05-04,summer,8
 2026-05-04,therapy,2
 2026-05-04,trend,2
-2026-05-04,trends,10
+2026-05-04,trends,12
 2026-05-04,trends designers,4
 2026-05-04,trends designers say,4
-2026-05-11,decor,4
+2026-05-11,apartment,2
+2026-05-11,decor,6
 2026-05-11,decor trend,2
-2026-05-11,design,6
-2026-05-11,design trends,4
+2026-05-11,design,8
+2026-05-11,design trends,6
 2026-05-11,designer,2
-2026-05-11,designers,4
-2026-05-11,designers say,2
+2026-05-11,elle,2
+2026-05-11,elle decor,2
 2026-05-11,feel,2
+2026-05-11,forbes,2
 2026-05-11,gardens,2
-2026-05-11,good,4
-2026-05-11,good housekeeping,4
 2026-05-11,home,6
 2026-05-11,home decor,4
 2026-05-11,home design,2
 2026-05-11,home design trends,2
 2026-05-11,homes,4
-2026-05-11,housekeeping,4
-2026-05-11,inspired,2
-2026-05-11,interior,2
-2026-05-11,interior design,2
-2026-05-11,interior design trends,2
-2026-05-11,key,2
+2026-05-11,interior,4
+2026-05-11,interior design,4
+2026-05-11,interior design trends,4
 2026-05-11,living,2
 2026-05-11,living room,2
 2026-05-11,living room trends,2
-2026-05-11,look,2
-2026-05-11,making,4
-2026-05-11,modern,2
+2026-05-11,making,2
 2026-05-11,new,4
 2026-05-11,people,2
 2026-05-11,room,2
 2026-05-11,room trends,2
-2026-05-11,say,2
 2026-05-11,sharing,2
 2026-05-11,summer,2
 2026-05-11,trend,4
-2026-05-11,trends,6
+2026-05-11,trends,8
 2026-05-11,yahoo,4
-2026-05-18,actually,4
+2026-05-18,actually,2
 2026-05-18,apartments,2
-2026-05-18,beautiful,2
 2026-05-18,decor,8
 2026-05-18,decor home,2
 2026-05-18,decor trends,4
@@ -168,40 +161,37 @@ period,Term,Count
 2026-05-18,design interior,1
 2026-05-18,design trends,8
 2026-05-18,designers,6
-2026-05-18,designers say,4
-2026-05-18,feel,2
+2026-05-18,designers say,2
+2026-05-18,elle,4
+2026-05-18,elle decor,4
+2026-05-18,furniture,2
 2026-05-18,gardens,2
 2026-05-18,good,2
-2026-05-18,good housekeeping,2
-2026-05-18,home,10
+2026-05-18,home,8
 2026-05-18,home decor,2
 2026-05-18,home decor trends,2
 2026-05-18,home design,4
 2026-05-18,home design trends,4
-2026-05-18,home feel,2
 2026-05-18,homes,6
-2026-05-18,house,2
-2026-05-18,house beautiful,2
-2026-05-18,housekeeping,2
 2026-05-18,interior,4
 2026-05-18,interior design,4
 2026-05-18,interior design trends,4
-2026-05-18,making,2
-2026-05-18,making home,2
-2026-05-18,making home feel,2
 2026-05-18,new,2
+2026-05-18,real,2
+2026-05-18,real simple,2
 2026-05-18,right,2
-2026-05-18,say,6
+2026-05-18,say,4
+2026-05-18,simple,2
 2026-05-18,small,2
 2026-05-18,small space,2
 2026-05-18,space,2
 2026-05-18,spruce,2
 2026-05-18,spruce small,1
 2026-05-18,summer,4
-2026-05-18,trend,4
-2026-05-18,trends,14
+2026-05-18,trend,2
+2026-05-18,trends,16
 2026-05-18,welcome,2
-2026-05-25,according,4
+2026-05-25,according,6
 2026-05-25,according designers,2
 2026-05-25,actually,5
 2026-05-25,aesthetic,3
@@ -211,26 +201,28 @@ period,Term,Count
 2026-05-25,apartment,30
 2026-05-25,apartment therapy,5
 2026-05-25,apartments,2
-2026-05-25,architects,6
+2026-05-25,architects,5
 2026-05-25,architectural,5
 2026-05-25,architecture,13
 2026-05-25,area,3
+2026-05-25,asked,2
+2026-05-25,asked designers,2
 2026-05-25,associated,3
 2026-05-25,attachment,10
 2026-05-25,attachment post,10
 2026-05-25,attachment post thumbnail,10
 2026-05-25,balcony,2
 2026-05-25,based,3
-2026-05-25,beautiful,12
+2026-05-25,beautiful,14
 2026-05-25,bedroom,12
 2026-05-25,best,5
 2026-05-25,budget,6
-2026-05-25,built,7
+2026-05-25,built,8
 2026-05-25,cabinet,7
 2026-05-25,ceiling,7
 2026-05-25,center,10
 2026-05-25,cities,3
-2026-05-25,city,4
+2026-05-25,city,3
 2026-05-25,class,41
 2026-05-25,class attachment,10
 2026-05-25,class attachment post,10
@@ -264,16 +256,16 @@ period,Term,Count
 2026-05-25,defining,3
 2026-05-25,description,3
 2026-05-25,description discover,3
-2026-05-25,design,80
+2026-05-25,design,82
 2026-05-25,design home,6
 2026-05-25,design home decor,3
 2026-05-25,design ideas,4
 2026-05-25,design interior,3
 2026-05-25,design interior trends,3
 2026-05-25,design trends,23
-2026-05-25,designed,8
+2026-05-25,designed,7
 2026-05-25,designer,1
-2026-05-25,designers,15
+2026-05-25,designers,17
 2026-05-25,desk,7
 2026-05-25,dining,4
 2026-05-25,discover,6
@@ -290,7 +282,7 @@ period,Term,Count
 2026-05-25,elegant,4
 2026-05-25,elevate,4
 2026-05-25,end,4
-2026-05-25,everyday,5
+2026-05-25,everyday,6
 2026-05-25,excerpt,10
 2026-05-25,feel,13
 2026-05-25,fresh,5
@@ -305,6 +297,7 @@ period,Term,Count
 2026-05-25,height src,10
 2026-05-25,height src width,10
 2026-05-25,high,7
+2026-05-25,hold,1
 2026-05-25,home,89
 2026-05-25,home decor,32
 2026-05-25,home decor idea,4
@@ -316,14 +309,13 @@ period,Term,Count
 2026-05-25,home design,6
 2026-05-25,home design interior,3
 2026-05-25,home design trends,2
-2026-05-25,home feel,4
 2026-05-25,home look,5
 2026-05-25,home trends,4
 2026-05-25,homedecor,14
 2026-05-25,homedecorideas,3
 2026-05-25,homes,3
-2026-05-25,house,27
-2026-05-25,house beautiful,10
+2026-05-25,house,29
+2026-05-25,house beautiful,12
 2026-05-25,idea,8
 2026-05-25,ideas,52
 2026-05-25,ideas diy,4
@@ -352,9 +344,8 @@ period,Term,Count
 2026-05-25,interiors,5
 2026-05-25,interiors small,3
 2026-05-25,interiors small space,3
-2026-05-25,items,5
+2026-05-25,items,7
 2026-05-25,just,5
-2026-05-25,key,3
 2026-05-25,kitchen,11
 2026-05-25,landscape,4
 2026-05-25,large,4
@@ -362,7 +353,7 @@ period,Term,Count
 2026-05-25,life,5
 2026-05-25,light,5
 2026-05-25,like,6
-2026-05-25,living,19
+2026-05-25,living,21
 2026-05-25,living room,14
 2026-05-25,living room design,6
 2026-05-25,local,4
@@ -377,7 +368,6 @@ period,Term,Count
 2026-05-25,makeover,8
 2026-05-25,making,9
 2026-05-25,making home,8
-2026-05-25,making home feel,4
 2026-05-25,market,5
 2026-05-25,material,6
 2026-05-25,maximize,3
@@ -387,7 +377,7 @@ period,Term,Count
 2026-05-25,modern home,7
 2026-05-25,modern home design,3
 2026-05-25,modular,7
-2026-05-25,new,21
+2026-05-25,new,20
 2026-05-25,noopener,4
 2026-05-25,noopener target,4
 2026-05-25,organized,3
@@ -411,7 +401,7 @@ period,Term,Count
 2026-05-25,renovation,3
 2026-05-25,restaurant,5
 2026-05-25,right,2
-2026-05-25,room,28
+2026-05-25,room,30
 2026-05-25,room decor,4
 2026-05-25,room design,7
 2026-05-25,rws,30
@@ -439,7 +429,8 @@ period,Term,Count
 2026-05-25,smart,16
 2026-05-25,smartfurniture,3
 2026-05-25,social,6
-2026-05-25,southern,2
+2026-05-25,southern,4
+2026-05-25,southern living,2
 2026-05-25,space,26
 2026-05-25,space ideas,3
 2026-05-25,space ideas living,3
@@ -472,7 +463,7 @@ period,Term,Count
 2026-05-25,thumbnail post image,10
 2026-05-25,thumbnail size,10
 2026-05-25,thumbnail size post,10
-2026-05-25,tiny,10
+2026-05-25,tiny,11
 2026-05-25,tiny apartment,5
 2026-05-25,title,10
 2026-05-25,title style,10
@@ -490,6 +481,7 @@ period,Term,Count
 2026-05-25,turned,4
 2026-05-25,unit,7
 2026-05-25,urban,8
+2026-05-25,use,2
 2026-05-25,using,5
 2026-05-25,video,14
 2026-05-25,villa,8
@@ -497,6 +489,7 @@ period,Term,Count
 2026-05-25,viral video,3
 2026-05-25,wall,16
 2026-05-25,walls,5
+2026-05-25,warm,3
 2026-05-25,way,9
 2026-05-25,ways,3
 2026-05-25,welcome,6
@@ -507,5 +500,6 @@ period,Term,Count
 2026-05-25,wooden,3
 2026-05-25,work,6
 2026-05-25,yahoo,2
-2026-05-25,years,2
+2026-05-25,year,1
+2026-05-25,years,5
 2026-05-25,youtubeshorts,8
