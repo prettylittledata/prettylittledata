@@ -25,6 +25,7 @@ period,Term,Count
 2026-05-11,house build,1
 2026-05-11,house build wooden,1
 2026-05-11,improve,1
+2026-05-11,interface,3
 2026-05-11,latest,1
 2026-05-11,like,1
 2026-05-11,link,1
@@ -61,6 +62,7 @@ period,Term,Count
 2026-05-18,act,1
 2026-05-18,actually,1
 2026-05-18,advanced,2
+2026-05-18,brought,1
 2026-05-18,build,1
 2026-05-18,build wooden,1
 2026-05-18,build wooden cabin,1
@@ -85,6 +87,7 @@ period,Term,Count
 2026-05-18,house build,1
 2026-05-18,house build wooden,1
 2026-05-18,layers,1
+2026-05-18,line,1
 2026-05-18,look,1
 2026-05-18,moment,1
 2026-05-18,patterns,1
@@ -138,6 +141,7 @@ period,Term,Count
 2026-05-25,honest,2
 2026-05-25,inspiration,1
 2026-05-25,isn,1
+2026-05-25,june,3
 2026-05-25,latest,2
 2026-05-25,latest trends,2
 2026-05-25,let,1
@@ -162,14 +166,19 @@ period,Term,Count
 2026-05-25,world,2
 2026-05-25,years,1
 2026-06-01,best,1
+2026-06-01,brought,1
+2026-06-01,context,1
 2026-06-01,design,3
 2026-06-01,generated,1
 2026-06-01,guide,1
 2026-06-01,improve,1
 2026-06-01,interfaces,1
 2026-06-01,make,2
+2026-06-01,make design,2
+2026-06-01,mistakes,1
 2026-06-01,patterns,2
 2026-06-01,practical,1
+2026-06-01,prototypes,1
 2026-06-01,quality,1
 2026-06-01,trends,1
 2026-06-01,typography,3
@@ -195,11 +204,13 @@ period,Term,Count
 2026-06-08,million,1
 2026-06-08,modern,1
 2026-06-08,originally,1
+2026-06-08,past,1
 2026-06-08,people,2
 2026-06-08,places,2
 2026-06-08,practical,1
 2026-06-08,problem,1
 2026-06-08,public,1
+2026-06-08,shared,1
 2026-06-08,social,1
 2026-06-08,start,3
 2026-06-08,study,1
@@ -236,8 +247,11 @@ period,Term,Count
 2026-06-15,class,4
 2026-06-15,class medium,4
 2026-06-15,class medium feed,4
+2026-06-15,claude,2
+2026-06-15,claude code,2
 2026-06-15,clean,1
 2026-06-15,code,3
+2026-06-15,coding,1
 2026-06-15,collective,1
 2026-06-15,collective div,1
 2026-06-15,create,1
@@ -260,6 +274,7 @@ period,Term,Count
 2026-06-15,div,2
 2026-06-15,div class,1
 2026-06-15,div class medium,1
+2026-06-15,drawing,1
 2026-06-15,effect,1
 2026-06-15,enables,1
 2026-06-15,end,2
@@ -335,6 +350,7 @@ period,Term,Count
 2026-06-15,probably,1
 2026-06-15,process,1
 2026-06-15,product,1
+2026-06-15,product teams,1
 2026-06-15,professional,6
 2026-06-15,projects,1
 2026-06-15,reading,1
@@ -375,6 +391,7 @@ period,Term,Count
 2026-06-15,using,1
 2026-06-15,video,1
 2026-06-15,viral,2
+2026-06-15,want,1
 2026-06-15,watch,1
 2026-06-15,web,17
 2026-06-15,web design,15
@@ -387,6 +404,7 @@ period,Term,Count
 2026-06-15,width,1
 2026-06-15,width class,1
 2026-06-15,width class medium,1
+2026-06-15,winning,1
 2026-06-15,wooden,2
 2026-06-15,wooden cabin,1
 2026-06-15,wooden cabin surviva,1
@@ -397,64 +415,78 @@ period,Term,Count
 2026-06-15,world,1
 2026-06-15,years,1
 2026-06-22,act,3
-2026-06-22,actually,10
+2026-06-22,actually,11
 2026-06-22,advanced,6
-2026-06-22,agentic,3
-2026-06-22,alt,31
-2026-06-22,alt height,4
-2026-06-22,alt height src,4
+2026-06-22,advantage,4
+2026-06-22,agent,7
+2026-06-22,agentic,7
+2026-06-22,alignment,5
+2026-06-22,alt,35
+2026-06-22,alt height,5
+2026-06-22,alt height src,5
 2026-06-22,app,3
 2026-06-22,bad,3
-2026-06-22,best,5
-2026-06-22,better,14
+2026-06-22,best,6
+2026-06-22,better,15
 2026-06-22,better google,4
 2026-06-22,better google shorts,2
+2026-06-22,blockquote,16
 2026-06-22,branding,5
+2026-06-22,bring,3
+2026-06-22,brought,1
 2026-06-22,build,3
-2026-06-22,building,5
+2026-06-22,building,12
 2026-06-22,builds,3
-2026-06-22,built,8
-2026-06-22,business,2
-2026-06-22,change,6
-2026-06-22,changed,2
+2026-06-22,built,9
+2026-06-22,business,3
+2026-06-22,change,9
+2026-06-22,changed,3
 2026-06-22,check,7
 2026-06-22,choices,4
-2026-06-22,class,20
-2026-06-22,class medium,20
-2026-06-22,class medium feed,20
+2026-06-22,class,16
+2026-06-22,class medium,16
+2026-06-22,class medium feed,16
+2026-06-22,claude,11
+2026-06-22,claude code,5
 2026-06-22,clean,2
 2026-06-22,clear,5
-2026-06-22,code,9
+2026-06-22,code,35
+2026-06-22,coding,2
 2026-06-22,collective,10
-2026-06-22,collective div,5
-2026-06-22,collective medium,4
-2026-06-22,collective medium people,4
-2026-06-22,company,4
+2026-06-22,collective div,4
+2026-06-22,collective medium,5
+2026-06-22,collective medium people,5
+2026-06-22,companies,4
+2026-06-22,company,10
 2026-06-22,complete,5
 2026-06-22,complete graphic,3
 2026-06-22,complete graphic design,3
-2026-06-22,concept,4
+2026-06-22,component,14
+2026-06-22,concept,5
 2026-06-22,concept transforms,3
 2026-06-22,concept transforms professional,3
 2026-06-22,contact,4
 2026-06-22,content,4
-2026-06-22,continuing,4
-2026-06-22,continuing conversation,4
-2026-06-22,continuing conversation highlighting,4
+2026-06-22,context,3
+2026-06-22,continuing,5
+2026-06-22,continuing conversation,5
+2026-06-22,continuing conversation highlighting,5
 2026-06-22,contrast,9
-2026-06-22,conversation,8
-2026-06-22,conversation highlighting,4
-2026-06-22,conversation highlighting responding,4
+2026-06-22,conversation,9
+2026-06-22,conversation highlighting,5
+2026-06-22,conversation highlighting responding,5
 2026-06-22,cost,19
 2026-06-22,create,5
-2026-06-22,creation,3
-2026-06-22,creative,9
-2026-06-22,data,6
+2026-06-22,creation,6
+2026-06-22,creative,10
+2026-06-22,css,1
+2026-06-22,data,8
 2026-06-22,decides,3
 2026-06-22,decision,10
-2026-06-22,decisions,13
-2026-06-22,defending,5
-2026-06-22,design,104
+2026-06-22,decisions,14
+2026-06-22,default,7
+2026-06-22,defending,6
+2026-06-22,design,139
 2026-06-22,design ideas,2
 2026-06-22,design inspiration,6
 2026-06-22,design inspiration discover,1
@@ -464,54 +496,59 @@ period,Term,Count
 2026-06-22,design timelapse simple,3
 2026-06-22,design trends,5
 2026-06-22,design tutorials,3
-2026-06-22,designer,4
-2026-06-22,designers,17
-2026-06-22,designing,5
+2026-06-22,designer,5
+2026-06-22,designers,19
+2026-06-22,designing,6
 2026-06-22,designprocess,3
-2026-06-22,development,3
+2026-06-22,development,5
 2026-06-22,did,6
 2026-06-22,didn,3
-2026-06-22,different,16
-2026-06-22,directly,2
+2026-06-22,different,18
+2026-06-22,direction,5
+2026-06-22,directly,6
 2026-06-22,discover,4
-2026-06-22,div,10
-2026-06-22,div class,5
-2026-06-22,div class medium,5
-2026-06-22,does,20
+2026-06-22,div,8
+2026-06-22,div class,4
+2026-06-22,div class medium,4
+2026-06-22,does,22
 2026-06-22,doesn,8
 2026-06-22,doing,5
 2026-06-22,don,10
+2026-06-22,drawing,2
 2026-06-22,effect,1
 2026-06-22,enables,2
-2026-06-22,end,2
-2026-06-22,era,2
+2026-06-22,end,3
+2026-06-22,era,5
 2026-06-22,explain,2
 2026-06-22,explore,1
 2026-06-22,face,1
 2026-06-22,fail,5
-2026-06-22,fast,3
-2026-06-22,feed,20
-2026-06-22,feed image,5
-2026-06-22,feed image src,5
-2026-06-22,feed item,5
-2026-06-22,feed item class,5
-2026-06-22,feed link,5
-2026-06-22,feed link reading,5
-2026-06-22,feed snippet,5
-2026-06-22,feel,2
-2026-06-22,figcaption,26
+2026-06-22,fast,4
+2026-06-22,faster,4
+2026-06-22,feed,16
+2026-06-22,feed image,4
+2026-06-22,feed image src,4
+2026-06-22,feed item,4
+2026-06-22,feed item class,4
+2026-06-22,feed link,4
+2026-06-22,feed link reading,4
+2026-06-22,feed snippet,4
+2026-06-22,feel,3
+2026-06-22,feels,5
+2026-06-22,figcaption,29
 2026-06-22,figcaption figure,13
-2026-06-22,figma,5
-2026-06-22,figure,36
-2026-06-22,figure img,13
-2026-06-22,figure img alt,13
+2026-06-22,figma,51
+2026-06-22,figure,39
+2026-06-22,figure img,16
+2026-06-22,figure img alt,16
+2026-06-22,finish,1
 2026-06-22,fix,1
 2026-06-22,fraction,3
 2026-06-22,frame,5
 2026-06-22,friction,4
-2026-06-22,future,2
+2026-06-22,future,4
 2026-06-22,generated,3
-2026-06-22,gets,7
+2026-06-22,gets,9
 2026-06-22,going,3
 2026-06-22,good,9
 2026-06-22,google,5
@@ -528,177 +565,214 @@ period,Term,Count
 2026-06-22,guide,4
 2026-06-22,hand,7
 2026-06-22,happens,5
-2026-06-22,height,4
-2026-06-22,height src,4
-2026-06-22,height src width,4
+2026-06-22,hard,6
+2026-06-22,height,5
+2026-06-22,height src,5
+2026-06-22,height src width,5
 2026-06-22,help,1
-2026-06-22,helps,1
+2026-06-22,helps,2
 2026-06-22,high,3
-2026-06-22,highlighting,4
-2026-06-22,highlighting responding,4
-2026-06-22,highlighting responding story,4
+2026-06-22,highlighting,5
+2026-06-22,highlighting responding,5
+2026-06-22,highlighting responding story,5
 2026-06-22,honest,7
 2026-06-22,idea,1
-2026-06-22,ideas,3
+2026-06-22,ideas,4
 2026-06-22,illustrator,4
-2026-06-22,image,8
-2026-06-22,image src,5
-2026-06-22,image src width,5
-2026-06-22,img,17
-2026-06-22,img alt,17
+2026-06-22,image,13
+2026-06-22,image src,4
+2026-06-22,image src width,4
+2026-06-22,img,20
+2026-06-22,img alt,20
 2026-06-22,img alt height,4
-2026-06-22,important,1
+2026-06-22,important,3
 2026-06-22,improve,2
 2026-06-22,inspiration,7
 2026-06-22,inspiration discover,1
 2026-06-22,inspiration websites,4
 2026-06-22,inspiration websites better,4
-2026-06-22,interfaces,5
-2026-06-22,isn,4
-2026-06-22,item,5
-2026-06-22,item class,5
-2026-06-22,item class medium,5
+2026-06-22,interface,5
+2026-06-22,interfaces,6
+2026-06-22,isn,5
+2026-06-22,issue,3
+2026-06-22,item,4
+2026-06-22,item class,4
+2026-06-22,item class medium,4
 2026-06-22,judgment,37
-2026-06-22,just,9
+2026-06-22,june,5
+2026-06-22,just,10
 2026-06-22,know,6
+2026-06-22,language,7
 2026-06-22,latest,1
 2026-06-22,latest trends,1
-2026-06-22,layers,2
+2026-06-22,layer,9
+2026-06-22,layers,6
 2026-06-22,left,2
 2026-06-22,let,2
 2026-06-22,level,2
-2026-06-22,like,17
-2026-06-22,link,5
-2026-06-22,link reading,5
-2026-06-22,link reading collective,5
+2026-06-22,like,21
+2026-06-22,line,7
+2026-06-22,link,4
+2026-06-22,link reading,4
+2026-06-22,link reading collective,4
 2026-06-22,little,3
 2026-06-22,logo,13
 2026-06-22,logo design,8
 2026-06-22,long,4
+2026-06-22,longer,12
 2026-06-22,look,4
 2026-06-22,looks,6
 2026-06-22,looks like,3
 2026-06-22,low,7
-2026-06-22,make,6
-2026-06-22,makes,10
-2026-06-22,making,7
-2026-06-22,matters,8
-2026-06-22,mcp,3
+2026-06-22,make,13
+2026-06-22,make design,3
+2026-06-22,makes,13
+2026-06-22,making,8
+2026-06-22,matters,10
+2026-06-22,mcp,4
 2026-06-22,means,5
 2026-06-22,media,4
-2026-06-22,medium,24
-2026-06-22,medium feed,20
-2026-06-22,medium feed image,5
-2026-06-22,medium feed item,5
-2026-06-22,medium feed link,5
-2026-06-22,medium feed snippet,5
-2026-06-22,medium people,4
-2026-06-22,medium people continuing,4
+2026-06-22,medium,21
+2026-06-22,medium feed,16
+2026-06-22,medium feed image,4
+2026-06-22,medium feed item,4
+2026-06-22,medium feed link,4
+2026-06-22,medium feed snippet,4
+2026-06-22,medium people,5
+2026-06-22,medium people continuing,5
 2026-06-22,million,8
-2026-06-22,model,10
-2026-06-22,modern,22
-2026-06-22,moment,5
-2026-06-22,need,4
-2026-06-22,needs,3
-2026-06-22,new,9
+2026-06-22,mistakes,3
+2026-06-22,model,15
+2026-06-22,modern,23
+2026-06-22,modern product,4
+2026-06-22,moment,8
+2026-06-22,need,6
+2026-06-22,needs,5
+2026-06-22,new,17
+2026-06-22,number,5
+2026-06-22,ones,4
 2026-06-22,open,9
+2026-06-22,operating,4
 2026-06-22,order,5
-2026-06-22,originally,5
-2026-06-22,originally published,4
-2026-06-22,originally published collective,4
+2026-06-22,originally,6
+2026-06-22,originally published,5
+2026-06-22,originally published collective,5
 2026-06-22,page,4
+2026-06-22,past,3
 2026-06-22,pattern,8
 2026-06-22,patterns,2
-2026-06-22,people,12
-2026-06-22,people continuing,4
-2026-06-22,people continuing conversation,4
+2026-06-22,people,15
+2026-06-22,people continuing,5
+2026-06-22,people continuing conversation,5
 2026-06-22,perfect,4
 2026-06-22,person,19
-2026-06-22,photoshop,15
-2026-06-22,place,7
+2026-06-22,photoshop,16
+2026-06-22,place,10
 2026-06-22,places,2
-2026-06-22,point,8
+2026-06-22,point,10
 2026-06-22,poster,14
 2026-06-22,poster design,9
 2026-06-22,practical,1
 2026-06-22,pro,2
 2026-06-22,probably,3
 2026-06-22,problem,9
-2026-06-22,process,8
-2026-06-22,product,20
-2026-06-22,products,15
+2026-06-22,process,9
+2026-06-22,product,35
+2026-06-22,product teams,2
+2026-06-22,products,18
 2026-06-22,professional,8
 2026-06-22,professional visual,3
 2026-06-22,professional visual design,3
 2026-06-22,projects,3
+2026-06-22,prototypes,2
 2026-06-22,public,2
-2026-06-22,published,4
-2026-06-22,published collective,4
-2026-06-22,published collective medium,4
+2026-06-22,published,5
+2026-06-22,published collective,5
+2026-06-22,published collective medium,5
 2026-06-22,quality,16
-2026-06-22,question,13
-2026-06-22,reading,6
-2026-06-22,reading collective,5
-2026-06-22,reading collective div,5
-2026-06-22,real,7
+2026-06-22,question,16
+2026-06-22,reading,5
+2026-06-22,reading collective,4
+2026-06-22,reading collective div,4
+2026-06-22,real,14
 2026-06-22,reality,2
 2026-06-22,reasonable,5
 2026-06-22,require,3
 2026-06-22,required,4
-2026-06-22,responding,4
-2026-06-22,responding story,4
+2026-06-22,responding,8
+2026-06-22,responding story,5
 2026-06-22,responsive,1
-2026-06-22,reveals,3
-2026-06-22,right,12
+2026-06-22,reveals,4
+2026-06-22,right,13
+2026-06-22,runs,10
 2026-06-22,sales,2
 2026-06-22,says,5
-2026-06-22,scale,5
+2026-06-22,scale,6
 2026-06-22,self,2
 2026-06-22,sense,4
 2026-06-22,services,1
 2026-06-22,shape,3
+2026-06-22,shared,8
+2026-06-22,shift,5
+2026-06-22,ship,3
 2026-06-22,shorts,8
 2026-06-22,showing,7
 2026-06-22,simple,3
 2026-06-22,simple concept,3
 2026-06-22,simple concept transforms,3
+2026-06-22,single,10
+2026-06-22,skip,5
+2026-06-22,slightly,3
 2026-06-22,small,4
-2026-06-22,snippet,5
+2026-06-22,snippet,4
 2026-06-22,social,4
 2026-06-22,social media,4
-2026-06-22,source,10
-2026-06-22,src,27
-2026-06-22,src figcaption,13
+2026-06-22,software,10
+2026-06-22,source,20
+2026-06-22,spending,4
+2026-06-22,src,30
+2026-06-22,src figcaption,16
 2026-06-22,src width,9
-2026-06-22,src width class,5
-2026-06-22,starts,3
-2026-06-22,stop,4
-2026-06-22,story,6
-2026-06-22,strong,85
+2026-06-22,src width class,4
+2026-06-22,stakeholder,4
+2026-06-22,starts,4
+2026-06-22,stays,4
+2026-06-22,stop,5
+2026-06-22,stops,4
+2026-06-22,story,8
+2026-06-22,strong,87
+2026-06-22,structured,9
 2026-06-22,study,3
 2026-06-22,stunning,1
-2026-06-22,surface,2
-2026-06-22,systems,12
-2026-06-22,teams,6
+2026-06-22,surface,3
+2026-06-22,survives,4
+2026-06-22,systems,14
+2026-06-22,team,12
+2026-06-22,teams,19
 2026-06-22,techniques,4
 2026-06-22,telling,5
 2026-06-22,things,5
-2026-06-22,think,6
+2026-06-22,think,7
 2026-06-22,thinking,3
-2026-06-22,time,21
+2026-06-22,time,23
 2026-06-22,timelapse,4
 2026-06-22,timelapse simple,3
 2026-06-22,timelapse simple concept,3
+2026-06-22,times,5
 2026-06-22,tips,2
 2026-06-22,tired,5
+2026-06-22,tokens,6
+2026-06-22,tool,5
 2026-06-22,tooling,2
-2026-06-22,tools,12
+2026-06-22,tools,21
 2026-06-22,tradeoffs,3
 2026-06-22,transforms,4
 2026-06-22,transforms professional,3
 2026-06-22,transforms professional visual,3
+2026-06-22,trend,1
 2026-06-22,trends,13
 2026-06-22,trust,4
+2026-06-22,truth,7
 2026-06-22,tutorial,1
 2026-06-22,tutorials,3
 2026-06-22,type,1
@@ -706,20 +780,21 @@ period,Term,Count
 2026-06-22,uncertainty,2
 2026-06-22,underlying,2
 2026-06-22,use,1
-2026-06-22,used,6
+2026-06-22,used,8
 2026-06-22,user,11
 2026-06-22,users,5
 2026-06-22,using,4
 2026-06-22,video,3
 2026-06-22,viral,1
 2026-06-22,visible,7
-2026-06-22,visual,10
+2026-06-22,visual,12
 2026-06-22,visual design,3
 2026-06-22,wait,3
+2026-06-22,want,3
 2026-06-22,watch,6
 2026-06-22,watch complete,3
 2026-06-22,watch complete graphic,3
-2026-06-22,way,15
+2026-06-22,way,20
 2026-06-22,web,4
 2026-06-22,webdesign,1
 2026-06-22,website,5
@@ -729,13 +804,14 @@ period,Term,Count
 2026-06-22,websites better google,4
 2026-06-22,welcome,3
 2026-06-22,width,9
-2026-06-22,width class,5
-2026-06-22,width class medium,5
-2026-06-22,work,24
-2026-06-22,working,4
+2026-06-22,width class,4
+2026-06-22,width class medium,4
+2026-06-22,winning,2
+2026-06-22,work,28
+2026-06-22,working,6
 2026-06-22,works,2
-2026-06-22,world,7
+2026-06-22,world,9
 2026-06-22,worth,4
 2026-06-22,wrong,7
-2026-06-22,years,5
+2026-06-22,years,6
 2026-06-22,zero,3
