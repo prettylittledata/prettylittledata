@@ -3,38 +3,40 @@ period,Term,Count
 2026-05-11,ageing,2
 2026-05-11,anti,2
 2026-05-11,beach,2
-2026-05-11,beauty,8
-2026-05-11,beauty trend,8
+2026-05-11,beauty,10
+2026-05-11,beauty trend,10
 2026-05-11,claire,2
 2026-05-11,collagen,2
-2026-05-11,daily,2
+2026-05-11,daily,4
+2026-05-11,dior,6
 2026-05-11,girl,4
 2026-05-11,glam,2
 2026-05-11,hot,2
-2026-05-11,hottest,4
+2026-05-11,hottest,8
 2026-05-11,india,4
-2026-05-11,know,2
+2026-05-11,know,4
 2026-05-11,latest,4
 2026-05-11,lip,2
-2026-05-11,makeup,4
-2026-05-11,makeup trend,2
+2026-05-11,makeup,6
+2026-05-11,makeup trend,4
 2026-05-11,marie,2
 2026-05-11,marie claire,2
 2026-05-11,news,12
 2026-05-11,really,2
-2026-05-11,says,4
-2026-05-11,skincare,6
+2026-05-11,says,6
+2026-05-11,skincare,8
 2026-05-11,skincare trend,4
-2026-05-11,summer,2
-2026-05-11,tiktok,2
+2026-05-11,summer,4
+2026-05-11,summer hottest,4
+2026-05-11,tiktok,4
 2026-05-11,times,4
 2026-05-11,times india,4
-2026-05-11,trend,14
-2026-05-11,tried,2
+2026-05-11,trend,18
+2026-05-11,tried,4
 2026-05-11,video,4
 2026-05-11,videos,4
 2026-05-11,viral,2
-2026-05-11,vogue,2
+2026-05-11,vogue,4
 2026-05-11,wwd,2
 2026-05-18,biggest,2
 2026-05-18,biggest makeup,2
@@ -43,22 +45,29 @@ period,Term,Count
 2026-05-18,blurred skin,6
 2026-05-18,blurred skin soft,6
 2026-05-18,care,4
-2026-05-18,claire,2
+2026-05-18,claire,4
 2026-05-18,focus,6
 2026-05-18,focus makeup,6
 2026-05-18,focus makeup trend,6
 2026-05-18,follow,2
 2026-05-18,french,2
-2026-05-18,hot,4
+2026-05-18,hot,6
+2026-05-18,hot sweaty,6
+2026-05-18,hot sweaty vixen,6
 2026-05-18,life,2
-2026-05-18,like,4
-2026-05-18,looking,4
-2026-05-18,makeup,14
-2026-05-18,makeup trend,12
+2026-05-18,like,6
+2026-05-18,like hot,6
+2026-05-18,like hot sweaty,6
+2026-05-18,looking,6
+2026-05-18,looking like,6
+2026-05-18,looking like hot,6
+2026-05-18,makeup,16
+2026-05-18,makeup trend,14
+2026-05-18,makeup trend looking,6
 2026-05-18,makeup trend suits,6
 2026-05-18,makeup trends,2
-2026-05-18,marie,2
-2026-05-18,marie claire,2
+2026-05-18,marie,4
+2026-05-18,marie claire,4
 2026-05-18,photos,2
 2026-05-18,right,2
 2026-05-18,skin,16
@@ -73,15 +82,19 @@ period,Term,Count
 2026-05-18,suits,6
 2026-05-18,suits skin,6
 2026-05-18,suits skin type,6
-2026-05-18,summer,8
+2026-05-18,summer,10
 2026-05-18,summer biggest,2
 2026-05-18,summer biggest makeup,2
-2026-05-18,summer makeup,6
-2026-05-18,summer makeup trend,6
+2026-05-18,summer makeup,8
+2026-05-18,summer makeup trend,8
+2026-05-18,sweaty,6
+2026-05-18,sweaty vixen,6
 2026-05-18,texture,6
 2026-05-18,texture vogue,6
 2026-05-18,texture vogue blurred,3
-2026-05-18,trend,14
+2026-05-18,trend,16
+2026-05-18,trend looking,6
+2026-05-18,trend looking like,6
 2026-05-18,trend right,2
 2026-05-18,trend suits,6
 2026-05-18,trend suits skin,6
@@ -89,26 +102,29 @@ period,Term,Count
 2026-05-18,type,6
 2026-05-18,type texture,6
 2026-05-18,type texture vogue,6
+2026-05-18,vixen,6
 2026-05-18,vogue,8
 2026-05-18,vogue blurred,3
 2026-05-18,vogue blurred skin,3
 2026-05-18,women,2
 2026-05-18,yahoo,2
-2026-05-25,banana,2
-2026-05-25,banana beauty,2
-2026-05-25,banana beauty trend,2
-2026-05-25,beauty,8
+2026-05-25,banana,4
+2026-05-25,banana beauty,4
+2026-05-25,banana beauty trend,4
+2026-05-25,beauty,10
 2026-05-25,beauty products,2
-2026-05-25,beauty trend,2
+2026-05-25,beauty trend,4
 2026-05-25,beauty trends,4
 2026-05-25,biggest,2
 2026-05-25,biggest makeup,2
 2026-05-25,biggest makeup trends,2
 2026-05-25,elle,4
+2026-05-25,eyeliner,2
 2026-05-25,eyes,2
 2026-05-25,favorite,2
 2026-05-25,fresh,2
 2026-05-25,good,2
+2026-05-25,having,4
 2026-05-25,lip,2
 2026-05-25,lipstick,2
 2026-05-25,look,2
@@ -117,58 +133,64 @@ period,Term,Count
 2026-05-25,makeup trend,2
 2026-05-25,makeup trends,4
 2026-05-25,making,2
-2026-05-25,moment,2
+2026-05-25,moment,4
 2026-05-25,need,2
 2026-05-25,news,2
-2026-05-25,online,2
-2026-05-25,online singapore,2
-2026-05-25,online singapore banana,1
+2026-05-25,online,4
+2026-05-25,online singapore,4
+2026-05-25,online singapore banana,2
 2026-05-25,photos,2
-2026-05-25,prestige,2
-2026-05-25,prestige online,2
-2026-05-25,prestige online singapore,2
+2026-05-25,prestige,4
+2026-05-25,prestige online,4
+2026-05-25,prestige online singapore,4
 2026-05-25,products,2
+2026-05-25,say,2
 2026-05-25,share,2
-2026-05-25,singapore,2
-2026-05-25,singapore banana,1
-2026-05-25,singapore banana beauty,1
+2026-05-25,singapore,4
+2026-05-25,singapore banana,2
+2026-05-25,singapore banana beauty,2
 2026-05-25,skincare,2
 2026-05-25,summer,12
 2026-05-25,summer biggest,2
 2026-05-25,summer biggest makeup,2
 2026-05-25,summer makeup,2
 2026-05-25,summer makeup trend,2
-2026-05-25,trend,8
+2026-05-25,trend,10
 2026-05-25,trends,10
 2026-05-25,unexpected,2
 2026-05-25,watch,2
 2026-05-25,wear,4
 2026-05-25,weeks,2
 2026-06-01,ageing,4
-2026-06-01,beauty,12
-2026-06-01,beauty trend,8
+2026-06-01,beauty,16
+2026-06-01,beauty trend,12
 2026-06-01,beauty trends,4
 2026-06-01,biggest,4
 2026-06-01,biggest makeup,4
 2026-06-01,biggest makeup trends,4
+2026-06-01,blush,2
 2026-06-01,care,2
 2026-06-01,did,4
-2026-06-01,elle,2
+2026-06-01,elle,4
 2026-06-01,era,4
 2026-06-01,eyes,4
 2026-06-01,favorite,2
 2026-06-01,got,2
 2026-06-01,heat,4
-2026-06-01,india,2
+2026-06-01,india,4
 2026-06-01,internet,2
 2026-06-01,link,2
-2026-06-01,lips,4
+2026-06-01,lip,2
+2026-06-01,lips,8
 2026-06-01,long,2
-2026-06-01,makeup,6
+2026-06-01,look,2
+2026-06-01,makeup,8
+2026-06-01,makeup look,2
 2026-06-01,makeup trends,4
 2026-06-01,new,6
 2026-06-01,new beauty,4
 2026-06-01,new beauty trend,4
+2026-06-01,news,2
 2026-06-01,real,2
 2026-06-01,siren,4
 2026-06-01,siren eyes,4
@@ -184,7 +206,7 @@ period,Term,Count
 2026-06-01,times,4
 2026-06-01,times india,2
 2026-06-01,tips,2
-2026-06-01,trend,10
+2026-06-01,trend,14
 2026-06-01,trends,10
 2026-06-01,turning,4
 2026-06-01,type,2
@@ -273,9 +295,9 @@ period,Term,Count
 2026-06-15,banana,4
 2026-06-15,banana beauty,4
 2026-06-15,banana beauty trend,4
-2026-06-15,beauty,29
+2026-06-15,beauty,33
 2026-06-15,beauty products,2
-2026-06-15,beauty trend,10
+2026-06-15,beauty trend,14
 2026-06-15,beauty trends,2
 2026-06-15,best,3
 2026-06-15,claire,2
@@ -288,6 +310,7 @@ period,Term,Count
 2026-06-15,entertainment,1
 2026-06-15,eye,6
 2026-06-15,eye makeup,4
+2026-06-15,eyeliner,2
 2026-06-15,fashion,1
 2026-06-15,fifa,1
 2026-06-15,football,2
@@ -299,12 +322,14 @@ period,Term,Count
 2026-06-15,growing,2
 2026-06-15,hair,2
 2026-06-15,haircut,3
+2026-06-15,india,2
 2026-06-15,inspired,2
 2026-06-15,items,4
 2026-06-15,korean,2
 2026-06-15,light,1
 2026-06-15,like,1
-2026-06-15,look,5
+2026-06-15,lips,2
+2026-06-15,look,7
 2026-06-15,looks,2
 2026-06-15,make,1
 2026-06-15,makeup,31
@@ -328,6 +353,7 @@ period,Term,Count
 2026-06-15,ranking,3
 2026-06-15,real,3
 2026-06-15,routine,1
+2026-06-15,say,2
 2026-06-15,shorts,8
 2026-06-15,shorts trending,1
 2026-06-15,simple,3
@@ -338,13 +364,16 @@ period,Term,Count
 2026-06-15,skincare,6
 2026-06-15,skincare trend,2
 2026-06-15,soft,1
-2026-06-15,summer,8
+2026-06-15,star,2
+2026-06-15,summer,10
 2026-06-15,things,1
 2026-06-15,tiktok,9
+2026-06-15,times,2
+2026-06-15,times india,2
 2026-06-15,tips,2
 2026-06-15,tone,1
 2026-06-15,transition,6
-2026-06-15,trend,40
+2026-06-15,trend,44
 2026-06-15,trend makeup,4
 2026-06-15,trend skincare,4
 2026-06-15,trending,7
@@ -389,6 +418,7 @@ period,Term,Count
 2026-06-22,biggest,5
 2026-06-22,black,10
 2026-06-22,blue,3
+2026-06-22,blush,3
 2026-06-22,boys,20
 2026-06-22,bring,4
 2026-06-22,business,6
@@ -440,6 +470,7 @@ period,Term,Count
 2026-06-22,especially,5
 2026-06-22,express,3
 2026-06-22,extra,3
+2026-06-22,eyeliner,1
 2026-06-22,face,11
 2026-06-22,fashion,9
 2026-06-22,favorite,3
@@ -479,6 +510,7 @@ period,Term,Count
 2026-06-22,hair,18
 2026-06-22,haircut,1
 2026-06-22,hard,7
+2026-06-22,having,2
 2026-06-22,healthy,3
 2026-06-22,heat,3
 2026-06-22,high,3
@@ -600,6 +632,7 @@ period,Term,Count
 2026-06-22,routine,12
 2026-06-22,routines,1
 2026-06-22,sale,11
+2026-06-22,say,1
 2026-06-22,says,4
 2026-06-22,season,37
 2026-06-22,second,5
@@ -645,6 +678,7 @@ period,Term,Count
 2026-06-22,strong strong,92
 2026-06-22,style,6
 2026-06-22,summer,35
+2026-06-22,summer hottest,1
 2026-06-22,sun,8
 2026-06-22,sure,5
 2026-06-22,taking,3
