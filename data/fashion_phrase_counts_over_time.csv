@@ -52,18 +52,18 @@ period,Term,Count
 2026-06-01,british vogue,2
 2026-06-01,fashion,4
 2026-06-01,football,2
-2026-06-01,hunter,2
+2026-06-01,hunter,4
 2026-06-01,inspired,2
 2026-06-01,key,2
 2026-06-01,know,2
 2026-06-01,spring,2
 2026-06-01,spring summer,2
-2026-06-01,streetwear,2
+2026-06-01,streetwear,4
 2026-06-01,streetwear trend,2
 2026-06-01,summer,6
 2026-06-01,summer trends,6
-2026-06-01,trend,2
-2026-06-01,trend hunter,2
+2026-06-01,trend,4
+2026-06-01,trend hunter,4
 2026-06-01,trends,6
 2026-06-01,trends wear,4
 2026-06-01,vogue,2
@@ -189,6 +189,7 @@ period,Term,Count
 2026-06-15,new,12
 2026-06-15,new york,10
 2026-06-15,new york post,8
+2026-06-15,new york times,2
 2026-06-15,outfit,1
 2026-06-15,oversized,2
 2026-06-15,paris,1
@@ -237,6 +238,7 @@ period,Term,Count
 2026-06-15,women,2
 2026-06-15,york,10
 2026-06-15,york post,8
+2026-06-15,york times,2
 2026-06-15,ytshorts,1
 2026-06-22,according,6
 2026-06-22,actually,5
@@ -293,7 +295,7 @@ period,Term,Count
 2026-06-22,dua lipa proves,4
 2026-06-22,effortless,3
 2026-06-22,elegant,6
-2026-06-22,elle,14
+2026-06-22,elle,12
 2026-06-22,elle fashion,2
 2026-06-22,ends,6
 2026-06-22,experts,6
@@ -304,7 +306,7 @@ period,Term,Count
 2026-06-22,fashion people,4
 2026-06-22,fashion trend,26
 2026-06-22,fashion trends,19
-2026-06-22,fashion week,11
+2026-06-22,fashion week,13
 2026-06-22,fashiontrends,23
 2026-06-22,featuring,3
 2026-06-22,fit,2
@@ -342,7 +344,9 @@ period,Term,Count
 2026-06-22,just,2
 2026-06-22,key,1
 2026-06-22,knicks,8
-2026-06-22,know,8
+2026-06-22,know,10
+2026-06-22,know trends,6
+2026-06-22,know trends stories,6
 2026-06-22,kurti,9
 2026-06-22,latest,9
 2026-06-22,lifestyle,8
@@ -366,11 +370,14 @@ period,Term,Count
 2026-06-22,men outfit,4
 2026-06-22,mensfashion,15
 2026-06-22,mensstyle,5
-2026-06-22,milan,8
+2026-06-22,milan,10
+2026-06-22,milan fashion,6
+2026-06-22,milan fashion week,6
 2026-06-22,minimalist,5
 2026-06-22,modern,8
 2026-06-22,new,24
-2026-06-22,new york,7
+2026-06-22,new york,9
+2026-06-22,new york times,4
 2026-06-22,news,4
 2026-06-22,nyc,7
 2026-06-22,old,7
@@ -408,7 +415,9 @@ period,Term,Count
 2026-06-22,spring,4
 2026-06-22,star,6
 2026-06-22,step,1
-2026-06-22,stories,7
+2026-06-22,stories,9
+2026-06-22,stories milan,6
+2026-06-22,stories milan fashion,6
 2026-06-22,street,13
 2026-06-22,street style,7
 2026-06-22,streetwear,9
@@ -426,13 +435,15 @@ period,Term,Count
 2026-06-22,taking,2
 2026-06-22,thought,6
 2026-06-22,tiktok,4
-2026-06-22,times,4
+2026-06-22,times,6
 2026-06-22,tops,4
 2026-06-22,trend,72
 2026-06-22,trend hunter,6
 2026-06-22,trending,10
-2026-06-22,trends,66
+2026-06-22,trends,68
 2026-06-22,trends add,4
+2026-06-22,trends stories,6
+2026-06-22,trends stories milan,6
 2026-06-22,trends stylish,7
 2026-06-22,trends wear,2
 2026-06-22,trendy,5
@@ -442,7 +453,7 @@ period,Term,Count
 2026-06-22,usa,9
 2026-06-22,usa foryou,6
 2026-06-22,usa foryou fyp,6
-2026-06-22,video,8
+2026-06-22,video,6
 2026-06-22,vintage,4
 2026-06-22,viral,9
 2026-06-22,viral youtubeshorts,7
@@ -460,7 +471,7 @@ period,Term,Count
 2026-06-22,wedding,15
 2026-06-22,wedding fashion,6
 2026-06-22,wedding fashion trend,4
-2026-06-22,week,13
+2026-06-22,week,15
 2026-06-22,welcome,4
 2026-06-22,white,8
 2026-06-22,women,20
@@ -469,7 +480,8 @@ period,Term,Count
 2026-06-22,world cup,13
 2026-06-22,wwd,14
 2026-06-22,year,6
-2026-06-22,york,7
+2026-06-22,york,9
+2026-06-22,york times,4
 2026-06-22,youtubeshorts,7
 2026-06-22,youtubeshorts fashiontrends,7
 2026-06-22,ytshorts,3
