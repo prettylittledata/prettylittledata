@@ -1,17 +1,8 @@
 period,Term,Count
-2026-05-11,fashion,2
-2026-05-11,fashion trends,2
-2026-05-11,summer,2
-2026-05-11,summer fashion,2
-2026-05-11,summer fashion trends,2
-2026-05-11,trends,2
-2026-05-11,try,2
-2026-05-11,vogue,2
 2026-05-18,dated,4
 2026-05-18,dated summer,4
 2026-05-18,disagree,4
 2026-05-18,elle,2
-2026-05-18,elle fashion,1
 2026-05-18,fashion,12
 2026-05-18,fashion trend,4
 2026-05-18,fashion trends,6
@@ -30,14 +21,16 @@ period,Term,Count
 2026-05-18,wear,6
 2026-05-18,wearing,2
 2026-05-18,welcome,2
+2026-05-25,capri,4
+2026-05-25,capri pants,4
 2026-05-25,clothing,2
 2026-05-25,cosmopolitan,6
-2026-05-25,denim,2
+2026-05-25,denim,4
 2026-05-25,fashion,2
 2026-05-25,fashion trends,2
 2026-05-25,just,2
-2026-05-25,luxury,2
-2026-05-25,pants,2
+2026-05-25,luxury,4
+2026-05-25,pants,4
 2026-05-25,seeing,2
 2026-05-25,sports,2
 2026-05-25,spring,4
@@ -46,15 +39,16 @@ period,Term,Count
 2026-05-25,street,2
 2026-05-25,street style,2
 2026-05-25,streetwear,2
-2026-05-25,style,4
-2026-05-25,summer,12
-2026-05-25,summer style,2
+2026-05-25,style,6
+2026-05-25,style wear,4
+2026-05-25,summer,16
+2026-05-25,summer style,4
 2026-05-25,summer trend,2
 2026-05-25,summer trends,2
 2026-05-25,trend,2
-2026-05-25,trends,8
+2026-05-25,trends,10
 2026-05-25,vogue,4
-2026-05-25,wear,2
+2026-05-25,wear,4
 2026-05-25,year,4
 2026-06-01,british,2
 2026-06-01,british vogue,2
@@ -79,6 +73,8 @@ period,Term,Count
 2026-06-01,wearing,4
 2026-06-01,wearing summer,4
 2026-06-08,add,1
+2026-06-08,away,4
+2026-06-08,beauty,2
 2026-06-08,black,1
 2026-06-08,bold,4
 2026-06-08,business,1
@@ -86,18 +82,20 @@ period,Term,Count
 2026-06-08,clothing,1
 2026-06-08,collaborations,2
 2026-06-08,cool,4
+2026-06-08,defining,2
 2026-06-08,denim,4
 2026-06-08,disagree,2
 2026-06-08,elle,4
+2026-06-08,experts,2
 2026-06-08,fall,1
-2026-06-08,fashion,21
+2026-06-08,fashion,27
 2026-06-08,fashion people,4
 2026-06-08,fashion trends,2
 2026-06-08,fashion week,5
 2026-06-08,fyp,3
 2026-06-08,good,2
 2026-06-08,hello,5
-2026-06-08,hottest,2
+2026-06-08,hottest,4
 2026-06-08,hunter,4
 2026-06-08,inside,2
 2026-06-08,jeans,4
@@ -115,7 +113,7 @@ period,Term,Count
 2026-06-08,staffers,6
 2026-06-08,staffers seeing,6
 2026-06-08,staffers seeing right,6
-2026-06-08,step,2
+2026-06-08,step,4
 2026-06-08,streetwear,8
 2026-06-08,style,2
 2026-06-08,summer,14
@@ -123,10 +121,10 @@ period,Term,Count
 2026-06-08,summer trends staffers,6
 2026-06-08,summer wear,4
 2026-06-08,taking,8
-2026-06-08,times,2
-2026-06-08,trend,8
+2026-06-08,times,4
+2026-06-08,trend,10
 2026-06-08,trend hunter,4
-2026-06-08,trends,22
+2026-06-08,trends,24
 2026-06-08,trends staffers,6
 2026-06-08,trends staffers seeing,6
 2026-06-08,trends taking,6
@@ -140,6 +138,7 @@ period,Term,Count
 2026-06-08,wearing summer wear,4
 2026-06-08,week,5
 2026-06-08,white,2
+2026-06-15,accessories,1
 2026-06-15,add,2
 2026-06-15,breakout,4
 2026-06-15,breakout wedding,4
@@ -155,6 +154,7 @@ period,Term,Count
 2026-06-15,daily,1
 2026-06-15,dated,2
 2026-06-15,dated summer,2
+2026-06-15,defining,4
 2026-06-15,denim,1
 2026-06-15,designer,1
 2026-06-15,dua,4
@@ -163,9 +163,9 @@ period,Term,Count
 2026-06-15,effortless,1
 2026-06-15,explore,1
 2026-06-15,fall,1
-2026-06-15,fashion,22
-2026-06-15,fashion trend,18
-2026-06-15,fashion trends,1
+2026-06-15,fashion,26
+2026-06-15,fashion trend,20
+2026-06-15,fashion trends,3
 2026-06-15,fashion week,1
 2026-06-15,fit,1
 2026-06-15,french,2
@@ -181,7 +181,7 @@ period,Term,Count
 2026-06-15,just,1
 2026-06-15,key,2
 2026-06-15,latest,1
-2026-06-15,lifestyle,2
+2026-06-15,lifestyle,4
 2026-06-15,lipa,4
 2026-06-15,lipa proves,4
 2026-06-15,lipa proves bridal,4
@@ -196,35 +196,37 @@ period,Term,Count
 2026-06-15,oversized,2
 2026-06-15,paris,1
 2026-06-15,paris fashion,1
-2026-06-15,paris fashion week,1
 2026-06-15,perfect,2
 2026-06-15,post,8
 2026-06-15,proves,4
 2026-06-15,proves bridal,4
 2026-06-15,proves bridal headpieces,4
+2026-06-15,season,2
 2026-06-15,shirt,6
-2026-06-15,sports,2
-2026-06-15,spring,2
-2026-06-15,spring summer,2
+2026-06-15,sports,4
+2026-06-15,spring,4
+2026-06-15,spring summer,4
 2026-06-15,step,1
 2026-06-15,streetwear,13
 2026-06-15,streetwear trend,2
 2026-06-15,style,3
 2026-06-15,stylish,2
-2026-06-15,summer,11
+2026-06-15,summer,17
+2026-06-15,summer fashion,2
+2026-06-15,summer fashion trends,2
 2026-06-15,summer trends,4
-2026-06-15,summer vogue,2
+2026-06-15,summer vogue,4
 2026-06-15,tiktok,5
 2026-06-15,times,2
 2026-06-15,tops,1
-2026-06-15,trend,28
+2026-06-15,trend,32
 2026-06-15,trend hunter,4
 2026-06-15,trending,2
-2026-06-15,trends,5
+2026-06-15,trends,7
 2026-06-15,trends add,2
 2026-06-15,trendy,1
 2026-06-15,upgrade,1
-2026-06-15,vogue,8
+2026-06-15,vogue,10
 2026-06-15,vogue dua,2
 2026-06-15,vogue dua lipa,2
 2026-06-15,want,2
@@ -238,28 +240,33 @@ period,Term,Count
 2026-06-15,york,10
 2026-06-15,york post,8
 2026-06-15,ytshorts,1
+2026-06-22,accessories,3
 2026-06-22,according,6
 2026-06-22,actually,5
 2026-06-22,add,4
+2026-06-22,away,2
 2026-06-22,bags,6
-2026-06-22,bazaar,10
+2026-06-22,bazaar,8
+2026-06-22,beauty,4
 2026-06-22,best,5
 2026-06-22,biggest,10
 2026-06-22,black,10
 2026-06-22,bold,2
-2026-06-22,breakout,4
-2026-06-22,breakout wedding,4
-2026-06-22,breakout wedding fashion,4
-2026-06-22,bridal,4
-2026-06-22,bridal headpieces,4
-2026-06-22,bridal headpieces breakout,4
+2026-06-22,breakout,2
+2026-06-22,breakout wedding,2
+2026-06-22,breakout wedding fashion,2
+2026-06-22,bridal,2
+2026-06-22,bridal headpieces,2
+2026-06-22,bridal headpieces breakout,2
 2026-06-22,british,4
 2026-06-22,british vogue,4
 2026-06-22,brown,6
 2026-06-22,burgundy,6
 2026-06-22,business,3
+2026-06-22,capri,2
+2026-06-22,capri pants,2
 2026-06-22,casual,3
-2026-06-22,classic,1
+2026-06-22,classic,3
 2026-06-22,classy,4
 2026-06-22,clear,4
 2026-06-22,clothes,2
@@ -269,40 +276,37 @@ period,Term,Count
 2026-06-22,colors,5
 2026-06-22,colour,10
 2026-06-22,comfort,3
-2026-06-22,comfortable,3
-2026-06-22,cool,4
+2026-06-22,comfortable,5
+2026-06-22,cool,8
 2026-06-22,cosmopolitan,10
 2026-06-22,crazyfashion,7
 2026-06-22,crazyfashion shorts,7
 2026-06-22,crazyfashion shorts viral,7
 2026-06-22,cup,13
 2026-06-22,daily,3
-2026-06-22,dated,2
+2026-06-22,dated,4
 2026-06-22,day,8
-2026-06-22,day ends,6
 2026-06-22,denim,6
 2026-06-22,designer,8
 2026-06-22,designs,3
 2026-06-22,discover,4
 2026-06-22,dress,17
 2026-06-22,dress trends,6
-2026-06-22,dua,6
-2026-06-22,dua lipa,6
-2026-06-22,dua lipa proves,4
+2026-06-22,dua,4
+2026-06-22,dua lipa,4
+2026-06-22,dua lipa proves,2
 2026-06-22,effortless,3
 2026-06-22,elegant,6
-2026-06-22,elle,12
-2026-06-22,elle fashion,2
-2026-06-22,ends,6
+2026-06-22,elle,8
 2026-06-22,experts,6
 2026-06-22,explore,3
 2026-06-22,fall,3
-2026-06-22,fashion,137
+2026-06-22,fashion,131
 2026-06-22,fashion outfit,4
 2026-06-22,fashion people,4
-2026-06-22,fashion trend,26
+2026-06-22,fashion trend,22
 2026-06-22,fashion trends,19
-2026-06-22,fashion week,11
+2026-06-22,fashion week,9
 2026-06-22,fashiontrends,23
 2026-06-22,featuring,3
 2026-06-22,fit,2
@@ -314,17 +318,17 @@ period,Term,Count
 2026-06-22,fyp,10
 2026-06-22,fyp love,7
 2026-06-22,fyp love crazyfashion,7
-2026-06-22,gen,10
+2026-06-22,gen,8
 2026-06-22,getting,5
 2026-06-22,girls,5
-2026-06-22,glamour,8
-2026-06-22,good,5
+2026-06-22,glamour,10
+2026-06-22,good,3
 2026-06-22,grey,1
-2026-06-22,harper,10
-2026-06-22,harper bazaar,10
-2026-06-22,headpieces,4
-2026-06-22,headpieces breakout,4
-2026-06-22,headpieces breakout wedding,4
+2026-06-22,harper,8
+2026-06-22,harper bazaar,8
+2026-06-22,headpieces,2
+2026-06-22,headpieces breakout,2
+2026-06-22,headpieces breakout wedding,2
 2026-06-22,high,4
 2026-06-22,hottest,4
 2026-06-22,humor,7
@@ -335,7 +339,7 @@ period,Term,Count
 2026-06-22,inside,2
 2026-06-22,inspiration,4
 2026-06-22,inspired,2
-2026-06-22,jeans,4
+2026-06-22,jeans,6
 2026-06-22,jordan,4
 2026-06-22,just,2
 2026-06-22,key,1
@@ -343,12 +347,12 @@ period,Term,Count
 2026-06-22,know,8
 2026-06-22,kurti,9
 2026-06-22,latest,9
-2026-06-22,lifestyle,8
+2026-06-22,lifestyle,12
 2026-06-22,like,5
-2026-06-22,lipa,6
-2026-06-22,lipa proves,4
-2026-06-22,lipa proves bridal,4
-2026-06-22,look,14
+2026-06-22,lipa,4
+2026-06-22,lipa proves,2
+2026-06-22,lipa proves bridal,2
+2026-06-22,look,16
 2026-06-22,looking,5
 2026-06-22,looks,6
 2026-06-22,love,14
@@ -378,25 +382,24 @@ period,Term,Count
 2026-06-22,outfits,13
 2026-06-22,oversized,5
 2026-06-22,pants,7
-2026-06-22,paris,12
-2026-06-22,paris fashion,5
-2026-06-22,paris fashion week,4
+2026-06-22,paris,10
+2026-06-22,paris fashion,3
 2026-06-22,people,8
 2026-06-22,perfect,5
 2026-06-22,pink,8
 2026-06-22,prime,10
 2026-06-22,prime day,8
-2026-06-22,prime day ends,6
 2026-06-22,print,6
-2026-06-22,proves,6
-2026-06-22,proves bridal,4
-2026-06-22,proves bridal headpieces,4
+2026-06-22,proves,2
+2026-06-22,proves bridal,2
+2026-06-22,proves bridal headpieces,2
 2026-06-22,red,6
 2026-06-22,right,4
 2026-06-22,season,5
 2026-06-22,shirt,14
-2026-06-22,shoe,12
+2026-06-22,shoe,14
 2026-06-22,shoe trend,6
+2026-06-22,shoe trends,6
 2026-06-22,shoes,7
 2026-06-22,shorts,33
 2026-06-22,shorts viral,7
@@ -410,9 +413,11 @@ period,Term,Count
 2026-06-22,street style,7
 2026-06-22,streetwear,9
 2026-06-22,streetwear trend,1
-2026-06-22,style,32
-2026-06-22,stylish,14
-2026-06-22,summer,65
+2026-06-22,style,36
+2026-06-22,style wear,2
+2026-06-22,stylish,16
+2026-06-22,stylish wear,6
+2026-06-22,summer,73
 2026-06-22,summer fashion,3
 2026-06-22,summer fashion trends,3
 2026-06-22,summer style,5
@@ -421,14 +426,13 @@ period,Term,Count
 2026-06-22,summer vogue,2
 2026-06-22,summer wear,8
 2026-06-22,taking,2
-2026-06-22,thought,6
 2026-06-22,tiktok,4
 2026-06-22,times,4
 2026-06-22,tops,4
-2026-06-22,trend,70
+2026-06-22,trend,68
 2026-06-22,trend hunter,6
-2026-06-22,trending,10
-2026-06-22,trends,62
+2026-06-22,trending,12
+2026-06-22,trends,68
 2026-06-22,trends add,4
 2026-06-22,trends stylish,7
 2026-06-22,trends wear,2
@@ -445,28 +449,33 @@ period,Term,Count
 2026-06-22,viral youtubeshorts,7
 2026-06-22,viral youtubeshorts fashiontrends,7
 2026-06-22,vogue,13
-2026-06-22,vogue dua,2
-2026-06-22,vogue dua lipa,2
+2026-06-22,vogue dua,1
+2026-06-22,vogue dua lipa,1
 2026-06-22,want,2
-2026-06-22,wardrobe,10
+2026-06-22,wardrobe,12
 2026-06-22,way,4
-2026-06-22,wear,40
+2026-06-22,wear,46
 2026-06-22,wearing,3
 2026-06-22,wearing summer,2
 2026-06-22,wearing summer wear,2
 2026-06-22,wedding,13
-2026-06-22,wedding fashion,6
-2026-06-22,wedding fashion trend,4
-2026-06-22,week,13
+2026-06-22,wedding fashion,4
+2026-06-22,wedding fashion trend,2
+2026-06-22,week,11
 2026-06-22,welcome,4
 2026-06-22,white,8
 2026-06-22,women,20
 2026-06-22,women fashion,8
 2026-06-22,world,15
 2026-06-22,world cup,13
+2026-06-22,worth,5
 2026-06-22,wwd,14
-2026-06-22,year,4
+2026-06-22,yahoo,6
+2026-06-22,year,6
+2026-06-22,years,4
 2026-06-22,york,7
 2026-06-22,youtubeshorts,7
 2026-06-22,youtubeshorts fashiontrends,7
 2026-06-22,ytshorts,3
+2026-06-29,outfits,2
+2026-06-29,years,2
