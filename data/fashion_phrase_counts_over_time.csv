@@ -6,7 +6,6 @@ period,Term,Count
 2026-05-18,fashion trends,4
 2026-05-18,know,4
 2026-05-18,shorts,2
-2026-05-18,styling,2
 2026-05-18,summer,8
 2026-05-18,summer wear,6
 2026-05-18,trend,2
@@ -41,7 +40,6 @@ period,Term,Count
 2026-06-01,fashion,3
 2026-06-01,football,2
 2026-06-01,hunter,4
-2026-06-01,inspired,2
 2026-06-01,streetwear,6
 2026-06-01,style,1
 2026-06-01,summer,2
@@ -69,6 +67,7 @@ period,Term,Count
 2026-06-08,fashion people wearing,4
 2026-06-08,fashion trends,4
 2026-06-08,fashion trends taking,4
+2026-06-08,fyp,2
 2026-06-08,good,4
 2026-06-08,having,4
 2026-06-08,hottest,2
@@ -112,7 +111,7 @@ period,Term,Count
 2026-06-08,times,2
 2026-06-08,trend,6
 2026-06-08,trend hunter,4
-2026-06-08,trends,26
+2026-06-08,trends,28
 2026-06-08,trends cool,4
 2026-06-08,trends cool fashion,4
 2026-06-08,trends defining,2
@@ -122,7 +121,8 @@ period,Term,Count
 2026-06-08,trends taking summer,4
 2026-06-08,viral,2
 2026-06-08,vogue,2
-2026-06-08,wear,4
+2026-06-08,wardrobe,2
+2026-06-08,wear,6
 2026-06-08,wear trends,2
 2026-06-08,wear trends cool,2
 2026-06-08,wearing,4
@@ -180,7 +180,6 @@ period,Term,Count
 2026-06-15,new york,10
 2026-06-15,new york post,8
 2026-06-15,outfit,1
-2026-06-15,oversized,2
 2026-06-15,people,2
 2026-06-15,people wearing,2
 2026-06-15,people wearing summer,2
@@ -273,7 +272,6 @@ period,Term,Count
 2026-06-22,online,2
 2026-06-22,online singapore,2
 2026-06-22,online singapore mint,1
-2026-06-22,oversized,1
 2026-06-22,paris,2
 2026-06-22,photos,1
 2026-06-22,pink,6
@@ -314,24 +312,24 @@ period,Term,Count
 2026-06-29,anne hathaway,6
 2026-06-29,autumn,3
 2026-06-29,bazaar,14
-2026-06-29,beautiful,8
-2026-06-29,best,11
+2026-06-29,beautiful,6
+2026-06-29,best,12
 2026-06-29,better,4
 2026-06-29,big,3
 2026-06-29,biggest,11
 2026-06-29,black,12
 2026-06-29,bridal,1
-2026-06-29,casual,6
+2026-06-29,casual,5
 2026-06-29,celebration,8
 2026-06-29,celebrities,3
 2026-06-29,celebrity,8
 2026-06-29,check,3
-2026-06-29,chic,8
+2026-06-29,chic,7
 2026-06-29,chicer,6
 2026-06-29,city,3
 2026-06-29,clothing,2
-2026-06-29,collection,6
-2026-06-29,color,12
+2026-06-29,collection,5
+2026-06-29,color,10
 2026-06-29,combination,3
 2026-06-29,comfortable,3
 2026-06-29,coming,5
@@ -354,7 +352,7 @@ period,Term,Count
 2026-06-29,designer,3
 2026-06-29,did,8
 2026-06-29,dior,6
-2026-06-29,discover,8
+2026-06-29,discover,6
 2026-06-29,dominate,5
 2026-06-29,dreamy,6
 2026-06-29,dress,30
@@ -362,7 +360,7 @@ period,Term,Count
 2026-06-29,dua lipa,1
 2026-06-29,editors,4
 2026-06-29,effortless,3
-2026-06-29,elegant,9
+2026-06-29,elegant,10
 2026-06-29,elevate,3
 2026-06-29,elle,20
 2026-06-29,elle fashion,2
@@ -372,25 +370,27 @@ period,Term,Count
 2026-06-29,experts,4
 2026-06-29,fall,3
 2026-06-29,fans,12
-2026-06-29,fashion,182
+2026-06-29,fashion,183
 2026-06-29,fashion outfit,4
 2026-06-29,fashion people,10
 2026-06-29,fashion people wearing,2
 2026-06-29,fashion shorts,6
 2026-06-29,fashion style,4
-2026-06-29,fashion trend,34
+2026-06-29,fashion trend,38
 2026-06-29,fashion trends,21
 2026-06-29,fashion trends taking,1
-2026-06-29,fashion women,5
-2026-06-29,fashiontrends,18
-2026-06-29,favorite,6
-2026-06-29,featuring,8
+2026-06-29,fashion women,4
+2026-06-29,fashiontrends,20
+2026-06-29,favorite,3
+2026-06-29,featuring,6
 2026-06-29,festivities,5
 2026-06-29,fit,2
 2026-06-29,football,4
+2026-06-29,foryou,3
 2026-06-29,fourth,4
 2026-06-29,french,4
 2026-06-29,fuchsia,6
+2026-06-29,fyp,2
 2026-06-29,garden,18
 2026-06-29,gen,2
 2026-06-29,gets,5
@@ -410,10 +410,9 @@ period,Term,Count
 2026-06-29,hottest,6
 2026-06-29,hottest fashion,2
 2026-06-29,huge,5
-2026-06-29,hunter,4
+2026-06-29,hunter,2
 2026-06-29,ideas,13
 2026-06-29,inspiration,4
-2026-06-29,inspired,3
 2026-06-29,instantly,9
 2026-06-29,instantly make,5
 2026-06-29,instyle,2
@@ -425,20 +424,18 @@ period,Term,Count
 2026-06-29,kelce,24
 2026-06-29,kelce wedding,8
 2026-06-29,key,2
-2026-06-29,knitted,6
-2026-06-29,knitted sweater,6
 2026-06-29,know,14
-2026-06-29,latest,10
+2026-06-29,latest,13
+2026-06-29,latest fashion,8
 2026-06-29,leather,3
 2026-06-29,let,3
 2026-06-29,lifestyle,2
 2026-06-29,lipa,1
 2026-06-29,london,7
-2026-06-29,long,6
 2026-06-29,look,23
 2026-06-29,looking,5
 2026-06-29,looks,9
-2026-06-29,love,11
+2026-06-29,love,12
 2026-06-29,luxury,11
 2026-06-29,madison,14
 2026-06-29,madison square,14
@@ -451,7 +448,7 @@ period,Term,Count
 2026-06-29,marriage,5
 2026-06-29,married,8
 2026-06-29,meesho,4
-2026-06-29,men,55
+2026-06-29,men,56
 2026-06-29,men fashion,23
 2026-06-29,men fashion trends,6
 2026-06-29,men outfit,5
@@ -459,7 +456,7 @@ period,Term,Count
 2026-06-29,menswear,6
 2026-06-29,met,5
 2026-06-29,midi,2
-2026-06-29,modern,3
+2026-06-29,modern,4
 2026-06-29,moment,7
 2026-06-29,msg,10
 2026-06-29,msn,2
@@ -471,15 +468,15 @@ period,Term,Count
 2026-06-29,online,2
 2026-06-29,online singapore,2
 2026-06-29,ootd,8
+2026-06-29,ootdguide,3
 2026-06-29,osaka,6
-2026-06-29,outfit,42
+2026-06-29,outfit,43
 2026-06-29,outfit ideas,12
-2026-06-29,outfitideas,4
-2026-06-29,outfits,10
+2026-06-29,outfitideas,5
+2026-06-29,outfits,9
 2026-06-29,outside,12
 2026-06-29,outside taylor,5
 2026-06-29,outside taylor swift,5
-2026-06-29,oversized,1
 2026-06-29,pants,9
 2026-06-29,paris,10
 2026-06-29,people,12
@@ -487,7 +484,7 @@ period,Term,Count
 2026-06-29,people wearing summer,2
 2026-06-29,perfect,7
 2026-06-29,photos,7
-2026-06-29,pink,2
+2026-06-29,pink,5
 2026-06-29,player,2
 2026-06-29,police,3
 2026-06-29,pop,5
@@ -505,11 +502,12 @@ period,Term,Count
 2026-06-29,season,4
 2026-06-29,set,7
 2026-06-29,shirt,12
+2026-06-29,shirt men,3
 2026-06-29,shoe,8
 2026-06-29,shoe trend,6
 2026-06-29,shoes,4
 2026-06-29,short,7
-2026-06-29,shorts,23
+2026-06-29,shorts,22
 2026-06-29,shorts fashion,3
 2026-06-29,shows,6
 2026-06-29,singapore,2
@@ -532,8 +530,7 @@ period,Term,Count
 2026-06-29,style street,3
 2026-06-29,style street fashion,3
 2026-06-29,styles,3
-2026-06-29,styling,2
-2026-06-29,stylish,22
+2026-06-29,stylish,21
 2026-06-29,stylish women,6
 2026-06-29,suit,7
 2026-06-29,summer,73
@@ -542,7 +539,6 @@ period,Term,Count
 2026-06-29,summer trends,10
 2026-06-29,summer wardrobe,4
 2026-06-29,summer wear,14
-2026-06-29,sweater,6
 2026-06-29,swift,65
 2026-06-29,swift travis,19
 2026-06-29,swift travis kelce,19
@@ -556,13 +552,13 @@ period,Term,Count
 2026-06-29,taylor swift wedding,11
 2026-06-29,tie,6
 2026-06-29,tiktok,2
+2026-06-29,timeless,4
 2026-06-29,times,4
-2026-06-29,tour,4
 2026-06-29,travis,25
 2026-06-29,travis kelce,23
 2026-06-29,travis kelce wedding,8
-2026-06-29,trend,84
-2026-06-29,trend hunter,4
+2026-06-29,trend,86
+2026-06-29,trend hunter,2
 2026-06-29,trend summer,1
 2026-06-29,trend vogue,4
 2026-06-29,trending,14
@@ -575,10 +571,10 @@ period,Term,Count
 2026-06-29,upgrade,5
 2026-06-29,upgrade style,3
 2026-06-29,video,4
-2026-06-29,viral,4
+2026-06-29,viral,5
 2026-06-29,vogue,16
 2026-06-29,want,4
-2026-06-29,wardrobe,8
+2026-06-29,wardrobe,7
 2026-06-29,wave,7
 2026-06-29,wear,46
 2026-06-29,wear summer,4
@@ -589,17 +585,16 @@ period,Term,Count
 2026-06-29,wedding,61
 2026-06-29,weddings,4
 2026-06-29,weekend,10
-2026-06-29,welcome,3
-2026-06-29,white,7
+2026-06-29,welcome,2
+2026-06-29,white,6
 2026-06-29,wimbledon,10
 2026-06-29,wimbledon fashion,6
-2026-06-29,winter,12
-2026-06-29,winter fashion,4
-2026-06-29,women,38
-2026-06-29,women fashion,5
-2026-06-29,world,21
+2026-06-29,winter,11
+2026-06-29,women,34
+2026-06-29,women fashion,4
+2026-06-29,world,18
 2026-06-29,world cup,9
-2026-06-29,year,8
+2026-06-29,year,6
 2026-06-29,years,5
 2026-06-29,york,14
 2026-06-29,ytshorts,2
