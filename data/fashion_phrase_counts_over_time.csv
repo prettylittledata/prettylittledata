@@ -40,9 +40,9 @@ period,Term,Count
 2026-06-01,trends fashion,2
 2026-06-01,wear,2
 2026-06-08,america,4
+2026-06-08,approved,2
 2026-06-08,beauty,4
 2026-06-08,beauty trends,4
-2026-06-08,capsule,2
 2026-06-08,cool,4
 2026-06-08,cool fashion,4
 2026-06-08,cool fashion people,4
@@ -112,10 +112,10 @@ period,Term,Count
 2026-06-08,wearing summer wear,4
 2026-06-15,accessories,1
 2026-06-15,add,4
+2026-06-15,approved,4
 2026-06-15,baggy,2
-2026-06-15,capsule,2
 2026-06-15,casual,2
-2026-06-15,celebrity,2
+2026-06-15,celebrity,4
 2026-06-15,clean,1
 2026-06-15,collection,1
 2026-06-15,cool,2
@@ -140,9 +140,9 @@ period,Term,Count
 2026-06-15,french,2
 2026-06-15,gen,5
 2026-06-15,girls,1
-2026-06-15,guide,2
+2026-06-15,guide,4
 2026-06-15,high,1
-2026-06-15,hunter,4
+2026-06-15,hunter,2
 2026-06-15,just,1
 2026-06-15,key,4
 2026-06-15,lipa,4
@@ -165,23 +165,23 @@ period,Term,Count
 2026-06-15,shoes,2
 2026-06-15,sparks,4
 2026-06-15,stay,4
-2026-06-15,streetwear,10
+2026-06-15,streetwear,8
 2026-06-15,style,2
-2026-06-15,summer,17
+2026-06-15,summer,19
 2026-06-15,summer trends,8
 2026-06-15,summer wear,2
 2026-06-15,summer wear trends,1
 2026-06-15,tiktok,5
 2026-06-15,times,4
-2026-06-15,trend,24
-2026-06-15,trend hunter,4
+2026-06-15,trend,22
+2026-06-15,trend hunter,2
 2026-06-15,trend vogue,4
 2026-06-15,trending,2
-2026-06-15,trends,13
+2026-06-15,trends,15
 2026-06-15,trends cool,2
 2026-06-15,trends cool fashion,2
 2026-06-15,trendy,1
-2026-06-15,vogue,10
+2026-06-15,vogue,12
 2026-06-15,want,4
 2026-06-15,wardrobe,5
 2026-06-15,wear,4
@@ -210,12 +210,13 @@ period,Term,Count
 2026-06-22,coastal,4
 2026-06-22,coastal prep,4
 2026-06-22,coastal prep sporty,4
+2026-06-22,colour,4
 2026-06-22,cool,4
 2026-06-22,cotton,3
 2026-06-22,courtside,4
 2026-06-22,courtside coastal,4
 2026-06-22,courtside coastal prep,4
-2026-06-22,cup,6
+2026-06-22,cup,8
 2026-06-22,dated,4
 2026-06-22,dated summer,4
 2026-06-22,dated summer trends,4
@@ -223,21 +224,20 @@ period,Term,Count
 2026-06-22,dominate,4
 2026-06-22,dominate summer,4
 2026-06-22,dominate summer according,4
-2026-06-22,elle,2
-2026-06-22,elle fashion,1
+2026-06-22,elle,4
+2026-06-22,elle fashion,2
 2026-06-22,experts,4
 2026-06-22,experts graziamagazine,4
 2026-06-22,experts graziamagazine courtside,2
-2026-06-22,fashion,16
+2026-06-22,fashion,18
 2026-06-22,fashion beauty,2
 2026-06-22,fashion beauty trends,2
-2026-06-22,fashion trend,10
+2026-06-22,fashion trend,12
 2026-06-22,fashion trend dominate,4
 2026-06-22,fashion trends,4
 2026-06-22,favorite,4
 2026-06-22,fit,1
-2026-06-22,football,2
-2026-06-22,game,1
+2026-06-22,football,4
 2026-06-22,graziamagazine,4
 2026-06-22,graziamagazine courtside,2
 2026-06-22,graziamagazine courtside coastal,2
@@ -258,7 +258,7 @@ period,Term,Count
 2026-06-22,online singapore mint,1
 2026-06-22,paris,2
 2026-06-22,photos,1
-2026-06-22,pink,4
+2026-06-22,pink,6
 2026-06-22,premium,1
 2026-06-22,prep,4
 2026-06-22,prep sporty,4
@@ -282,17 +282,17 @@ period,Term,Count
 2026-06-22,summer according,4
 2026-06-22,summer according experts,4
 2026-06-22,summer trends,4
-2026-06-22,trend,12
+2026-06-22,trend,14
 2026-06-22,trend dominate,4
 2026-06-22,trend dominate summer,4
 2026-06-22,trends,12
 2026-06-22,vogue,2
 2026-06-22,wear,4
 2026-06-22,wedding,2
-2026-06-22,world,6
-2026-06-22,world cup,6
+2026-06-22,world,8
+2026-06-22,world cup,8
 2026-06-22,year,2
-2026-06-29,accessories,4
+2026-06-29,accessories,2
 2026-06-29,according,9
 2026-06-29,according experts,4
 2026-06-29,according experts graziamagazine,4
@@ -316,6 +316,7 @@ period,Term,Count
 2026-06-29,courtside,4
 2026-06-29,courtside coastal,4
 2026-06-29,courtside coastal prep,4
+2026-06-29,couture,3
 2026-06-29,cup,7
 2026-06-29,dated,2
 2026-06-29,debate,3
@@ -326,11 +327,11 @@ period,Term,Count
 2026-06-29,dominate,4
 2026-06-29,dominate summer,4
 2026-06-29,dominate summer according,4
-2026-06-29,dress,12
+2026-06-29,dress,10
 2026-06-29,dua,1
 2026-06-29,dua lipa,1
 2026-06-29,elevate,2
-2026-06-29,elle,14
+2026-06-29,elle,12
 2026-06-29,elle fashion,2
 2026-06-29,event,7
 2026-06-29,events,3
@@ -339,7 +340,7 @@ period,Term,Count
 2026-06-29,experts graziamagazine courtside,2
 2026-06-29,explore,1
 2026-06-29,fans,12
-2026-06-29,fashion,78
+2026-06-29,fashion,76
 2026-06-29,fashion moments,4
 2026-06-29,fashion people,2
 2026-06-29,fashion trend,32
@@ -353,7 +354,6 @@ period,Term,Count
 2026-06-29,fourth,4
 2026-06-29,french,2
 2026-06-29,fuchsia,6
-2026-06-29,game,2
 2026-06-29,garden,17
 2026-06-29,gets,5
 2026-06-29,girls,2
@@ -363,15 +363,14 @@ period,Term,Count
 2026-06-29,graziamagazine courtside coastal,2
 2026-06-29,guests,6
 2026-06-29,having,4
-2026-06-29,heat,12
-2026-06-29,heat wave,6
+2026-06-29,heat,10
 2026-06-29,high,1
 2026-06-29,hottest,4
 2026-06-29,huge,5
 2026-06-29,hunter,4
 2026-06-29,inside,1
 2026-06-29,inspiration,1
-2026-06-29,inspired,1
+2026-06-29,inspired,3
 2026-06-29,instantly,2
 2026-06-29,jersey,4
 2026-06-29,july,6
@@ -406,8 +405,6 @@ period,Term,Count
 2026-06-29,new,27
 2026-06-29,new york,12
 2026-06-29,news,6
-2026-06-29,online,2
-2026-06-29,online singapore,2
 2026-06-29,ootd,1
 2026-06-29,outfit,2
 2026-06-29,outfits,2
@@ -425,16 +422,12 @@ period,Term,Count
 2026-06-29,prep,4
 2026-06-29,prep sporty,4
 2026-06-29,prep sporty fashion,4
-2026-06-29,prestige,2
-2026-06-29,prestige online,2
-2026-06-29,prestige online singapore,2
 2026-06-29,real,1
 2026-06-29,right,4
 2026-06-29,runway,4
-2026-06-29,set,4
+2026-06-29,set,2
 2026-06-29,shirt,3
 2026-06-29,shows,4
-2026-06-29,singapore,2
 2026-06-29,soccer,7
 2026-06-29,sparks,2
 2026-06-29,sporty,4
@@ -448,7 +441,7 @@ period,Term,Count
 2026-06-29,street,10
 2026-06-29,street style,7
 2026-06-29,streetwear,5
-2026-06-29,style,18
+2026-06-29,style,16
 2026-06-29,summer,30
 2026-06-29,summer according,4
 2026-06-29,summer according experts,4
@@ -468,7 +461,7 @@ period,Term,Count
 2026-06-29,travis,21
 2026-06-29,travis kelce,19
 2026-06-29,travis kelce wedding,8
-2026-06-29,trend,56
+2026-06-29,trend,54
 2026-06-29,trend dominate,4
 2026-06-29,trend dominate summer,4
 2026-06-29,trend hunter,4
@@ -479,7 +472,7 @@ period,Term,Count
 2026-06-29,vogue,12
 2026-06-29,want,2
 2026-06-29,wardrobe,2
-2026-06-29,wave,7
+2026-06-29,wave,5
 2026-06-29,wear,18
 2026-06-29,wears,2
 2026-06-29,wedding,50
@@ -491,7 +484,6 @@ period,Term,Count
 2026-06-29,world,14
 2026-06-29,world cup,7
 2026-06-29,year,6
-2026-06-29,years,5
 2026-06-29,york,12
 2026-07-06,accessories,2
 2026-07-06,america,2
@@ -503,16 +495,17 @@ period,Term,Count
 2026-07-06,biggest,2
 2026-07-06,black,2
 2026-07-06,buying,2
-2026-07-06,capsule,1
 2026-07-06,casual,3
 2026-07-06,clean,3
 2026-07-06,clothing,5
 2026-07-06,collection,8
 2026-07-06,color,1
+2026-07-06,colour,1
 2026-07-06,cool,1
 2026-07-06,cosmopolitan,2
 2026-07-06,cotton,1
 2026-07-06,country,1
+2026-07-06,couture,1
 2026-07-06,crazyfashion,6
 2026-07-06,crazyfashion shorts,6
 2026-07-06,crazyfashion shorts viral,6
@@ -539,7 +532,6 @@ period,Term,Count
 2026-07-06,fyp,8
 2026-07-06,fyp love,6
 2026-07-06,fyp love crazyfashion,6
-2026-07-06,game,1
 2026-07-06,garden,2
 2026-07-06,gen,1
 2026-07-06,girls,4
