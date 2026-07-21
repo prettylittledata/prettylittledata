@@ -1,4 +1,7 @@
 source,domain,url,created_utc,title,text
+rss,smashingmagazine.com,https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/,1784628000,Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs,"Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs
+
+While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution."
 rss,smashingmagazine.com,https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/,1784275200,When It Makes Sense To “Block” The Main Thread,"When It Makes Sense To “Block” The Main Thread
 
 The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do."
