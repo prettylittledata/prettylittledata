@@ -24,8 +24,8 @@ period,Term,Count
 2026-06-15,add wardrobe,2
 2026-06-15,approved,4
 2026-06-15,celebrity,4
-2026-06-15,fashion,4
-2026-06-15,fashion trend,4
+2026-06-15,fashion,6
+2026-06-15,fashion trend,6
 2026-06-15,gen,2
 2026-06-15,guide,4
 2026-06-15,hunter,4
@@ -34,12 +34,13 @@ period,Term,Count
 2026-06-15,new york post,2
 2026-06-15,post,2
 2026-06-15,proves,2
+2026-06-15,sports,2
 2026-06-15,streetwear,4
 2026-06-15,summer,6
 2026-06-15,summer trends,6
 2026-06-15,summer trends add,2
 2026-06-15,summer trends vogue,4
-2026-06-15,trend,8
+2026-06-15,trend,10
 2026-06-15,trend hunter,4
 2026-06-15,trends,8
 2026-06-15,trends add,2
@@ -139,12 +140,11 @@ period,Term,Count
 2026-06-29,world cup,4
 2026-07-06,ago,4
 2026-07-06,bazaar,2
-2026-07-06,best,8
+2026-07-06,best,6
 2026-07-06,black,2
 2026-07-06,brands,7
 2026-07-06,brought,2
 2026-07-06,buy,4
-2026-07-06,celebrity,2
 2026-07-06,classiclook,1
 2026-07-06,clothes,4
 2026-07-06,clothing,2
@@ -160,7 +160,7 @@ period,Term,Count
 2026-07-06,easy,3
 2026-07-06,fall,6
 2026-07-06,fall trends,4
-2026-07-06,fashion,26
+2026-07-06,fashion,24
 2026-07-06,fashion trend,14
 2026-07-06,fashion trends,4
 2026-07-06,fashion week,2
@@ -231,14 +231,13 @@ period,Term,Count
 2026-07-06,vibes,5
 2026-07-06,vintage,5
 2026-07-06,viral,5
-2026-07-06,vogue,8
+2026-07-06,vogue,6
 2026-07-06,want,2
 2026-07-06,wardrobe,9
 2026-07-06,wardrobe season,4
 2026-07-06,wear,4
 2026-07-06,wearing,2
 2026-07-06,week,2
-2026-07-06,wimbledon,6
 2026-07-06,winterfashion,1
 2026-07-06,winterfashion layeringstyle,1
 2026-07-06,winterfashion layeringstyle classiclook,1
@@ -348,13 +347,13 @@ period,Term,Count
 2026-07-13,shirt,1
 2026-07-13,shirt outfit,1
 2026-07-13,shoe,3
-2026-07-13,shoe trend,2
 2026-07-13,shorts,6
 2026-07-13,shorts flyshtdrew,2
 2026-07-13,shorts flyshtdrew best,2
 2026-07-13,shorts minimalistfashion,3
 2026-07-13,shorts minimalistfashion ootd,3
 2026-07-13,silly,6
+2026-07-13,sports,2
 2026-07-13,staffers,6
 2026-07-13,staffers seeing,6
 2026-07-13,staffers seeing summer,3
@@ -396,6 +395,7 @@ period,Term,Count
 2026-07-13,winterfashion layeringstyle,4
 2026-07-13,winterfashion layeringstyle classiclook,4
 2026-07-13,women,2
+2026-07-13,wore,2
 2026-07-13,wwd,4
 2026-07-13,year,1
 2026-07-13,years,4
@@ -409,7 +409,6 @@ period,Term,Count
 2026-07-20,bazaar,6
 2026-07-20,beautiful,8
 2026-07-20,best,11
-2026-07-20,biggest,2
 2026-07-20,black,1
 2026-07-20,blue,6
 2026-07-20,brands,1
@@ -425,7 +424,7 @@ period,Term,Count
 2026-07-20,clothing,4
 2026-07-20,collection,10
 2026-07-20,color,9
-2026-07-20,colour,1
+2026-07-20,colour,3
 2026-07-20,cool,2
 2026-07-20,cosmopolitan,10
 2026-07-20,cup,5
@@ -453,11 +452,11 @@ period,Term,Count
 2026-07-20,everyday,4
 2026-07-20,fall,14
 2026-07-20,fall trends,6
-2026-07-20,fashion,99
+2026-07-20,fashion,101
 2026-07-20,fashion collection,3
 2026-07-20,fashion entered,4
 2026-07-20,fashion fashiontrends,9
-2026-07-20,fashion people,2
+2026-07-20,fashion people,4
 2026-07-20,fashion people wearing,2
 2026-07-20,fashion shorts,6
 2026-07-20,fashion style,1
@@ -487,7 +486,7 @@ period,Term,Count
 2026-07-20,internet,6
 2026-07-20,jeans,4
 2026-07-20,jelly,2
-2026-07-20,just,3
+2026-07-20,just,5
 2026-07-20,knitted,5
 2026-07-20,knitted sweater,5
 2026-07-20,lace,6
@@ -501,9 +500,10 @@ period,Term,Count
 2026-07-20,looks,6
 2026-07-20,love,10
 2026-07-20,luxury,7
-2026-07-20,men,20
+2026-07-20,men,18
 2026-07-20,men fashion,9
 2026-07-20,menswear,2
+2026-07-20,minimalist,4
 2026-07-20,modern,7
 2026-07-20,moments,1
 2026-07-20,nails,2
@@ -519,7 +519,7 @@ period,Term,Count
 2026-07-20,outfits,12
 2026-07-20,pant,3
 2026-07-20,pants,3
-2026-07-20,people,6
+2026-07-20,people,8
 2026-07-20,people wearing,2
 2026-07-20,perfect,11
 2026-07-20,photos,2
@@ -544,8 +544,7 @@ period,Term,Count
 2026-07-20,shirt,13
 2026-07-20,shirt outfit,3
 2026-07-20,shirts,5
-2026-07-20,shoe,6
-2026-07-20,shoe trend,4
+2026-07-20,shoe,4
 2026-07-20,shopping,5
 2026-07-20,short,5
 2026-07-20,shorts,31
@@ -554,6 +553,8 @@ period,Term,Count
 2026-07-20,simple,4
 2026-07-20,sleeve,5
 2026-07-20,smart,2
+2026-07-20,sports,1
+2026-07-20,staple,6
 2026-07-20,star,5
 2026-07-20,stories,3
 2026-07-20,street,5
@@ -596,7 +597,7 @@ period,Term,Count
 2026-07-20,vogueadria,2
 2026-07-20,want,5
 2026-07-20,wardrobe,6
-2026-07-20,wear,20
+2026-07-20,wear,22
 2026-07-20,wearing,4
 2026-07-20,wedding,2
 2026-07-20,week,2
@@ -605,6 +606,7 @@ period,Term,Count
 2026-07-20,winter,6
 2026-07-20,women,19
 2026-07-20,women fashion,6
+2026-07-20,wore,3
 2026-07-20,world,6
 2026-07-20,world cup,5
 2026-07-20,wwd,2
@@ -612,3 +614,4 @@ period,Term,Count
 2026-07-20,york times,2
 2026-07-20,youtube,3
 2026-07-20,youtubeshorts,2
+2026-07-20,zendaya,6
