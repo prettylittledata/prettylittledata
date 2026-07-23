@@ -20,22 +20,23 @@ period,Term,Count
 2026-06-15,add wardrobe,2
 2026-06-15,fashion,4
 2026-06-15,fashion trend,4
-2026-06-15,gen,2
 2026-06-15,hunter,4
 2026-06-15,new,2
 2026-06-15,new york,2
 2026-06-15,new york post,2
 2026-06-15,post,2
 2026-06-15,streetwear,4
-2026-06-15,summer,4
-2026-06-15,summer trends,4
+2026-06-15,summer,6
+2026-06-15,summer trends,6
 2026-06-15,summer trends add,2
+2026-06-15,summer trends vogue,4
 2026-06-15,trend,8
 2026-06-15,trend hunter,4
-2026-06-15,trends,6
+2026-06-15,trends,8
 2026-06-15,trends add,2
 2026-06-15,trends add wardrobe,2
-2026-06-15,vogue,8
+2026-06-15,trends vogue,4
+2026-06-15,vogue,10
 2026-06-15,wardrobe,2
 2026-06-15,wedding,2
 2026-06-15,york,2
@@ -45,17 +46,17 @@ period,Term,Count
 2026-06-22,add wardrobe,4
 2026-06-22,color,2
 2026-06-22,colors,2
-2026-06-22,colour,2
+2026-06-22,colour,4
 2026-06-22,coveteur,6
 2026-06-22,coveteur summer,3
-2026-06-22,cup,2
+2026-06-22,cup,4
 2026-06-22,dominate,4
 2026-06-22,dominate summer,4
-2026-06-22,elle,2
-2026-06-22,elle fashion,1
+2026-06-22,elle,4
+2026-06-22,elle fashion,2
 2026-06-22,experts,4
-2026-06-22,fashion,10
-2026-06-22,fashion trend,6
+2026-06-22,fashion,12
+2026-06-22,fashion trend,8
 2026-06-22,fashion week,4
 2026-06-22,glamour,2
 2026-06-22,graziamagazine,4
@@ -71,16 +72,16 @@ period,Term,Count
 2026-06-22,summer trends,4
 2026-06-22,summer trends add,4
 2026-06-22,times,4
-2026-06-22,trend,6
+2026-06-22,trend,8
 2026-06-22,trends,10
 2026-06-22,trends add,4
 2026-06-22,trends add wardrobe,4
-2026-06-22,unexpected,2
+2026-06-22,unexpected,4
 2026-06-22,wardrobe,4
 2026-06-22,wardrobe season,4
 2026-06-22,week,4
-2026-06-22,world,2
-2026-06-22,world cup,2
+2026-06-22,world,4
+2026-06-22,world cup,4
 2026-06-22,york,4
 2026-06-22,york times,4
 2026-06-29,according,2
@@ -104,6 +105,7 @@ period,Term,Count
 2026-06-29,look,2
 2026-06-29,men,6
 2026-06-29,men fashion,2
+2026-06-29,menswear,2
 2026-06-29,post,2
 2026-06-29,report,2
 2026-06-29,right,4
@@ -132,11 +134,9 @@ period,Term,Count
 2026-07-06,bazaar,2
 2026-07-06,best,6
 2026-07-06,black,2
-2026-07-06,boots,2
 2026-07-06,brands,7
 2026-07-06,buy,4
 2026-07-06,classiclook,1
-2026-07-06,clothes,4
 2026-07-06,clothing,2
 2026-07-06,colors,4
 2026-07-06,colour,2
@@ -146,7 +146,7 @@ period,Term,Count
 2026-07-06,design,2
 2026-07-06,does,2
 2026-07-06,dress,3
-2026-07-06,easy,3
+2026-07-06,dresses,2
 2026-07-06,explore,1
 2026-07-06,fall,6
 2026-07-06,fall trends,4
@@ -186,7 +186,6 @@ period,Term,Count
 2026-07-06,pre,4
 2026-07-06,pre fall,4
 2026-07-06,pre fall trends,4
-2026-07-06,premium,1
 2026-07-06,print,4
 2026-07-06,right,2
 2026-07-06,season,4
@@ -226,6 +225,7 @@ period,Term,Count
 2026-07-06,winterfashion,1
 2026-07-06,winterfashion layeringstyle,1
 2026-07-06,winterfashion layeringstyle classiclook,1
+2026-07-06,woman,2
 2026-07-06,women,1
 2026-07-06,wwd,6
 2026-07-06,year,4
@@ -233,19 +233,18 @@ period,Term,Count
 2026-07-06,years ago,4
 2026-07-13,ago,2
 2026-07-13,baring,5
-2026-07-13,best,9
+2026-07-13,best,8
+2026-07-13,biggest,4
 2026-07-13,black,3
 2026-07-13,blue,5
 2026-07-13,brands,4
 2026-07-13,buy,4
 2026-07-13,city,2
 2026-07-13,classiclook,4
-2026-07-13,clothes,1
 2026-07-13,colors,1
 2026-07-13,cosmopolitan,2
 2026-07-13,day,4
 2026-07-13,did,1
-2026-07-13,discover,1
 2026-07-13,dividing,4
 2026-07-13,dividing internet,4
 2026-07-13,divisive,4
@@ -256,22 +255,23 @@ period,Term,Count
 2026-07-13,entered,6
 2026-07-13,era,4
 2026-07-13,fall,2
-2026-07-13,fashion,45
+2026-07-13,fashion,44
 2026-07-13,fashion entered,4
+2026-07-13,fashion style,2
 2026-07-13,fashion trend,18
 2026-07-13,fashion trend dividing,4
 2026-07-13,fashion trends,16
 2026-07-13,fashion trends staffers,6
-2026-07-13,favorite,1
 2026-07-13,flyshtdrew,2
 2026-07-13,flyshtdrew best,2
 2026-07-13,fyp,1
 2026-07-13,glam,4
 2026-07-13,glamour,2
+2026-07-13,hair,2
 2026-07-13,iconic,4
 2026-07-13,india,4
 2026-07-13,inspo,4
-2026-07-13,instyle,8
+2026-07-13,instyle,6
 2026-07-13,internet,6
 2026-07-13,jelly,4
 2026-07-13,just,5
@@ -283,8 +283,6 @@ period,Term,Count
 2026-07-13,looks,1
 2026-07-13,love,2
 2026-07-13,luxury,4
-2026-07-13,luxury fashion,4
-2026-07-13,men,3
 2026-07-13,minimalistfashion,4
 2026-07-13,minimalistfashion ootd,4
 2026-07-13,minimalistfashion ootd neutralaesthetic,4
@@ -304,7 +302,6 @@ period,Term,Count
 2026-07-13,outfit,10
 2026-07-13,outfit nailsaura,4
 2026-07-13,outfitideas,4
-2026-07-13,pants,2
 2026-07-13,people,1
 2026-07-13,polarizing,5
 2026-07-13,poot,4
@@ -318,6 +315,7 @@ period,Term,Count
 2026-07-13,seeing summer fashion,3
 2026-07-13,shirt,1
 2026-07-13,shoe,3
+2026-07-13,shoe trend,2
 2026-07-13,shorts,6
 2026-07-13,shorts flyshtdrew,2
 2026-07-13,shorts flyshtdrew best,2
@@ -327,35 +325,34 @@ period,Term,Count
 2026-07-13,staffers,6
 2026-07-13,staffers seeing,6
 2026-07-13,staffers seeing summer,3
-2026-07-13,street,3
-2026-07-13,street style,2
+2026-07-13,stay,2
+2026-07-13,street,1
 2026-07-13,streetwear,1
-2026-07-13,style,4
-2026-07-13,style shorts,2
-2026-07-13,stylish,1
-2026-07-13,summer,28
+2026-07-13,style,2
+2026-07-13,summer,26
 2026-07-13,summer fashion,14
 2026-07-13,summer fashion trends,10
 2026-07-13,summer trends,2
+2026-07-13,summer trends vogue,2
 2026-07-13,talking,7
 2026-07-13,thing,2
-2026-07-13,time,4
 2026-07-13,times,6
 2026-07-13,trend,26
 2026-07-13,trend dividing,4
 2026-07-13,trend dividing internet,4
 2026-07-13,trending,1
-2026-07-13,trending fashion,1
 2026-07-13,trends,18
 2026-07-13,trends staffers,6
 2026-07-13,trends staffers seeing,6
+2026-07-13,trends vogue,2
 2026-07-13,vibes,1
 2026-07-13,viral,1
 2026-07-13,vogue,4
 2026-07-13,vogueadria,4
 2026-07-13,want,7
+2026-07-13,way,2
 2026-07-13,wear,4
-2026-07-13,wearing,5
+2026-07-13,wearing,4
 2026-07-13,wedding,2
 2026-07-13,welcome,2
 2026-07-13,white,1
@@ -374,244 +371,264 @@ period,Term,Count
 2026-07-13,youtubeshorts,2
 2026-07-13,zoe,4
 2026-07-13,zoe report,4
+2026-07-20,actually,5
 2026-07-20,american,2
 2026-07-20,aol,6
-2026-07-20,autumn,7
-2026-07-20,autumn winter,7
-2026-07-20,autumn winter color,7
 2026-07-20,bazaar,6
-2026-07-20,beautiful,3
+2026-07-20,beautiful,5
 2026-07-20,best,8
-2026-07-20,black,3
-2026-07-20,block,7
-2026-07-20,block long,7
-2026-07-20,block long sleeve,7
-2026-07-20,blue,4
-2026-07-20,boots,3
+2026-07-20,biggest,2
+2026-07-20,black,6
+2026-07-20,blue,2
 2026-07-20,brands,1
 2026-07-20,buy,2
 2026-07-20,called,1
-2026-07-20,casual,12
-2026-07-20,city,2
-2026-07-20,clean,4
-2026-07-20,clothes,1
-2026-07-20,clothing,7
-2026-07-20,clothing new,5
-2026-07-20,collection,9
-2026-07-20,color,10
-2026-07-20,color block,7
-2026-07-20,color block long,7
-2026-07-20,colour,4
+2026-07-20,casual,16
+2026-07-20,casual looks,3
+2026-07-20,city,3
+2026-07-20,clothing,5
+2026-07-20,collection,11
+2026-07-20,color,6
+2026-07-20,colour,3
+2026-07-20,comment,4
 2026-07-20,cool,5
-2026-07-20,cosmopolitan,10
+2026-07-20,cosmopolitan,8
 2026-07-20,cup,5
 2026-07-20,daily,9
 2026-07-20,daily fashion,7
 2026-07-20,daily fashion trends,7
 2026-07-20,day,2
-2026-07-20,denim,6
+2026-07-20,denim,4
 2026-07-20,design,5
-2026-07-20,discover,10
-2026-07-20,discover latest,6
+2026-07-20,discover,13
+2026-07-20,discover latest,9
+2026-07-20,discover latest men,3
 2026-07-20,discover latest women,4
 2026-07-20,dividing,4
 2026-07-20,dividing internet,4
 2026-07-20,divisive,2
 2026-07-20,dominate,2
 2026-07-20,dominate summer,2
-2026-07-20,dress,10
+2026-07-20,dress,15
 2026-07-20,dress trend,2
+2026-07-20,dresses,5
 2026-07-20,dressing,1
-2026-07-20,easy,4
 2026-07-20,editor,3
+2026-07-20,edits,3
+2026-07-20,edits stay,3
+2026-07-20,edits stay inspired,3
 2026-07-20,elegant,4
-2026-07-20,elevate,3
-2026-07-20,elevate style,3
 2026-07-20,elle,18
 2026-07-20,elle fashion,2
 2026-07-20,entered,4
 2026-07-20,era,5
-2026-07-20,everyday,5
+2026-07-20,everyday,6
 2026-07-20,explore,2
-2026-07-20,fall,16
+2026-07-20,fall,12
 2026-07-20,fall trends,6
-2026-07-20,fashion,111
+2026-07-20,fashion,126
 2026-07-20,fashion entered,4
 2026-07-20,fashion fashiontrends,4
+2026-07-20,fashion inspiration,5
 2026-07-20,fashion people,4
 2026-07-20,fashion shorts,4
-2026-07-20,fashion trend,12
+2026-07-20,fashion style,1
+2026-07-20,fashion trend,14
 2026-07-20,fashion trend dividing,4
-2026-07-20,fashion trends,26
+2026-07-20,fashion trends,35
 2026-07-20,fashion trends discover,5
-2026-07-20,fashionstyle,5
-2026-07-20,fashiontrends,20
-2026-07-20,favorite,3
-2026-07-20,fyp,5
-2026-07-20,gen,3
+2026-07-20,fashion trends runway,3
+2026-07-20,fashion trends stylish,5
+2026-07-20,fashioninspo,5
+2026-07-20,fashiontrends,18
+2026-07-20,fit,3
+2026-07-20,fyp,7
 2026-07-20,girl,6
-2026-07-20,girls,5
+2026-07-20,girls,8
 2026-07-20,glam,2
 2026-07-20,glamour,2
+2026-07-20,hair,4
 2026-07-20,harper,6
 2026-07-20,harper bazaar,6
 2026-07-20,having,2
+2026-07-20,high,1
+2026-07-20,highlights,3
+2026-07-20,highlights stylish,3
+2026-07-20,highlights stylish edits,3
 2026-07-20,hola,2
 2026-07-20,hottest,4
-2026-07-20,hunter,2
+2026-07-20,hunter,4
 2026-07-20,iconic,4
-2026-07-20,ideas,9
-2026-07-20,india,8
-2026-07-20,inspiration,6
+2026-07-20,ideas,10
+2026-07-20,india,14
+2026-07-20,inspiration,8
+2026-07-20,inspired,5
 2026-07-20,inspo,2
-2026-07-20,instyle,8
+2026-07-20,instyle,6
 2026-07-20,internet,6
-2026-07-20,jeans,11
+2026-07-20,jeans,9
 2026-07-20,jelly,2
 2026-07-20,just,5
-2026-07-20,knitted,10
-2026-07-20,knitted sweater,10
-2026-07-20,knitted sweater autumn,7
 2026-07-20,lace,6
-2026-07-20,ladies,5
-2026-07-20,latest,17
-2026-07-20,latest men,6
-2026-07-20,latest men fashion,6
+2026-07-20,latest,21
+2026-07-20,latest men,9
+2026-07-20,latest men fashion,9
 2026-07-20,latest women,5
 2026-07-20,latest women fashion,5
-2026-07-20,like,5
-2026-07-20,link,4
-2026-07-20,long,8
-2026-07-20,long sleeve,7
-2026-07-20,long sleeve tassel,7
-2026-07-20,look,20
+2026-07-20,like,7
+2026-07-20,lingerie,6
+2026-07-20,link,3
+2026-07-20,long,2
+2026-07-20,look,23
 2026-07-20,looking,3
-2026-07-20,looks,7
-2026-07-20,love,11
+2026-07-20,looks,13
+2026-07-20,love,10
 2026-07-20,luxury,4
-2026-07-20,luxury fashion,1
-2026-07-20,men,24
-2026-07-20,men fashion,12
-2026-07-20,men fashion trends,6
-2026-07-20,minimalist,5
+2026-07-20,man,4
+2026-07-20,men,31
+2026-07-20,men fashion,14
+2026-07-20,men fashion trends,10
+2026-07-20,mensfashion,5
+2026-07-20,mensfashion style,3
+2026-07-20,mensfashion style trending,3
+2026-07-20,menswear,2
 2026-07-20,minimalstyle,3
 2026-07-20,minimalstyle fashion,3
-2026-07-20,modern,6
+2026-07-20,modern,4
 2026-07-20,nails,2
-2026-07-20,new,35
+2026-07-20,new,31
 2026-07-20,new fashion,5
-2026-07-20,new shop,6
-2026-07-20,new shop knitted,6
-2026-07-20,new york,2
+2026-07-20,new york,3
 2026-07-20,new york times,2
-2026-07-20,occasion,3
+2026-07-20,office,3
 2026-07-20,old,2
 2026-07-20,ootd,3
 2026-07-20,ootdfashion,3
-2026-07-20,outfit,31
+2026-07-20,ootdguide,4
+2026-07-20,outfit,28
 2026-07-20,outfit ideas,9
 2026-07-20,outfitideas,4
 2026-07-20,outfitideas outfitinspo,3
-2026-07-20,outfitinspo,3
-2026-07-20,outfits,16
-2026-07-20,pants,3
+2026-07-20,outfitinspo,5
+2026-07-20,outfits,21
+2026-07-20,outfits woman,3
+2026-07-20,outfits woman try,3
+2026-07-20,oversized,3
 2026-07-20,people,8
-2026-07-20,perfect,15
+2026-07-20,perfect,8
 2026-07-20,poot,4
 2026-07-20,poot fashion,4
 2026-07-20,poot fashion trend,4
+2026-07-20,power,5
 2026-07-20,pre,4
 2026-07-20,pre fall,4
 2026-07-20,pre fall trends,4
-2026-07-20,premium,5
 2026-07-20,print,2
+2026-07-20,ready,7
 2026-07-20,right,8
 2026-07-20,right elle,6
+2026-07-20,runway,6
+2026-07-20,runway highlights,3
+2026-07-20,runway highlights stylish,3
 2026-07-20,seeing,2
 2026-07-20,seeing summer,2
 2026-07-20,sees,2
-2026-07-20,shirt,7
-2026-07-20,shirts,9
-2026-07-20,shoe,4
-2026-07-20,shoes,7
-2026-07-20,shop,6
-2026-07-20,shop knitted,6
-2026-07-20,shop knitted sweater,6
+2026-07-20,shirt,5
+2026-07-20,shirts,8
+2026-07-20,shoe,6
+2026-07-20,shoe trend,4
 2026-07-20,shopping,6
-2026-07-20,shorts,24
-2026-07-20,shorts fashion,3
-2026-07-20,sleeve,8
-2026-07-20,sleeve tassel,7
-2026-07-20,sleeve tassel trending,5
-2026-07-20,smart,4
-2026-07-20,star,9
+2026-07-20,short,4
+2026-07-20,shorts,28
+2026-07-20,shorts trending,4
+2026-07-20,smart,7
+2026-07-20,smart casual,4
+2026-07-20,star,7
+2026-07-20,stay,3
+2026-07-20,stay inspired,3
 2026-07-20,stories,3
-2026-07-20,street,5
-2026-07-20,street style,5
+2026-07-20,street,6
+2026-07-20,street style,4
 2026-07-20,streetwear,10
-2026-07-20,striped,7
-2026-07-20,style,51
-2026-07-20,style latest,3
-2026-07-20,style latest men,3
-2026-07-20,style shorts,1
+2026-07-20,striped,6
+2026-07-20,style,47
+2026-07-20,style latest,4
+2026-07-20,style latest men,4
+2026-07-20,style trending,4
+2026-07-20,style trending discover,3
 2026-07-20,styleinspo,6
-2026-07-20,stylish,15
-2026-07-20,summer,52
+2026-07-20,stylish,23
+2026-07-20,stylish edits,3
+2026-07-20,stylish edits stay,3
+2026-07-20,stylish outfits,8
+2026-07-20,stylish outfits woman,3
+2026-07-20,summer,50
+2026-07-20,summer fashion,1
 2026-07-20,summer trends,7
-2026-07-20,sweater,10
-2026-07-20,sweater autumn,7
-2026-07-20,sweater autumn winter,7
 2026-07-20,taking,10
 2026-07-20,taking summer,4
-2026-07-20,tassel,7
-2026-07-20,tassel trending,5
 2026-07-20,tees,2
 2026-07-20,thing,2
-2026-07-20,time,3
+2026-07-20,tiktok,8
 2026-07-20,times,4
-2026-07-20,tips,3
-2026-07-20,today,7
+2026-07-20,today,9
 2026-07-20,tops,5
-2026-07-20,trend,43
+2026-07-20,trend,47
 2026-07-20,trend dividing,4
 2026-07-20,trend dividing internet,4
-2026-07-20,trend hunter,2
+2026-07-20,trend hunter,4
 2026-07-20,trend taking,2
-2026-07-20,trending,16
-2026-07-20,trending fashion,2
-2026-07-20,trends,47
+2026-07-20,trending,15
+2026-07-20,trending discover,3
+2026-07-20,trending discover latest,3
+2026-07-20,trends,57
 2026-07-20,trends discover,5
 2026-07-20,trends discover latest,3
-2026-07-20,trends stylish,2
-2026-07-20,trendy,6
-2026-07-20,try,3
+2026-07-20,trends runway,3
+2026-07-20,trends runway highlights,3
+2026-07-20,trends stylish,5
+2026-07-20,trends stylish outfits,5
+2026-07-20,trendy,10
+2026-07-20,try,6
+2026-07-20,try shorts,5
+2026-07-20,try shorts trending,4
+2026-07-20,ultimate,4
 2026-07-20,unexpected,4
-2026-07-20,upgrade,4
+2026-07-20,upgrade,7
+2026-07-20,upgrade style,3
+2026-07-20,upgrade wardrobe,3
 2026-07-20,usa,4
+2026-07-20,vibes,2
+2026-07-20,video,3
 2026-07-20,vintage,1
 2026-07-20,viral,10
-2026-07-20,vogue,8
+2026-07-20,vogue,6
 2026-07-20,vogueadria,2
-2026-07-20,want,3
-2026-07-20,wardrobe,7
-2026-07-20,wear,26
+2026-07-20,want,5
+2026-07-20,wants,6
+2026-07-20,wardrobe,9
+2026-07-20,way,4
+2026-07-20,wear,28
 2026-07-20,wearing,4
 2026-07-20,wedding,2
 2026-07-20,week,2
-2026-07-20,welcome,12
+2026-07-20,welcome,10
 2026-07-20,welcome daily,3
 2026-07-20,welcome daily fashion,3
-2026-07-20,white,8
-2026-07-20,winter,10
-2026-07-20,winter color,7
-2026-07-20,winter color block,7
-2026-07-20,women,22
-2026-07-20,women fashion,9
+2026-07-20,white,3
+2026-07-20,woman,3
+2026-07-20,woman try,3
+2026-07-20,woman try shorts,3
+2026-07-20,women,21
+2026-07-20,women fashion,11
+2026-07-20,women fashion trends,4
+2026-07-20,womensfashion,4
 2026-07-20,wore,3
 2026-07-20,world,6
 2026-07-20,world cup,5
 2026-07-20,wwd,2
-2026-07-20,york,2
+2026-07-20,york,3
 2026-07-20,york times,2
-2026-07-20,youtubeshorts,4
+2026-07-20,youtube,3
+2026-07-20,youtubeshorts,2
 2026-07-20,zendaya,6
