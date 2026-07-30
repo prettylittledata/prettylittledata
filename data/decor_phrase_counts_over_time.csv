@@ -28,7 +28,6 @@ period,Term,Count
 2026-06-15,share,2
 2026-06-15,share trends,2
 2026-06-15,simple,2
-2026-06-15,spent,2
 2026-06-15,styling,2
 2026-06-15,trend,2
 2026-06-15,trends,8
@@ -38,8 +37,7 @@ period,Term,Count
 2026-06-22,actually,2
 2026-06-22,aging,4
 2026-06-22,aging home,4
-2026-06-22,apartment,4
-2026-06-22,apartment therapy,4
+2026-06-22,apartmenttherapy,4
 2026-06-22,bedroom,2
 2026-06-22,better,4
 2026-06-22,better homes,4
@@ -48,13 +46,13 @@ period,Term,Count
 2026-06-22,biggest,2
 2026-06-22,buy,4
 2026-06-22,buzzfeed,8
-2026-06-22,decor,6
+2026-06-22,decor,8
 2026-06-22,decor trends,2
 2026-06-22,design,6
 2026-06-22,design trends,6
 2026-06-22,designer,2
-2026-06-22,designers,16
-2026-06-22,designers predict,6
+2026-06-22,designers,18
+2026-06-22,designers predict,8
 2026-06-22,designers say,8
 2026-06-22,easy,2
 2026-06-22,feel,2
@@ -70,9 +68,9 @@ period,Term,Count
 2026-06-22,interior designers,6
 2026-06-22,interior designers say,4
 2026-06-22,interiors,2
-2026-06-22,living,12
-2026-06-22,living room,10
-2026-06-22,living room trends,6
+2026-06-22,living,14
+2026-06-22,living room,12
+2026-06-22,living room trends,8
 2026-06-22,look,2
 2026-06-22,make,4
 2026-06-22,modern,8
@@ -84,23 +82,25 @@ period,Term,Count
 2026-06-22,people,8
 2026-06-22,people sharing,8
 2026-06-22,pieces,4
-2026-06-22,predict,6
-2026-06-22,room,10
-2026-06-22,room trends,6
+2026-06-22,predict,8
+2026-06-22,room,12
+2026-06-22,room trends,8
 2026-06-22,say,8
 2026-06-22,sharing,8
 2026-06-22,small,4
 2026-06-22,small living,4
 2026-06-22,small living room,4
+2026-06-22,spruce,2
 2026-06-22,stand,4
 2026-06-22,stand buzzfeed,4
 2026-06-22,tacky,2
-2026-06-22,therapy,4
-2026-06-22,thespruce,2
-2026-06-22,trends,22
+2026-06-22,trends,24
 2026-06-22,trends designers,2
-2026-06-22,trends veranda,6
-2026-06-22,veranda,6
+2026-06-22,trends veranda,8
+2026-06-22,trends veranda designers,3
+2026-06-22,veranda,8
+2026-06-22,veranda designers,3
+2026-06-22,veranda designers predict,3
 2026-06-22,ways,2
 2026-06-22,yahoo,2
 2026-06-29,americana,4
@@ -112,6 +112,7 @@ period,Term,Count
 2026-06-29,country living,4
 2026-06-29,country living magazine,4
 2026-06-29,dated,2
+2026-06-29,decor,2
 2026-06-29,design,14
 2026-06-29,design trends,12
 2026-06-29,design trends people,2
@@ -207,6 +208,7 @@ period,Term,Count
 2026-07-06,small apartments,2
 2026-07-06,stick,2
 2026-07-06,tacky,2
+2026-07-06,things,2
 2026-07-06,trend,4
 2026-07-06,trends,14
 2026-07-06,trends people,2
@@ -274,8 +276,8 @@ period,Term,Count
 2026-07-13,say,8
 2026-07-13,say home,4
 2026-07-13,simple,2
+2026-07-13,spruce,2
 2026-07-13,stick,2
-2026-07-13,thespruce,2
 2026-07-13,today,2
 2026-07-13,trend,10
 2026-07-13,trends,10
@@ -289,8 +291,7 @@ period,Term,Count
 2026-07-20,actually,2
 2026-07-20,aging,2
 2026-07-20,aging home,2
-2026-07-20,apartment,2
-2026-07-20,apartment therapy,2
+2026-07-20,apartmenttherapy,2
 2026-07-20,art,2
 2026-07-20,beautiful,4
 2026-07-20,bring,2
@@ -302,7 +303,6 @@ period,Term,Count
 2026-07-20,design,4
 2026-07-20,design trends,2
 2026-07-20,designer,2
-2026-07-20,experts,2
 2026-07-20,fall,2
 2026-07-20,finds,4
 2026-07-20,home,12
@@ -326,7 +326,7 @@ period,Term,Count
 2026-07-20,say,2
 2026-07-20,simple,2
 2026-07-20,summer,2
-2026-07-20,therapy,2
+2026-07-20,things,2
 2026-07-20,trend,6
 2026-07-20,trends,8
 2026-07-20,trends making,2
@@ -342,9 +342,9 @@ period,Term,Count
 2026-07-27,alt class attachment,10
 2026-07-27,americana,2
 2026-07-27,announced,3
-2026-07-27,apartment,31
-2026-07-27,apartment therapy,6
+2026-07-27,apartment,25
 2026-07-27,apartments,5
+2026-07-27,apartmenttherapy,6
 2026-07-27,architect,5
 2026-07-27,architects,13
 2026-07-27,architectural,15
@@ -355,7 +355,7 @@ period,Term,Count
 2026-07-27,attachment post,10
 2026-07-27,attachment post thumbnail,10
 2026-07-27,based,3
-2026-07-27,beautiful,13
+2026-07-27,beautiful,14
 2026-07-27,bedroom,11
 2026-07-27,best,9
 2026-07-27,better,2
@@ -370,12 +370,11 @@ period,Term,Count
 2026-07-27,brings,5
 2026-07-27,budget,5
 2026-07-27,budget friendly,4
-2026-07-27,building,10
+2026-07-27,building,9
 2026-07-27,buildings,3
 2026-07-27,built,6
 2026-07-27,business,4
 2026-07-27,buy,1
-2026-07-27,case,8
 2026-07-27,center,14
 2026-07-27,city,3
 2026-07-27,class,42
@@ -406,7 +405,7 @@ period,Term,Count
 2026-07-27,decorating,15
 2026-07-27,decorating ideas,12
 2026-07-27,decoration,6
-2026-07-27,design,73
+2026-07-27,design,72
 2026-07-27,design ideas,11
 2026-07-27,design trends,26
 2026-07-27,design trends street,6
@@ -438,14 +437,13 @@ period,Term,Count
 2026-07-27,excerpt,10
 2026-07-27,existing,3
 2026-07-27,expensive,6
-2026-07-27,experts,4
 2026-07-27,explore,3
 2026-07-27,explores,8
 2026-07-27,explores latest,6
 2026-07-27,explores latest home,6
 2026-07-27,fall,6
 2026-07-27,featuring,3
-2026-07-27,feel,4
+2026-07-27,feel,5
 2026-07-27,finds,3
 2026-07-27,flat,4
 2026-07-27,floor,8
@@ -459,7 +457,7 @@ period,Term,Count
 2026-07-27,height src,10
 2026-07-27,height src width,10
 2026-07-27,heritage,13
-2026-07-27,home,98
+2026-07-27,home,96
 2026-07-27,home decor,30
 2026-07-27,home decor idea,8
 2026-07-27,home decor ideas,6
@@ -467,7 +465,7 @@ period,Term,Count
 2026-07-27,home decorating ideas,7
 2026-07-27,home design,7
 2026-07-27,home design trends,6
-2026-07-27,home trends,6
+2026-07-27,home trends,4
 2026-07-27,homedecor,16
 2026-07-27,homes,13
 2026-07-27,homes gardens,2
@@ -478,7 +476,6 @@ period,Term,Count
 2026-07-27,ideas modern,5
 2026-07-27,ideas shorts,3
 2026-07-27,ideas small,3
-2026-07-27,identity,3
 2026-07-27,image,10
 2026-07-27,image height,10
 2026-07-27,image height src,10
@@ -524,7 +521,7 @@ period,Term,Count
 2026-07-27,luxury home,3
 2026-07-27,luxury interior,5
 2026-07-27,major,4
-2026-07-27,make,8
+2026-07-27,make,7
 2026-07-27,makeover,7
 2026-07-27,makeover ideas,6
 2026-07-27,makes,5
@@ -537,7 +534,7 @@ period,Term,Count
 2026-07-27,movement,5
 2026-07-27,named,1
 2026-07-27,natural,8
-2026-07-27,new,30
+2026-07-27,new,34
 2026-07-27,noopener,9
 2026-07-27,noopener target,9
 2026-07-27,office,6
@@ -546,7 +543,6 @@ period,Term,Count
 2026-07-27,paint,6
 2026-07-27,past,2
 2026-07-27,people,2
-2026-07-27,perfect,5
 2026-07-27,pieces,2
 2026-07-27,place,5
 2026-07-27,post,30
@@ -567,7 +563,7 @@ period,Term,Count
 2026-07-27,rel,9
 2026-07-27,rel noopener,9
 2026-07-27,rel noopener target,9
-2026-07-27,reveal,4
+2026-07-27,reveal,2
 2026-07-27,right,7
 2026-07-27,room,21
 2026-07-27,room interior,4
@@ -603,7 +599,7 @@ period,Term,Count
 2026-07-27,space,30
 2026-07-27,space saving,3
 2026-07-27,spaces,11
-2026-07-27,spent,2
+2026-07-27,spruce,2
 2026-07-27,square,8
 2026-07-27,src,10
 2026-07-27,src width,10
@@ -630,8 +626,7 @@ period,Term,Count
 2026-07-27,text,10
 2026-07-27,text align,10
 2026-07-27,text align center,10
-2026-07-27,therapy,6
-2026-07-27,thespruce,2
+2026-07-27,things,1
 2026-07-27,thumbnail,20
 2026-07-27,thumbnail post,10
 2026-07-27,thumbnail post image,10
@@ -644,12 +639,12 @@ period,Term,Count
 2026-07-27,title,10
 2026-07-27,title style,10
 2026-07-27,title style text,10
-2026-07-27,today,4
+2026-07-27,today,2
 2026-07-27,transform,9
 2026-07-27,transformation,4
 2026-07-27,trend,16
 2026-07-27,trending,4
-2026-07-27,trends,44
+2026-07-27,trends,42
 2026-07-27,trends street,6
 2026-07-27,trends street dreams,6
 2026-07-27,trends veranda,2
