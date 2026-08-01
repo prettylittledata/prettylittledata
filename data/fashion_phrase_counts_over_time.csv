@@ -4,10 +4,7 @@ period,Term,Count
 2026-06-15,gen,2
 2026-06-15,hunter,4
 2026-06-15,key,2
-2026-06-15,new,2
-2026-06-15,new york,2
-2026-06-15,new york post,2
-2026-06-15,post,2
+2026-06-15,nypost,2
 2026-06-15,streetwear,4
 2026-06-15,summer,2
 2026-06-15,summer trends,2
@@ -17,8 +14,6 @@ period,Term,Count
 2026-06-15,vogue,6
 2026-06-15,vogue key,1
 2026-06-15,wardrobe,2
-2026-06-15,york,2
-2026-06-15,york post,2
 2026-06-22,according,2
 2026-06-22,fashion,4
 2026-06-22,fashion trend,2
@@ -42,15 +37,14 @@ period,Term,Count
 2026-06-29,elle,4
 2026-06-29,elle fashion,2
 2026-06-29,fall,2
-2026-06-29,fashion,20
-2026-06-29,fashion trend,16
+2026-06-29,fashion,22
+2026-06-29,fashion trend,18
 2026-06-29,hottest,2
 2026-06-29,know,4
 2026-06-29,look,2
 2026-06-29,makes,2
 2026-06-29,men,4
 2026-06-29,menswear,2
-2026-06-29,new,4
 2026-06-29,right,4
 2026-06-29,right elle,4
 2026-06-29,season,2
@@ -59,7 +53,7 @@ period,Term,Count
 2026-06-29,street,2
 2026-06-29,street style,2
 2026-06-29,style,2
-2026-06-29,trend,16
+2026-06-29,trend,18
 2026-06-29,trends,6
 2026-06-29,trends know,4
 2026-06-29,vogue,6
@@ -166,7 +160,7 @@ period,Term,Count
 2026-07-13,high,2
 2026-07-13,hunter,2
 2026-07-13,inspo,4
-2026-07-13,instyle,6
+2026-07-13,instyle,8
 2026-07-13,key,6
 2026-07-13,key fall,6
 2026-07-13,know,6
@@ -181,10 +175,10 @@ period,Term,Count
 2026-07-13,neutralaesthetic,4
 2026-07-13,neutralaesthetic winterfashion,4
 2026-07-13,neutralaesthetic winterfashion layeringstyle,4
-2026-07-13,new,14
-2026-07-13,new york,6
-2026-07-13,new york post,4
+2026-07-13,new,10
+2026-07-13,new york,2
 2026-07-13,night,4
+2026-07-13,nypost,4
 2026-07-13,ootd,4
 2026-07-13,ootd neutralaesthetic,4
 2026-07-13,ootd neutralaesthetic winterfashion,4
@@ -192,7 +186,7 @@ period,Term,Count
 2026-07-13,outfit nailsaura,4
 2026-07-13,outfit outfitideas,1
 2026-07-13,outfitideas,4
-2026-07-13,post,4
+2026-07-13,report,2
 2026-07-13,seeing,6
 2026-07-13,seeing summer,3
 2026-07-13,seeing summer fashion,3
@@ -217,7 +211,6 @@ period,Term,Count
 2026-07-13,summer trends,4
 2026-07-13,summer vogue,4
 2026-07-13,summer vogue adria,4
-2026-07-13,thezoereport,2
 2026-07-13,times,2
 2026-07-13,trend,24
 2026-07-13,trend hunter,2
@@ -243,10 +236,10 @@ period,Term,Count
 2026-07-13,winterfashion layeringstyle,4
 2026-07-13,winterfashion layeringstyle classiclook,4
 2026-07-13,wwd,8
-2026-07-13,yahoo,2
-2026-07-13,york,6
-2026-07-13,york post,4
+2026-07-13,york,2
 2026-07-13,youtubeshorts,2
+2026-07-13,zoe,2
+2026-07-13,zoe report,2
 2026-07-20,best,2
 2026-07-20,boots,2
 2026-07-20,casual,7
@@ -300,6 +293,7 @@ period,Term,Count
 2026-07-20,outfit outfitideas,1
 2026-07-20,outfitideas,1
 2026-07-20,perfect,1
+2026-07-20,report,4
 2026-07-20,right,2
 2026-07-20,right elle,2
 2026-07-20,runway,1
@@ -316,7 +310,6 @@ period,Term,Count
 2026-07-20,stylish,1
 2026-07-20,summer,5
 2026-07-20,summer hottest,4
-2026-07-20,thezoereport,4
 2026-07-20,tiktok,3
 2026-07-20,times,4
 2026-07-20,tops,1
@@ -336,6 +329,8 @@ period,Term,Count
 2026-07-20,winterfashion layeringstyle classiclook,1
 2026-07-20,world,1
 2026-07-20,years,1
+2026-07-20,zoe,4
+2026-07-20,zoe report,4
 2026-07-27,accessory,6
 2026-07-27,according,6
 2026-07-27,adria,4
@@ -384,12 +379,12 @@ period,Term,Count
 2026-07-27,discover,7
 2026-07-27,discover perfect,3
 2026-07-27,discover perfect blend,3
-2026-07-27,dress,13
+2026-07-27,dress,11
 2026-07-27,dresses,4
 2026-07-27,editors,8
 2026-07-27,elegant,8
 2026-07-27,elle,20
-2026-07-27,elle fashion,2
+2026-07-27,elle india,8
 2026-07-27,era,5
 2026-07-27,everyday,3
 2026-07-27,everyday style,3
@@ -423,10 +418,11 @@ period,Term,Count
 2026-07-27,harper bazaar,4
 2026-07-27,heels,3
 2026-07-27,high,7
-2026-07-27,home,8
+2026-07-27,home,6
 2026-07-27,hottest,4
 2026-07-27,hunter,10
 2026-07-27,ideas,12
+2026-07-27,india,8
 2026-07-27,inspiration,3
 2026-07-27,instyle,12
 2026-07-27,italy,4
@@ -485,6 +481,7 @@ period,Term,Count
 2026-07-27,perfect blend,3
 2026-07-27,pop,9
 2026-07-27,reader,3
+2026-07-27,report,2
 2026-07-27,right,3
 2026-07-27,runway,7
 2026-07-27,sandals,5
@@ -496,8 +493,6 @@ period,Term,Count
 2026-07-27,shirts discover perfect,3
 2026-07-27,shoe,4
 2026-07-27,shoe trend,4
-2026-07-27,shopping,12
-2026-07-27,shopping yahoo,8
 2026-07-27,short,3
 2026-07-27,shorts,26
 2026-07-27,shorts fashion,4
@@ -524,7 +519,7 @@ period,Term,Count
 2026-07-27,style shorts fashion,3
 2026-07-27,stylish,21
 2026-07-27,stylish outfit,3
-2026-07-27,summer,48
+2026-07-27,summer,46
 2026-07-27,summer biggest,4
 2026-07-27,summer biggest fashion,4
 2026-07-27,summer fashion,2
@@ -534,7 +529,6 @@ period,Term,Count
 2026-07-27,summer vogue adria,4
 2026-07-27,summer wear,2
 2026-07-27,taking,6
-2026-07-27,thezoereport,2
 2026-07-27,tiktok,8
 2026-07-27,tips,3
 2026-07-27,tops,5
@@ -547,7 +541,7 @@ period,Term,Count
 2026-07-27,trending fashion,3
 2026-07-27,trending men,3
 2026-07-27,trending men shirts,3
-2026-07-27,trends,56
+2026-07-27,trends,54
 2026-07-27,trends wear,4
 2026-07-27,trendy,11
 2026-07-27,upgrade,5
@@ -562,7 +556,7 @@ period,Term,Count
 2026-07-27,way,5
 2026-07-27,ways,12
 2026-07-27,ways wear,6
-2026-07-27,wear,37
+2026-07-27,wear,35
 2026-07-27,wearing,9
 2026-07-27,week,4
 2026-07-27,welcome,5
@@ -579,3 +573,5 @@ period,Term,Count
 2026-07-27,years ago,3
 2026-07-27,york,4
 2026-07-27,youtubeshorts,1
+2026-07-27,zoe,2
+2026-07-27,zoe report,2
