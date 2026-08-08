@@ -10,13 +10,21 @@ period,Term,Count
 2026-06-22,trend,2
 2026-06-29,beauty,2
 2026-06-29,beauty trend,2
+2026-06-29,beauty trend vogue,2
 2026-06-29,flattering,2
 2026-06-29,flattering beauty,2
 2026-06-29,flattering beauty trend,2
 2026-06-29,makeup,2
 2026-06-29,makeup summer,2
+2026-06-29,media,2
+2026-06-29,skincare,2
+2026-06-29,skincare trend,2
+2026-06-29,social,2
+2026-06-29,social media,2
 2026-06-29,summer,2
-2026-06-29,trend,2
+2026-06-29,trend,4
+2026-06-29,trend vogue,2
+2026-06-29,vogue,2
 2026-07-06,beauty,14
 2026-07-06,beauty trend,6
 2026-07-06,blue,2
@@ -94,9 +102,10 @@ period,Term,Count
 2026-07-13,yes,4
 2026-07-13,york,2
 2026-07-13,zendaya,4
+2026-07-20,adria,6
 2026-07-20,beauty,20
 2026-07-20,beauty trend,6
-2026-07-20,beauty trend vogueadria,4
+2026-07-20,beauty trend vogue,4
 2026-07-20,beauty trends,6
 2026-07-20,best,2
 2026-07-20,best beauty,2
@@ -157,12 +166,14 @@ period,Term,Count
 2026-07-20,tomato,2
 2026-07-20,trend,14
 2026-07-20,trend skincare,2
-2026-07-20,trend vogueadria,4
+2026-07-20,trend vogue,4
+2026-07-20,trend vogue adria,4
 2026-07-20,trending,2
 2026-07-20,trends,6
 2026-07-20,tried,2
 2026-07-20,turned,2
-2026-07-20,vogueadria,6
+2026-07-20,vogue,6
+2026-07-20,vogue adria,6
 2026-07-20,wear,2
 2026-07-20,women,2
 2026-07-20,worth,2
@@ -294,6 +305,7 @@ period,Term,Count
 2026-08-03,acid,10
 2026-08-03,actually,4
 2026-08-03,add,3
+2026-08-03,adria,4
 2026-08-03,agree,4
 2026-08-03,ahead,8
 2026-08-03,amazon,3
@@ -310,13 +322,13 @@ period,Term,Count
 2026-08-03,bazaar,8
 2026-08-03,beach,6
 2026-08-03,beautiful,4
-2026-08-03,beauty,136
+2026-08-03,beauty,134
 2026-08-03,beauty beauty,5
 2026-08-03,beauty look,5
 2026-08-03,beauty style,3
 2026-08-03,beauty style makeup,3
 2026-08-03,beauty trend,30
-2026-08-03,beauty trend vogueadria,4
+2026-08-03,beauty trend vogue,4
 2026-08-03,beauty trends,11
 2026-08-03,beauty trends fashion,3
 2026-08-03,beautytrends,4
@@ -325,7 +337,7 @@ period,Term,Count
 2026-08-03,better,11
 2026-08-03,bieber,12
 2026-08-03,big,10
-2026-08-03,biggest,5
+2026-08-03,biggest,3
 2026-08-03,biggest beauty,1
 2026-08-03,black,12
 2026-08-03,blue,7
@@ -340,6 +352,7 @@ period,Term,Count
 2026-08-03,brand,45
 2026-08-03,brand new,7
 2026-08-03,brand signature,4
+2026-08-03,brands,15
 2026-08-03,break,2
 2026-08-03,bridal,3
 2026-08-03,brown,7
@@ -523,7 +536,6 @@ period,Term,Count
 2026-08-03,height,99
 2026-08-03,height src,81
 2026-08-03,height src width,81
-2026-08-03,hello,6
 2026-08-03,help,5
 2026-08-03,high,11
 2026-08-03,highlight,3
@@ -534,7 +546,6 @@ period,Term,Count
 2026-08-03,hour,4
 2026-08-03,house,7
 2026-08-03,housekeeping,4
-2026-08-03,hunter,8
 2026-08-03,hyaluronic,4
 2026-08-03,hype,2
 2026-08-03,img,49
@@ -550,7 +561,7 @@ period,Term,Count
 2026-08-03,independently selected,3
 2026-08-03,ingredient,4
 2026-08-03,ingredients,6
-2026-08-03,inside,4
+2026-08-03,inside,2
 2026-08-03,insights,5
 2026-08-03,inspired,16
 2026-08-03,instagram,4
@@ -618,6 +629,7 @@ period,Term,Count
 2026-08-03,material,4
 2026-08-03,maybe,4
 2026-08-03,means,4
+2026-08-03,media,6
 2026-08-03,meet,5
 2026-08-03,model,4
 2026-08-03,moment,10
@@ -656,7 +668,7 @@ period,Term,Count
 2026-08-03,partnerships,4
 2026-08-03,past,7
 2026-08-03,peach,6
-2026-08-03,people,46
+2026-08-03,people,44
 2026-08-03,perfect,10
 2026-08-03,perfectly,5
 2026-08-03,personal,7
@@ -672,7 +684,7 @@ period,Term,Count
 2026-08-03,practice,5
 2026-08-03,preview,6
 2026-08-03,price,5
-2026-08-03,products,17
+2026-08-03,products,15
 2026-08-03,purchase,6
 2026-08-03,quickly,6
 2026-08-03,quite,3
@@ -683,7 +695,6 @@ period,Term,Count
 2026-08-03,reason,3
 2026-08-03,recently,5
 2026-08-03,red,14
-2026-08-03,reddit,6
 2026-08-03,reels,6
 2026-08-03,rel,142
 2026-08-03,rel noreferrer,140
@@ -730,7 +741,7 @@ period,Term,Count
 2026-08-03,skin,79
 2026-08-03,skin care,10
 2026-08-03,skin care trend,4
-2026-08-03,skincare,41
+2026-08-03,skincare,39
 2026-08-03,skincare makeup,4
 2026-08-03,skincare routine,4
 2026-08-03,skincare skincareroutine,8
@@ -741,6 +752,7 @@ period,Term,Count
 2026-08-03,smoother,5
 2026-08-03,soap,5
 2026-08-03,social,3
+2026-08-03,social media,2
 2026-08-03,soft,6
 2026-08-03,song,8
 2026-08-03,sound,3
@@ -802,11 +814,12 @@ period,Term,Count
 2026-08-03,travel,5
 2026-08-03,treatment,8
 2026-08-03,treatments,5
-2026-08-03,trend,91
+2026-08-03,trend,89
 2026-08-03,trend beauty,5
 2026-08-03,trend skincare,3
-2026-08-03,trend vogueadria,4
-2026-08-03,trending,14
+2026-08-03,trend vogue,6
+2026-08-03,trend vogue adria,4
+2026-08-03,trending,16
 2026-08-03,trendingshorts,2
 2026-08-03,trends,21
 2026-08-03,trends fashion,5
@@ -837,9 +850,9 @@ period,Term,Count
 2026-08-03,viral tiktok,1
 2026-08-03,viralreels,3
 2026-08-03,viralshorts,3
-2026-08-03,vogue,10
+2026-08-03,vogue,16
+2026-08-03,vogue adria,4
 2026-08-03,vogue beauty,2
-2026-08-03,vogueadria,4
 2026-08-03,want,9
 2026-08-03,warm,3
 2026-08-03,wasn,3
