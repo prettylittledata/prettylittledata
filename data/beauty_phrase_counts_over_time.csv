@@ -10,7 +10,6 @@ period,Term,Count
 2026-06-22,trend,2
 2026-06-29,beauty,2
 2026-06-29,beauty trend,2
-2026-06-29,beauty trend vogue,2
 2026-06-29,flattering,2
 2026-06-29,flattering beauty,2
 2026-06-29,flattering beauty trend,2
@@ -18,8 +17,6 @@ period,Term,Count
 2026-06-29,makeup summer,2
 2026-06-29,summer,2
 2026-06-29,trend,2
-2026-06-29,trend vogue,2
-2026-06-29,vogue,2
 2026-07-06,beauty,14
 2026-07-06,beauty trend,6
 2026-07-06,blue,2
@@ -46,7 +43,7 @@ period,Term,Count
 2026-07-06,trend summer,10
 2026-07-06,vogue,8
 2026-07-06,vogue beauty,4
-2026-07-06,whowhatwear,4
+2026-07-06,wear,4
 2026-07-06,yes,2
 2026-07-06,zendaya,2
 2026-07-13,actually,2
@@ -97,10 +94,9 @@ period,Term,Count
 2026-07-13,yes,4
 2026-07-13,york,2
 2026-07-13,zendaya,4
-2026-07-20,adria,6
 2026-07-20,beauty,20
 2026-07-20,beauty trend,6
-2026-07-20,beauty trend vogue,4
+2026-07-20,beauty trend vogueadria,4
 2026-07-20,beauty trends,6
 2026-07-20,best,2
 2026-07-20,best beauty,2
@@ -113,6 +109,7 @@ period,Term,Count
 2026-07-20,care trend,2
 2026-07-20,cosmopolitan,6
 2026-07-20,cream,2
+2026-07-20,daily,2
 2026-07-20,eyeshadow,2
 2026-07-20,face,4
 2026-07-20,fashion,2
@@ -160,15 +157,13 @@ period,Term,Count
 2026-07-20,tomato,2
 2026-07-20,trend,14
 2026-07-20,trend skincare,2
-2026-07-20,trend vogue,4
-2026-07-20,trend vogue adria,4
+2026-07-20,trend vogueadria,4
 2026-07-20,trending,2
 2026-07-20,trends,6
 2026-07-20,tried,2
 2026-07-20,turned,2
-2026-07-20,vogue,6
-2026-07-20,vogue adria,6
-2026-07-20,whowhatwear,2
+2026-07-20,vogueadria,6
+2026-07-20,wear,2
 2026-07-20,women,2
 2026-07-20,worth,2
 2026-07-20,year,2
@@ -180,7 +175,7 @@ period,Term,Count
 2026-07-27,beauty trends,4
 2026-07-27,bieber,2
 2026-07-27,blue,4
-2026-07-27,blurred,4
+2026-07-27,blurred,2
 2026-07-27,bold,4
 2026-07-27,bperfect,1
 2026-07-27,bperfect cosmetics,1
@@ -197,7 +192,6 @@ period,Term,Count
 2026-07-27,dermatologists,6
 2026-07-27,did,2
 2026-07-27,does,4
-2026-07-27,easy,2
 2026-07-27,essentials,4
 2026-07-27,eye,2
 2026-07-27,eye makeup,2
@@ -212,7 +206,6 @@ period,Term,Count
 2026-07-27,favorite,2
 2026-07-27,feels,4
 2026-07-27,feels like,4
-2026-07-27,flattering,2
 2026-07-27,future,4
 2026-07-27,gen,4
 2026-07-27,glam,2
@@ -231,19 +224,18 @@ period,Term,Count
 2026-07-27,latest beauty,4
 2026-07-27,latest beauty trend,4
 2026-07-27,like,6
-2026-07-27,lip,2
 2026-07-27,look,15
 2026-07-27,look did,1
 2026-07-27,look viral,3
 2026-07-27,looks,2
 2026-07-27,make,1
 2026-07-27,makes,4
-2026-07-27,makeup,52
+2026-07-27,makeup,50
 2026-07-27,makeup look,12
 2026-07-27,makeup look did,1
 2026-07-27,makeup shorts,5
 2026-07-27,makeup shorts did,1
-2026-07-27,makeup trend,4
+2026-07-27,makeup trend,2
 2026-07-27,makeup tutorial,1
 2026-07-27,makeuptutorial,3
 2026-07-27,naykilla,4
@@ -271,7 +263,7 @@ period,Term,Count
 2026-07-27,times,2
 2026-07-27,tiny,4
 2026-07-27,today,2
-2026-07-27,trend,27
+2026-07-27,trend,25
 2026-07-27,trending,11
 2026-07-27,trendingshorts,3
 2026-07-27,trends,4
@@ -302,7 +294,6 @@ period,Term,Count
 2026-08-03,acid,10
 2026-08-03,actually,4
 2026-08-03,add,3
-2026-08-03,adria,4
 2026-08-03,agree,4
 2026-08-03,ahead,8
 2026-08-03,amazon,3
@@ -319,13 +310,13 @@ period,Term,Count
 2026-08-03,bazaar,8
 2026-08-03,beach,6
 2026-08-03,beautiful,4
-2026-08-03,beauty,138
+2026-08-03,beauty,136
 2026-08-03,beauty beauty,5
 2026-08-03,beauty look,5
 2026-08-03,beauty style,3
 2026-08-03,beauty style makeup,3
-2026-08-03,beauty trend,32
-2026-08-03,beauty trend vogue,4
+2026-08-03,beauty trend,30
+2026-08-03,beauty trend vogueadria,4
 2026-08-03,beauty trends,11
 2026-08-03,beauty trends fashion,3
 2026-08-03,beautytrends,4
@@ -336,13 +327,13 @@ period,Term,Count
 2026-08-03,big,10
 2026-08-03,biggest,5
 2026-08-03,biggest beauty,1
-2026-08-03,black,14
+2026-08-03,black,12
 2026-08-03,blue,7
 2026-08-03,blurred,3
 2026-08-03,blush,18
 2026-08-03,body,5
 2026-08-03,bold,5
-2026-08-03,book,9
+2026-08-03,book,7
 2026-08-03,bperfect,2
 2026-08-03,bperfect cosmetics,2
 2026-08-03,bperfect cosmetics carnival,2
@@ -592,7 +583,7 @@ period,Term,Count
 2026-08-03,lip,5
 2026-08-03,lipa,5
 2026-08-03,lips,5
-2026-08-03,little,8
+2026-08-03,little,6
 2026-08-03,lived,2
 2026-08-03,lives,4
 2026-08-03,long,13
@@ -674,7 +665,7 @@ period,Term,Count
 2026-08-03,place,9
 2026-08-03,plan,5
 2026-08-03,plus,9
-2026-08-03,pop,9
+2026-08-03,pop,7
 2026-08-03,popular,8
 2026-08-03,possible,3
 2026-08-03,post,4
@@ -807,15 +798,14 @@ period,Term,Count
 2026-08-03,tons,5
 2026-08-03,tops,5
 2026-08-03,transformation,5
-2026-08-03,transforms,6
+2026-08-03,transforms,4
 2026-08-03,travel,5
 2026-08-03,treatment,8
 2026-08-03,treatments,5
-2026-08-03,trend,93
+2026-08-03,trend,91
 2026-08-03,trend beauty,5
 2026-08-03,trend skincare,3
-2026-08-03,trend vogue,6
-2026-08-03,trend vogue adria,4
+2026-08-03,trend vogueadria,4
 2026-08-03,trending,14
 2026-08-03,trendingshorts,2
 2026-08-03,trends,21
@@ -847,9 +837,9 @@ period,Term,Count
 2026-08-03,viral tiktok,1
 2026-08-03,viralreels,3
 2026-08-03,viralshorts,3
-2026-08-03,vogue,16
-2026-08-03,vogue adria,4
+2026-08-03,vogue,10
 2026-08-03,vogue beauty,2
+2026-08-03,vogueadria,4
 2026-08-03,want,9
 2026-08-03,warm,3
 2026-08-03,wasn,3
