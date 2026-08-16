@@ -91,7 +91,6 @@ period,Term,Count
 2026-07-20,pre,4
 2026-07-20,pre fall,4
 2026-07-20,pre fall trends,4
-2026-07-20,report,4
 2026-07-20,right,4
 2026-07-20,right elle,4
 2026-07-20,runways,2
@@ -101,6 +100,7 @@ period,Term,Count
 2026-07-20,sneaker,1
 2026-07-20,sneakers,1
 2026-07-20,streetwear,2
+2026-07-20,thezoereport,4
 2026-07-20,trend,2
 2026-07-20,trend hunter,2
 2026-07-20,trending,1
@@ -109,9 +109,7 @@ period,Term,Count
 2026-07-20,wardrobe,4
 2026-07-20,wardrobe right,4
 2026-07-20,wardrobe right elle,4
-2026-07-20,wear,2
-2026-07-20,zoe,4
-2026-07-20,zoe report,4
+2026-07-20,whowhatwear,2
 2026-07-27,according,2
 2026-07-27,adria,4
 2026-07-27,black,1
@@ -160,7 +158,7 @@ period,Term,Count
 2026-07-27,vogue adria,4
 2026-07-27,wardrobe,1
 2026-07-27,ways,4
-2026-07-27,wear,4
+2026-07-27,whowhatwear,4
 2026-07-27,winter,4
 2026-07-27,women,2
 2026-08-03,adria,4
@@ -217,9 +215,9 @@ period,Term,Count
 2026-08-03,trends,2
 2026-08-03,vogue,4
 2026-08-03,vogue adria,4
-2026-08-03,wear,2
 2026-08-03,week,2
 2026-08-03,white,2
+2026-08-03,whowhatwear,2
 2026-08-03,women,2
 2026-08-10,according,10
 2026-08-10,according runways,6
@@ -227,9 +225,9 @@ period,Term,Count
 2026-08-10,ahead,6
 2026-08-10,amazon,5
 2026-08-10,apparel,6
-2026-08-10,autumn,39
+2026-08-10,autumn,41
 2026-08-10,autumn fashion,6
-2026-08-10,autumn wear,14
+2026-08-10,autumn whowhatwear,16
 2026-08-10,bag,12
 2026-08-10,bag trends,8
 2026-08-10,bag trends know,6
@@ -252,11 +250,11 @@ period,Term,Count
 2026-08-10,casual,11
 2026-08-10,celebrity,8
 2026-08-10,centuries,1
-2026-08-10,chic,8
+2026-08-10,chic,10
 2026-08-10,chicest,10
 2026-08-10,chicest way,8
 2026-08-10,city,7
-2026-08-10,claire,8
+2026-08-10,claire,6
 2026-08-10,classic,8
 2026-08-10,classy,9
 2026-08-10,click,5
@@ -273,9 +271,9 @@ period,Term,Count
 2026-08-10,comfortable,8
 2026-08-10,comfortable perfect,4
 2026-08-10,comfortable perfect winter,3
-2026-08-10,coming,7
+2026-08-10,coming,5
 2026-08-10,cool,11
-2026-08-10,copenhagen,15
+2026-08-10,copenhagen,13
 2026-08-10,copenhagen fashion,3
 2026-08-10,copenhagen fashion week,3
 2026-08-10,cosmopolitan,12
@@ -305,7 +303,7 @@ period,Term,Count
 2026-08-10,everyday,5
 2026-08-10,explore,2
 2026-08-10,fabric,3
-2026-08-10,fall,78
+2026-08-10,fall,76
 2026-08-10,fall fashion,18
 2026-08-10,fall fashion trend,5
 2026-08-10,fall fashion trends,8
@@ -316,13 +314,13 @@ period,Term,Count
 2026-08-10,fall winter,14
 2026-08-10,fall winter fashion,5
 2026-08-10,fall winter outfit,3
-2026-08-10,fashion,148
+2026-08-10,fashion,150
 2026-08-10,fashion collection,3
 2026-08-10,fashion looking,3
 2026-08-10,fashion shorts,8
 2026-08-10,fashion shorts trendy,3
 2026-08-10,fashion trend,13
-2026-08-10,fashion trends,30
+2026-08-10,fashion trends,32
 2026-08-10,fashion trends know,2
 2026-08-10,fashion trends start,6
 2026-08-10,fashion week,3
@@ -345,7 +343,6 @@ period,Term,Count
 2026-08-10,got,6
 2026-08-10,great,6
 2026-08-10,guardian,2
-2026-08-10,home,5
 2026-08-10,hot,6
 2026-08-10,hunter,12
 2026-08-10,ideas,10
@@ -358,7 +355,7 @@ period,Term,Count
 2026-08-10,instyle,10
 2026-08-10,internet,1
 2026-08-10,jeans,12
-2026-08-10,just,11
+2026-08-10,just,13
 2026-08-10,key,5
 2026-08-10,key fall,2
 2026-08-10,knit,6
@@ -388,15 +385,15 @@ period,Term,Count
 2026-08-10,magazine,9
 2026-08-10,major,6
 2026-08-10,make,12
-2026-08-10,marie,8
-2026-08-10,marie claire,8
+2026-08-10,marie,6
+2026-08-10,marie claire,6
 2026-08-10,men,40
 2026-08-10,men fashion,18
 2026-08-10,men fashion trends,4
 2026-08-10,mens,4
 2026-08-10,mensfashion,5
 2026-08-10,midi,6
-2026-08-10,modern,6
+2026-08-10,modern,4
 2026-08-10,new,29
 2026-08-10,new knitted,5
 2026-08-10,new knitted sweater,5
@@ -430,22 +427,23 @@ period,Term,Count
 2026-08-10,pre,2
 2026-08-10,print,5
 2026-08-10,reader,3
-2026-08-10,report,8
+2026-08-10,report,6
 2026-08-10,right,5
 2026-08-10,right elle,4
-2026-08-10,runway,8
+2026-08-10,runway,10
 2026-08-10,runway trend,2
 2026-08-10,runways,6
 2026-08-10,runways chicest,6
 2026-08-10,runways chicest way,6
 2026-08-10,sale,5
+2026-08-10,saying,6
 2026-08-10,season,11
 2026-08-10,set,2
 2026-08-10,sexy,4
 2026-08-10,shirt,14
 2026-08-10,shirts,5
-2026-08-10,shoe,17
-2026-08-10,shoe trends,8
+2026-08-10,shoe,19
+2026-08-10,shoe trends,10
 2026-08-10,shoes,8
 2026-08-10,shop,7
 2026-08-10,shorts,36
@@ -468,7 +466,8 @@ period,Term,Count
 2026-08-10,street,7
 2026-08-10,street style,7
 2026-08-10,streetwear,12
-2026-08-10,style,34
+2026-08-10,style,32
+2026-08-10,styles,6
 2026-08-10,stylish,32
 2026-08-10,stylish color,4
 2026-08-10,stylish color block,3
@@ -484,6 +483,7 @@ period,Term,Count
 2026-08-10,taking,4
 2026-08-10,tassel,4
 2026-08-10,taste,4
+2026-08-10,thezoereport,2
 2026-08-10,time,3
 2026-08-10,times,5
 2026-08-10,tops,2
@@ -494,7 +494,7 @@ period,Term,Count
 2026-08-10,trend report,6
 2026-08-10,trending,14
 2026-08-10,trending fashion,2
-2026-08-10,trends,99
+2026-08-10,trends,101
 2026-08-10,trends know,10
 2026-08-10,trends start,10
 2026-08-10,trends vogue,4
@@ -507,7 +507,7 @@ period,Term,Count
 2026-08-10,video,4
 2026-08-10,videos,3
 2026-08-10,viral,10
-2026-08-10,vogue,18
+2026-08-10,vogue,16
 2026-08-10,vogue key,1
 2026-08-10,vogue key fall,1
 2026-08-10,wardrobe,10
@@ -516,13 +516,14 @@ period,Term,Count
 2026-08-10,way,12
 2026-08-10,way wear,6
 2026-08-10,ways,2
-2026-08-10,wear,73
-2026-08-10,wear forget,3
-2026-08-10,wear just,3
+2026-08-10,wear,21
 2026-08-10,wearing,18
-2026-08-10,week,7
+2026-08-10,week,5
 2026-08-10,welcome,4
 2026-08-10,white,8
+2026-08-10,whowhatwear,54
+2026-08-10,whowhatwear forget,3
+2026-08-10,whowhatwear just,4
 2026-08-10,winter,25
 2026-08-10,winter color,3
 2026-08-10,winter color block,3
@@ -538,10 +539,9 @@ period,Term,Count
 2026-08-10,women knit sweater,3
 2026-08-10,women knitted,3
 2026-08-10,women knitted sweater,3
-2026-08-10,wwd,2
+2026-08-10,wwd,4
 2026-08-10,year,5
 2026-08-10,years,8
+2026-08-10,yes,6
 2026-08-10,york,3
 2026-08-10,youtubeshorts,4
-2026-08-10,zoe,2
-2026-08-10,zoe report,2
