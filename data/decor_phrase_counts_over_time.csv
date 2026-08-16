@@ -115,7 +115,7 @@ period,Term,Count
 2026-07-13,yahoo,2
 2026-07-20,according,2
 2026-07-20,apartment,2
-2026-07-20,beautiful,2
+2026-07-20,beautiful,4
 2026-07-20,bring,2
 2026-07-20,decor,6
 2026-07-20,decor trend,4
@@ -123,19 +123,19 @@ period,Term,Count
 2026-07-20,designer,2
 2026-07-20,fall,2
 2026-07-20,gardens,2
-2026-07-20,home,12
+2026-07-20,home,14
 2026-07-20,home decor,4
 2026-07-20,home decor trend,2
 2026-07-20,homes,2
 2026-07-20,homes gardens,2
-2026-07-20,house,2
-2026-07-20,house beautiful,2
+2026-07-20,house,4
+2026-07-20,house beautiful,4
 2026-07-20,interior,2
 2026-07-20,love,2
 2026-07-20,making,2
 2026-07-20,outdated,2
 2026-07-20,real,2
-2026-07-20,right,2
+2026-07-20,right,4
 2026-07-20,simple,2
 2026-07-20,small,2
 2026-07-20,small space,2
@@ -144,7 +144,7 @@ period,Term,Count
 2026-07-20,star,2
 2026-07-20,things,2
 2026-07-20,tiny,2
-2026-07-20,trend,6
+2026-07-20,trend,8
 2026-07-20,trends,2
 2026-07-20,work,2
 2026-07-20,yahoo,4
@@ -195,6 +195,8 @@ period,Term,Count
 2026-07-27,interior designers,8
 2026-07-27,kitchen,2
 2026-07-27,latest,4
+2026-07-27,latest interior,4
+2026-07-27,latest interior design,4
 2026-07-27,like,4
 2026-07-27,living,2
 2026-07-27,living room,2
@@ -228,23 +230,24 @@ period,Term,Count
 2026-07-27,world,2
 2026-07-27,yahoo,2
 2026-08-03,aesthetic,2
-2026-08-03,archdaily,4
-2026-08-03,archdaily gallery,2
-2026-08-03,archdaily gallery brazilian,2
-2026-08-03,brazilian,4
-2026-08-03,brazilian interior,4
-2026-08-03,brazilian interior design,4
+2026-08-03,archdaily,2
+2026-08-03,archdaily gallery,1
+2026-08-03,archdaily gallery brazilian,1
+2026-08-03,brazilian,2
+2026-08-03,brazilian interior,2
+2026-08-03,brazilian interior design,2
 2026-08-03,cozy,2
 2026-08-03,decor,2
 2026-08-03,decor trend,2
-2026-08-03,design,10
-2026-08-03,design trends,4
-2026-08-03,design trends archdaily,4
+2026-08-03,design,8
+2026-08-03,design trend,4
+2026-08-03,design trends,2
+2026-08-03,design trends archdaily,2
 2026-08-03,designers,2
 2026-08-03,feel,2
-2026-08-03,gallery,4
-2026-08-03,gallery brazilian,4
-2026-08-03,gallery brazilian interior,4
+2026-08-03,gallery,2
+2026-08-03,gallery brazilian,2
+2026-08-03,gallery brazilian interior,2
 2026-08-03,good,2
 2026-08-03,good housekeeping,2
 2026-08-03,home,8
@@ -254,21 +257,20 @@ period,Term,Count
 2026-08-03,homes,2
 2026-08-03,house,2
 2026-08-03,housekeeping,2
-2026-08-03,interior,6
-2026-08-03,interior design,4
-2026-08-03,interior design trends,4
+2026-08-03,interior,4
+2026-08-03,interior design,2
+2026-08-03,interior design trends,2
 2026-08-03,interior designers,2
 2026-08-03,latest,4
 2026-08-03,living,2
 2026-08-03,popular,2
-2026-08-03,post,4
 2026-08-03,southern,4
 2026-08-03,southern living,2
 2026-08-03,timeless,2
 2026-08-03,trend,6
-2026-08-03,trends,4
-2026-08-03,trends archdaily,4
-2026-08-03,trends archdaily gallery,2
+2026-08-03,trends,2
+2026-08-03,trends archdaily,2
+2026-08-03,trends archdaily gallery,1
 2026-08-03,yahoo,2
 2026-08-10,according,4
 2026-08-10,aesthetic,7
@@ -349,10 +351,11 @@ period,Term,Count
 2026-08-10,decorating,7
 2026-08-10,decorating ideas,4
 2026-08-10,decoration,5
-2026-08-10,design,62
+2026-08-10,design,64
 2026-08-10,design ideas,8
 2026-08-10,design transform,3
 2026-08-10,design transform bedroom,3
+2026-08-10,design trend,2
 2026-08-10,design trends,17
 2026-08-10,design trends archdaily,2
 2026-08-10,design trends making,4
@@ -439,8 +442,8 @@ period,Term,Count
 2026-08-10,inside,9
 2026-08-10,inspiration,7
 2026-08-10,instead,4
-2026-08-10,interior,37
-2026-08-10,interior design,22
+2026-08-10,interior,39
+2026-08-10,interior design,24
 2026-08-10,interior design ideas,5
 2026-08-10,interior design trends,6
 2026-08-10,interiordesign,12
@@ -451,8 +454,10 @@ period,Term,Count
 2026-08-10,just,8
 2026-08-10,kitchen,6
 2026-08-10,landscape,13
-2026-08-10,latest,1
-2026-08-10,life,3
+2026-08-10,latest,3
+2026-08-10,latest interior,2
+2026-08-10,latest interior design,2
+2026-08-10,life,5
 2026-08-10,like,10
 2026-08-10,living,27
 2026-08-10,living room,8
@@ -461,7 +466,8 @@ period,Term,Count
 2026-08-10,look,15
 2026-08-10,looks,8
 2026-08-10,love,3
-2026-08-10,luxury,17
+2026-08-10,luxury,19
+2026-08-10,magazine,2
 2026-08-10,major,2
 2026-08-10,make,5
 2026-08-10,makeover,6
@@ -570,7 +576,7 @@ period,Term,Count
 2026-08-10,transform bedroom,3
 2026-08-10,transform living,3
 2026-08-10,transform living space,3
-2026-08-10,trend,13
+2026-08-10,trend,15
 2026-08-10,trend designers,4
 2026-08-10,trend taking,6
 2026-08-10,trends,34
