@@ -22,7 +22,7 @@ period,Term,Count
 2026-07-06,trends making comeback,4
 2026-07-06,vogue,2
 2026-07-06,wardrobe,2
-2026-07-06,wear,4
+2026-07-06,whowhatwear,4
 2026-07-13,dressing,2
 2026-07-13,editors,2
 2026-07-13,fall,4
@@ -38,13 +38,13 @@ period,Term,Count
 2026-07-13,know,4
 2026-07-13,life,2
 2026-07-13,new,8
-2026-07-13,new york,2
 2026-07-13,seeing,6
 2026-07-13,seeing summer,3
 2026-07-13,seeing summer fashion,3
 2026-07-13,staffers,6
 2026-07-13,staffers seeing,6
 2026-07-13,staffers seeing summer,3
+2026-07-13,stay,2
 2026-07-13,stop,4
 2026-07-13,summer,10
 2026-07-13,summer fashion,8
@@ -60,7 +60,6 @@ period,Term,Count
 2026-07-13,vogue key,2
 2026-07-13,vogue key fall,2
 2026-07-13,want,2
-2026-07-13,york,2
 2026-07-20,buying,2
 2026-07-20,capsule,2
 2026-07-20,celebrity,2
@@ -74,7 +73,6 @@ period,Term,Count
 2026-07-20,fall trends,4
 2026-07-20,fashion,6
 2026-07-20,fashion trends,2
-2026-07-20,hunter,2
 2026-07-20,instead,2
 2026-07-20,like,4
 2026-07-20,magazine,2
@@ -92,11 +90,11 @@ period,Term,Count
 2026-07-20,shoe trend,2
 2026-07-20,shopping,2
 2026-07-20,streetwear,2
-2026-07-20,trend,4
-2026-07-20,trend hunter,2
+2026-07-20,trend,2
+2026-07-20,trendhunter,2
 2026-07-20,trends,10
 2026-07-20,wardrobe,4
-2026-07-20,wear,2
+2026-07-20,whowhatwear,2
 2026-07-27,according,2
 2026-07-27,adria,6
 2026-07-27,american,2
@@ -125,23 +123,20 @@ period,Term,Count
 2026-07-27,flip,4
 2026-07-27,flip flops,4
 2026-07-27,flops,4
-2026-07-27,gen,4
-2026-07-27,gen millennial,4
 2026-07-27,got,1
 2026-07-27,graphic,6
 2026-07-27,inspired,2
 2026-07-27,just,2
 2026-07-27,lingerie,4
 2026-07-27,long,2
-2026-07-27,long sleeve,2
 2026-07-27,looks,1
 2026-07-27,marie,6
 2026-07-27,marie claire,6
-2026-07-27,millennial,4
 2026-07-27,new,2
 2026-07-27,night,1
 2026-07-27,outfit,1
 2026-07-27,oversized,1
+2026-07-27,pants,2
 2026-07-27,season,6
 2026-07-27,set,6
 2026-07-27,shirt,7
@@ -162,22 +157,24 @@ period,Term,Count
 2026-07-27,vogue,6
 2026-07-27,vogue adria,6
 2026-07-27,wardrobe,1
-2026-07-27,wear,12
+2026-07-27,wear,2
+2026-07-27,whowhatwear,10
 2026-07-27,winter,4
 2026-07-27,women,2
 2026-08-03,adria,4
 2026-08-03,american,1
+2026-08-03,best,2
 2026-08-03,biggest,2
 2026-08-03,bold,1
 2026-08-03,buying,2
 2026-08-03,capsule,2
 2026-08-03,casual,1
-2026-08-03,copenhagen,4
+2026-08-03,copenhagen,6
 2026-08-03,crop,2
 2026-08-03,discover,1
 2026-08-03,dress,2
 2026-08-03,elle,4
-2026-08-03,fashion,15
+2026-08-03,fashion,17
 2026-08-03,fashion inspiration,1
 2026-08-03,fashion trend,4
 2026-08-03,feel,4
@@ -186,7 +183,6 @@ period,Term,Count
 2026-08-03,going,5
 2026-08-03,good,4
 2026-08-03,got,1
-2026-08-03,hunter,2
 2026-08-03,inspiration,1
 2026-08-03,jeans,2
 2026-08-03,king,1
@@ -208,29 +204,28 @@ period,Term,Count
 2026-08-03,sleeve,2
 2026-08-03,social,1
 2026-08-03,spring,1
-2026-08-03,street,2
-2026-08-03,street style,1
+2026-08-03,street,4
+2026-08-03,street style,3
 2026-08-03,streetstyle,1
 2026-08-03,streetwear,7
-2026-08-03,style,1
+2026-08-03,style,3
 2026-08-03,summer,1
 2026-08-03,tops,2
-2026-08-03,trend,12
-2026-08-03,trend hunter,2
+2026-08-03,trend,10
+2026-08-03,trendhunter,2
 2026-08-03,trending,1
 2026-08-03,trends,4
 2026-08-03,urban,1
-2026-08-03,vogue,4
+2026-08-03,vogue,6
 2026-08-03,vogue adria,4
-2026-08-03,wear,4
+2026-08-03,week,4
 2026-08-03,white,2
+2026-08-03,whowhatwear,4
 2026-08-03,women,2
 2026-08-03,world,1
 2026-08-10,according,6
-2026-08-10,anne,2
-2026-08-10,anne hathaway,2
 2026-08-10,autumn,21
-2026-08-10,autumn wear,6
+2026-08-10,autumn whowhatwear,6
 2026-08-10,autumn winter,4
 2026-08-10,backless,2
 2026-08-10,backless black,2
@@ -263,12 +258,11 @@ period,Term,Count
 2026-08-10,colour,2
 2026-08-10,comeback,2
 2026-08-10,comes,2
-2026-08-10,comfort,1
 2026-08-10,comfortable,2
 2026-08-10,comfy,2
 2026-08-10,coming,3
 2026-08-10,cool,3
-2026-08-10,copenhagen,4
+2026-08-10,copenhagen,2
 2026-08-10,cosmopolitan,4
 2026-08-10,cotton,4
 2026-08-10,cotton sexy,2
@@ -285,17 +279,16 @@ period,Term,Count
 2026-08-10,dressed,1
 2026-08-10,dresses,2
 2026-08-10,effortless,2
-2026-08-10,elegant,4
-2026-08-10,elle,10
+2026-08-10,elegant,2
+2026-08-10,elle,6
 2026-08-10,era,3
-2026-08-10,fall,40
+2026-08-10,fall,36
 2026-08-10,fall fashion,8
 2026-08-10,fall fashion trends,4
 2026-08-10,fall shoe,6
 2026-08-10,fall shoe trends,6
-2026-08-10,fall wardrobe,4
 2026-08-10,fall winter,4
-2026-08-10,fashion,50
+2026-08-10,fashion,49
 2026-08-10,fashion trend,12
 2026-08-10,fashion trends,17
 2026-08-10,fashion trends making,2
@@ -303,7 +296,7 @@ period,Term,Count
 2026-08-10,features stylish,2
 2026-08-10,features stylish halter,2
 2026-08-10,featuring,1
-2026-08-10,feel,5
+2026-08-10,feel,3
 2026-08-10,feel good,1
 2026-08-10,female,2
 2026-08-10,female crop,2
@@ -311,9 +304,7 @@ period,Term,Count
 2026-08-10,flip,4
 2026-08-10,flip flops,4
 2026-08-10,flops,4
-2026-08-10,footwear,1
 2026-08-10,forget,8
-2026-08-10,fyp,1
 2026-08-10,girl,3
 2026-08-10,glam,4
 2026-08-10,goes,2
@@ -324,10 +315,7 @@ period,Term,Count
 2026-08-10,halter neckline,2
 2026-08-10,halter streetwear,2
 2026-08-10,halter streetwear vest,2
-2026-08-10,hathaway,2
 2026-08-10,hold,4
-2026-08-10,home,7
-2026-08-10,hunter,8
 2026-08-10,inspired,5
 2026-08-10,instead,3
 2026-08-10,instyle,6
@@ -338,9 +326,9 @@ period,Term,Count
 2026-08-10,know,10
 2026-08-10,latest,1
 2026-08-10,life,3
-2026-08-10,like,4
+2026-08-10,like,2
 2026-08-10,long,2
-2026-08-10,look,12
+2026-08-10,look,10
 2026-08-10,love,4
 2026-08-10,magazine,5
 2026-08-10,major,6
@@ -353,8 +341,7 @@ period,Term,Count
 2026-08-10,men fashion,1
 2026-08-10,modern,2
 2026-08-10,neckline,2
-2026-08-10,new,11
-2026-08-10,new york,1
+2026-08-10,new,10
 2026-08-10,night,2
 2026-08-10,old,4
 2026-08-10,ootd,1
@@ -362,6 +349,7 @@ period,Term,Count
 2026-08-10,outfit,3
 2026-08-10,outfitideas,1
 2026-08-10,outfits,9
+2026-08-10,pants,2
 2026-08-10,people,4
 2026-08-10,plus,4
 2026-08-10,popular,1
@@ -391,19 +379,17 @@ period,Term,Count
 2026-08-10,shopping,1
 2026-08-10,shorts,5
 2026-08-10,sneaker,5
-2026-08-10,sneakers,6
+2026-08-10,sneakers,4
 2026-08-10,social,1
-2026-08-10,spring,6
-2026-08-10,star,4
+2026-08-10,soft,1
+2026-08-10,spring,4
 2026-08-10,start,4
+2026-08-10,stay,2
 2026-08-10,step,2
-2026-08-10,street,2
-2026-08-10,street style,2
 2026-08-10,streetwear,8
 2026-08-10,streetwear vest,2
 2026-08-10,streetwear vest female,2
-2026-08-10,style,5
-2026-08-10,styles,2
+2026-08-10,style,3
 2026-08-10,styling,3
 2026-08-10,stylish,4
 2026-08-10,stylish halter,2
@@ -423,11 +409,11 @@ period,Term,Count
 2026-08-10,tops,2
 2026-08-10,tops halter,2
 2026-08-10,tops halter streetwear,2
-2026-08-10,trend,57
-2026-08-10,trend hunter,8
-2026-08-10,trend wear,2
+2026-08-10,trend,47
+2026-08-10,trend whowhatwear,2
+2026-08-10,trendhunter,8
 2026-08-10,trending,1
-2026-08-10,trends,49
+2026-08-10,trends,47
 2026-08-10,trends know,6
 2026-08-10,trends making,2
 2026-08-10,trends making comeback,2
@@ -440,37 +426,34 @@ period,Term,Count
 2026-08-10,vest female,2
 2026-08-10,vest female crop,2
 2026-08-10,viral,1
-2026-08-10,vogue,16
+2026-08-10,vogue,14
 2026-08-10,vogue key,1
 2026-08-10,vogue key fall,1
-2026-08-10,wardrobe,4
-2026-08-10,wear,40
-2026-08-10,wear hold,2
+2026-08-10,wear,6
 2026-08-10,wearing,2
 2026-08-10,wedding,4
-2026-08-10,white,4
+2026-08-10,welcome,1
+2026-08-10,white,2
 2026-08-10,white tank,2
 2026-08-10,white tank tops,2
+2026-08-10,whowhatwear,34
+2026-08-10,whowhatwear hold,2
 2026-08-10,winter,8
 2026-08-10,winter fashion,4
-2026-08-10,woman,7
-2026-08-10,woman home,6
+2026-08-10,woman,5
 2026-08-10,women,4
 2026-08-10,women cotton,2
 2026-08-10,women cotton tank,2
 2026-08-10,years,4
-2026-08-10,york,1
 2026-08-10,zara,4
 2026-08-17,according,2
 2026-08-17,aesthetic,6
-2026-08-17,american,4
+2026-08-17,american,3
 2026-08-17,american fashion,3
 2026-08-17,american fashion tranding,3
-2026-08-17,anne,4
-2026-08-17,anne hathaway,4
-2026-08-17,autumn,17
-2026-08-17,autumn wear,8
-2026-08-17,autumn winter,3
+2026-08-17,autumn,15
+2026-08-17,autumn whowhatwear,8
+2026-08-17,autumn winter,1
 2026-08-17,backless,1
 2026-08-17,backless black,1
 2026-08-17,backless black white,1
@@ -480,21 +463,23 @@ period,Term,Count
 2026-08-17,basic,1
 2026-08-17,basic click,1
 2026-08-17,basic click buy,1
+2026-08-17,beautiful,5
+2026-08-17,beautiful knitted,4
+2026-08-17,beautiful knitted fashion,4
 2026-08-17,best,8
 2026-08-17,biggest,4
 2026-08-17,biggest color,2
 2026-08-17,black,6
 2026-08-17,black white,1
 2026-08-17,black white tank,1
-2026-08-17,block,4
+2026-08-17,block,3
 2026-08-17,blue,5
-2026-08-17,bold,1
 2026-08-17,brand,1
-2026-08-17,buy,1
+2026-08-17,buy,3
 2026-08-17,buy women,1
 2026-08-17,buy women cotton,1
 2026-08-17,capsule,2
-2026-08-17,casual,4
+2026-08-17,casual,6
 2026-08-17,chic,4
 2026-08-17,chicest,2
 2026-08-17,city,1
@@ -502,21 +487,19 @@ period,Term,Count
 2026-08-17,classic,3
 2026-08-17,classy,3
 2026-08-17,clean,4
-2026-08-17,click,1
-2026-08-17,click buy,1
+2026-08-17,click,2
+2026-08-17,click buy,2
 2026-08-17,click buy women,1
-2026-08-17,collection,6
-2026-08-17,color,14
-2026-08-17,color block,4
+2026-08-17,collection,5
+2026-08-17,color,13
+2026-08-17,color block,3
 2026-08-17,colour,8
-2026-08-17,combination,3
 2026-08-17,combinations,4
-2026-08-17,comfort,2
-2026-08-17,comfortable,5
-2026-08-17,comfortable perfect,3
+2026-08-17,comfortable,3
 2026-08-17,comfy,3
 2026-08-17,coming,2
 2026-08-17,cool,3
+2026-08-17,copenhagen,1
 2026-08-17,cosmopolitan,2
 2026-08-17,cotton,2
 2026-08-17,cotton sexy,1
@@ -524,54 +507,61 @@ period,Term,Count
 2026-08-17,cotton tank,1
 2026-08-17,cotton tank features,1
 2026-08-17,coveteur,2
-2026-08-17,cozy,5
+2026-08-17,cozy,7
 2026-08-17,crop,1
 2026-08-17,crop summer,1
 2026-08-17,crop summer basic,1
-2026-08-17,destination,4
-2026-08-17,destination women,4
-2026-08-17,destination women fashion,4
+2026-08-17,design,4
+2026-08-17,designs,5
+2026-08-17,designs stylish,4
+2026-08-17,designs stylish sweaters,4
+2026-08-17,destination,8
+2026-08-17,destination beautiful,4
+2026-08-17,destination beautiful knitted,4
+2026-08-17,destination women,3
+2026-08-17,destination women fashion,3
 2026-08-17,discover,5
-2026-08-17,discover trendy,4
-2026-08-17,dress,5
+2026-08-17,discover trendy,3
+2026-08-17,dress,6
 2026-08-17,dressed,4
 2026-08-17,dresses,4
 2026-08-17,dressing,3
 2026-08-17,effortless,3
-2026-08-17,elegant,10
+2026-08-17,elegant,12
 2026-08-17,elle,6
-2026-08-17,fall,12
+2026-08-17,everyday,3
+2026-08-17,fall,13
 2026-08-17,fall fashion,4
 2026-08-17,fall fashion trends,4
-2026-08-17,fall wardrobe,2
-2026-08-17,fall winter,4
-2026-08-17,fashion,97
-2026-08-17,fashion fashiontrends,6
+2026-08-17,fall winter,5
+2026-08-17,fashion,103
+2026-08-17,fashion destination,4
+2026-08-17,fashion destination beautiful,4
+2026-08-17,fashion fashiontrends,5
 2026-08-17,fashion inspiration,2
 2026-08-17,fashion outfit,5
-2026-08-17,fashion outfit inspiration,4
+2026-08-17,fashion outfit inspiration,3
 2026-08-17,fashion shorts,6
+2026-08-17,fashion style,3
 2026-08-17,fashion tranding,3
 2026-08-17,fashion tranding style,3
 2026-08-17,fashion trend,4
-2026-08-17,fashion trends,19
-2026-08-17,fashion trends discover,4
-2026-08-17,fashion trends woman,4
+2026-08-17,fashion trends,18
+2026-08-17,fashion trends discover,3
+2026-08-17,fashion trends woman,3
+2026-08-17,fashion trendy,8
+2026-08-17,fashion trendy knitwear,8
 2026-08-17,fashion world,4
 2026-08-17,fashionstyle,3
-2026-08-17,fashiontrends,15
-2026-08-17,features,3
-2026-08-17,features stylish,3
+2026-08-17,fashiontrends,12
+2026-08-17,features,4
+2026-08-17,features stylish,4
 2026-08-17,features stylish halter,1
-2026-08-17,featuring,2
+2026-08-17,featuring,1
 2026-08-17,female,1
 2026-08-17,female crop,1
 2026-08-17,female crop summer,1
 2026-08-17,flip,2
-2026-08-17,footwear,2
-2026-08-17,fyp,3
-2026-08-17,gen,2
-2026-08-17,gen millennial,1
 2026-08-17,girl,4
 2026-08-17,glam,4
 2026-08-17,got,1
@@ -580,69 +570,75 @@ period,Term,Count
 2026-08-17,halter neckline,1
 2026-08-17,halter streetwear,1
 2026-08-17,halter streetwear vest,1
-2026-08-17,hathaway,4
 2026-08-17,hold,2
-2026-08-17,hunter,10
-2026-08-17,ideas,7
-2026-08-17,inspiration,8
-2026-08-17,inspiration styling,4
-2026-08-17,inspiration styling tips,4
+2026-08-17,ideas,11
+2026-08-17,ideas welcome,4
+2026-08-17,ideas welcome women,4
+2026-08-17,inspiration,9
+2026-08-17,inspiration styling,3
+2026-08-17,inspiration styling tips,3
 2026-08-17,inspired,4
 2026-08-17,instead,2
 2026-08-17,instyle,6
 2026-08-17,jeans,6
 2026-08-17,just,2
 2026-08-17,king,2
-2026-08-17,knitted,7
-2026-08-17,knitted sweater,6
-2026-08-17,latest,15
-2026-08-17,latest fashion,5
-2026-08-17,latest fashion trends,5
-2026-08-17,like,3
+2026-08-17,knitted,16
+2026-08-17,knitted fashion,12
+2026-08-17,knitted fashion destination,4
+2026-08-17,knitted fashion trendy,8
+2026-08-17,knitwear,8
+2026-08-17,knitwear designs,4
+2026-08-17,knitwear designs stylish,4
+2026-08-17,knitwear stylish,4
+2026-08-17,knitwear stylish outfit,4
+2026-08-17,latest,13
+2026-08-17,latest fashion,4
+2026-08-17,latest fashion trends,4
+2026-08-17,like,4
 2026-08-17,lingerie,2
-2026-08-17,long,3
-2026-08-17,long sleeve,2
-2026-08-17,look,11
+2026-08-17,long,1
+2026-08-17,look,14
 2026-08-17,looking,6
 2026-08-17,looks,4
 2026-08-17,love,2
 2026-08-17,make,1
 2026-08-17,marie,2
 2026-08-17,marie claire,2
-2026-08-17,men,31
+2026-08-17,men,32
 2026-08-17,men fashion,14
 2026-08-17,men outfit,3
-2026-08-17,mensfashion,6
+2026-08-17,mensfashion,5
 2026-08-17,mensstyle,3
-2026-08-17,millennial,1
-2026-08-17,modern,6
-2026-08-17,muse,8
-2026-08-17,muse destination,4
-2026-08-17,muse destination women,4
-2026-08-17,muse usafashion,4
-2026-08-17,muse usafashion american,4
+2026-08-17,modern,5
+2026-08-17,muse,6
+2026-08-17,muse destination,3
+2026-08-17,muse destination women,3
+2026-08-17,muse usafashion,3
+2026-08-17,muse usafashion american,3
 2026-08-17,neckline,1
-2026-08-17,needs,5
-2026-08-17,needs try,4
-2026-08-17,needs try style,4
-2026-08-17,new,18
-2026-08-17,new york,2
+2026-08-17,needs,3
+2026-08-17,needs try,3
+2026-08-17,needs try style,3
+2026-08-17,new,17
 2026-08-17,old,2
 2026-08-17,online,7
 2026-08-17,online singapore,6
 2026-08-17,ootd,3
 2026-08-17,ord,3
-2026-08-17,outfit,40
-2026-08-17,outfit ideas,5
-2026-08-17,outfit inspiration,5
-2026-08-17,outfit inspiration styling,4
+2026-08-17,outfit,47
+2026-08-17,outfit ideas,9
+2026-08-17,outfit ideas welcome,4
+2026-08-17,outfit inspiration,4
+2026-08-17,outfit inspiration styling,3
 2026-08-17,outfitideas,2
 2026-08-17,outfits,2
 2026-08-17,oversized,3
+2026-08-17,pants,2
 2026-08-17,people,3
-2026-08-17,perfect,12
+2026-08-17,perfect,11
 2026-08-17,popular,3
-2026-08-17,premium,3
+2026-08-17,premium,5
 2026-08-17,prestige,6
 2026-08-17,prestige online,6
 2026-08-17,prestige online singapore,6
@@ -661,48 +657,51 @@ period,Term,Count
 2026-08-17,sexy backless,1
 2026-08-17,sexy backless black,1
 2026-08-17,shirt,5
-2026-08-17,shoe,8
+2026-08-17,shirts,3
+2026-08-17,shoe,6
 2026-08-17,shoe trend,2
 2026-08-17,shoe trends,4
-2026-08-17,shoes,8
-2026-08-17,shoes fashion,2
-2026-08-17,shop,2
+2026-08-17,shoes,5
+2026-08-17,shoes fashion,1
 2026-08-17,shopping,2
-2026-08-17,shorts,24
-2026-08-17,shortsfeed,3
+2026-08-17,shorts,21
 2026-08-17,singapore,6
-2026-08-17,sleeve,2
+2026-08-17,sleeve,1
 2026-08-17,sneakers,7
 2026-08-17,social,1
+2026-08-17,soft,2
 2026-08-17,star,3
 2026-08-17,start,2
-2026-08-17,step,2
+2026-08-17,stay,1
+2026-08-17,step,1
 2026-08-17,stop,1
-2026-08-17,street,1
-2026-08-17,street style,1
+2026-08-17,street,3
+2026-08-17,street style,3
 2026-08-17,streetstyle,2
 2026-08-17,streetwear,8
 2026-08-17,streetwear vest,1
 2026-08-17,streetwear vest female,1
-2026-08-17,style,27
-2026-08-17,style muse,8
-2026-08-17,style muse destination,4
-2026-08-17,style muse usafashion,4
-2026-08-17,styles,3
-2026-08-17,styling,6
-2026-08-17,styling tips,4
-2026-08-17,styling tips latest,4
-2026-08-17,stylish,17
+2026-08-17,style,30
+2026-08-17,style muse,6
+2026-08-17,style muse destination,3
+2026-08-17,style muse usafashion,3
+2026-08-17,styling,5
+2026-08-17,styling tips,3
+2026-08-17,styling tips latest,3
+2026-08-17,stylish,27
 2026-08-17,stylish halter,1
 2026-08-17,stylish halter neckline,1
-2026-08-17,stylish outfit,3
+2026-08-17,stylish outfit,8
+2026-08-17,stylish outfit ideas,4
+2026-08-17,stylish sweaters,4
 2026-08-17,summer,11
 2026-08-17,summer basic,1
 2026-08-17,summer basic click,1
 2026-08-17,summer fashion,1
 2026-08-17,summer fashion trends,1
 2026-08-17,summer trend,2
-2026-08-17,sweater,11
+2026-08-17,sweater,10
+2026-08-17,sweaters,4
 2026-08-17,tank,2
 2026-08-17,tank features,1
 2026-08-17,tank features stylish,1
@@ -711,63 +710,70 @@ period,Term,Count
 2026-08-17,thoughts,2
 2026-08-17,time,1
 2026-08-17,times,2
-2026-08-17,tips,5
-2026-08-17,tips latest,4
-2026-08-17,tips latest fashion,4
+2026-08-17,tips,4
+2026-08-17,tips latest,3
+2026-08-17,tips latest fashion,3
 2026-08-17,tops,1
 2026-08-17,tops halter,1
 2026-08-17,tops halter streetwear,1
 2026-08-17,tranding,3
 2026-08-17,tranding style,3
 2026-08-17,tranding style muse,3
-2026-08-17,trend,34
-2026-08-17,trend hunter,10
-2026-08-17,trend wear,6
-2026-08-17,trending,17
+2026-08-17,trend,25
+2026-08-17,trend whowhatwear,4
+2026-08-17,trendhunter,10
+2026-08-17,trending,16
 2026-08-17,trends,33
-2026-08-17,trends discover,4
-2026-08-17,trends discover trendy,4
-2026-08-17,trends woman,4
-2026-08-17,trends woman needs,4
-2026-08-17,trendy,10
-2026-08-17,trendy comfortable,3
-2026-08-17,trendy comfortable perfect,3
-2026-08-17,try,9
-2026-08-17,try style,4
-2026-08-17,try style muse,4
+2026-08-17,trends discover,3
+2026-08-17,trends discover trendy,3
+2026-08-17,trends woman,3
+2026-08-17,trends woman needs,3
+2026-08-17,trendy,16
+2026-08-17,trendy knitwear,8
+2026-08-17,trendy knitwear designs,4
+2026-08-17,trendy knitwear stylish,4
+2026-08-17,try,8
+2026-08-17,try style,3
+2026-08-17,try style muse,3
 2026-08-17,unexpected,2
 2026-08-17,upgrade,3
-2026-08-17,urban,2
-2026-08-17,usafashion,4
-2026-08-17,usafashion american,4
+2026-08-17,urban,4
+2026-08-17,usafashion,3
+2026-08-17,usafashion american,3
 2026-08-17,usafashion american fashion,3
 2026-08-17,vest,1
 2026-08-17,vest female,1
 2026-08-17,vest female crop,1
-2026-08-17,viral,4
+2026-08-17,viral,2
 2026-08-17,vogue,2
 2026-08-17,want,3
 2026-08-17,wardrobe,3
-2026-08-17,wear,14
-2026-08-17,wear hold,1
+2026-08-17,wear,3
 2026-08-17,wearing,11
 2026-08-17,wearing autumn,6
-2026-08-17,wearing autumn wear,6
+2026-08-17,wearing autumn whowhatwear,6
 2026-08-17,wedding,4
-2026-08-17,white,1
+2026-08-17,week,2
+2026-08-17,welcome,8
+2026-08-17,welcome women,4
+2026-08-17,welcome women knitted,4
+2026-08-17,white,2
 2026-08-17,white tank,1
 2026-08-17,white tank tops,1
-2026-08-17,winter,11
-2026-08-17,winter fashion,4
-2026-08-17,woman,5
-2026-08-17,woman needs,4
-2026-08-17,woman needs try,4
-2026-08-17,women,28
+2026-08-17,whowhatwear,12
+2026-08-17,whowhatwear hold,1
+2026-08-17,winter,12
+2026-08-17,winter fashion,5
+2026-08-17,woman,3
+2026-08-17,woman needs,3
+2026-08-17,woman needs try,3
+2026-08-17,women,33
 2026-08-17,women cotton,1
 2026-08-17,women cotton tank,1
-2026-08-17,women fashion,10
-2026-08-17,women fashion outfit,4
-2026-08-17,world,6
+2026-08-17,women fashion,9
+2026-08-17,women fashion outfit,3
+2026-08-17,women knitted,9
+2026-08-17,women knitted fashion,8
+2026-08-17,world,5
 2026-08-17,years,4
-2026-08-17,york,2
 2026-08-17,zara,2
