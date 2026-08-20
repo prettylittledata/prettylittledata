@@ -35,7 +35,6 @@ period,Term,Count
 2026-07-06,pop,2
 2026-07-06,report,4
 2026-07-06,sardines,4
-2026-07-06,shopping,2
 2026-07-06,skincare,6
 2026-07-06,summer,20
 2026-07-06,trend,24
@@ -43,7 +42,7 @@ period,Term,Count
 2026-07-06,trends,2
 2026-07-06,vogue,8
 2026-07-06,vogue vogue,2
-2026-07-06,wear,4
+2026-07-06,whowhatwear,4
 2026-07-06,yahoo,4
 2026-07-06,yes,2
 2026-07-06,zendaya,2
@@ -59,6 +58,7 @@ period,Term,Count
 2026-07-13,continues,2
 2026-07-13,cosmetics,2
 2026-07-13,cosmopolitan,2
+2026-07-13,daily,2
 2026-07-13,elle,2
 2026-07-13,experts,2
 2026-07-13,eye,4
@@ -68,7 +68,6 @@ period,Term,Count
 2026-07-13,growth,4
 2026-07-13,india,2
 2026-07-13,industry,2
-2026-07-13,korean,4
 2026-07-13,lashes,2
 2026-07-13,look,4
 2026-07-13,loved,2
@@ -90,7 +89,6 @@ period,Term,Count
 2026-07-13,skin care,2
 2026-07-13,skin care trend,2
 2026-07-13,skincare,2
-2026-07-13,skincare trends,2
 2026-07-13,social,2
 2026-07-13,social media,2
 2026-07-13,summer,4
@@ -118,7 +116,7 @@ period,Term,Count
 2026-07-20,care trend,2
 2026-07-20,cosmopolitan,4
 2026-07-20,eyeshadow,2
-2026-07-20,face,2
+2026-07-20,face,4
 2026-07-20,fashion,2
 2026-07-20,festival,4
 2026-07-20,fragrance,2
@@ -131,39 +129,38 @@ period,Term,Count
 2026-07-20,know,2
 2026-07-20,lashes,2
 2026-07-20,long,2
-2026-07-20,look,4
+2026-07-20,look,6
 2026-07-20,love,2
-2026-07-20,makeup,12
-2026-07-20,makeup look,4
+2026-07-20,makeup,16
+2026-07-20,makeup look,6
+2026-07-20,makeup routine,4
 2026-07-20,mascara,2
 2026-07-20,month,2
 2026-07-20,musical,4
 2026-07-20,need,2
 2026-07-20,parents,2
-2026-07-20,real,2
 2026-07-20,really,2
+2026-07-20,redefining,2
 2026-07-20,report,2
-2026-07-20,routine,2
-2026-07-20,simple,2
+2026-07-20,routine,4
 2026-07-20,skin,2
 2026-07-20,skin care,2
 2026-07-20,skin care trend,2
 2026-07-20,skincare,2
-2026-07-20,skincare trends,2
-2026-07-20,soft,2
+2026-07-20,soft,4
 2026-07-20,statement,2
 2026-07-20,summer,4
 2026-07-20,taking,2
 2026-07-20,trend,10
 2026-07-20,trend vogue,4
 2026-07-20,trend vogue adria,4
-2026-07-20,trending,2
+2026-07-20,trending,4
 2026-07-20,trends,8
-2026-07-20,tried,2
+2026-07-20,tried,4
 2026-07-20,turned,2
 2026-07-20,vogue,6
 2026-07-20,vogue adria,6
-2026-07-20,wear,2
+2026-07-20,whowhatwear,2
 2026-07-20,worth,2
 2026-07-20,year,2
 2026-07-27,agree,2
@@ -186,11 +183,14 @@ period,Term,Count
 2026-07-27,future,6
 2026-07-27,future skincare,6
 2026-07-27,future skincare inside,6
-2026-07-27,goodhousekeeping,2
+2026-07-27,good,2
+2026-07-27,good housekeeping,2
+2026-07-27,housekeeping,2
 2026-07-27,inside,6
 2026-07-27,inside viral,6
 2026-07-27,inside viral beauty,6
 2026-07-27,latest,2
+2026-07-27,latest beauty,2
 2026-07-27,like,2
 2026-07-27,makeup,4
 2026-07-27,people,2
@@ -205,6 +205,7 @@ period,Term,Count
 2026-07-27,spicules future,6
 2026-07-27,spicules future skincare,6
 2026-07-27,times,2
+2026-07-27,today,2
 2026-07-27,trend,18
 2026-07-27,trend dermatologists,6
 2026-07-27,trend dermatologists watching,6
@@ -242,8 +243,10 @@ period,Term,Count
 2026-08-03,face,2
 2026-08-03,fair,2
 2026-08-03,getting,2
-2026-08-03,goodhousekeeping,4
+2026-08-03,good,4
+2026-08-03,good housekeeping,4
 2026-08-03,graziamagazine,4
+2026-08-03,housekeeping,4
 2026-08-03,just,2
 2026-08-03,know,2
 2026-08-03,little,2
@@ -264,13 +267,11 @@ period,Term,Count
 2026-08-03,old,4
 2026-08-03,parents,2
 2026-08-03,pop,2
-2026-08-03,real,2
 2026-08-03,red,4
 2026-08-03,report,4
 2026-08-03,reveals,4
 2026-08-03,right,4
 2026-08-03,school,4
-2026-08-03,simple,2
 2026-08-03,skin,10
 2026-08-03,skin care,4
 2026-08-03,skin care trend,2
@@ -303,7 +304,6 @@ period,Term,Count
 2026-08-10,august,4
 2026-08-10,available,2
 2026-08-10,bag,3
-2026-08-10,bazaar,2
 2026-08-10,beautiful,2
 2026-08-10,beauty,23
 2026-08-10,beauty trend,10
@@ -352,6 +352,7 @@ period,Term,Count
 2026-08-10,creative,1
 2026-08-10,current,2
 2026-08-10,cut,1
+2026-08-10,daily,2
 2026-08-10,date,1
 2026-08-10,day,4
 2026-08-10,decide,3
@@ -423,8 +424,6 @@ period,Term,Count
 2026-08-10,habits,2
 2026-08-10,half,1
 2026-08-10,happy,3
-2026-08-10,harper,2
-2026-08-10,harper bazaar,2
 2026-08-10,head,3
 2026-08-10,health,3
 2026-08-10,help,1
@@ -506,6 +505,7 @@ period,Term,Count
 2026-08-10,people,3
 2026-08-10,perfect,1
 2026-08-10,period,2
+2026-08-10,personal,2
 2026-08-10,play,1
 2026-08-10,point,1
 2026-08-10,power,5
@@ -533,7 +533,7 @@ period,Term,Count
 2026-08-10,self,5
 2026-08-10,shades,1
 2026-08-10,share,3
-2026-08-10,shopping,3
+2026-08-10,shopping,1
 2026-08-10,shorts,7
 2026-08-10,shortsfeed,2
 2026-08-10,shows,1
@@ -645,9 +645,10 @@ period,Term,Count
 2026-08-17,available,3
 2026-08-17,bag,2
 2026-08-17,base,4
-2026-08-17,bazaar,4
 2026-08-17,beautiful,4
 2026-08-17,beauty,69
+2026-08-17,beauty food,6
+2026-08-17,beauty food trend,6
 2026-08-17,beauty products,6
 2026-08-17,beauty trend,4
 2026-08-17,beauty trends,18
@@ -675,7 +676,7 @@ period,Term,Count
 2026-08-17,business,3
 2026-08-17,business beauty,1
 2026-08-17,came,4
-2026-08-17,care,8
+2026-08-17,care,12
 2026-08-17,career,3
 2026-08-17,case,3
 2026-08-17,celebrity,3
@@ -711,6 +712,7 @@ period,Term,Count
 2026-08-17,creative,7
 2026-08-17,current,1
 2026-08-17,cut,1
+2026-08-17,daily,7
 2026-08-17,date,2
 2026-08-17,day,17
 2026-08-17,days,11
@@ -768,7 +770,8 @@ period,Term,Count
 2026-08-17,flawless,3
 2026-08-17,flawless base,3
 2026-08-17,focus,3
-2026-08-17,food,12
+2026-08-17,food,14
+2026-08-17,food trend,6
 2026-08-17,forbes,6
 2026-08-17,forward,2
 2026-08-17,foryou,3
@@ -780,7 +783,7 @@ period,Term,Count
 2026-08-17,friends,6
 2026-08-17,fun,4
 2026-08-17,funny,5
-2026-08-17,future,5
+2026-08-17,future,7
 2026-08-17,fyp,5
 2026-08-17,gave,4
 2026-08-17,generation,3
@@ -794,7 +797,7 @@ period,Term,Count
 2026-08-17,girls,3
 2026-08-17,giving,3
 2026-08-17,glam,6
-2026-08-17,glow,4
+2026-08-17,glow,6
 2026-08-17,glowing,5
 2026-08-17,going,11
 2026-08-17,good,9
@@ -812,8 +815,6 @@ period,Term,Count
 2026-08-17,happened,2
 2026-08-17,happy,2
 2026-08-17,hardest,3
-2026-08-17,harper,4
-2026-08-17,harper bazaar,4
 2026-08-17,having,5
 2026-08-17,head,9
 2026-08-17,health,5
@@ -840,12 +841,12 @@ period,Term,Count
 2026-08-17,kids,1
 2026-08-17,knew,6
 2026-08-17,know,12
-2026-08-17,korean,2
 2026-08-17,larger,3
 2026-08-17,lashes,6
 2026-08-17,late,10
 2026-08-17,later,10
-2026-08-17,latest,4
+2026-08-17,latest,6
+2026-08-17,latest beauty,4
 2026-08-17,leaving,4
 2026-08-17,let,6
 2026-08-17,life,14
@@ -874,6 +875,7 @@ period,Term,Count
 2026-08-17,makeup makeup,2
 2026-08-17,makeup makeup look,1
 2026-08-17,makeup makeuptutorial,2
+2026-08-17,makeup routine,1
 2026-08-17,makeup transformation,3
 2026-08-17,makeup trend,1
 2026-08-17,makeup tutorial,2
@@ -920,6 +922,7 @@ period,Term,Count
 2026-08-17,people,9
 2026-08-17,perfect,3
 2026-08-17,period,1
+2026-08-17,personal,5
 2026-08-17,play,2
 2026-08-17,point,4
 2026-08-17,pop,1
@@ -941,6 +944,7 @@ period,Term,Count
 2026-08-17,recent,2
 2026-08-17,recreate,2
 2026-08-17,red,3
+2026-08-17,redefining,4
 2026-08-17,rel,38
 2026-08-17,rel noreferrer,37
 2026-08-17,rel noreferrer noopener,37
@@ -951,7 +955,7 @@ period,Term,Count
 2026-08-17,right strong,9
 2026-08-17,routine,16
 2026-08-17,routine trend,3
-2026-08-17,sardines,4
+2026-08-17,sardines,6
 2026-08-17,say,7
 2026-08-17,says,6
 2026-08-17,scent,7
@@ -979,7 +983,6 @@ period,Term,Count
 2026-08-17,skincare routine,4
 2026-08-17,skincare skincareroutine,3
 2026-08-17,skincare trend,2
-2026-08-17,skincare trends,2
 2026-08-17,skincareroutine,7
 2026-08-17,smell,4
 2026-08-17,social,1
@@ -1014,21 +1017,21 @@ period,Term,Count
 2026-08-17,think,9
 2026-08-17,thinking,4
 2026-08-17,thought,2
-2026-08-17,tiktok,4
+2026-08-17,tiktok,6
 2026-08-17,time,28
 2026-08-17,times,3
-2026-08-17,today,10
+2026-08-17,today,8
 2026-08-17,told,7
 2026-08-17,transformation,9
 2026-08-17,transformation flawless,3
 2026-08-17,transformation flawless base,3
 2026-08-17,transition,2
 2026-08-17,travel,2
-2026-08-17,trend,51
+2026-08-17,trend,53
 2026-08-17,trend skincare,4
 2026-08-17,trend trending,4
 2026-08-17,trending,10
-2026-08-17,trends,27
+2026-08-17,trends,25
 2026-08-17,trends link,5
 2026-08-17,trends link girl,5
 2026-08-17,trends shorts,4
