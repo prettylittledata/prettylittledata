@@ -1,5 +1,6 @@
 period,Term,Count
 2026-07-20,apartment,4
+2026-07-20,apartment feel,2
 2026-07-20,apartment therapy,2
 2026-07-20,decor,2
 2026-07-20,decor trend,2
@@ -17,7 +18,6 @@ period,Term,Count
 2026-07-20,small,2
 2026-07-20,small space,2
 2026-07-20,space,2
-2026-07-20,star,2
 2026-07-20,therapy,2
 2026-07-20,trend,4
 2026-07-20,trend homes,2
@@ -25,22 +25,22 @@ period,Term,Count
 2026-07-27,actually,4
 2026-07-27,apartment,6
 2026-07-27,apartment therapy,4
-2026-07-27,architectural,2
 2026-07-27,architecture,2
 2026-07-27,autumn,4
 2026-07-27,beautiful,4
+2026-07-27,big,2
 2026-07-27,biggest,4
 2026-07-27,business,4
 2026-07-27,business insider,4
 2026-07-27,buzzfeed,4
 2026-07-27,buzzfeed people,2
-2026-07-27,cabinet,2
 2026-07-27,common,4
-2026-07-27,dated,2
+2026-07-27,create,2
+2026-07-27,dated,4
 2026-07-27,decorating,4
 2026-07-27,decorating trends,4
-2026-07-27,design,6
-2026-07-27,design trends,4
+2026-07-27,design,8
+2026-07-27,design trends,6
 2026-07-27,designers,14
 2026-07-27,designers say,4
 2026-07-27,feel,2
@@ -52,16 +52,20 @@ period,Term,Count
 2026-07-27,house,4
 2026-07-27,house beautiful,4
 2026-07-27,insider,4
-2026-07-27,interior,10
+2026-07-27,interior,12
+2026-07-27,interior design,2
+2026-07-27,interior design trends,2
 2026-07-27,interior designers,10
 2026-07-27,kitchen,2
 2026-07-27,like,4
 2026-07-27,living,2
 2026-07-27,living room,2
 2026-07-27,living room feel,2
+2026-07-27,look,2
 2026-07-27,lot,4
 2026-07-27,make,6
 2026-07-27,people,4
+2026-07-27,personality,4
 2026-07-27,renovation,4
 2026-07-27,right,2
 2026-07-27,room,2
@@ -77,10 +81,11 @@ period,Term,Count
 2026-07-27,tiny,2
 2026-07-27,tiny apartment,2
 2026-07-27,trend,4
-2026-07-27,trends,18
+2026-07-27,trends,20
 2026-07-27,unpopular,4
 2026-07-27,veranda,4
 2026-07-27,world,2
+2026-07-27,yahoo,2
 2026-08-03,apartment,2
 2026-08-03,apartment small,2
 2026-08-03,architectural,4
@@ -88,7 +93,6 @@ period,Term,Count
 2026-08-03,beautiful designers,1
 2026-08-03,beautiful designers say,1
 2026-08-03,cool,4
-2026-08-03,creates,2
 2026-08-03,decor,2
 2026-08-03,decor trend,2
 2026-08-03,decorating,2
@@ -115,7 +119,7 @@ period,Term,Count
 2026-08-03,housekeeping,2
 2026-08-03,housekeeping designers,1
 2026-08-03,housekeeping designers say,1
-2026-08-03,instantly,2
+2026-08-03,hub,2
 2026-08-03,interior,4
 2026-08-03,interior designers,4
 2026-08-03,joanna,2
@@ -144,21 +148,13 @@ period,Term,Count
 2026-08-03,want,4
 2026-08-03,work,2
 2026-08-03,yahoo,2
-2026-08-10,amazon,2
 2026-08-10,approved,2
-2026-08-10,beautiful,10
-2026-08-10,beautiful designers,1
-2026-08-10,beautiful designers say,1
-2026-08-10,better,2
-2026-08-10,better homes,2
-2026-08-10,better homes gardens,2
+2026-08-10,beautiful,6
 2026-08-10,budget,2
 2026-08-10,calling,4
-2026-08-10,color,2
 2026-08-10,comeback,2
-2026-08-10,creates,4
 2026-08-10,dated,4
-2026-08-10,decor,12
+2026-08-10,decor,8
 2026-08-10,decor trend,2
 2026-08-10,decor trends,4
 2026-08-10,design,6
@@ -166,25 +162,22 @@ period,Term,Count
 2026-08-10,design trends looks,4
 2026-08-10,designer,2
 2026-08-10,designer approved,2
-2026-08-10,designers,10
-2026-08-10,designers say,6
-2026-08-10,fall,2
+2026-08-10,designers,6
+2026-08-10,designers say,2
 2026-08-10,feel,2
-2026-08-10,finds,2
 2026-08-10,gaines,4
-2026-08-10,gardens,8
-2026-08-10,good,6
-2026-08-10,good housekeeping,6
-2026-08-10,home,12
+2026-08-10,gardens,6
+2026-08-10,good,4
+2026-08-10,good housekeeping,4
+2026-08-10,home,8
 2026-08-10,home design,4
 2026-08-10,home design trends,4
-2026-08-10,homes,12
-2026-08-10,homes gardens,8
+2026-08-10,homes,10
+2026-08-10,homes gardens,6
 2026-08-10,homes look,4
-2026-08-10,house,6
-2026-08-10,house beautiful,6
-2026-08-10,house beautiful designers,1
-2026-08-10,housekeeping,6
+2026-08-10,house,4
+2026-08-10,house beautiful,4
+2026-08-10,housekeeping,4
 2026-08-10,inside,2
 2026-08-10,joanna,4
 2026-08-10,joanna gaines,4
@@ -200,28 +193,27 @@ period,Term,Count
 2026-08-10,make,2
 2026-08-10,make small,2
 2026-08-10,making,6
-2026-08-10,new,6
+2026-08-10,new,2
 2026-08-10,pieces,4
 2026-08-10,real,4
 2026-08-10,real simple,4
 2026-08-10,right,4
 2026-08-10,room,8
 2026-08-10,room feel,2
-2026-08-10,say,6
-2026-08-10,shade,2
+2026-08-10,say,2
 2026-08-10,simple,4
 2026-08-10,small,2
-2026-08-10,soft,2
 2026-08-10,southern,4
 2026-08-10,southern living,4
 2026-08-10,southern living decor,2
 2026-08-10,spacious,2
 2026-08-10,taking,2
-2026-08-10,trend,10
+2026-08-10,trend,8
 2026-08-10,trend homes,4
 2026-08-10,trends,10
 2026-08-10,trends looks,4
 2026-08-10,trends making,6
+2026-08-10,tricks,2
 2026-08-10,use,2
 2026-08-10,year,2
 2026-08-17,apartment,2
@@ -230,20 +222,18 @@ period,Term,Count
 2026-08-17,beautiful designers,2
 2026-08-17,beautiful designers say,2
 2026-08-17,best,2
-2026-08-17,better,6
-2026-08-17,better homes,6
-2026-08-17,better homes gardens,6
 2026-08-17,biggest,4
 2026-08-17,biggest fall,4
 2026-08-17,buzzfeed,2
-2026-08-17,color,6
+2026-08-17,colorful,2
 2026-08-17,colour,2
 2026-08-17,comeback,4
 2026-08-17,community,2
 2026-08-17,decor,28
 2026-08-17,decor trends,16
 2026-08-17,decor trends designers,2
-2026-08-17,decorating,12
+2026-08-17,decor trends interior,4
+2026-08-17,decorating,8
 2026-08-17,decorating trends,4
 2026-08-17,design,12
 2026-08-17,design trend,2
@@ -254,30 +244,26 @@ period,Term,Count
 2026-08-17,elevated,4
 2026-08-17,elle,6
 2026-08-17,expensive,2
-2026-08-17,fall,22
-2026-08-17,fall decorating,8
+2026-08-17,fall,18
 2026-08-17,fall home,10
 2026-08-17,fall home decor,6
 2026-08-17,feel,2
 2026-08-17,finds,2
 2026-08-17,furniture,4
-2026-08-17,gardens,6
-2026-08-17,glass,4
 2026-08-17,good,6
 2026-08-17,good housekeeping,2
 2026-08-17,home,28
 2026-08-17,home decor,16
 2026-08-17,home decor trends,6
+2026-08-17,home interior,2
+2026-08-17,home interior design,2
 2026-08-17,homeowners,4
-2026-08-17,homes,6
-2026-08-17,homes gardens,6
 2026-08-17,house,4
 2026-08-17,house beautiful,4
 2026-08-17,house beautiful designers,2
 2026-08-17,housekeeping,2
 2026-08-17,ideas,6
 2026-08-17,inspiring,4
-2026-08-17,instantly,2
 2026-08-17,instead,4
 2026-08-17,instead real,4
 2026-08-17,instead real simple,4
@@ -285,19 +271,17 @@ period,Term,Count
 2026-08-17,interior design,4
 2026-08-17,interior design trends,4
 2026-08-17,interior designers,10
-2026-08-17,interior designers say,2
-2026-08-17,items,2
 2026-08-17,living,18
 2026-08-17,living room,4
 2026-08-17,living room feel,2
 2026-08-17,living space,2
-2026-08-17,look,8
+2026-08-17,look,6
+2026-08-17,looking,2
 2026-08-17,love,6
 2026-08-17,luxe,2
 2026-08-17,luxury,4
 2026-08-17,make,4
 2026-08-17,make home,2
-2026-08-17,makes,2
 2026-08-17,means,2
 2026-08-17,modern,2
 2026-08-17,new,4
@@ -309,9 +293,8 @@ period,Term,Count
 2026-08-17,real,4
 2026-08-17,real simple,4
 2026-08-17,right,2
-2026-08-17,room,8
+2026-08-17,room,6
 2026-08-17,room feel,2
-2026-08-17,room look,2
 2026-08-17,say,10
 2026-08-17,shift,4
 2026-08-17,simple,4
@@ -325,33 +308,34 @@ period,Term,Count
 2026-08-17,spaces,2
 2026-08-17,spacious,2
 2026-08-17,spruce,4
-2026-08-17,star,4
 2026-08-17,stop,4
 2026-08-17,stylish,4
 2026-08-17,taking,2
 2026-08-17,tired,4
-2026-08-17,trend,4
-2026-08-17,trend makes,2
+2026-08-17,trend,2
 2026-08-17,trends,36
 2026-08-17,trends designers,8
 2026-08-17,trends designers say,4
+2026-08-17,trends interior,4
+2026-08-17,trends interior designers,4
 2026-08-17,trendy,4
+2026-08-17,tricks,2
 2026-08-17,using,2
 2026-08-17,veranda,4
 2026-08-17,worth,2
 2026-08-17,yahoo,6
+2026-08-24,absolutely,2
 2026-08-24,apartment,2
 2026-08-24,apartment small,2
-2026-08-24,biggest,4
-2026-08-24,biggest fall,4
+2026-08-24,apartment small space,2
+2026-08-24,biggest,2
+2026-08-24,biggest fall,2
 2026-08-24,business,2
 2026-08-24,business insider,2
 2026-08-24,buzzfeed,4
 2026-08-24,buzzfeed people,2
 2026-08-24,calling,4
-2026-08-24,color,2
 2026-08-24,cozier,4
-2026-08-24,creating,2
 2026-08-24,dated,2
 2026-08-24,decor,12
 2026-08-24,decor trend,2
@@ -360,34 +344,30 @@ period,Term,Count
 2026-08-24,decorate,4
 2026-08-24,design,4
 2026-08-24,design trends,4
-2026-08-24,designers,18
-2026-08-24,designers say,14
-2026-08-24,fall,4
+2026-08-24,designers,16
+2026-08-24,designers say,12
+2026-08-24,fall,2
 2026-08-24,feel,8
 2026-08-24,feel cozier,4
 2026-08-24,foot,2
-2026-08-24,free,2
 2026-08-24,furniture,2
-2026-08-24,gardens,4
+2026-08-24,gardens,2
 2026-08-24,good,12
 2026-08-24,good housekeeping,10
 2026-08-24,good housekeeping designers,4
 2026-08-24,home,8
 2026-08-24,home design,4
 2026-08-24,home design trends,4
-2026-08-24,homes,4
-2026-08-24,homes gardens,4
+2026-08-24,homes,2
+2026-08-24,homes gardens,2
 2026-08-24,housekeeping,10
 2026-08-24,housekeeping designers,4
 2026-08-24,housekeeping designers say,4
 2026-08-24,insider,2
-2026-08-24,interior,2
-2026-08-24,interior designers,2
-2026-08-24,interior designers say,2
-2026-08-24,items,2
 2026-08-24,kitchens,2
 2026-08-24,know,4
 2026-08-24,like,4
+2026-08-24,live,2
 2026-08-24,living,6
 2026-08-24,living decor,2
 2026-08-24,living decor trends,2
@@ -399,31 +379,31 @@ period,Term,Count
 2026-08-24,parade,2
 2026-08-24,people,4
 2026-08-24,people calling,4
-2026-08-24,real,8
-2026-08-24,real simple,8
+2026-08-24,real,6
+2026-08-24,real simple,6
 2026-08-24,room,4
 2026-08-24,room feel,4
-2026-08-24,say,16
-2026-08-24,simple,8
+2026-08-24,say,14
+2026-08-24,simple,6
 2026-08-24,small,2
 2026-08-24,small space,2
 2026-08-24,southern,4
 2026-08-24,southern living,4
 2026-08-24,southern living decor,2
-2026-08-24,space,4
+2026-08-24,space,2
 2026-08-24,spruce,2
 2026-08-24,square,2
-2026-08-24,square foot,2
 2026-08-24,studio,2
 2026-08-24,style,2
 2026-08-24,taking,2
 2026-08-24,trend,8
-2026-08-24,trends,14
+2026-08-24,trends,12
 2026-08-24,trends designers,4
 2026-08-24,trends designers say,4
 2026-08-24,warm,2
 2026-08-24,way,2
 2026-08-24,year,2
+2026-08-31,absolutely,4
 2026-08-31,actually,2
 2026-08-31,aesthetic,6
 2026-08-31,align,10
@@ -431,44 +411,38 @@ period,Term,Count
 2026-08-31,alt,10
 2026-08-31,alt class,10
 2026-08-31,alt class attachment,10
-2026-08-31,amazing,8
-2026-08-31,amazing diy,4
-2026-08-31,amazon,2
-2026-08-31,apartment,25
-2026-08-31,apartment decor,4
-2026-08-31,apartment decor ideas,4
-2026-08-31,apartment small,1
-2026-08-31,apartments,6
+2026-08-31,amazing,5
+2026-08-31,apartment,28
+2026-08-31,apartment decor,5
+2026-08-31,apartment decor ideas,5
+2026-08-31,apartment feel,3
+2026-08-31,apartment small,2
+2026-08-31,apartment small space,2
+2026-08-31,apartments,7
 2026-08-31,approaches,3
 2026-08-31,approved,5
 2026-08-31,architect,4
 2026-08-31,architectural,4
-2026-08-31,architecture,17
-2026-08-31,art,11
+2026-08-31,architecture,16
+2026-08-31,art,10
 2026-08-31,attachment,10
 2026-08-31,attachment post,10
 2026-08-31,attachment post thumbnail,10
 2026-08-31,autumn,2
-2026-08-31,beautiful,21
-2026-08-31,bedroom,10
-2026-08-31,best,5
-2026-08-31,better,6
-2026-08-31,better homes,6
-2026-08-31,better homes gardens,6
+2026-08-31,beautiful,27
+2026-08-31,bedroom,7
+2026-08-31,best,3
+2026-08-31,big,4
 2026-08-31,biggest,1
-2026-08-31,bringing,8
-2026-08-31,budget,3
-2026-08-31,building,10
-2026-08-31,built,10
-2026-08-31,business,1
+2026-08-31,bringing,6
+2026-08-31,budget,2
+2026-08-31,building,12
+2026-08-31,built,9
 2026-08-31,buzzfeed,2
-2026-08-31,cabinet,2
 2026-08-31,calling,2
-2026-08-31,ceiling,7
 2026-08-31,center,10
-2026-08-31,change,6
 2026-08-31,cities,4
-2026-08-31,city,5
+2026-08-31,city,6
 2026-08-31,class,40
 2026-08-31,class attachment,10
 2026-08-31,class attachment post,10
@@ -476,90 +450,112 @@ period,Term,Count
 2026-08-31,class rws excerpt,10
 2026-08-31,class rws img,10
 2026-08-31,class rws title,10
-2026-08-31,collection,4
 2026-08-31,color,6
+2026-08-31,colorful,2
 2026-08-31,colour,3
 2026-08-31,comeback,2
 2026-08-31,common,1
-2026-08-31,community,2
+2026-08-31,community,5
 2026-08-31,compact,3
-2026-08-31,completed,5
-2026-08-31,conceived,3
 2026-08-31,conditions,3
-2026-08-31,connection,3
 2026-08-31,contemporary,4
 2026-08-31,cool,1
 2026-08-31,corner,3
 2026-08-31,cozier,2
 2026-08-31,cozy,10
+2026-08-31,create,2
 2026-08-31,creating,4
-2026-08-31,creative,6
-2026-08-31,culture,6
-2026-08-31,daily,5
-2026-08-31,decor,47
-2026-08-31,decor ideas,21
-2026-08-31,decor ideas make,4
-2026-08-31,decor shorts,4
-2026-08-31,decor trends,2
+2026-08-31,creative,5
+2026-08-31,culture,9
+2026-08-31,cutting,3
+2026-08-31,cutting edge,3
+2026-08-31,cutting edge home,3
+2026-08-31,daily,7
+2026-08-31,decor,48
+2026-08-31,decor ideas,24
+2026-08-31,decor ideas make,5
+2026-08-31,decor ideas shorts,3
+2026-08-31,decor shorts,5
+2026-08-31,decor trends,4
+2026-08-31,decor trends interior,2
 2026-08-31,decorate,4
-2026-08-31,decoration,6
-2026-08-31,decoration ideas,4
-2026-08-31,design,87
-2026-08-31,design ideas,12
+2026-08-31,decorating,2
+2026-08-31,decorating trends,2
+2026-08-31,decoration,13
+2026-08-31,design,80
+2026-08-31,design ideas,13
+2026-08-31,design innovation,3
+2026-08-31,design innovation modern,3
 2026-08-31,design trend,5
-2026-08-31,design trends,26
+2026-08-31,design trends,21
 2026-08-31,design trends looks,2
 2026-08-31,designed,4
-2026-08-31,designer,7
+2026-08-31,designer,5
 2026-08-31,designer approved,4
 2026-08-31,designers,10
 2026-08-31,designers say,8
-2026-08-31,discover,5
+2026-08-31,destination,4
+2026-08-31,destination cutting,3
+2026-08-31,destination cutting edge,3
+2026-08-31,details,3
+2026-08-31,discover,3
 2026-08-31,div,20
 2026-08-31,div class,10
 2026-08-31,div class rws,10
-2026-08-31,diy,11
-2026-08-31,easy,9
-2026-08-31,elegant,6
+2026-08-31,diy,16
+2026-08-31,easy,8
+2026-08-31,edge,4
+2026-08-31,edge home,3
+2026-08-31,edge home design,3
+2026-08-31,elegance,3
+2026-08-31,elegant,7
 2026-08-31,elevated,1
-2026-08-31,emerging,3
 2026-08-31,excerpt,10
 2026-08-31,expensive,5
-2026-08-31,explore,6
-2026-08-31,fall,6
-2026-08-31,family,4
-2026-08-31,feel,8
+2026-08-31,explore,4
+2026-08-31,fall,4
+2026-08-31,family,3
+2026-08-31,feel,9
 2026-08-31,feel cozier,2
-2026-08-31,festive,5
-2026-08-31,finds,6
-2026-08-31,foot,4
+2026-08-31,festive,6
+2026-08-31,festive home,4
+2026-08-31,finds,3
+2026-08-31,fixture,7
+2026-08-31,fixture hub,3
+2026-08-31,fixture hub welcome,3
+2026-08-31,foot,2
 2026-08-31,form,5
-2026-08-31,free,2
-2026-08-31,furniture,4
-2026-08-31,gardens,7
-2026-08-31,glass,2
+2026-08-31,furniture,5
+2026-08-31,future,3
+2026-08-31,gardens,5
 2026-08-31,going,3
-2026-08-31,good,2
-2026-08-31,height,11
+2026-08-31,good,1
+2026-08-31,height,10
 2026-08-31,height src,10
 2026-08-31,height src width,10
-2026-08-31,home,79
-2026-08-31,home decor,30
-2026-08-31,home decor ideas,13
+2026-08-31,home,73
+2026-08-31,home decor,21
+2026-08-31,home decor ideas,9
+2026-08-31,home decor shorts,3
 2026-08-31,home decor trends,2
-2026-08-31,home design,7
-2026-08-31,home design trends,6
+2026-08-31,home design,10
+2026-08-31,home design innovation,3
+2026-08-31,home design trends,7
 2026-08-31,home feel,2
-2026-08-31,homedecor,14
-2026-08-31,homedecor interiordesign,3
+2026-08-31,home interior,3
+2026-08-31,home interior design,3
+2026-08-31,homedecor,13
 2026-08-31,homeowners,2
-2026-08-31,homes,26
-2026-08-31,homes gardens,6
-2026-08-31,house,34
-2026-08-31,house beautiful,6
-2026-08-31,ideas,53
-2026-08-31,ideas interior,4
-2026-08-31,ideas make,4
+2026-08-31,homes,21
+2026-08-31,homes gardens,4
+2026-08-31,house,30
+2026-08-31,house beautiful,8
+2026-08-31,hub,3
+2026-08-31,hub welcome,3
+2026-08-31,hub welcome ultimate,3
+2026-08-31,ideas,58
+2026-08-31,ideas home,5
+2026-08-31,ideas make,5
 2026-08-31,ideas shorts,3
 2026-08-31,image,11
 2026-08-31,image height,10
@@ -567,76 +563,78 @@ period,Term,Count
 2026-08-31,img,10
 2026-08-31,img alt,10
 2026-08-31,img alt class,10
-2026-08-31,innovation,3
-2026-08-31,inside,3
-2026-08-31,inspiration,3
-2026-08-31,inspiring,2
-2026-08-31,instantly,1
+2026-08-31,innovation,5
+2026-08-31,innovation modern,3
+2026-08-31,innovation modern fixture,3
+2026-08-31,inside,5
+2026-08-31,inspiring,1
 2026-08-31,instead,5
 2026-08-31,instead real,4
 2026-08-31,instead real simple,4
-2026-08-31,interior,39
-2026-08-31,interior design,31
-2026-08-31,interior design ideas,9
-2026-08-31,interior design trends,12
+2026-08-31,interior,40
+2026-08-31,interior design,30
+2026-08-31,interior design ideas,8
+2026-08-31,interior design trends,9
 2026-08-31,interior designers,2
-2026-08-31,interior designers say,2
-2026-08-31,interiordesign,15
+2026-08-31,interiordesign,14
 2026-08-31,international,3
-2026-08-31,items,1
 2026-08-31,just,6
-2026-08-31,kitchen,22
-2026-08-31,kitchens,5
+2026-08-31,kitchen,14
+2026-08-31,kitchens,4
 2026-08-31,know,2
 2026-08-31,landscape,7
 2026-08-31,latest,4
 2026-08-31,leading,4
-2026-08-31,life,4
-2026-08-31,like,2
-2026-08-31,living,20
-2026-08-31,living room,12
+2026-08-31,life,5
+2026-08-31,like,3
+2026-08-31,links,3
+2026-08-31,live,2
+2026-08-31,living,18
+2026-08-31,living room,11
 2026-08-31,living room feel,1
-2026-08-31,living space,3
-2026-08-31,local,4
+2026-08-31,living space,2
+2026-08-31,local,5
 2026-08-31,located,6
-2026-08-31,look,17
-2026-08-31,looks,5
+2026-08-31,look,18
+2026-08-31,looking,2
+2026-08-31,looks,4
 2026-08-31,los,5
 2026-08-31,lot,5
-2026-08-31,love,2
+2026-08-31,love,1
 2026-08-31,luxe,2
-2026-08-31,luxurious,3
-2026-08-31,luxury,14
+2026-08-31,luxurious,4
+2026-08-31,luxury,15
 2026-08-31,make,13
 2026-08-31,make home,2
 2026-08-31,make room,2
-2026-08-31,make small,3
+2026-08-31,make small,4
 2026-08-31,makes,1
 2026-08-31,making,2
 2026-08-31,means,1
 2026-08-31,meter,3
-2026-08-31,modern,31
-2026-08-31,modern home,6
-2026-08-31,modern home design,5
-2026-08-31,modern small,5
+2026-08-31,modern,32
+2026-08-31,modern fixture,6
+2026-08-31,modern fixture hub,3
+2026-08-31,modern home,8
+2026-08-31,modern home design,7
+2026-08-31,nature,3
 2026-08-31,need,1
-2026-08-31,new,20
+2026-08-31,new,19
 2026-08-31,news,2
 2026-08-31,noopener,13
 2026-08-31,noopener target,13
-2026-08-31,office,6
-2026-08-31,old,4
+2026-08-31,old,2
 2026-08-31,open,4
-2026-08-31,parisian,6
+2026-08-31,parisian,8
 2026-08-31,park,3
-2026-08-31,people,7
+2026-08-31,people,9
 2026-08-31,people calling,2
-2026-08-31,perfect,6
+2026-08-31,perfect,8
+2026-08-31,personality,1
 2026-08-31,place,5
 2026-08-31,places,5
-2026-08-31,plan,3
-2026-08-31,planning,8
-2026-08-31,post,33
+2026-08-31,planning,9
+2026-08-31,post,32
 2026-08-31,post image,10
 2026-08-31,post image height,10
 2026-08-31,post thumbnail,20
@@ -644,6 +642,7 @@ period,Term,Count
 2026-08-31,post thumbnail size,10
 2026-08-31,practice,4
 2026-08-31,project,7
+2026-08-31,proves,3
 2026-08-31,public,5
 2026-08-31,question,5
 2026-08-31,quiet,2
@@ -653,11 +652,12 @@ period,Term,Count
 2026-08-31,rel noopener,13
 2026-08-31,rel noopener target,13
 2026-08-31,relationship,4
-2026-08-31,renovation,4
+2026-08-31,renovation,5
 2026-08-31,right,3
-2026-08-31,room,18
+2026-08-31,room,22
+2026-08-31,room decor,5
+2026-08-31,room decor ideas,4
 2026-08-31,room feel,1
-2026-08-31,room look,2
 2026-08-31,rws,30
 2026-08-31,rws excerpt,10
 2026-08-31,rws img,10
@@ -665,51 +665,50 @@ period,Term,Count
 2026-08-31,rws title,10
 2026-08-31,rws title style,10
 2026-08-31,say,8
-2026-08-31,sense,3
+2026-08-31,sense,2
 2026-08-31,september,5
-2026-08-31,shade,3
-2026-08-31,shaped,6
+2026-08-31,shaped,7
 2026-08-31,share,1
 2026-08-31,shift,1
 2026-08-31,short,3
-2026-08-31,shorts,22
-2026-08-31,simple,17
-2026-08-31,single,3
+2026-08-31,shorts,30
+2026-08-31,shorts homedecor,4
+2026-08-31,simple,15
 2026-08-31,site,5
 2026-08-31,size,10
 2026-08-31,size post,10
 2026-08-31,size post thumbnail,10
-2026-08-31,small,31
-2026-08-31,small apartment,6
-2026-08-31,small house,4
+2026-08-31,small,28
+2026-08-31,small apartment,10
 2026-08-31,small living,4
 2026-08-31,small living room,4
-2026-08-31,small space,4
+2026-08-31,small space,5
 2026-08-31,small spaces,2
-2026-08-31,smart,9
-2026-08-31,social,4
-2026-08-31,soft,5
+2026-08-31,smart,7
+2026-08-31,social,6
+2026-08-31,soft,7
 2026-08-31,south,5
 2026-08-31,southern,2
 2026-08-31,southern living,2
-2026-08-31,space,30
+2026-08-31,space,28
 2026-08-31,spaces,5
-2026-08-31,spacious,3
+2026-08-31,spacious,2
+2026-08-31,special,4
 2026-08-31,spruce,2
-2026-08-31,square,6
-2026-08-31,square foot,3
+2026-08-31,square,4
 2026-08-31,src,10
 2026-08-31,src width,10
 2026-08-31,src width class,10
 2026-08-31,start,2
-2026-08-31,step,4
+2026-08-31,step,5
+2026-08-31,step inside,3
 2026-08-31,stop,1
-2026-08-31,studio,7
-2026-08-31,stunning,4
-2026-08-31,style,11
+2026-08-31,studio,9
+2026-08-31,stunning,3
+2026-08-31,style,14
 2026-08-31,style text,10
 2026-08-31,style text align,10
-2026-08-31,stylish,3
+2026-08-31,stylish,5
 2026-08-31,surrounding,3
 2026-08-31,taking,6
 2026-08-31,target,13
@@ -723,36 +722,43 @@ period,Term,Count
 2026-08-31,thumbnail size,10
 2026-08-31,thumbnail size post,10
 2026-08-31,time,8
-2026-08-31,timeless,3
-2026-08-31,tiny,13
-2026-08-31,tiny apartment,9
+2026-08-31,timeless,9
+2026-08-31,tiny,14
+2026-08-31,tiny apartment,11
+2026-08-31,tiny apartment decor,4
 2026-08-31,tired,2
 2026-08-31,title,10
 2026-08-31,title style,10
 2026-08-31,title style text,10
-2026-08-31,tour,4
 2026-08-31,transform,6
+2026-08-31,trees,5
 2026-08-31,trend,12
-2026-08-31,trending,5
-2026-08-31,trendingshorts,5
-2026-08-31,trends,34
+2026-08-31,trending,7
+2026-08-31,trends,33
 2026-08-31,trends designers,2
+2026-08-31,trends interior,2
+2026-08-31,trends interior designers,2
 2026-08-31,trends looks,2
 2026-08-31,trendy,1
+2026-08-31,tricks,1
+2026-08-31,ultimate,3
+2026-08-31,ultimate destination,3
+2026-08-31,ultimate destination cutting,3
 2026-08-31,unpopular,2
-2026-08-31,urban,8
+2026-08-31,urban,11
 2026-08-31,use,3
 2026-08-31,using,2
-2026-08-31,video,13
-2026-08-31,village,10
+2026-08-31,video,11
+2026-08-31,village,12
 2026-08-31,viral,8
-2026-08-31,wall,6
+2026-08-31,wall,8
 2026-08-31,want,3
-2026-08-31,warm,2
-2026-08-31,watch,3
-2026-08-31,water,6
+2026-08-31,warm,3
+2026-08-31,water,5
 2026-08-31,way,5
-2026-08-31,welcome,8
+2026-08-31,welcome,4
+2026-08-31,welcome ultimate,3
+2026-08-31,welcome ultimate destination,3
 2026-08-31,west,5
 2026-08-31,width,10
 2026-08-31,width class,10
@@ -760,6 +766,6 @@ period,Term,Count
 2026-08-31,work,3
 2026-08-31,world,4
 2026-08-31,worth,3
-2026-08-31,yahoo,4
-2026-08-31,year,9
-2026-08-31,years,7
+2026-08-31,yahoo,6
+2026-08-31,year,6
+2026-08-31,years,5
