@@ -1,22 +1,25 @@
 period,Term,Count
-2026-07-20,buying,2
-2026-07-20,buying fall,2
-2026-07-20,fall,2
-2026-07-20,like,2
-2026-07-20,report,2
-2026-07-20,shopping,2
-2026-07-20,trends,2
-2026-07-20,trends buying,2
-2026-07-20,trends buying fall,2
-2026-07-20,wear,2
-2026-07-20,zoe,2
-2026-07-20,zoe report,2
+2026-07-20,buying,4
+2026-07-20,buying fall,4
+2026-07-20,dressing,4
+2026-07-20,fall,4
+2026-07-20,like,4
+2026-07-20,report,4
+2026-07-20,shopping,4
+2026-07-20,trends,4
+2026-07-20,trends buying,4
+2026-07-20,trends buying fall,4
+2026-07-20,wear,4
+2026-07-20,zoe,4
+2026-07-20,zoe report,4
 2026-07-27,black,2
 2026-07-27,boys,3
 2026-07-27,casual,2
 2026-07-27,celebrity,2
 2026-07-27,claire,6
+2026-07-27,collar,2
 2026-07-27,color,2
+2026-07-27,combination,2
 2026-07-27,cotton,1
 2026-07-27,fall,4
 2026-07-27,fall fashion,2
@@ -26,11 +29,11 @@ period,Term,Count
 2026-07-27,fashion trend,2
 2026-07-27,fashion trends,2
 2026-07-27,featuring,1
-2026-07-27,graziamagazine,2
 2026-07-27,long,2
 2026-07-27,looks,1
 2026-07-27,marie,6
 2026-07-27,marie claire,6
+2026-07-27,meets,2
 2026-07-27,new,2
 2026-07-27,outfit,1
 2026-07-27,outfit upgrade,1
@@ -58,12 +61,14 @@ period,Term,Count
 2026-08-03,copenhagen,6
 2026-08-03,copenhagen fashion,4
 2026-08-03,copenhagen fashion week,4
+2026-08-03,designed,1
 2026-08-03,dress,2
-2026-08-03,dress trends,2
 2026-08-03,elle,4
-2026-08-03,fall,2
-2026-08-03,fashion,11
+2026-08-03,fall,6
+2026-08-03,fall winter,2
+2026-08-03,fashion,15
 2026-08-03,fashion trend,2
+2026-08-03,fashion trends,2
 2026-08-03,fashion week,4
 2026-08-03,forget,2
 2026-08-03,going,2
@@ -82,33 +87,36 @@ period,Term,Count
 2026-08-03,runway trends,2
 2026-08-03,shirt,2
 2026-08-03,shoes,2
+2026-08-03,short,2
 2026-08-03,sleeve,2
 2026-08-03,spring,1
 2026-08-03,streetwear,5
 2026-08-03,summer,1
 2026-08-03,tops,2
 2026-08-03,trend,6
-2026-08-03,trends,6
+2026-08-03,trends,10
 2026-08-03,vogue,2
-2026-08-03,wear,6
+2026-08-03,wear,8
 2026-08-03,week,4
 2026-08-03,white,2
+2026-08-03,winter,2
+2026-08-03,winter fashion,2
 2026-08-03,women,2
 2026-08-10,according,8
 2026-08-10,according stylists,4
 2026-08-10,autumn,6
 2026-08-10,autumn winter,2
-2026-08-10,bag,2
 2026-08-10,biggest,5
 2026-08-10,black,1
 2026-08-10,buy,1
-2026-08-10,claire,4
+2026-08-10,city,5
+2026-08-10,claire,6
 2026-08-10,click,1
 2026-08-10,color,2
 2026-08-10,comeback,2
 2026-08-10,comfortable,4
-2026-08-10,coming,3
-2026-08-10,copenhagen,8
+2026-08-10,coming,5
+2026-08-10,copenhagen,10
 2026-08-10,copenhagen fashion,4
 2026-08-10,copenhagen fashion week,4
 2026-08-10,cotton,2
@@ -127,7 +135,8 @@ period,Term,Count
 2026-08-10,fashion trends,12
 2026-08-10,fashion week,4
 2026-08-10,favorite,1
-2026-08-10,forget,4
+2026-08-10,forecasters,4
+2026-08-10,forget,6
 2026-08-10,fyp,1
 2026-08-10,hot,2
 2026-08-10,instead,4
@@ -143,8 +152,8 @@ period,Term,Count
 2026-08-10,make,5
 2026-08-10,making,2
 2026-08-10,making comeback,2
-2026-08-10,marie,4
-2026-08-10,marie claire,4
+2026-08-10,marie,6
+2026-08-10,marie claire,6
 2026-08-10,movie,1
 2026-08-10,period,2
 2026-08-10,period wear,2
@@ -155,10 +164,12 @@ period,Term,Count
 2026-08-10,right,2
 2026-08-10,runway,4
 2026-08-10,runway trends,4
+2026-08-10,saying,4
+2026-08-10,share,1
 2026-08-10,shirt,2
 2026-08-10,shop,4
 2026-08-10,shorts,1
-2026-08-10,spring,4
+2026-08-10,spring,6
 2026-08-10,stay,4
 2026-08-10,street,2
 2026-08-10,street style,2
@@ -167,74 +178,75 @@ period,Term,Count
 2026-08-10,styling,1
 2026-08-10,stylish,1
 2026-08-10,stylists,4
+2026-08-10,subscribe,1
 2026-08-10,summer,7
+2026-08-10,taking,2
 2026-08-10,told,2
 2026-08-10,tops,1
-2026-08-10,trend,13
-2026-08-10,trends,32
-2026-08-10,trends coming,2
+2026-08-10,travel,4
+2026-08-10,trend,15
+2026-08-10,trend forecasters,4
+2026-08-10,trends,36
+2026-08-10,trends coming,4
 2026-08-10,trends elle,4
 2026-08-10,trends fall,2
 2026-08-10,trends fall period,2
 2026-08-10,trends know,2
 2026-08-10,trends wear,4
 2026-08-10,turn,1
+2026-08-10,vintage,2
 2026-08-10,viral,1
 2026-08-10,vogue,8
 2026-08-10,vogue key,1
 2026-08-10,vogue key fall,1
-2026-08-10,wear,14
+2026-08-10,wear,16
 2026-08-10,wear biggest,1
 2026-08-10,wearing,4
-2026-08-10,week,4
+2026-08-10,week,6
 2026-08-10,white,1
 2026-08-10,winter,4
 2026-08-10,winter fashion,2
-2026-08-10,woman,2
 2026-08-10,women,1
 2026-08-17,august,2
 2026-08-17,autumn,8
-2026-08-17,autumn wear,2
 2026-08-17,autumn winter,4
 2026-08-17,best,2
 2026-08-17,black,1
 2026-08-17,boys,1
 2026-08-17,break,1
+2026-08-17,chic,2
 2026-08-17,colour,2
 2026-08-17,coming,2
 2026-08-17,copenhagen,4
 2026-08-17,copenhagen fashion,4
 2026-08-17,copenhagen fashion week,4
+2026-08-17,daily,2
 2026-08-17,dated,2
-2026-08-17,denim,2
-2026-08-17,denim trends,2
+2026-08-17,dressing,2
 2026-08-17,elegant,2
 2026-08-17,end,1
-2026-08-17,fall,13
+2026-08-17,fall,11
 2026-08-17,fall fashion,6
 2026-08-17,fall fashion trends,6
 2026-08-17,fall trends,2
 2026-08-17,fall winter,1
-2026-08-17,fashion,25
-2026-08-17,fashion trend,6
+2026-08-17,fashion,27
+2026-08-17,fashion trend,8
 2026-08-17,fashion trends,11
 2026-08-17,fashion week,4
 2026-08-17,favorite,1
 2026-08-17,fit,1
 2026-08-17,fyp,1
 2026-08-17,gen,2
-2026-08-17,graziamagazine,2
-2026-08-17,harpersbazaar,2
 2026-08-17,hot,4
+2026-08-17,inspiration,1
 2026-08-17,instead,4
 2026-08-17,key,6
-2026-08-17,key autumn,2
 2026-08-17,key fall,4
 2026-08-17,know,8
 2026-08-17,lamine,2
 2026-08-17,lamine yamal,2
 2026-08-17,latest,1
-2026-08-17,leather,2
 2026-08-17,look,6
 2026-08-17,luxury,2
 2026-08-17,makes,2
@@ -248,6 +260,7 @@ period,Term,Count
 2026-08-17,power,1
 2026-08-17,price,1
 2026-08-17,real,2
+2026-08-17,red,2
 2026-08-17,runway,2
 2026-08-17,runway trend,2
 2026-08-17,season,4
@@ -265,9 +278,10 @@ period,Term,Count
 2026-08-17,stylist,2
 2026-08-17,stylists,2
 2026-08-17,summer,2
+2026-08-17,taking,2
 2026-08-17,told,2
-2026-08-17,trend,14
-2026-08-17,trends,25
+2026-08-17,trend,16
+2026-08-17,trends,23
 2026-08-17,trends know,8
 2026-08-17,usa,1
 2026-08-17,video,3
@@ -275,29 +289,26 @@ period,Term,Count
 2026-08-17,vogue,12
 2026-08-17,vogue key,3
 2026-08-17,vogue key fall,2
-2026-08-17,want,2
 2026-08-17,watch,2
 2026-08-17,wear,4
 2026-08-17,week,4
 2026-08-17,winter,5
 2026-08-17,winter fashion,3
-2026-08-17,woman,2
 2026-08-17,yamal,2
-2026-08-24,aol,8
+2026-08-24,aol,6
 2026-08-24,august,4
 2026-08-24,autumn,2
-2026-08-24,bags,2
 2026-08-24,break,1
 2026-08-24,clothing,4
-2026-08-24,comeback,8
+2026-08-24,comeback,6
 2026-08-24,dated,2
 2026-08-24,editors,4
 2026-08-24,elegant,2
 2026-08-24,fall,12
 2026-08-24,fall trends,6
-2026-08-24,fashion,21
-2026-08-24,fashion trend,16
-2026-08-24,fashion trend making,8
+2026-08-24,fashion,19
+2026-08-24,fashion trend,14
+2026-08-24,fashion trend making,6
 2026-08-24,fashion trends,4
 2026-08-24,fit,1
 2026-08-24,fyp,1
@@ -311,14 +322,14 @@ period,Term,Count
 2026-08-24,love,1
 2026-08-24,major,2
 2026-08-24,makes,2
-2026-08-24,making,8
-2026-08-24,making comeback,8
+2026-08-24,making,6
+2026-08-24,making comeback,6
 2026-08-24,moment,2
 2026-08-24,morning,2
-2026-08-24,new,6
+2026-08-24,new,8
 2026-08-24,outfit,2
+2026-08-24,post,2
 2026-08-24,price,1
-2026-08-24,really,4
 2026-08-24,right,4
 2026-08-24,runway,2
 2026-08-24,runway trend,2
@@ -328,12 +339,11 @@ period,Term,Count
 2026-08-24,shopping,4
 2026-08-24,shorts,1
 2026-08-24,streetwear,4
-2026-08-24,trend,20
+2026-08-24,trend,18
 2026-08-24,trend going,4
-2026-08-24,trend making,8
-2026-08-24,trend making comeback,8
+2026-08-24,trend making,6
+2026-08-24,trend making comeback,6
 2026-08-24,trends,14
-2026-08-24,trends vogue,4
 2026-08-24,trends wear,2
 2026-08-24,video,1
 2026-08-24,video break,1
@@ -341,20 +351,14 @@ period,Term,Count
 2026-08-24,vogue fall,2
 2026-08-24,wardrobe,2
 2026-08-24,wear,12
-2026-08-24,wish,4
 2026-08-24,yamal,2
 2026-08-31,according,2
 2026-08-31,according stylists,2
 2026-08-31,aesthetic,6
 2026-08-31,amal,6
 2026-08-31,amal clooney,6
-2026-08-31,approved,6
-2026-08-31,autumn,28
-2026-08-31,autumn trends,10
-2026-08-31,autumn wear,4
-2026-08-31,autumn winter,1
-2026-08-31,bag,5
-2026-08-31,bags,4
+2026-08-31,autumn,23
+2026-08-31,autumn trends,6
 2026-08-31,beautiful,4
 2026-08-31,beauty,5
 2026-08-31,bedazzled,6
@@ -365,305 +369,396 @@ period,Term,Count
 2026-08-31,biggest,10
 2026-08-31,biggest denim,6
 2026-08-31,biggest denim trends,6
-2026-08-31,black,7
+2026-08-31,black,5
 2026-08-31,boys,5
 2026-08-31,brand,6
 2026-08-31,break,4
 2026-08-31,buy,4
-2026-08-31,buying,6
-2026-08-31,buying fall,6
-2026-08-31,byrdie,6
-2026-08-31,byrdie fall,3
-2026-08-31,casual,6
+2026-08-31,buying,4
+2026-08-31,buying fall,4
+2026-08-31,byrdie,8
+2026-08-31,byrdie fall,4
+2026-08-31,casual,8
 2026-08-31,celebrity,8
+2026-08-31,check,2
+2026-08-31,chic,3
 2026-08-31,chinese,4
 2026-08-31,chinese tourists,4
 2026-08-31,chinese tourists sparks,4
-2026-08-31,claire,6
-2026-08-31,click,2
+2026-08-31,claire,2
+2026-08-31,click,1
+2026-08-31,click link,1
+2026-08-31,click link outfit,1
 2026-08-31,clooney,6
 2026-08-31,clothes,3
 2026-08-31,clothing,2
-2026-08-31,color,3
-2026-08-31,colour,5
+2026-08-31,collar,2
+2026-08-31,color,4
+2026-08-31,colour,4
 2026-08-31,colours,6
 2026-08-31,comeback,2
 2026-08-31,comfortable,1
-2026-08-31,coming,6
-2026-08-31,cool,12
+2026-08-31,coming,4
+2026-08-31,cool,10
 2026-08-31,copenhagen,1
-2026-08-31,cotton,1
+2026-08-31,cotton,2
 2026-08-31,couple,2
-2026-08-31,daily,3
+2026-08-31,daily,2
+2026-08-31,daily dose,1
 2026-08-31,dated,8
 2026-08-31,day,5
-2026-08-31,denim,9
+2026-08-31,denim,6
 2026-08-31,denim trends,6
 2026-08-31,designer,4
-2026-08-31,discover,6
+2026-08-31,destination,2
+2026-08-31,discover,4
+2026-08-31,discover outfit,1
+2026-08-31,discover outfit upgrade,1
 2026-08-31,disposable,4
 2026-08-31,disposable fashion,4
 2026-08-31,disposable fashion trend,4
-2026-08-31,dress,13
-2026-08-31,dress trends,4
+2026-08-31,dose,1
+2026-08-31,dress,11
+2026-08-31,dressing,2
 2026-08-31,editors,2
-2026-08-31,elegant,11
-2026-08-31,elle,8
+2026-08-31,elegance,3
+2026-08-31,elegant,9
+2026-08-31,elle,10
 2026-08-31,end,4
-2026-08-31,everyday,3
-2026-08-31,fall,83
-2026-08-31,fall fashion,15
-2026-08-31,fall fashion trends,11
+2026-08-31,everyday,2
+2026-08-31,fall,70
+2026-08-31,fall fashion,14
+2026-08-31,fall fashion trends,10
 2026-08-31,fall period,4
 2026-08-31,fall period wear,4
-2026-08-31,fall shoe,6
-2026-08-31,fall trends,6
-2026-08-31,fall winter,2
-2026-08-31,fashion,154
+2026-08-31,fall trends,4
+2026-08-31,fashion,132
 2026-08-31,fashion fashiontrends,4
-2026-08-31,fashion look,3
 2026-08-31,fashion shorts,4
 2026-08-31,fashion style,4
 2026-08-31,fashion trend,17
 2026-08-31,fashion trend chinese,4
 2026-08-31,fashion trend making,2
-2026-08-31,fashion trends,26
-2026-08-31,fashion trends price,6
+2026-08-31,fashion trends,16
 2026-08-31,fashion week,3
 2026-08-31,fashionstyle,4
-2026-08-31,fashiontrends,19
+2026-08-31,fashiontrends,14
 2026-08-31,fashiontrends fashion,3
-2026-08-31,favorite,7
-2026-08-31,featuring,4
+2026-08-31,favorite,3
+2026-08-31,featuring,5
 2026-08-31,festival,6
 2026-08-31,film,6
 2026-08-31,film festival,6
 2026-08-31,fit,3
-2026-08-31,fyp,4
+2026-08-31,forecasters,2
+2026-08-31,fyp,2
 2026-08-31,galliano,10
-2026-08-31,gen,6
-2026-08-31,girl,8
+2026-08-31,gen,1
+2026-08-31,girl,6
 2026-08-31,girls,5
 2026-08-31,going,4
-2026-08-31,graziamagazine,2
-2026-08-31,harpersbazaar,4
-2026-08-31,hello,6
 2026-08-31,hot,2
-2026-08-31,ideas,6
-2026-08-31,including,5
+2026-08-31,ideas,4
+2026-08-31,including,4
+2026-08-31,inspiration,1
 2026-08-31,instead,8
 2026-08-31,instead instyle,2
 2026-08-31,instyle,16
-2026-08-31,jacket,4
 2026-08-31,jeans,6
 2026-08-31,john,7
 2026-08-31,john galliano,7
-2026-08-31,just,10
-2026-08-31,key,6
-2026-08-31,key autumn,4
+2026-08-31,just,6
+2026-08-31,key,2
 2026-08-31,know,4
-2026-08-31,lamine,9
-2026-08-31,lamine yamal,9
-2026-08-31,lamine yamal stunning,3
-2026-08-31,lamine yamal stylish,5
-2026-08-31,latest,9
-2026-08-31,leather,5
+2026-08-31,lamine,6
+2026-08-31,lamine yamal,6
+2026-08-31,latest,5
 2026-08-31,life,6
 2026-08-31,lifestyle,5
-2026-08-31,like,4
-2026-08-31,link,3
-2026-08-31,long,6
-2026-08-31,look,15
+2026-08-31,like,3
+2026-08-31,link,2
+2026-08-31,link outfit,1
+2026-08-31,link outfit welcome,1
+2026-08-31,long,5
+2026-08-31,look,12
+2026-08-31,looking,3
 2026-08-31,looks,10
-2026-08-31,love,11
-2026-08-31,luxury,6
-2026-08-31,major,4
+2026-08-31,love,10
+2026-08-31,luxury,4
+2026-08-31,major,5
 2026-08-31,make,1
 2026-08-31,makes,4
 2026-08-31,making,2
-2026-08-31,marie,6
-2026-08-31,marie claire,6
-2026-08-31,men,27
+2026-08-31,marie,2
+2026-08-31,marie claire,2
+2026-08-31,meets,2
+2026-08-31,men,24
 2026-08-31,men fashion,7
-2026-08-31,mensfashion,3
+2026-08-31,mensfashion,2
 2026-08-31,met,7
 2026-08-31,modern,3
 2026-08-31,moment,2
 2026-08-31,morning,4
 2026-08-31,movie,1
 2026-08-31,need,5
-2026-08-31,new,17
+2026-08-31,new,13
 2026-08-31,obsession,4
-2026-08-31,online,11
-2026-08-31,online singapore,10
+2026-08-31,online,9
+2026-08-31,online singapore,8
 2026-08-31,online singapore bedazzled,3
-2026-08-31,ootd,4
+2026-08-31,ootd,3
 2026-08-31,open,7
-2026-08-31,outfit,49
-2026-08-31,outfit fashion,7
-2026-08-31,outfit fashion trends,6
-2026-08-31,outfit ideas,6
-2026-08-31,outfit upgrade,2
-2026-08-31,people,6
+2026-08-31,outfit,40
+2026-08-31,outfit daily,1
+2026-08-31,outfit daily dose,1
+2026-08-31,outfit fashion,5
+2026-08-31,outfit ideas,4
+2026-08-31,outfit upgrade,1
+2026-08-31,outfit upgrade style,1
+2026-08-31,outfit welcome,1
+2026-08-31,outfit welcome outfit,1
+2026-08-31,people,4
+2026-08-31,perfect,1
 2026-08-31,period,4
 2026-08-31,period wear,4
 2026-08-31,period wear biggest,2
 2026-08-31,post,5
 2026-08-31,power,3
 2026-08-31,premium,3
-2026-08-31,prestige,11
-2026-08-31,prestige online,10
-2026-08-31,prestige online singapore,10
-2026-08-31,price,10
-2026-08-31,price reveal,6
-2026-08-31,price reveal lamine,6
+2026-08-31,prestige,9
+2026-08-31,prestige online,8
+2026-08-31,prestige online singapore,8
+2026-08-31,price,8
 2026-08-31,real,7
-2026-08-31,really,2
-2026-08-31,red,5
+2026-08-31,red,3
 2026-08-31,report,4
-2026-08-31,reveal,6
-2026-08-31,reveal lamine,6
-2026-08-31,reveal lamine yamal,6
 2026-08-31,rich,2
-2026-08-31,right,3
-2026-08-31,runway,8
-2026-08-31,says,6
-2026-08-31,season,8
-2026-08-31,season vogue,4
+2026-08-31,right,1
+2026-08-31,runway,6
+2026-08-31,saying,2
+2026-08-31,season,6
+2026-08-31,season vogue,2
 2026-08-31,seasonal,2
 2026-08-31,series,3
 2026-08-31,set,4
+2026-08-31,share,1
 2026-08-31,shirt,7
 2026-08-31,shoe,12
-2026-08-31,shoe trends,6
-2026-08-31,shoes,8
-2026-08-31,shop,11
+2026-08-31,shoes,10
+2026-08-31,shop,10
 2026-08-31,shopping,2
-2026-08-31,shorts,19
-2026-08-31,shorts fashion,5
+2026-08-31,shorts,17
+2026-08-31,shorts fashion,4
+2026-08-31,shortvideo,3
 2026-08-31,simple,7
-2026-08-31,singapore,10
+2026-08-31,singapore,8
 2026-08-31,singapore bedazzled,3
 2026-08-31,singapore bedazzled fashion,3
-2026-08-31,sleeve,2
-2026-08-31,sneaker,8
-2026-08-31,sneaker trends,8
+2026-08-31,sneaker,6
+2026-08-31,sneaker trends,6
 2026-08-31,sparks,4
-2026-08-31,spotlight,5
 2026-08-31,spring,2
 2026-08-31,stay,1
 2026-08-31,street,8
 2026-08-31,street style,8
 2026-08-31,streetwear,4
-2026-08-31,stunning,3
-2026-08-31,stunning fashion,3
-2026-08-31,stunning fashion look,3
-2026-08-31,style,33
+2026-08-31,style,34
+2026-08-31,style click,1
+2026-08-31,style click link,1
 2026-08-31,style trends,5
 2026-08-31,styling,3
-2026-08-31,stylish,26
+2026-08-31,stylish,20
 2026-08-31,stylish men,4
-2026-08-31,stylish outfit,8
-2026-08-31,stylish outfit fashion,6
-2026-08-31,stylist,8
-2026-08-31,stylist says,6
+2026-08-31,stylish outfit,4
+2026-08-31,stylist,6
 2026-08-31,stylists,2
-2026-08-31,summer,3
-2026-08-31,sweeney,6
-2026-08-31,sydney,6
-2026-08-31,sydney sweeney,6
+2026-08-31,subscribe,1
+2026-08-31,summer,4
+2026-08-31,sweater,2
+2026-08-31,taking,3
 2026-08-31,tennis,4
 2026-08-31,time,7
+2026-08-31,tips,2
 2026-08-31,told,2
-2026-08-31,tops,2
+2026-08-31,tops,4
 2026-08-31,tourists,4
 2026-08-31,tourists sparks,4
-2026-08-31,trend,41
+2026-08-31,travel,2
+2026-08-31,trend,39
 2026-08-31,trend chinese,4
 2026-08-31,trend chinese tourists,4
+2026-08-31,trend forecasters,2
 2026-08-31,trend going,2
 2026-08-31,trend making,2
-2026-08-31,trending,20
-2026-08-31,trends,94
-2026-08-31,trends buying,4
-2026-08-31,trends buying fall,4
+2026-08-31,trending,18
+2026-08-31,trends,70
+2026-08-31,trends buying,2
+2026-08-31,trends buying fall,2
 2026-08-31,trends coming,4
-2026-08-31,trends cool,8
+2026-08-31,trends cool,6
 2026-08-31,trends elle,2
 2026-08-31,trends fall,8
 2026-08-31,trends fall period,4
 2026-08-31,trends fashion,6
-2026-08-31,trends price,6
-2026-08-31,trends price reveal,6
-2026-08-31,trends vogue,2
-2026-08-31,trends wear,2
-2026-08-31,trendy,10
-2026-08-31,trendy women,4
-2026-08-31,trendy women fashion,3
+2026-08-31,trendy,7
 2026-08-31,turn,4
-2026-08-31,upgrade,5
-2026-08-31,usa,4
+2026-08-31,ultimate,2
+2026-08-31,upgrade,4
+2026-08-31,upgrade style,1
+2026-08-31,upgrade style click,1
+2026-08-31,usa,3
 2026-08-31,venice,8
 2026-08-31,venice film,6
 2026-08-31,venice film festival,6
+2026-08-31,vibes,2
 2026-08-31,video,4
 2026-08-31,video break,1
-2026-08-31,viral,10
-2026-08-31,vogue,16
-2026-08-31,vogue fall,2
-2026-08-31,want,4
+2026-08-31,vintage,5
+2026-08-31,viral,7
+2026-08-31,vogue,10
+2026-08-31,vogue fall,1
 2026-08-31,wardrobe,9
 2026-08-31,watch,2
 2026-08-31,way,6
-2026-08-31,wear,56
+2026-08-31,wear,42
 2026-08-31,wear biggest,4
 2026-08-31,wear biggest denim,4
-2026-08-31,wearing,14
+2026-08-31,wearing,10
 2026-08-31,wedding,4
 2026-08-31,week,8
-2026-08-31,welcome,7
-2026-08-31,welcome fashion,3
-2026-08-31,welcome outfit,3
+2026-08-31,welcome,4
+2026-08-31,welcome outfit,2
+2026-08-31,welcome outfit daily,1
 2026-08-31,white,1
-2026-08-31,winter,5
+2026-08-31,winter,2
 2026-08-31,winter fashion,1
-2026-08-31,wish,1
 2026-08-31,woman,1
-2026-08-31,women,21
-2026-08-31,women fashion,13
+2026-08-31,women,14
+2026-08-31,women fashion,7
 2026-08-31,world,5
-2026-08-31,yamal,9
-2026-08-31,yamal stunning,3
-2026-08-31,yamal stunning fashion,3
-2026-08-31,yamal stylish,5
-2026-08-31,yamal stylish outfit,5
+2026-08-31,yamal,6
 2026-08-31,years,4
-2026-08-31,youtubeshorts,4
+2026-08-31,youtubeshorts,2
 2026-08-31,zoe,4
 2026-08-31,zoe report,4
 2026-09-07,aesthetic,1
+2026-09-07,autumn,1
+2026-09-07,autumn winter,1
+2026-09-07,beautiful,3
+2026-09-07,best,1
+2026-09-07,black,2
+2026-09-07,boys,1
 2026-09-07,casual,1
-2026-09-07,chinese,2
+2026-09-07,check,2
+2026-09-07,chinese,3
 2026-09-07,chinese tourists,2
 2026-09-07,chinese tourists sparks,2
+2026-09-07,click,2
+2026-09-07,click link,2
+2026-09-07,click link outfit,2
 2026-09-07,clothes,2
+2026-09-07,clothing,4
+2026-09-07,color,1
+2026-09-07,combination,2
+2026-09-07,daily,2
+2026-09-07,daily dose,2
+2026-09-07,designed,2
+2026-09-07,destination,3
+2026-09-07,discover,4
+2026-09-07,discover outfit,2
+2026-09-07,discover outfit upgrade,2
 2026-09-07,disposable,2
 2026-09-07,disposable fashion,2
 2026-09-07,disposable fashion trend,2
-2026-09-07,fashion,3
+2026-09-07,dose,2
+2026-09-07,elegance,2
+2026-09-07,elegant,2
+2026-09-07,fall,2
+2026-09-07,fall winter,2
+2026-09-07,fashion,21
+2026-09-07,fashion fashiontrends,1
+2026-09-07,fashion style,1
 2026-09-07,fashion trend,2
 2026-09-07,fashion trend chinese,2
-2026-09-07,fashion trends,1
-2026-09-07,jacket,1
-2026-09-07,men,1
-2026-09-07,premium,1
-2026-09-07,shirt,1
-2026-09-07,shorts,1
+2026-09-07,fashion trends,2
+2026-09-07,fashiontrends,4
+2026-09-07,forget,1
+2026-09-07,fyp,1
+2026-09-07,gen,1
+2026-09-07,girl,2
+2026-09-07,ideas,2
+2026-09-07,including,1
+2026-09-07,inspiration,1
+2026-09-07,knitted,6
+2026-09-07,knitted sweater,3
+2026-09-07,latest,1
+2026-09-07,like,1
+2026-09-07,link,2
+2026-09-07,link outfit,2
+2026-09-07,link outfit welcome,2
+2026-09-07,long,1
+2026-09-07,looking,2
+2026-09-07,looks,2
+2026-09-07,love,1
+2026-09-07,make,1
+2026-09-07,meets,2
+2026-09-07,men,4
+2026-09-07,men fashion,1
+2026-09-07,modern,2
+2026-09-07,need,2
+2026-09-07,new,3
+2026-09-07,outfit,10
+2026-09-07,outfit daily,2
+2026-09-07,outfit daily dose,2
+2026-09-07,outfit ideas,2
+2026-09-07,outfit upgrade,2
+2026-09-07,outfit upgrade style,2
+2026-09-07,outfit welcome,2
+2026-09-07,outfit welcome outfit,2
+2026-09-07,perfect,4
+2026-09-07,premium,3
+2026-09-07,season,2
+2026-09-07,share,1
+2026-09-07,shirt,3
+2026-09-07,short,2
+2026-09-07,shorts,5
+2026-09-07,shorts fashion,2
+2026-09-07,shortvideo,2
+2026-09-07,sleeve,1
 2026-09-07,sparks,2
 2026-09-07,streetwear,2
+2026-09-07,style,9
+2026-09-07,style click,2
+2026-09-07,style click link,2
+2026-09-07,stylish,2
+2026-09-07,stylish outfit,1
+2026-09-07,subscribe,1
+2026-09-07,sweater,5
+2026-09-07,tips,2
 2026-09-07,tourists,2
 2026-09-07,tourists sparks,2
 2026-09-07,trend,2
 2026-09-07,trend chinese,2
 2026-09-07,trend chinese tourists,2
-2026-09-07,trends,1
+2026-09-07,trending,5
+2026-09-07,trends,3
+2026-09-07,trendy,2
+2026-09-07,ultimate,2
+2026-09-07,upgrade,2
+2026-09-07,upgrade style,2
+2026-09-07,upgrade style click,2
+2026-09-07,usa,1
+2026-09-07,vibes,2
+2026-09-07,viral,3
+2026-09-07,wardrobe,2
+2026-09-07,wear,1
+2026-09-07,welcome,7
+2026-09-07,welcome outfit,2
+2026-09-07,welcome outfit daily,2
+2026-09-07,winter,5
+2026-09-07,woman,2
+2026-09-07,women,11
+2026-09-07,women fashion,3
+2026-09-07,women knitted,5
+2026-09-07,women knitted sweater,3
+2026-09-07,youtubeshorts,1
