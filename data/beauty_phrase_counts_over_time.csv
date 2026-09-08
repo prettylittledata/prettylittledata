@@ -36,7 +36,6 @@ period,Term,Count
 2026-07-27,routine,2
 2026-07-27,skin,2
 2026-07-27,skincare,8
-2026-07-27,smith,4
 2026-07-27,spicule,2
 2026-07-27,spicule skincare,2
 2026-07-27,teens,4
@@ -51,11 +50,11 @@ period,Term,Count
 2026-07-27,watching,4
 2026-07-27,work,2
 2026-08-03,agree,4
-2026-08-03,artistic,2
-2026-08-03,beauty,16
-2026-08-03,beauty trend,4
+2026-08-03,beauty,18
+2026-08-03,beauty trend,6
 2026-08-03,beauty trends,4
 2026-08-03,bieber,4
+2026-08-03,blush,2
 2026-08-03,business,8
 2026-08-03,care,4
 2026-08-03,case,4
@@ -65,6 +64,9 @@ period,Term,Count
 2026-08-03,elle,4
 2026-08-03,experts,2
 2026-08-03,fall,2
+2026-08-03,flattering,2
+2026-08-03,flattering beauty,2
+2026-08-03,flattering beauty trend,2
 2026-08-03,getting,2
 2026-08-03,good,2
 2026-08-03,good housekeeping,2
@@ -86,6 +88,7 @@ period,Term,Count
 2026-08-03,personal,2
 2026-08-03,products,2
 2026-08-03,real,2
+2026-08-03,red,2
 2026-08-03,report,4
 2026-08-03,reveals,4
 2026-08-03,right,2
@@ -97,11 +100,13 @@ period,Term,Count
 2026-08-03,skin care,4
 2026-08-03,southern,8
 2026-08-03,southern living,4
+2026-08-03,summer,2
 2026-08-03,teens,2
 2026-08-03,tiktok,2
-2026-08-03,trend,12
+2026-08-03,trend,14
 2026-08-03,trends,6
 2026-08-03,unexpected,4
+2026-08-03,vogue,2
 2026-08-10,beauty,4
 2026-08-10,beauty trends,2
 2026-08-10,biggest,2
@@ -128,6 +133,7 @@ period,Term,Count
 2026-08-17,care,2
 2026-08-17,cloud,2
 2026-08-17,dermatologists,4
+2026-08-17,didn,2
 2026-08-17,experts,6
 2026-08-17,eyes,4
 2026-08-17,fall,10
@@ -140,8 +146,7 @@ period,Term,Count
 2026-08-17,good,6
 2026-08-17,good housekeeping,4
 2026-08-17,graziamagazine,4
-2026-08-17,hello,2
-2026-08-17,hello magazine,2
+2026-08-17,hellomagazine,2
 2026-08-17,hottest,8
 2026-08-17,hottest beauty,8
 2026-08-17,housekeeping,4
@@ -152,12 +157,11 @@ period,Term,Count
 2026-08-17,look,2
 2026-08-17,look like,2
 2026-08-17,luxury,4
-2026-08-17,magazine,4
 2026-08-17,makeup,6
 2026-08-17,makeup trends,6
 2026-08-17,perfect,2
 2026-08-17,perfect women,2
-2026-08-17,perfect women hello,2
+2026-08-17,perfect women hellomagazine,2
 2026-08-17,pull,4
 2026-08-17,right,4
 2026-08-17,say,4
@@ -180,8 +184,7 @@ period,Term,Count
 2026-08-17,viral beauty trend,2
 2026-08-17,want,2
 2026-08-17,women,2
-2026-08-17,women hello,2
-2026-08-17,women hello magazine,2
+2026-08-17,women hellomagazine,2
 2026-08-24,actually,4
 2026-08-24,autumn,6
 2026-08-24,bag,2
@@ -208,33 +211,26 @@ period,Term,Count
 2026-08-24,flattering beauty,4
 2026-08-24,flattering beauty trend,4
 2026-08-24,focus,4
-2026-08-24,glamour,2
+2026-08-24,glamour,4
 2026-08-24,graziamagazine,4
-2026-08-24,hello,4
-2026-08-24,hello magazine,4
-2026-08-24,idea,2
+2026-08-24,hellomagazine,4
 2026-08-24,like,4
 2026-08-24,living,4
-2026-08-24,look,5
-2026-08-24,look makeup,1
+2026-08-24,look,4
 2026-08-24,looking,4
-2026-08-24,magazine,4
-2026-08-24,makeup,21
-2026-08-24,makeup look,1
-2026-08-24,makeup look makeup,1
+2026-08-24,makeup,12
 2026-08-24,makeup trend,4
 2026-08-24,makeup trend try,2
 2026-08-24,nail,4
 2026-08-24,need,4
 2026-08-24,new,6
-2026-08-24,new season,4
 2026-08-24,perfect,4
 2026-08-24,perfect women,4
-2026-08-24,perfect women hello,4
+2026-08-24,perfect women hellomagazine,4
+2026-08-24,product,2
 2026-08-24,products,4
 2026-08-24,season,6
 2026-08-24,shadow,2
-2026-08-24,short,2
 2026-08-24,skin,4
 2026-08-24,skin care,2
 2026-08-24,soft,4
@@ -245,7 +241,6 @@ period,Term,Count
 2026-08-24,suede,4
 2026-08-24,summer,4
 2026-08-24,times,2
-2026-08-24,tips,2
 2026-08-24,trend,20
 2026-08-24,trend try,2
 2026-08-24,trending,2
@@ -255,52 +250,41 @@ period,Term,Count
 2026-08-24,try,2
 2026-08-24,vintage,4
 2026-08-24,wear,4
-2026-08-24,winter,4
 2026-08-24,women,4
-2026-08-24,women hello,4
-2026-08-24,women hello magazine,4
+2026-08-24,women hellomagazine,4
 2026-08-24,works,2
-2026-08-31,according,8
-2026-08-31,achieve,3
-2026-08-31,actually,22
-2026-08-31,add,4
+2026-08-31,actually,21
+2026-08-31,add,3
 2026-08-31,aesthetic,1
-2026-08-31,ahead,7
-2026-08-31,air,1
-2026-08-31,align,34
-2026-08-31,allowing,2
-2026-08-31,answer,2
-2026-08-31,anti,5
+2026-08-31,allowing,1
+2026-08-31,american,5
 2026-08-31,aquarius,3
 2026-08-31,aries,3
 2026-08-31,art,2
-2026-08-31,artist,7
-2026-08-31,artistic,1
-2026-08-31,artists,4
-2026-08-31,asking,5
 2026-08-31,august,17
 2026-08-31,away,2
 2026-08-31,baby,5
-2026-08-31,background,173
+2026-08-31,background,3
 2026-08-31,bag,16
 2026-08-31,bags,8
-2026-08-31,beautiful,6
-2026-08-31,beauty,60
+2026-08-31,bazaar,8
+2026-08-31,beautiful,4
+2026-08-31,beauty,57
 2026-08-31,beauty fashion,2
 2026-08-31,beauty trend,15
 2026-08-31,beauty trend thinks,6
 2026-08-31,beauty trend tracker,6
-2026-08-31,best,29
-2026-08-31,better,4
+2026-08-31,beloved,1
+2026-08-31,best,28
+2026-08-31,better,3
 2026-08-31,bieber,4
 2026-08-31,bigger,3
 2026-08-31,biggest,1
-2026-08-31,black,6
 2026-08-31,blending,2
 2026-08-31,blue,4
 2026-08-31,blurred,2
 2026-08-31,blush,5
-2026-08-31,body,8
+2026-08-31,body,7
 2026-08-31,bold,5
 2026-08-31,book,4
 2026-08-31,bperfect,3
@@ -309,11 +293,10 @@ period,Term,Count
 2026-08-31,brand,35
 2026-08-31,break,1
 2026-08-31,bright,2
-2026-08-31,bring,5
+2026-08-31,bring,4
 2026-08-31,brings,3
-2026-08-31,brown,4
 2026-08-31,brush,3
-2026-08-31,build,5
+2026-08-31,build,4
 2026-08-31,business,6
 2026-08-31,business beauty,6
 2026-08-31,business beauty trend,6
@@ -321,8 +304,7 @@ period,Term,Count
 2026-08-31,care,4
 2026-08-31,carnival,3
 2026-08-31,case,12
-2026-08-31,celebrity,6
-2026-08-31,center,40
+2026-08-31,center,5
 2026-08-31,certain,3
 2026-08-31,chance,4
 2026-08-31,change,4
@@ -330,74 +312,68 @@ period,Term,Count
 2026-08-31,changing,1
 2026-08-31,charm,8
 2026-08-31,choose,4
-2026-08-31,clean,10
-2026-08-31,clooney,5
-2026-08-31,close,3
+2026-08-31,clean,5
+2026-08-31,close,1
 2026-08-31,cloud,3
 2026-08-31,collaboration,47
 2026-08-31,collection,69
-2026-08-31,color,226
+2026-08-31,color,5
 2026-08-31,come,7
-2026-08-31,comes,4
+2026-08-31,comes,3
 2026-08-31,comfortable,2
 2026-08-31,coming,4
-2026-08-31,committing,2
 2026-08-31,common,6
 2026-08-31,common beauty,6
 2026-08-31,common beauty trend,6
-2026-08-31,complicated,2
+2026-08-31,community,3
 2026-08-31,connection,6
-2026-08-31,content,2
 2026-08-31,control,2
-2026-08-31,cool,5
+2026-08-31,conversation,5
+2026-08-31,cool,2
 2026-08-31,cosmetics,7
 2026-08-31,cosmetics carnival,3
 2026-08-31,cosmic,2
 2026-08-31,cosmos,1
 2026-08-31,course,3
-2026-08-31,cream,4
-2026-08-31,create,9
-2026-08-31,created,6
-2026-08-31,creates,3
-2026-08-31,creating,4
-2026-08-31,creative,5
+2026-08-31,cream,2
+2026-08-31,create,7
+2026-08-31,creative,4
 2026-08-31,daily,5
-2026-08-31,day,17
+2026-08-31,day,16
 2026-08-31,days,7
-2026-08-31,define,2
 2026-08-31,dermatologists,1
 2026-08-31,deserves,1
 2026-08-31,design,4
 2026-08-31,details,4
 2026-08-31,did,4
+2026-08-31,didn,1
 2026-08-31,different,6
-2026-08-31,div,958
-2026-08-31,div div,481
-2026-08-31,div div div,137
-2026-08-31,div div figure,13
-2026-08-31,div figure,16
-2026-08-31,div figure img,16
+2026-08-31,div,69
+2026-08-31,div div,20
+2026-08-31,div figure,15
+2026-08-31,div figure img,15
 2026-08-31,does,3
 2026-08-31,doesn,2
-2026-08-31,don,11
-2026-08-31,drama,2
+2026-08-31,don,10
 2026-08-31,dramatic,3
+2026-08-31,dream,2
 2026-08-31,dreams,1
 2026-08-31,early,2
-2026-08-31,easy,6
+2026-08-31,easy,4
 2026-08-31,edit,3
-2026-08-31,effortless,4
+2026-08-31,effortless,3
 2026-08-31,elle,12
 2026-08-31,emotional,7
 2026-08-31,end,3
-2026-08-31,energy,15
+2026-08-31,energy,14
 2026-08-31,enters,14
 2026-08-31,enters scorpio,12
-2026-08-31,especially,10
+2026-08-31,entire,3
+2026-08-31,especially,7
 2026-08-31,essentials,4
-2026-08-31,everyday,1
-2026-08-31,exactly,7
-2026-08-31,explains,4
+2026-08-31,exactly,4
+2026-08-31,experience,2
+2026-08-31,explains,2
 2026-08-31,explore,1
 2026-08-31,eye,10
 2026-08-31,eye makeup,6
@@ -405,67 +381,64 @@ period,Term,Count
 2026-08-31,eyes,1
 2026-08-31,eyeshadow,3
 2026-08-31,eyeshadow palette,3
-2026-08-31,face,12
-2026-08-31,fall,29
+2026-08-31,face,7
+2026-08-31,fall,18
 2026-08-31,fall makeup,4
 2026-08-31,fall makeup trends,4
-2026-08-31,family,59
-2026-08-31,far,4
-2026-08-31,fashion,18
+2026-08-31,family,8
+2026-08-31,fashion,17
 2026-08-31,fashion beauty,3
 2026-08-31,fashionista,6
 2026-08-31,fashionista sofie,3
 2026-08-31,fashionista sofie pavitt,3
 2026-08-31,favorite,16
 2026-08-31,features,20
-2026-08-31,feel,50
+2026-08-31,feel,47
 2026-08-31,feel like,4
-2026-08-31,feeling,4
+2026-08-31,feeling,3
 2026-08-31,feelings,1
-2026-08-31,feels,10
+2026-08-31,feels,8
 2026-08-31,feels like,1
 2026-08-31,figcaption,89
 2026-08-31,figcaption figure,20
-2026-08-31,figure,79
-2026-08-31,figure div,16
-2026-08-31,figure img,40
-2026-08-31,figure img src,19
+2026-08-31,figure,77
+2026-08-31,figure div,15
+2026-08-31,figure img,39
+2026-08-31,figure img src,18
 2026-08-31,final,3
 2026-08-31,finding,1
 2026-08-31,finds,3
-2026-08-31,fine,5
+2026-08-31,fine,2
 2026-08-31,fit,2
 2026-08-31,focus,2
 2026-08-31,follow,2
 2026-08-31,following,1
-2026-08-31,forever,2
-2026-08-31,forward,6
+2026-08-31,forward,5
 2026-08-31,foryou,2
 2026-08-31,foundation,19
-2026-08-31,founder,4
 2026-08-31,free,20
-2026-08-31,fresh,7
+2026-08-31,friends,1
 2026-08-31,friendships,1
 2026-08-31,future,3
 2026-08-31,fyp,1
 2026-08-31,game,1
 2026-08-31,gemini,4
 2026-08-31,getting,4
-2026-08-31,girl,5
-2026-08-31,gives,6
+2026-08-31,girl,3
+2026-08-31,gives,2
 2026-08-31,glam,3
 2026-08-31,glam makeup,1
 2026-08-31,glamour,2
-2026-08-31,glossy,2
+2026-08-31,glossy,1
 2026-08-31,glow,2
 2026-08-31,glowing,1
 2026-08-31,glowup,1
 2026-08-31,going,2
-2026-08-31,good,10
-2026-08-31,goodness,5
-2026-08-31,goodness right,5
-2026-08-31,goodness right strong,5
-2026-08-31,great,5
+2026-08-31,good,9
+2026-08-31,goodness,4
+2026-08-31,goodness right,4
+2026-08-31,goodness right strong,4
+2026-08-31,great,1
 2026-08-31,green,5
 2026-08-31,grift,6
 2026-08-31,grift fashionista,6
@@ -474,132 +447,120 @@ period,Term,Count
 2026-08-31,habits,3
 2026-08-31,hailey,4
 2026-08-31,hailey bieber,3
-2026-08-31,hair,21
+2026-08-31,hair,2
 2026-08-31,half,2
 2026-08-31,hand,7
 2026-08-31,hard,1
-2026-08-31,having,2
+2026-08-31,harper,8
+2026-08-31,harper bazaar,8
+2026-08-31,having,1
 2026-08-31,health,4
-2026-08-31,height,358
-2026-08-31,hello,1
 2026-08-31,help,3
-2026-08-31,helps,6
+2026-08-31,helps,5
 2026-08-31,high,8
-2026-08-31,highlights,4
 2026-08-31,history,1
 2026-08-31,hold,2
 2026-08-31,home,18
+2026-08-31,honest,1
 2026-08-31,horoscope,4
 2026-08-31,horoscope week,2
 2026-08-31,idea,4
-2026-08-31,img,40
-2026-08-31,img src,19
-2026-08-31,img src figure,19
+2026-08-31,img,39
+2026-08-31,img src,18
+2026-08-31,img src figure,18
 2026-08-31,important,4
 2026-08-31,include,2
 2026-08-31,including,13
 2026-08-31,influence,1
-2026-08-31,inspiration,2
 2026-08-31,inspired,19
-2026-08-31,instagram,35
 2026-08-31,instead,3
-2026-08-31,intentional,7
+2026-08-31,intentional,5
 2026-08-31,interstellar,2
 2026-08-31,intimate,2
 2026-08-31,intuition,1
-2026-08-31,iron,3
-2026-08-31,isn,2
-2026-08-31,just,27
-2026-08-31,kind,5
+2026-08-31,isn,1
+2026-08-31,just,24
+2026-08-31,kate,6
 2026-08-31,know,3
 2026-08-31,korean,3
 2026-08-31,late,2
 2026-08-31,latest,2
-2026-08-31,layers,13
+2026-08-31,layers,3
 2026-08-31,lead,1
 2026-08-31,leo,4
-2026-08-31,let,7
+2026-08-31,let,6
 2026-08-31,libra,4
 2026-08-31,life,10
-2026-08-31,lifestyle,4
-2026-08-31,like,47
-2026-08-31,like goodness,4
-2026-08-31,like goodness right,4
+2026-08-31,lifestyle,2
+2026-08-31,like,37
+2026-08-31,like goodness,3
+2026-08-31,like goodness right,3
 2026-08-31,limited,52
-2026-08-31,line,73
 2026-08-31,lines,1
+2026-08-31,lipstick,1
 2026-08-31,list,2
 2026-08-31,little,9
 2026-08-31,lives,1
 2026-08-31,living,1
-2026-08-31,long,12
-2026-08-31,longer,2
-2026-08-31,look,47
-2026-08-31,look like,2
+2026-08-31,long,9
+2026-08-31,look,30
+2026-08-31,look like,1
 2026-08-31,look makeup,3
-2026-08-31,looking,7
-2026-08-31,looks,12
+2026-08-31,looking,5
+2026-08-31,looks,10
 2026-08-31,lot,4
-2026-08-31,love,8
-2026-08-31,low,5
+2026-08-31,love,5
 2026-08-31,lululemon,5
 2026-08-31,luxury,6
-2026-08-31,magic,3
+2026-08-31,magic,2
 2026-08-31,make,19
-2026-08-31,makes,8
-2026-08-31,makeup,89
+2026-08-31,makes,7
+2026-08-31,makeup,84
 2026-08-31,makeup bold,1
-2026-08-31,makeup look,14
-2026-08-31,makeup look makeup,2
+2026-08-31,makeup look,12
 2026-08-31,makeup looks,3
-2026-08-31,makeup makeup,9
+2026-08-31,makeup makeup,7
 2026-08-31,makeup routines,1
 2026-08-31,makeup soft,1
-2026-08-31,makeup trend,6
+2026-08-31,makeup trend,7
 2026-08-31,makeup trend try,4
 2026-08-31,makeup trends,5
 2026-08-31,makeuptutorial,2
-2026-08-31,making,20
+2026-08-31,making,16
 2026-08-31,manicure,7
 2026-08-31,manicure trend,6
 2026-08-31,mask,3
-2026-08-31,media,17
-2026-08-31,medium,6
-2026-08-31,meets,2
 2026-08-31,mercury,1
 2026-08-31,miss,1
 2026-08-31,mixed,3
-2026-08-31,modern,9
-2026-08-31,moment,4
+2026-08-31,modern,4
+2026-08-31,moment,2
 2026-08-31,month,2
-2026-08-31,months,9
+2026-08-31,months,7
 2026-08-31,moody,4
 2026-08-31,moon,24
-2026-08-31,movement,18
+2026-08-31,movement,12
 2026-08-31,moves,11
 2026-08-31,nail,8
-2026-08-31,nails,14
+2026-08-31,nails,12
 2026-08-31,nails fall,6
-2026-08-31,natural,7
+2026-08-31,natural,3
 2026-08-31,need,13
-2026-08-31,new,61
+2026-08-31,new,59
 2026-08-31,new moon,23
-2026-08-31,new season,1
 2026-08-31,news,1
-2026-08-31,night,4
-2026-08-31,noopener,321
-2026-08-31,noopener target,287
-2026-08-31,noreferrer,321
-2026-08-31,noreferrer noopener,287
-2026-08-31,noreferrer noopener target,287
-2026-08-31,offers,3
+2026-08-31,night,3
+2026-08-31,noopener,286
+2026-08-31,noopener target,286
+2026-08-31,noreferrer,286
+2026-08-31,noreferrer noopener,286
+2026-08-31,noreferrer noopener target,286
+2026-08-31,offers,2
 2026-08-31,officially,5
 2026-08-31,old,2
 2026-08-31,online,4
 2026-08-31,pair,7
 2026-08-31,palette,5
-2026-08-31,paris,10
-2026-08-31,particularly,2
 2026-08-31,partnerships,2
 2026-08-31,past,2
 2026-08-31,path,2
@@ -608,21 +569,18 @@ period,Term,Count
 2026-08-31,pavitt common beauty,6
 2026-08-31,pdrn,1
 2026-08-31,people,23
-2026-08-31,perfect,11
-2026-08-31,perfectly,4
+2026-08-31,perfect,8
 2026-08-31,personal,5
 2026-08-31,photos,5
 2026-08-31,piece,12
-2026-08-31,pieces,9
 2026-08-31,pink,16
 2026-08-31,plan,4
-2026-08-31,plans,2
-2026-08-31,plus,31
+2026-08-31,plans,1
 2026-08-31,popular,7
-2026-08-31,post,39
-2026-08-31,power,3
-2026-08-31,practical,7
+2026-08-31,post,5
+2026-08-31,power,1
 2026-08-31,pretty,1
+2026-08-31,product,6
 2026-08-31,products,16
 2026-08-31,project,2
 2026-08-31,pull,2
@@ -630,54 +588,46 @@ period,Term,Count
 2026-08-31,ranking,6
 2026-08-31,ranking best,5
 2026-08-31,read,5
-2026-08-31,ready,15
+2026-08-31,ready,14
 2026-08-31,real,7
 2026-08-31,really,6
-2026-08-31,reason,2
 2026-08-31,red,6
-2026-08-31,rel,321
-2026-08-31,rel noreferrer,287
-2026-08-31,rel noreferrer noopener,287
-2026-08-31,rest,3
-2026-08-31,result,3
+2026-08-31,rel,286
+2026-08-31,rel noreferrer,286
+2026-08-31,rel noreferrer noopener,286
 2026-08-31,retrograde,1
 2026-08-31,retrograde gemini,1
-2026-08-31,right,63
-2026-08-31,right strong,5
+2026-08-31,right,10
+2026-08-31,right strong,4
 2026-08-31,road,2
 2026-08-31,routine,5
 2026-08-31,routines,4
 2026-08-31,say,3
-2026-08-31,says,32
 2026-08-31,school,7
 2026-08-31,scorpio,21
-2026-08-31,season,23
+2026-08-31,season,21
 2026-08-31,season horoscope,1
 2026-08-31,second,8
-2026-08-31,secret,7
 2026-08-31,select,42
 2026-08-31,self,3
+2026-08-31,sells,2
 2026-08-31,sense,3
 2026-08-31,september,75
-2026-08-31,set,15
+2026-08-31,set,12
 2026-08-31,sets,7
 2026-08-31,shadow,1
-2026-08-31,shape,5
-2026-08-31,shared,20
-2026-08-31,shift,6
+2026-08-31,shared,3
+2026-08-31,sharing,1
 2026-08-31,shoe,9
 2026-08-31,shop,56
 2026-08-31,shop limited,7
 2026-08-31,shopping,9
-2026-08-31,short,7
 2026-08-31,shorts,10
 2026-08-31,sign,5
 2026-08-31,signature,12
-2026-08-31,silhouette,4
 2026-08-31,silk,8
-2026-08-31,simple,5
+2026-08-31,simple,4
 2026-08-31,simply,4
-2026-08-31,size,52
 2026-08-31,skin,28
 2026-08-31,skin care,1
 2026-08-31,skincare,18
@@ -686,57 +636,46 @@ period,Term,Count
 2026-08-31,skincare trends,4
 2026-08-31,skincareroutine,2
 2026-08-31,sky,5
-2026-08-31,sleek,4
-2026-08-31,smith,7
 2026-08-31,smooth,4
 2026-08-31,social,2
 2026-08-31,sofie,6
 2026-08-31,sofie pavitt,6
 2026-08-31,sofie pavitt common,6
-2026-08-31,soft,10
+2026-08-31,soft,4
 2026-08-31,space,6
-2026-08-31,spot,5
-2026-08-31,src,88
-2026-08-31,src figure,19
-2026-08-31,src figure div,16
+2026-08-31,src,87
+2026-08-31,src figure,18
+2026-08-31,src figure div,15
 2026-08-31,start,10
-2026-08-31,statement,4
 2026-08-31,stay,3
 2026-08-31,step,3
 2026-08-31,stop,3
-2026-08-31,strategic,3
-2026-08-31,strong,285
-2026-08-31,strong like,4
-2026-08-31,strong like goodness,4
+2026-08-31,strong,281
+2026-08-31,strong like,3
+2026-08-31,strong like goodness,3
 2026-08-31,strong strong,16
 2026-08-31,stunning,2
-2026-08-31,style,508
-2026-08-31,styles,51
-2026-08-31,subtle,3
+2026-08-31,style,8
+2026-08-31,styles,50
 2026-08-31,success,1
 2026-08-31,suddenly,5
 2026-08-31,suede,1
-2026-08-31,summer,17
-2026-08-31,sun,15
-2026-08-31,super,1
+2026-08-31,summer,16
+2026-08-31,sun,14
 2026-08-31,support,4
-2026-08-31,taken,2
 2026-08-31,takes,1
 2026-08-31,taking,2
-2026-08-31,target,338
-2026-08-31,techniques,4
+2026-08-31,target,303
 2026-08-31,technology,1
-2026-08-31,text,69
-2026-08-31,thanks,3
-2026-08-31,thing,3
 2026-08-31,things,2
-2026-08-31,think,11
+2026-08-31,think,8
 2026-08-31,thinks,6
 2026-08-31,thinks grift,6
 2026-08-31,thinks grift fashionista,6
 2026-08-31,thought,2
-2026-08-31,tiktok,10
-2026-08-31,time,57
+2026-08-31,thoughts,2
+2026-08-31,tiktok,11
+2026-08-31,time,55
 2026-08-31,tired,2
 2026-08-31,today,2
 2026-08-31,tone,2
@@ -749,32 +688,29 @@ period,Term,Count
 2026-08-31,transforming,1
 2026-08-31,transition,6
 2026-08-31,travel,6
-2026-08-31,trend,43
+2026-08-31,trend,44
 2026-08-31,trend makeup,2
 2026-08-31,trend thinks,6
 2026-08-31,trend thinks grift,6
 2026-08-31,trend tracker,6
 2026-08-31,trend tracker vogue,6
 2026-08-31,trend try,8
-2026-08-31,trending,8
-2026-08-31,trends,19
+2026-08-31,trending,7
+2026-08-31,trends,16
 2026-08-31,tried,2
-2026-08-31,truly,3
 2026-08-31,try,11
 2026-08-31,trying,9
 2026-08-31,turn,2
-2026-08-31,turns,3
+2026-08-31,turning,4
 2026-08-31,tutorial,2
-2026-08-31,ultimate,2
 2026-08-31,unexpected,1
 2026-08-31,uranus,1
 2026-08-31,usa,8
-2026-08-31,use,2
+2026-08-31,use,1
 2026-08-31,used,5
 2026-08-31,used bperfect,3
 2026-08-31,used bperfect cosmetics,3
 2026-08-31,venus,14
-2026-08-31,vibrant,2
 2026-08-31,video,2
 2026-08-31,vintage,7
 2026-08-31,viral,20
@@ -789,44 +725,34 @@ period,Term,Count
 2026-08-31,vogue business beauty,6
 2026-08-31,vogue vogue,3
 2026-08-31,vogue vogue business,3
-2026-08-31,want,17
+2026-08-31,waiting,1
+2026-08-31,want,15
 2026-08-31,wanted,2
 2026-08-31,wanting,3
 2026-08-31,watch,3
 2026-08-31,way,9
-2026-08-31,ways,1
 2026-08-31,wear,4
-2026-08-31,wearable,5
-2026-08-31,weather,4
 2026-08-31,week,32
-2026-08-31,width,341
-2026-08-31,winter,3
+2026-08-31,white,3
 2026-08-31,women,6
 2026-08-31,words,4
-2026-08-31,work,9
-2026-08-31,works,6
+2026-08-31,work,8
+2026-08-31,works,4
 2026-08-31,world,10
 2026-08-31,worth,10
 2026-08-31,year,6
 2026-08-31,youtube,1
 2026-08-31,youtubeshorts,3
 2026-08-31,ytshorts,2
-2026-08-31,zone,10
-2026-09-07,achieve,2
 2026-09-07,actually,3
 2026-09-07,add,3
 2026-09-07,aesthetic,4
-2026-09-07,ahead,2
-2026-09-07,air,2
-2026-09-07,align,7
 2026-09-07,allowing,2
-2026-09-07,answer,1
+2026-09-07,american,1
 2026-09-07,aquarius,2
 2026-09-07,aries,2
 2026-09-07,art,3
-2026-09-07,artistic,1
 2026-09-07,asia,5
-2026-09-07,asking,1
 2026-09-07,august,6
 2026-09-07,august september,3
 2026-09-07,autumn,4
@@ -835,44 +761,45 @@ period,Term,Count
 2026-09-07,bag,2
 2026-09-07,bags,1
 2026-09-07,beautiful,3
-2026-09-07,beauty,47
+2026-09-07,beauty,52
 2026-09-07,beauty fashion,1
 2026-09-07,beauty standard,5
 2026-09-07,beauty style,3
 2026-09-07,beauty style makeup,3
 2026-09-07,beauty trend,5
-2026-09-07,beauty trends,12
+2026-09-07,beauty trends,11
 2026-09-07,beauty trends fashion,3
-2026-09-07,beautytrends,4
+2026-09-07,beloved,2
 2026-09-07,best,9
 2026-09-07,better,7
+2026-09-07,bieber,1
 2026-09-07,bigger,1
 2026-09-07,biggest,1
-2026-09-07,black,4
 2026-09-07,blending,2
 2026-09-07,blue,2
 2026-09-07,blush,1
 2026-09-07,bold,1
-2026-09-07,book,5
-2026-09-07,brand,5
+2026-09-07,book,3
+2026-09-07,brand,9
 2026-09-07,break,1
 2026-09-07,bright,2
 2026-09-07,bring,1
 2026-09-07,brings,2
-2026-09-07,business,2
+2026-09-07,build,1
+2026-09-07,business,4
 2026-09-07,campaign,4
 2026-09-07,care,3
 2026-09-07,case,1
-2026-09-07,celebrity,2
 2026-09-07,center,7
 2026-09-07,certain,2
 2026-09-07,chance,1
-2026-09-07,change,3
+2026-09-07,change,4
 2026-09-07,changes,3
 2026-09-07,changing,2
 2026-09-07,charm,2
-2026-09-07,clean,3
-2026-09-07,close,1
+2026-09-07,chinese,3
+2026-09-07,clean,5
+2026-09-07,close,2
 2026-09-07,cloud,1
 2026-09-07,collaboration,1
 2026-09-07,collection,2
@@ -881,11 +808,10 @@ period,Term,Count
 2026-09-07,comes,1
 2026-09-07,comfortable,1
 2026-09-07,coming,3
-2026-09-07,committing,1
-2026-09-07,complicated,1
+2026-09-07,community,2
 2026-09-07,connection,2
-2026-09-07,content,1
 2026-09-07,control,3
+2026-09-07,conversation,3
 2026-09-07,cool,2
 2026-09-07,cosmetics,4
 2026-09-07,cosmic,4
@@ -893,27 +819,25 @@ period,Term,Count
 2026-09-07,course,1
 2026-09-07,cream,2
 2026-09-07,create,3
-2026-09-07,created,2
 2026-09-07,creative,6
 2026-09-07,daily,1
 2026-09-07,day,2
 2026-09-07,days,5
-2026-09-07,define,1
 2026-09-07,design,4
-2026-09-07,details,1
+2026-09-07,details,2
+2026-09-07,didn,1
 2026-09-07,different,1
 2026-09-07,discover,4
 2026-09-07,div,167
 2026-09-07,div div,82
-2026-09-07,div div div,24
 2026-09-07,div figure,5
 2026-09-07,div figure img,5
 2026-09-07,does,3
 2026-09-07,doesn,7
 2026-09-07,dominate,4
 2026-09-07,don,5
-2026-09-07,drama,1
 2026-09-07,dramatic,1
+2026-09-07,dream,11
 2026-09-07,dreams,2
 2026-09-07,early,1
 2026-09-07,easy,1
@@ -924,22 +848,24 @@ period,Term,Count
 2026-09-07,energy,5
 2026-09-07,enters,2
 2026-09-07,enters scorpio,2
+2026-09-07,entire,1
 2026-09-07,especially,1
 2026-09-07,essentials,1
-2026-09-07,everyday,3
-2026-09-07,exactly,1
+2026-09-07,exactly,2
+2026-09-07,experience,3
+2026-09-07,expert,5
 2026-09-07,explains,4
-2026-09-07,explore,2
+2026-09-07,explore,4
 2026-09-07,eye,2
 2026-09-07,face,2
 2026-09-07,fall,4
-2026-09-07,family,9
+2026-09-07,family,10
 2026-09-07,fashion,12
 2026-09-07,fashion beauty,8
 2026-09-07,fashion beauty style,3
 2026-09-07,fashion beauty trends,3
 2026-09-07,favorite,1
-2026-09-07,feel,7
+2026-09-07,feel,8
 2026-09-07,feel like,2
 2026-09-07,feeling,3
 2026-09-07,feelings,2
@@ -958,48 +884,48 @@ period,Term,Count
 2026-09-07,focus,2
 2026-09-07,follow,1
 2026-09-07,following,3
-2026-09-07,forever,4
 2026-09-07,forward,5
 2026-09-07,foryou,1
 2026-09-07,foundation,3
 2026-09-07,free,2
+2026-09-07,friends,3
 2026-09-07,friendships,2
 2026-09-07,future,3
-2026-09-07,fyp,3
+2026-09-07,fyp,4
 2026-09-07,game,2
 2026-09-07,gemini,8
 2026-09-07,girl,7
-2026-09-07,gives,3
+2026-09-07,gives,5
 2026-09-07,glam,2
 2026-09-07,glam makeup,2
 2026-09-07,glossy,4
 2026-09-07,glow,5
 2026-09-07,glowing,2
 2026-09-07,glowup,4
-2026-09-07,going,5
+2026-09-07,going,6
 2026-09-07,good,3
 2026-09-07,goodbye,1
-2026-09-07,goodness,5
-2026-09-07,goodness right,5
-2026-09-07,goodness right strong,5
+2026-09-07,goodness,6
+2026-09-07,goodness right,6
+2026-09-07,goodness right strong,6
 2026-09-07,great,2
 2026-09-07,grow,2
 2026-09-07,habits,1
+2026-09-07,hailey,1
+2026-09-07,hailey bieber,1
 2026-09-07,hair,10
 2026-09-07,half,1
 2026-09-07,hand,1
 2026-09-07,hard,2
-2026-09-07,having,3
+2026-09-07,having,5
 2026-09-07,health,4
-2026-09-07,height,51
-2026-09-07,hello,6
-2026-09-07,hello magazine,6
+2026-09-07,hellomagazine,6
 2026-09-07,help,3
 2026-09-07,helps,1
 2026-09-07,high,6
-2026-09-07,highlights,1
 2026-09-07,history,5
 2026-09-07,hold,3
+2026-09-07,honest,2
 2026-09-07,horoscope,7
 2026-09-07,horoscope week,4
 2026-09-07,horoscope week august,4
@@ -1013,10 +939,8 @@ period,Term,Count
 2026-09-07,including,2
 2026-09-07,influence,2
 2026-09-07,inside,1
-2026-09-07,inspiration,1
 2026-09-07,inspired,2
-2026-09-07,instagram,9
-2026-09-07,instead,1
+2026-09-07,instead,2
 2026-09-07,intentional,1
 2026-09-07,interstellar,1
 2026-09-07,intimate,2
@@ -1024,55 +948,53 @@ period,Term,Count
 2026-09-07,isn,6
 2026-09-07,jued,8
 2026-09-07,just,5
-2026-09-07,kind,1
+2026-09-07,kate,1
 2026-09-07,know,3
 2026-09-07,korean,2
 2026-09-07,late,1
-2026-09-07,latest,6
-2026-09-07,latest beauty,3
+2026-09-07,latest,7
+2026-09-07,latest beauty,4
 2026-09-07,latest beauty trends,3
 2026-09-07,lead,4
 2026-09-07,leo,3
 2026-09-07,let,7
 2026-09-07,libra,6
-2026-09-07,life,1
+2026-09-07,life,4
 2026-09-07,lifestyle,1
-2026-09-07,like,10
-2026-09-07,like goodness,5
-2026-09-07,like goodness right,5
+2026-09-07,like,14
+2026-09-07,like goodness,6
+2026-09-07,like goodness right,6
 2026-09-07,limited,2
-2026-09-07,line,13
+2026-09-07,lipstick,3
 2026-09-07,list,2
-2026-09-07,little,4
+2026-09-07,little,2
 2026-09-07,lives,6
 2026-09-07,living,1
-2026-09-07,long,5
-2026-09-07,longer,1
+2026-09-07,long,6
 2026-09-07,look,10
 2026-09-07,look like,1
 2026-09-07,looking,5
 2026-09-07,looks,6
 2026-09-07,lot,4
 2026-09-07,love,7
-2026-09-07,low,2
 2026-09-07,lululemon,1
-2026-09-07,magazine,8
 2026-09-07,magic,1
 2026-09-07,make,8
 2026-09-07,makes,4
-2026-09-07,makeup,46
+2026-09-07,makeup,48
+2026-09-07,makeup beauty,3
 2026-09-07,makeup glowup,3
 2026-09-07,makeup look,3
 2026-09-07,makeup looks,1
 2026-09-07,makeup makeup,1
 2026-09-07,makeup soft,2
-2026-09-07,makeup trend,8
+2026-09-07,makeup trend,6
 2026-09-07,makeup trends,4
 2026-09-07,makeuptutorial,1
 2026-09-07,making,6
 2026-09-07,mask,1
+2026-09-07,matters,4
 2026-09-07,media,6
-2026-09-07,meets,1
 2026-09-07,mercury,6
 2026-09-07,mirror,1
 2026-09-07,miss,2
@@ -1089,24 +1011,23 @@ period,Term,Count
 2026-09-07,nail,2
 2026-09-07,natural,1
 2026-09-07,need,5
-2026-09-07,new,21
+2026-09-07,new,22
 2026-09-07,new beauty,5
 2026-09-07,new moon,9
 2026-09-07,news,7
-2026-09-07,noopener,17
-2026-09-07,noopener target,11
-2026-09-07,noreferrer,17
-2026-09-07,noreferrer noopener,11
-2026-09-07,noreferrer noopener target,11
+2026-09-07,noopener,21
+2026-09-07,noopener target,15
+2026-09-07,noreferrer,21
+2026-09-07,noreferrer noopener,15
+2026-09-07,noreferrer noopener target,15
 2026-09-07,note,3
 2026-09-07,november,3
 2026-09-07,october,9
 2026-09-07,offer,3
-2026-09-07,offers,1
+2026-09-07,offers,2
 2026-09-07,old,2
 2026-09-07,pair,3
-2026-09-07,palette,4
-2026-09-07,particularly,1
+2026-09-07,palette,2
 2026-09-07,partnerships,2
 2026-09-07,past,2
 2026-09-07,path,2
@@ -1120,69 +1041,64 @@ period,Term,Count
 2026-09-07,popular,2
 2026-09-07,post,11
 2026-09-07,power,2
-2026-09-07,practical,1
 2026-09-07,pretty,3
-2026-09-07,products,2
+2026-09-07,product,2
+2026-09-07,products,3
 2026-09-07,project,5
 2026-09-07,prung,8
 2026-09-07,prung jued,8
 2026-09-07,ranking,3
 2026-09-07,ranking best,3
-2026-09-07,ready,4
+2026-09-07,ready,6
 2026-09-07,really,1
-2026-09-07,reason,1
 2026-09-07,red,2
 2026-09-07,reels,5
-2026-09-07,rel,17
-2026-09-07,rel noreferrer,11
-2026-09-07,rel noreferrer noopener,11
+2026-09-07,rel,21
+2026-09-07,rel noreferrer,15
+2026-09-07,rel noreferrer noopener,15
 2026-09-07,report,2
-2026-09-07,result,2
 2026-09-07,retrograde,23
 2026-09-07,retrograde gemini,4
 2026-09-07,reveals,1
-2026-09-07,right,17
-2026-09-07,right strong,5
+2026-09-07,right,18
+2026-09-07,right strong,6
 2026-09-07,right strong horoscope,3
 2026-09-07,road,1
 2026-09-07,routine,6
 2026-09-07,routines,1
 2026-09-07,say,1
-2026-09-07,says,2
-2026-09-07,school,2
+2026-09-07,school,4
 2026-09-07,scorpio,18
 2026-09-07,season,5
 2026-09-07,season horoscope,3
 2026-09-07,second,3
 2026-09-07,self,1
+2026-09-07,sells,2
 2026-09-07,sense,1
 2026-09-07,september,11
 2026-09-07,set,1
 2026-09-07,sets,1
 2026-09-07,shadow,3
 2026-09-07,shaking,1
-2026-09-07,shape,2
-2026-09-07,shared,4
+2026-09-07,shared,6
+2026-09-07,sharing,2
 2026-09-07,shoe,4
 2026-09-07,shop,10
 2026-09-07,shop limited,1
 2026-09-07,shopping,2
-2026-09-07,shorts,10
+2026-09-07,shorts,9
 2026-09-07,sign,3
 2026-09-07,signature,2
-2026-09-07,silhouette,1
 2026-09-07,simple,8
 2026-09-07,simply,1
-2026-09-07,size,9
-2026-09-07,skin,19
-2026-09-07,skincare,24
+2026-09-07,skin,24
+2026-09-07,skincare,25
 2026-09-07,skincare routine,4
 2026-09-07,skincare skincareroutine,3
 2026-09-07,skincare trend,6
 2026-09-07,skincare trends,4
 2026-09-07,skincareroutine,8
 2026-09-07,sky,2
-2026-09-07,sleek,1
 2026-09-07,smooth,2
 2026-09-07,social,3
 2026-09-07,social media,3
@@ -1195,40 +1111,33 @@ period,Term,Count
 2026-09-07,standard,5
 2026-09-07,start,4
 2026-09-07,started,3
-2026-09-07,statement,1
 2026-09-07,stay,3
 2026-09-07,step,3
 2026-09-07,stop,2
-2026-09-07,strategic,1
-2026-09-07,strong,14
+2026-09-07,strong,19
 2026-09-07,strong horoscope,3
 2026-09-07,strong horoscope week,3
-2026-09-07,strong like,5
-2026-09-07,strong like goodness,5
-2026-09-07,strong strong,1
+2026-09-07,strong like,6
+2026-09-07,strong like goodness,6
+2026-09-07,strong strong,2
 2026-09-07,stunning,2
 2026-09-07,style,92
 2026-09-07,style makeup,3
 2026-09-07,style makeup glowup,3
 2026-09-07,styles,1
-2026-09-07,subtle,1
 2026-09-07,success,4
-2026-09-07,summer,2
+2026-09-07,summer,4
 2026-09-07,sun,1
-2026-09-07,super,2
-2026-09-07,support,1
-2026-09-07,taken,1
+2026-09-07,support,2
 2026-09-07,takes,5
 2026-09-07,taking,5
-2026-09-07,target,17
+2026-09-07,target,21
 2026-09-07,technology,2
-2026-09-07,text,12
-2026-09-07,thaihealth,12
-2026-09-07,thanks,2
-2026-09-07,thing,2
+2026-09-07,thaihealth,10
 2026-09-07,things,3
 2026-09-07,think,3
 2026-09-07,thought,2
+2026-09-07,thoughts,1
 2026-09-07,time,11
 2026-09-07,times,3
 2026-09-07,tips,3
@@ -1239,25 +1148,24 @@ period,Term,Count
 2026-09-07,transformation,1
 2026-09-07,transforming,4
 2026-09-07,travel,1
-2026-09-07,trend,38
+2026-09-07,trend,36
 2026-09-07,trend makeup,1
-2026-09-07,trending,5
-2026-09-07,trends,30
+2026-09-07,trending,6
+2026-09-07,trends,29
 2026-09-07,trends dominate,4
 2026-09-07,trends fashion,5
 2026-09-07,trends fashion beauty,5
+2026-09-07,tried,1
 2026-09-07,try,2
 2026-09-07,trying,3
 2026-09-07,turn,7
-2026-09-07,turns,4
+2026-09-07,turning,2
 2026-09-07,tutorial,3
-2026-09-07,ultimate,1
 2026-09-07,uranus,12
 2026-09-07,use,3
 2026-09-07,venus,23
-2026-09-07,vibrant,2
-2026-09-07,video,1
-2026-09-07,viral,28
+2026-09-07,video,2
+2026-09-07,viral,26
 2026-09-07,viral beauty,1
 2026-09-07,viral beauty trend,1
 2026-09-07,viral trend,1
@@ -1265,27 +1173,25 @@ period,Term,Count
 2026-09-07,virgo,11
 2026-09-07,virgo season,3
 2026-09-07,virgo season horoscope,3
+2026-09-07,waiting,3
 2026-09-07,want,7
 2026-09-07,wanted,3
-2026-09-07,watch,2
+2026-09-07,watch,3
 2026-09-07,watching,2
 2026-09-07,way,10
-2026-09-07,ways,2
 2026-09-07,wear,6
-2026-09-07,weather,1
 2026-09-07,week,5
 2026-09-07,week august,4
 2026-09-07,week august september,3
-2026-09-07,width,48
+2026-09-07,white,4
 2026-09-07,women,5
 2026-09-07,women fashion,3
 2026-09-07,women fashion beauty,3
 2026-09-07,words,1
 2026-09-07,work,4
 2026-09-07,works,5
-2026-09-07,world,3
+2026-09-07,world,2
 2026-09-07,year,4
 2026-09-07,youtube,6
 2026-09-07,youtubeshorts,1
 2026-09-07,ytshorts,2
-2026-09-07,zone,1
