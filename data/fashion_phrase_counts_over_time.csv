@@ -1,6 +1,7 @@
 period,Term,Count
 2026-07-27,black,2
 2026-07-27,claire,6
+2026-07-27,collection,2
 2026-07-27,color,2
 2026-07-27,culture,2
 2026-07-27,define,2
@@ -12,15 +13,15 @@ period,Term,Count
 2026-07-27,fashion,6
 2026-07-27,fashion trends,2
 2026-07-27,india,2
+2026-07-27,looks,1
 2026-07-27,marie,6
 2026-07-27,marie claire,6
-2026-07-27,meets,2
 2026-07-27,red,2
 2026-07-27,runway,2
 2026-07-27,runway trend,2
 2026-07-27,shop,2
 2026-07-27,shopping,2
-2026-07-27,streetwear,2
+2026-07-27,streetwear,5
 2026-07-27,style,2
 2026-07-27,style wear,2
 2026-07-27,summer,2
@@ -29,7 +30,6 @@ period,Term,Count
 2026-07-27,wear,2
 2026-07-27,winter,2
 2026-08-03,big,2
-2026-08-03,casual,1
 2026-08-03,copenhagen,4
 2026-08-03,copenhagen fashion,4
 2026-08-03,copenhagen fashion week,4
@@ -43,20 +43,15 @@ period,Term,Count
 2026-08-03,king,1
 2026-08-03,latest,2
 2026-08-03,latest fashion,2
-2026-08-03,mensfashion,1
 2026-08-03,moment,2
 2026-08-03,new,3
 2026-08-03,real,1
 2026-08-03,runway,2
-2026-08-03,runway trends,2
 2026-08-03,shirt,2
 2026-08-03,shoes,2
 2026-08-03,shoes fashion,2
 2026-08-03,sleeve,2
-2026-08-03,spring,1
-2026-08-03,spring summer,1
 2026-08-03,streetwear,5
-2026-08-03,summer,1
 2026-08-03,tops,2
 2026-08-03,trend,4
 2026-08-03,trend goes,2
@@ -67,11 +62,10 @@ period,Term,Count
 2026-08-03,women,2
 2026-08-10,according,6
 2026-08-10,ahead,1
-2026-08-10,autumn,4
+2026-08-10,autumn,2
 2026-08-10,bag,2
 2026-08-10,biggest,3
 2026-08-10,black,1
-2026-08-10,cinema,1
 2026-08-10,city,3
 2026-08-10,city wear,2
 2026-08-10,claire,2
@@ -93,10 +87,11 @@ period,Term,Count
 2026-08-10,fashion trend,2
 2026-08-10,fashion trends,8
 2026-08-10,fashion week,2
-2026-08-10,fashionista,2
 2026-08-10,forget,6
 2026-08-10,fyp,1
 2026-08-10,hot,2
+2026-08-10,hunter,2
+2026-08-10,india,2
 2026-08-10,instantly,4
 2026-08-10,instead,4
 2026-08-10,instyle,6
@@ -112,16 +107,15 @@ period,Term,Count
 2026-08-10,making,2
 2026-08-10,marie,2
 2026-08-10,marie claire,2
-2026-08-10,modacenter,1
 2026-08-10,movie,1
+2026-08-10,para,1
 2026-08-10,post,1
 2026-08-10,reader,1
 2026-08-10,real,4
 2026-08-10,reason,4
 2026-08-10,report,2
 2026-08-10,rich,1
-2026-08-10,runway,4
-2026-08-10,runway trends,4
+2026-08-10,runway,2
 2026-08-10,share,1
 2026-08-10,shirt,2
 2026-08-10,shop,2
@@ -136,25 +130,23 @@ period,Term,Count
 2026-08-10,stylish,1
 2026-08-10,stylists,4
 2026-08-10,subscribe,1
-2026-08-10,summer,9
-2026-08-10,taking,2
+2026-08-10,summer,7
 2026-08-10,thoughts,1
 2026-08-10,tops,1
-2026-08-10,transition,4
-2026-08-10,travel,4
 2026-08-10,trend,13
+2026-08-10,trend hunter,2
 2026-08-10,trend report,2
-2026-08-10,trends,26
+2026-08-10,trends,24
 2026-08-10,trends coming,4
 2026-08-10,trends fall,2
 2026-08-10,trends know,2
-2026-08-10,trends wear,4
+2026-08-10,trends wear,2
 2026-08-10,turn,1
 2026-08-10,viral,1
 2026-08-10,vogue,6
 2026-08-10,vogue key,1
 2026-08-10,vogue key fall,1
-2026-08-10,wear,16
+2026-08-10,wear,14
 2026-08-10,wearing,4
 2026-08-10,week,4
 2026-08-10,white,1
@@ -176,16 +168,15 @@ period,Term,Count
 2026-08-17,copenhagen,2
 2026-08-17,copenhagen fashion,2
 2026-08-17,copenhagen fashion week,2
-2026-08-17,daily,2
+2026-08-17,costs,1
 2026-08-17,define,4
-2026-08-17,dressing,2
 2026-08-17,elegant,2
 2026-08-17,fall,11
 2026-08-17,fall fashion,8
 2026-08-17,fall fashion trends,8
 2026-08-17,fall winter,1
-2026-08-17,fashion,24
-2026-08-17,fashion trend,10
+2026-08-17,fashion,22
+2026-08-17,fashion trend,8
 2026-08-17,fashion trend makes,2
 2026-08-17,fashion trend making,4
 2026-08-17,fashion trends,10
@@ -195,6 +186,7 @@ period,Term,Count
 2026-08-17,gen,2
 2026-08-17,high,1
 2026-08-17,hot,4
+2026-08-17,hunter,2
 2026-08-17,key,4
 2026-08-17,key fall,4
 2026-08-17,know,8
@@ -205,18 +197,17 @@ period,Term,Count
 2026-08-17,major comeback,4
 2026-08-17,makes,2
 2026-08-17,making,4
-2026-08-17,maxxing,2
 2026-08-17,men,1
 2026-08-17,movie,1
 2026-08-17,need,6
 2026-08-17,new,2
+2026-08-17,old,2
 2026-08-17,outfit,2
 2026-08-17,platform,4
 2026-08-17,predictions,2
 2026-08-17,price,1
 2026-08-17,real,4
 2026-08-17,real simple,4
-2026-08-17,red,2
 2026-08-17,runway,2
 2026-08-17,runway trend,2
 2026-08-17,season,4
@@ -234,8 +225,8 @@ period,Term,Count
 2026-08-17,style,6
 2026-08-17,style wear,4
 2026-08-17,stylist,4
-2026-08-17,taking,2
-2026-08-17,trend,18
+2026-08-17,trend,16
+2026-08-17,trend hunter,2
 2026-08-17,trend makes,2
 2026-08-17,trend making,4
 2026-08-17,trend predictions,2
@@ -268,6 +259,7 @@ period,Term,Count
 2026-08-24,clothing,4
 2026-08-24,comeback,4
 2026-08-24,cosmopolitan,4
+2026-08-24,costs,1
 2026-08-24,dated,6
 2026-08-24,define,4
 2026-08-24,denim,6
@@ -305,7 +297,6 @@ period,Term,Count
 2026-08-24,people,4
 2026-08-24,post,2
 2026-08-24,price,1
-2026-08-24,right,2
 2026-08-24,runway,2
 2026-08-24,runway trend,2
 2026-08-24,season,4
@@ -316,7 +307,6 @@ period,Term,Count
 2026-08-24,streetwear,4
 2026-08-24,style,8
 2026-08-24,summer,2
-2026-08-24,travel,2
 2026-08-24,trend,10
 2026-08-24,trend makes,2
 2026-08-24,trend making,2
@@ -379,7 +369,6 @@ period,Term,Count
 2026-08-31,lifestyle sydney,2
 2026-08-31,lifestyle sydney sweeney,2
 2026-08-31,like,1
-2026-08-31,london,1
 2026-08-31,long,1
 2026-08-31,looking,2
 2026-08-31,love,3
@@ -388,7 +377,7 @@ period,Term,Count
 2026-08-31,makes,4
 2026-08-31,morning,4
 2026-08-31,new,3
-2026-08-31,online,9
+2026-08-31,online,8
 2026-08-31,online singapore,8
 2026-08-31,online singapore bedazzled,4
 2026-08-31,open,1
@@ -406,7 +395,6 @@ period,Term,Count
 2026-08-31,season vogue fall,1
 2026-08-31,share,1
 2026-08-31,shared,1
-2026-08-31,shop,3
 2026-08-31,singapore,8
 2026-08-31,singapore bedazzled,4
 2026-08-31,singapore bedazzled fashion,4
@@ -439,181 +427,176 @@ period,Term,Count
 2026-08-31,world,1
 2026-08-31,years,1
 2026-09-07,according,4
-2026-09-07,actually,5
+2026-09-07,actually,7
+2026-09-07,aesthetic,4
 2026-09-07,ahead,2
-2026-09-07,american,7
+2026-09-07,american,8
 2026-09-07,american fashion,5
 2026-09-07,american fashion tranding,3
 2026-09-07,art,4
-2026-09-07,autumn,23
+2026-09-07,autumn,21
 2026-09-07,autumn fashion,2
 2026-09-07,autumn fashion trends,2
-2026-09-07,autumn style,6
+2026-09-07,autumn style,4
 2026-09-07,autumn trends,2
 2026-09-07,autumn wear,8
-2026-09-07,autumn winter,3
-2026-09-07,bag,6
+2026-09-07,autumn winter,1
+2026-09-07,bag,9
 2026-09-07,baggy,2
 2026-09-07,bags,4
-2026-09-07,best,19
+2026-09-07,beautiful,3
+2026-09-07,best,17
 2026-09-07,big,1
-2026-09-07,biggest,10
-2026-09-07,black,5
-2026-09-07,block,5
-2026-09-07,block long,4
-2026-09-07,block long sleeve,4
+2026-09-07,biggest,12
+2026-09-07,black,4
 2026-09-07,boho,2
 2026-09-07,boots,6
-2026-09-07,boys,4
+2026-09-07,boring,6
+2026-09-07,boys,7
+2026-09-07,boys shirt,6
+2026-09-07,boys shirt pant,6
 2026-09-07,break,1
-2026-09-07,brown,5
 2026-09-07,budget,3
 2026-09-07,calling,5
 2026-09-07,carpet,5
-2026-09-07,casual,8
+2026-09-07,casual,7
 2026-09-07,chatgpt,12
 2026-09-07,chatgpt photo,8
 2026-09-07,chatgpt photo trend,8
 2026-09-07,chic,2
-2026-09-07,cinema,4
 2026-09-07,city,6
 2026-09-07,city wear,4
-2026-09-07,claire,3
-2026-09-07,clothing,10
+2026-09-07,claire,5
+2026-09-07,classy,4
+2026-09-07,clothing,9
 2026-09-07,clothing trends,5
-2026-09-07,collection,10
-2026-09-07,color,12
-2026-09-07,color block,5
-2026-09-07,color block long,4
+2026-09-07,collection,6
+2026-09-07,color,7
 2026-09-07,colours,2
 2026-09-07,colours autumn,2
 2026-09-07,comeback,4
-2026-09-07,comfortable,5
+2026-09-07,comfortable,2
 2026-09-07,comment,2
-2026-09-07,cosmopolitan,24
+2026-09-07,cosmopolitan,22
 2026-09-07,cosmopolitan fall,4
 2026-09-07,cosmopolitan shoe,4
 2026-09-07,cosmopolitan shoe trends,4
+2026-09-07,costs,1
 2026-09-07,cotton,1
 2026-09-07,culture,3
-2026-09-07,daily,2
 2026-09-07,day,4
-2026-09-07,denim,3
+2026-09-07,denim,2
 2026-09-07,design,4
-2026-09-07,destination,4
+2026-09-07,destination,3
 2026-09-07,destination women,3
 2026-09-07,destination women fashion,3
 2026-09-07,discover,6
 2026-09-07,discover trendy,3
 2026-09-07,divisive,2
 2026-09-07,diy,4
-2026-09-07,dress,5
+2026-09-07,dress,4
 2026-09-07,dresses,6
 2026-09-07,dressing,7
+2026-09-07,early,5
 2026-09-07,editors,6
 2026-09-07,editors expect,6
 2026-09-07,editors expect fall,3
-2026-09-07,elegant,3
+2026-09-07,elegance,4
+2026-09-07,elegant,4
 2026-09-07,elle,12
 2026-09-07,expect,6
 2026-09-07,expect fall,3
 2026-09-07,expect fall fashion,3
-2026-09-07,fall,61
-2026-09-07,fall fashion,18
-2026-09-07,fall fashion trends,10
+2026-09-07,fall,63
+2026-09-07,fall fashion,20
+2026-09-07,fall fashion trends,12
 2026-09-07,fall trends,6
 2026-09-07,fall winter,8
-2026-09-07,fashion,171
+2026-09-07,fashion,183
 2026-09-07,fashion best,4
-2026-09-07,fashion fashion,4
-2026-09-07,fashion fashiontrends,3
-2026-09-07,fashion looks,5
-2026-09-07,fashion mensfashion,4
-2026-09-07,fashion outfit,5
+2026-09-07,fashion fashion,5
+2026-09-07,fashion fashiontrends,4
+2026-09-07,fashion outfit,4
 2026-09-07,fashion outfit inspiration,3
 2026-09-07,fashion people,2
+2026-09-07,fashion shorts,3
 2026-09-07,fashion tranding,3
 2026-09-07,fashion tranding style,3
 2026-09-07,fashion trend,19
 2026-09-07,fashion trend makes,4
-2026-09-07,fashion trends,35
+2026-09-07,fashion trends,39
 2026-09-07,fashion trends discover,3
 2026-09-07,fashion trends editors,6
 2026-09-07,fashion trends know,2
 2026-09-07,fashion trends woman,3
 2026-09-07,fashion week,4
-2026-09-07,fashionista,4
-2026-09-07,fashiontrends,15
+2026-09-07,fashiontrends,17
 2026-09-07,featuring,3
 2026-09-07,festival,6
 2026-09-07,film,10
 2026-09-07,film festival,6
 2026-09-07,fit,1
 2026-09-07,forget,3
-2026-09-07,fyp,1
+2026-09-07,fyp,2
 2026-09-07,gen,4
 2026-09-07,genius,2
 2026-09-07,girl,4
 2026-09-07,girl trend,4
-2026-09-07,girls,5
+2026-09-07,girls,8
 2026-09-07,goes,4
 2026-09-07,high,4
 2026-09-07,hindustan,6
 2026-09-07,hindustan times,6
 2026-09-07,hot,2
-2026-09-07,ideas,7
+2026-09-07,hunter,2
+2026-09-07,ideas,8
 2026-09-07,illustrated,4
 2026-09-07,illustrated lifestyle,4
 2026-09-07,illustrated lifestyle sydney,2
 2026-09-07,india,8
-2026-09-07,inspiration,4
+2026-09-07,inspiration,5
 2026-09-07,inspiration styling,3
 2026-09-07,inspiration styling tips,3
-2026-09-07,inspired,9
+2026-09-07,inspired,10
 2026-09-07,instagram,6
 2026-09-07,instantly,2
 2026-09-07,instead,2
-2026-09-07,jeans,12
+2026-09-07,instyle,2
+2026-09-07,jeans,15
+2026-09-07,just,5
 2026-09-07,justin,5
 2026-09-07,key,3
 2026-09-07,king,4
 2026-09-07,know,4
-2026-09-07,latest,23
+2026-09-07,latest,16
 2026-09-07,latest fashion,3
 2026-09-07,latest fashion trends,3
-2026-09-07,latest men,4
-2026-09-07,latest stylish,4
 2026-09-07,launches,6
-2026-09-07,leather,2
-2026-09-07,lifestyle,5
+2026-09-07,lifestyle,7
 2026-09-07,lifestyle sydney,2
 2026-09-07,lifestyle sydney sweeney,2
-2026-09-07,like,2
-2026-09-07,link,6
+2026-09-07,like,3
+2026-09-07,link,7
 2026-09-07,links,3
 2026-09-07,london,6
-2026-09-07,long,6
-2026-09-07,long sleeve,4
-2026-09-07,look,16
-2026-09-07,looking,11
-2026-09-07,looks,11
-2026-09-07,love,8
-2026-09-07,luxury,5
+2026-09-07,long,4
+2026-09-07,look,15
+2026-09-07,looking,10
+2026-09-07,looks,12
+2026-09-07,love,7
+2026-09-07,luxury,4
 2026-09-07,magazine,5
 2026-09-07,major,4
 2026-09-07,major comeback,4
 2026-09-07,make,6
 2026-09-07,makes,11
 2026-09-07,making,1
-2026-09-07,marie,2
-2026-09-07,marie claire,2
-2026-09-07,maxxing,4
-2026-09-07,meets,5
-2026-09-07,men,42
-2026-09-07,men fashion,15
-2026-09-07,mensfashion,8
-2026-09-07,modacenter,2
-2026-09-07,modern,5
+2026-09-07,marie,4
+2026-09-07,marie claire,4
+2026-09-07,men,41
+2026-09-07,men fashion,16
+2026-09-07,mensfashion,5
+2026-09-07,modern,3
 2026-09-07,moment,1
 2026-09-07,movie,1
 2026-09-07,muse,6
@@ -625,26 +608,29 @@ period,Term,Count
 2026-09-07,needs,3
 2026-09-07,needs try,3
 2026-09-07,needs try style,3
-2026-09-07,new,33
+2026-09-07,new,29
 2026-09-07,new york,11
-2026-09-07,news,8
+2026-09-07,news,10
+2026-09-07,old,4
 2026-09-07,online,12
 2026-09-07,online singapore,12
 2026-09-07,open,6
-2026-09-07,outfit,30
+2026-09-07,outfit,37
 2026-09-07,outfit inspiration,3
 2026-09-07,outfit inspiration styling,3
 2026-09-07,outfit men,6
-2026-09-07,outfits,12
+2026-09-07,outfits,6
+2026-09-07,pant,10
+2026-09-07,pant outfit,8
+2026-09-07,para,2
 2026-09-07,people,5
-2026-09-07,perfect,8
+2026-09-07,perfect,5
 2026-09-07,personality,6
 2026-09-07,photo,12
 2026-09-07,photo trend,12
 2026-09-07,platform,4
 2026-09-07,practical,6
 2026-09-07,predictions,4
-2026-09-07,premium,3
 2026-09-07,prestige,12
 2026-09-07,prestige online,12
 2026-09-07,prestige online singapore,12
@@ -653,65 +639,63 @@ period,Term,Count
 2026-09-07,prompts,10
 2026-09-07,reader,2
 2026-09-07,ready,3
-2026-09-07,real,5
+2026-09-07,real,4
 2026-09-07,real simple,2
 2026-09-07,red,9
 2026-09-07,red carpet,5
 2026-09-07,report,4
-2026-09-07,retro,7
-2026-09-07,right,2
+2026-09-07,retro,6
 2026-09-07,runway,6
 2026-09-07,say,6
 2026-09-07,season,9
 2026-09-07,season vogue,4
 2026-09-07,season vogue fall,2
-2026-09-07,share,1
+2026-09-07,share,2
 2026-09-07,shared,3
-2026-09-07,shirt,22
+2026-09-07,shirt,25
+2026-09-07,shirt pant,10
+2026-09-07,shirt pant outfit,8
 2026-09-07,shoe,12
 2026-09-07,shoe trends,10
-2026-09-07,shoes,9
-2026-09-07,shoes fashion,2
+2026-09-07,shoes,5
+2026-09-07,shoes fashion,1
 2026-09-07,shoes fashion trend,1
-2026-09-07,shop,8
+2026-09-07,shop,6
 2026-09-07,shopping,1
-2026-09-07,shorts,22
-2026-09-07,shortsfeed,3
+2026-09-07,shorts,21
+2026-09-07,shorts fashion,3
 2026-09-07,simple,7
 2026-09-07,singapore,12
-2026-09-07,sleeve,4
-2026-09-07,sneakers,4
-2026-09-07,sports,5
+2026-09-07,sleeve,2
+2026-09-07,sneakers,5
+2026-09-07,sports,4
 2026-09-07,sports illustrated,4
 2026-09-07,sports illustrated lifestyle,4
 2026-09-07,spring,9
-2026-09-07,spring summer,4
 2026-09-07,start,4
 2026-09-07,statement,7
-2026-09-07,step,3
 2026-09-07,street,2
 2026-09-07,street style,2
-2026-09-07,streetwear,4
-2026-09-07,style,42
+2026-09-07,streetwear,5
+2026-09-07,stunning,5
+2026-09-07,style,38
 2026-09-07,style muse,6
 2026-09-07,style muse destination,3
 2026-09-07,style muse usafashion,3
-2026-09-07,styles,9
-2026-09-07,styling,5
+2026-09-07,styles,8
+2026-09-07,styling,4
 2026-09-07,styling tips,4
 2026-09-07,styling tips latest,3
-2026-09-07,stylish,29
-2026-09-07,stylish men,9
-2026-09-07,stylish men fashion,7
+2026-09-07,stylish,27
+2026-09-07,stylish men,8
+2026-09-07,stylish men fashion,6
 2026-09-07,stylist,2
 2026-09-07,stylists,2
-2026-09-07,subscribe,2
+2026-09-07,subscribe,3
 2026-09-07,summer,6
-2026-09-07,sweater,5
 2026-09-07,sweeney,4
 2026-09-07,sydney,4
 2026-09-07,sydney sweeney,4
-2026-09-07,taking,2
 2026-09-07,thoughts,2
 2026-09-07,time,4
 2026-09-07,times,14
@@ -721,62 +705,63 @@ period,Term,Count
 2026-09-07,tranding,3
 2026-09-07,tranding style,3
 2026-09-07,tranding style muse,3
-2026-09-07,transition,1
-2026-09-07,travel,2
-2026-09-07,trend,59
+2026-09-07,trend,63
+2026-09-07,trend fashion,6
 2026-09-07,trend goes,4
+2026-09-07,trend hunter,2
 2026-09-07,trend makes,6
 2026-09-07,trend predictions,4
 2026-09-07,trend report,4
-2026-09-07,trending,12
-2026-09-07,trending women,3
-2026-09-07,trends,82
+2026-09-07,trend wear,6
+2026-09-07,trending,17
+2026-09-07,trends,84
 2026-09-07,trends discover,3
 2026-09-07,trends discover trendy,3
 2026-09-07,trends editors,6
 2026-09-07,trends editors expect,6
 2026-09-07,trends fall,4
 2026-09-07,trends know,4
+2026-09-07,trends men,4
 2026-09-07,trends new,6
 2026-09-07,trends woman,3
 2026-09-07,trends woman needs,3
-2026-09-07,trendy,14
+2026-09-07,trends women,5
+2026-09-07,trendy,12
 2026-09-07,try,11
 2026-09-07,try style,3
 2026-09-07,try style muse,3
 2026-09-07,turn,4
-2026-09-07,usafashion,3
+2026-09-07,usafashion,4
 2026-09-07,usafashion american,3
 2026-09-07,usafashion american fashion,3
 2026-09-07,venice,6
 2026-09-07,venice film,6
 2026-09-07,venice film festival,6
-2026-09-07,video,3
+2026-09-07,video,4
 2026-09-07,video break,1
 2026-09-07,videos,4
-2026-09-07,viral,9
+2026-09-07,viral,17
 2026-09-07,vogue,10
 2026-09-07,vogue fall,2
 2026-09-07,wardrobe,15
 2026-09-07,watch,4
-2026-09-07,wear,33
-2026-09-07,wear autumn,1
-2026-09-07,wearing,4
+2026-09-07,wear,32
+2026-09-07,wear autumn,2
+2026-09-07,wearing,6
 2026-09-07,wedding,2
 2026-09-07,week,6
-2026-09-07,welcome,3
 2026-09-07,wgsn,6
 2026-09-07,whimsy,4
-2026-09-07,white,6
-2026-09-07,winter,17
+2026-09-07,white,7
+2026-09-07,winter,14
 2026-09-07,winter trends,1
 2026-09-07,woman,3
 2026-09-07,woman needs,3
 2026-09-07,woman needs try,3
 2026-09-07,women,27
-2026-09-07,women fashion,12
-2026-09-07,women fashion outfit,4
-2026-09-07,world,5
+2026-09-07,women fashion,8
+2026-09-07,women fashion outfit,3
+2026-09-07,world,4
 2026-09-07,wwd,12
 2026-09-07,years,1
 2026-09-07,york,11
