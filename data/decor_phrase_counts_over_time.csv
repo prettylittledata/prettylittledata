@@ -13,6 +13,8 @@ period,Term,Count
 2026-08-17,living room,2
 2026-08-17,room,2
 2026-08-17,small,2
+2026-08-17,small living,2
+2026-08-17,small living room,2
 2026-08-17,spruce,2
 2026-08-17,trends,2
 2026-08-17,trends designers,2
@@ -24,26 +26,25 @@ period,Term,Count
 2026-08-24,beautiful burrowcore,2
 2026-08-24,bold,2
 2026-08-24,burrowcore,4
-2026-08-24,calling,2
+2026-08-24,calling,4
 2026-08-24,comeback,4
 2026-08-24,decor,8
 2026-08-24,decor trend,2
 2026-08-24,decor trends,6
 2026-08-24,decorating,4
 2026-08-24,decorating trend,4
-2026-08-24,design,2
-2026-08-24,design trends,2
-2026-08-24,designers,14
+2026-08-24,design,4
+2026-08-24,design trends,4
+2026-08-24,designers,16
 2026-08-24,designers say,6
 2026-08-24,designers say home,2
 2026-08-24,end,4
 2026-08-24,expensive,2
 2026-08-24,feels,2
-2026-08-24,foot,2
 2026-08-24,free,2
-2026-08-24,home,10
-2026-08-24,home design,2
-2026-08-24,home design trends,2
+2026-08-24,home,12
+2026-08-24,home design,4
+2026-08-24,home design trends,4
 2026-08-24,home look,2
 2026-08-24,home trends,2
 2026-08-24,house,6
@@ -54,7 +55,8 @@ period,Term,Count
 2026-08-24,interior,2
 2026-08-24,interior designers,2
 2026-08-24,items,2
-2026-08-24,know,2
+2026-08-24,kitchens,4
+2026-08-24,know,4
 2026-08-24,like,2
 2026-08-24,living,8
 2026-08-24,living room,2
@@ -62,16 +64,19 @@ period,Term,Count
 2026-08-24,look tacky,2
 2026-08-24,lovers,4
 2026-08-24,luxury,4
-2026-08-24,magazine,2
+2026-08-24,magazine,4
 2026-08-24,make,2
 2026-08-24,making,2
 2026-08-24,martha,2
 2026-08-24,martha stewart,2
 2026-08-24,millennial,2
-2026-08-24,need,2
+2026-08-24,nail,2
+2026-08-24,need,4
+2026-08-24,people,4
 2026-08-24,real,4
 2026-08-24,real simple,4
 2026-08-24,room,6
+2026-08-24,rooms,2
 2026-08-24,say,6
 2026-08-24,say home,2
 2026-08-24,simple,4
@@ -85,25 +90,27 @@ period,Term,Count
 2026-08-24,spruce designers say,1
 2026-08-24,square,2
 2026-08-24,stewart,2
-2026-08-24,studio,2
-2026-08-24,studio apartment,2
 2026-08-24,tacky,2
 2026-08-24,trend,6
-2026-08-24,trends,10
+2026-08-24,trends,12
 2026-08-24,trends designers,4
 2026-08-24,trends designers say,4
 2026-08-24,trends making,2
 2026-08-24,vintage,4
-2026-08-24,warm,2
+2026-08-24,warm,4
 2026-08-24,way,2
 2026-08-24,ways,2
+2026-08-24,ways nail,2
+2026-08-24,wood,4
 2026-08-24,yahoo,2
-2026-08-31,aesthetic,2
+2026-08-24,yes,4
 2026-08-31,antique,4
 2026-08-31,apartment,2
 2026-08-31,beautiful,6
 2026-08-31,beautiful designers,2
 2026-08-31,bedroom,2
+2026-08-31,biggest,2
+2026-08-31,color,2
 2026-08-31,decor,6
 2026-08-31,decor trends,4
 2026-08-31,designer,2
@@ -115,8 +122,11 @@ period,Term,Count
 2026-08-31,fall house,4
 2026-08-31,fall house beautiful,4
 2026-08-31,feels,2
+2026-08-31,gardens,2
 2026-08-31,home,2
 2026-08-31,home decor,2
+2026-08-31,homes,2
+2026-08-31,homes gardens,2
 2026-08-31,house,8
 2026-08-31,house beautiful,6
 2026-08-31,house beautiful designers,2
@@ -126,7 +136,7 @@ period,Term,Count
 2026-08-31,interior designers,6
 2026-08-31,interior designers say,6
 2026-08-31,like,2
-2026-08-31,look,2
+2026-08-31,look,4
 2026-08-31,micro,4
 2026-08-31,predict,4
 2026-08-31,real,4
@@ -135,17 +145,17 @@ period,Term,Count
 2026-08-31,say home,2
 2026-08-31,simple,4
 2026-08-31,tiny,2
-2026-08-31,trends,8
+2026-08-31,trends,10
 2026-08-31,trends fall,4
 2026-08-31,trends fall house,4
 2026-08-31,trends interior,4
 2026-08-31,trends interior designers,4
-2026-08-31,won,2
+2026-08-31,trends look,2
 2026-08-31,yahoo,2
 2026-08-31,years,2
 2026-09-07,apartment,4
 2026-09-07,apartment therapy,4
-2026-09-07,beautiful,12
+2026-09-07,beautiful,14
 2026-09-07,beautiful burrowcore,2
 2026-09-07,beautiful designers,2
 2026-09-07,burrowcore,4
@@ -154,21 +164,24 @@ period,Term,Count
 2026-09-07,cozy home,4
 2026-09-07,decor,14
 2026-09-07,decor trends,8
-2026-09-07,design,2
-2026-09-07,design trends,2
-2026-09-07,designers,24
-2026-09-07,designers say,10
-2026-09-07,designers say home,2
+2026-09-07,design,4
+2026-09-07,design trends,4
+2026-09-07,designers,26
+2026-09-07,designers say,12
+2026-09-07,designers say home,4
 2026-09-07,elle,2
 2026-09-07,elle decor,2
-2026-09-07,fall,10
-2026-09-07,fall house,6
-2026-09-07,fall house beautiful,6
-2026-09-07,home,10
+2026-09-07,fall,14
+2026-09-07,fall home,2
+2026-09-07,fall house,8
+2026-09-07,fall house beautiful,8
+2026-09-07,home,14
+2026-09-07,home design,2
+2026-09-07,home design trends,2
 2026-09-07,home trend,4
-2026-09-07,home trends,6
-2026-09-07,house,12
-2026-09-07,house beautiful,12
+2026-09-07,home trends,8
+2026-09-07,house,14
+2026-09-07,house beautiful,14
 2026-09-07,house beautiful burrowcore,2
 2026-09-07,house beautiful designers,2
 2026-09-07,iconic,4
@@ -187,17 +200,20 @@ period,Term,Count
 2026-09-07,millennial,4
 2026-09-07,overdone,4
 2026-09-07,perfect,4
+2026-09-07,personalized,2
+2026-09-07,personalized spaces,2
 2026-09-07,picks,4
 2026-09-07,ready,4
 2026-09-07,real,4
 2026-09-07,real simple,4
 2026-09-07,right,6
-2026-09-07,say,10
-2026-09-07,say home,2
+2026-09-07,say,12
+2026-09-07,say home,4
 2026-09-07,simple,4
 2026-09-07,simple decor,2
 2026-09-07,southern,4
 2026-09-07,southern living,4
+2026-09-07,spaces,2
 2026-09-07,spruce,4
 2026-09-07,starting,4
 2026-09-07,stewart,2
@@ -207,41 +223,38 @@ period,Term,Count
 2026-09-07,time,2
 2026-09-07,totally,4
 2026-09-07,trend,4
-2026-09-07,trends,24
+2026-09-07,trends,28
 2026-09-07,trends designers,8
 2026-09-07,trends designers say,4
-2026-09-07,trends fall,2
-2026-09-07,trends fall house,2
+2026-09-07,trends fall,4
+2026-09-07,trends fall house,4
 2026-09-07,trends interior,4
 2026-09-07,trends interior designers,4
 2026-09-07,trends making,4
 2026-09-07,try,4
 2026-09-07,want,2
-2026-09-14,aesthetic,2
-2026-09-14,beautiful,6
-2026-09-14,better,4
-2026-09-14,better homes,2
-2026-09-14,better homes gardens,2
-2026-09-14,clean,4
+2026-09-14,beautiful,4
+2026-09-14,better,6
+2026-09-14,better homes,4
+2026-09-14,better homes gardens,4
 2026-09-14,dated,2
 2026-09-14,decor,6
 2026-09-14,decor trends,2
 2026-09-14,design,10
-2026-09-14,design trend,2
-2026-09-14,design trends,6
-2026-09-14,design trends look,4
+2026-09-14,design trend,4
+2026-09-14,design trends,4
 2026-09-14,designers,6
 2026-09-14,designers say,4
 2026-09-14,designers say outdated,4
 2026-09-14,fall,2
-2026-09-14,gardens,4
-2026-09-14,home,8
+2026-09-14,gardens,6
+2026-09-14,home,6
 2026-09-14,home decor,4
 2026-09-14,home decor trends,2
-2026-09-14,home design,4
-2026-09-14,home design trends,4
-2026-09-14,homes,4
-2026-09-14,homes gardens,4
+2026-09-14,home design,2
+2026-09-14,home design trends,2
+2026-09-14,homes,6
+2026-09-14,homes gardens,6
 2026-09-14,house,4
 2026-09-14,house beautiful,2
 2026-09-14,iconic,2
@@ -250,9 +263,9 @@ period,Term,Count
 2026-09-14,interior design trends,2
 2026-09-14,interior designers,6
 2026-09-14,interior designers say,4
-2026-09-14,look,6
-2026-09-14,look beautiful,4
-2026-09-14,luxury,2
+2026-09-14,look,4
+2026-09-14,luxury,4
+2026-09-14,nail,4
 2026-09-14,new,2
 2026-09-14,outdated,4
 2026-09-14,post,2
@@ -264,12 +277,13 @@ period,Term,Count
 2026-09-14,style,4
 2026-09-14,today,2
 2026-09-14,transform,2
-2026-09-14,trend,2
-2026-09-14,trends,16
-2026-09-14,trends look,6
+2026-09-14,trend,4
+2026-09-14,trends,14
+2026-09-14,trends look,4
 2026-09-14,veranda,4
-2026-09-14,ways,2
-2026-09-14,yahoo,4
+2026-09-14,ways,4
+2026-09-14,ways nail,4
+2026-09-14,yahoo,2
 2026-09-21,better,2
 2026-09-21,better homes,2
 2026-09-21,better homes gardens,2
@@ -277,7 +291,6 @@ period,Term,Count
 2026-09-21,budget,2
 2026-09-21,calling,2
 2026-09-21,character,4
-2026-09-21,common,4
 2026-09-21,cozy,4
 2026-09-21,dated,4
 2026-09-21,decor,16
@@ -319,6 +332,7 @@ period,Term,Count
 2026-09-21,outdated decor,4
 2026-09-21,overdone,4
 2026-09-21,personalized,6
+2026-09-21,personalized spaces,4
 2026-09-21,place,2
 2026-09-21,real,4
 2026-09-21,real simple,4
@@ -348,6 +362,7 @@ period,Term,Count
 2026-09-28,better,4
 2026-09-28,better homes,4
 2026-09-28,better homes gardens,4
+2026-09-28,curtain,2
 2026-09-28,dated,4
 2026-09-28,decor,12
 2026-09-28,decor finds,4
@@ -356,11 +371,11 @@ period,Term,Count
 2026-09-28,design,10
 2026-09-28,design trend,2
 2026-09-28,design trends,6
-2026-09-28,design trends look,2
-2026-09-28,designers,22
+2026-09-28,designers,24
 2026-09-28,designers predict,4
 2026-09-28,designers say,4
 2026-09-28,designers share,10
+2026-09-28,don,2
 2026-09-28,expensive,2
 2026-09-28,feels,2
 2026-09-28,finds,4
@@ -374,7 +389,8 @@ period,Term,Count
 2026-09-28,homes,8
 2026-09-28,homes gardens,8
 2026-09-28,huge,4
-2026-09-28,ideas,2
+2026-09-28,ideas,4
+2026-09-28,inch,2
 2026-09-28,inside,2
 2026-09-28,inside tiny,2
 2026-09-28,instead,4
@@ -405,6 +421,7 @@ period,Term,Count
 2026-09-28,simple,8
 2026-09-28,southern,2
 2026-09-28,southern living,2
+2026-09-28,space,2
 2026-09-28,spruce,4
 2026-09-28,stewart,2
 2026-09-28,style,10
@@ -422,46 +439,44 @@ period,Term,Count
 2026-09-28,ways,4
 2026-09-28,work,4
 2026-09-28,yahoo,2
-2026-10-05,actually,5
-2026-10-05,aesthetic,1
 2026-10-05,align,16
 2026-10-05,align center,16
 2026-10-05,alongside,4
 2026-10-05,alt,16
 2026-10-05,alt class,16
 2026-10-05,alt class attachment,16
-2026-10-05,apartment,28
-2026-10-05,apartment small,2
+2026-10-05,apartment,29
+2026-10-05,apartment small,3
 2026-10-05,apartment therapy,2
-2026-10-05,apartments,4
-2026-10-05,architectural,5
-2026-10-05,architecture,28
-2026-10-05,area,7
+2026-10-05,apartments,7
+2026-10-05,architectural,6
+2026-10-05,architecture,26
+2026-10-05,area,8
 2026-10-05,art,7
 2026-10-05,attachment,17
 2026-10-05,attachment post,16
 2026-10-05,attachment post thumbnail,16
-2026-10-05,beautiful,13
-2026-10-05,bedroom,6
-2026-10-05,best,4
+2026-10-05,beautiful,11
+2026-10-05,beautiful modern,3
+2026-10-05,bedroom,7
+2026-10-05,best,5
 2026-10-05,better,3
 2026-10-05,better homes,2
 2026-10-05,better homes gardens,2
-2026-10-05,big,5
-2026-10-05,biggest,5
+2026-10-05,big,6
+2026-10-05,biggest,6
 2026-10-05,bold,3
-2026-10-05,bring,3
-2026-10-05,brings,4
-2026-10-05,budget,5
-2026-10-05,building,15
+2026-10-05,brings,5
+2026-10-05,budget,8
+2026-10-05,budget interior,5
+2026-10-05,building,13
 2026-10-05,buildings,8
-2026-10-05,built,7
+2026-10-05,built,5
 2026-10-05,calling,1
-2026-10-05,cement,9
 2026-10-05,center,23
-2026-10-05,character,1
-2026-10-05,christmas,8
-2026-10-05,city,11
+2026-10-05,character,2
+2026-10-05,christmas,10
+2026-10-05,city,9
 2026-10-05,class,64
 2026-10-05,class attachment,16
 2026-10-05,class attachment post,16
@@ -469,188 +484,189 @@ period,Term,Count
 2026-10-05,class rws excerpt,16
 2026-10-05,class rws img,16
 2026-10-05,class rws title,16
-2026-10-05,clean,2
-2026-10-05,come,5
-2026-10-05,common,1
+2026-10-05,color,4
+2026-10-05,come,6
 2026-10-05,community,4
-2026-10-05,conceived,3
-2026-10-05,concrete,4
-2026-10-05,contemporary,4
-2026-10-05,cozy,4
+2026-10-05,compact,4
+2026-10-05,conceived,4
+2026-10-05,concept,5
+2026-10-05,concrete,7
+2026-10-05,cozy,5
 2026-10-05,cozy home,1
 2026-10-05,craft,5
-2026-10-05,crafts,4
 2026-10-05,creating,3
-2026-10-05,creative,5
-2026-10-05,curtains,8
-2026-10-05,day,7
+2026-10-05,curtain,4
+2026-10-05,curtains,9
+2026-10-05,day,9
 2026-10-05,days,7
-2026-10-05,decor,54
-2026-10-05,decor finds,1
-2026-10-05,decor idea,6
+2026-10-05,decor,62
+2026-10-05,decor finds,2
+2026-10-05,decor idea,5
 2026-10-05,decor idea perfect,3
-2026-10-05,decor ideas,15
+2026-10-05,decor ideas,22
 2026-10-05,decor ideas shorts,4
 2026-10-05,decor trend,2
-2026-10-05,decor trends,8
+2026-10-05,decor trends,11
 2026-10-05,decorating,6
 2026-10-05,decorating trend,2
 2026-10-05,decorating trends,2
-2026-10-05,decoration,8
-2026-10-05,design,67
-2026-10-05,design ideas,11
-2026-10-05,design ideas luxury,3
-2026-10-05,design trend,9
-2026-10-05,design trends,4
-2026-10-05,designed,6
-2026-10-05,designer,8
-2026-10-05,designers,10
+2026-10-05,decoration,5
+2026-10-05,design,68
+2026-10-05,design ideas,5
+2026-10-05,design trend,10
+2026-10-05,design trends,8
+2026-10-05,designed,7
+2026-10-05,designer,7
+2026-10-05,designers,13
 2026-10-05,designers say,4
-2026-10-05,designs,9
+2026-10-05,designs,11
+2026-10-05,details,3
 2026-10-05,different,6
-2026-10-05,discover,7
+2026-10-05,discover,9
+2026-10-05,discover beautiful,3
 2026-10-05,div,32
 2026-10-05,div class,16
 2026-10-05,div class rws,16
-2026-10-05,diy,24
+2026-10-05,diy,20
 2026-10-05,diy luxury,3
 2026-10-05,diy luxury home,3
-2026-10-05,easy,8
+2026-10-05,don,4
+2026-10-05,dream,4
+2026-10-05,easy,6
 2026-10-05,edition,6
 2026-10-05,end,1
 2026-10-05,event,4
 2026-10-05,excerpt,16
 2026-10-05,existing,3
 2026-10-05,expensive,2
-2026-10-05,experience,6
-2026-10-05,explore,3
-2026-10-05,fall,22
-2026-10-05,fall home,5
+2026-10-05,experience,5
+2026-10-05,explore,4
+2026-10-05,fall,26
+2026-10-05,fall home,6
+2026-10-05,fall home decor,5
 2026-10-05,family,5
 2026-10-05,family home,4
-2026-10-05,feature,5
 2026-10-05,featuring,3
-2026-10-05,feel,7
-2026-10-05,feels,3
-2026-10-05,festive,8
-2026-10-05,finds,1
+2026-10-05,feel,11
+2026-10-05,feels,4
+2026-10-05,festive,10
+2026-10-05,finds,6
 2026-10-05,floor,6
-2026-10-05,foot,4
 2026-10-05,foundation,5
-2026-10-05,free,3
-2026-10-05,french,2
+2026-10-05,free,2
+2026-10-05,french,4
 2026-10-05,furniture,8
 2026-10-05,gardens,8
-2026-10-05,glass,8
-2026-10-05,ground,4
-2026-10-05,halloween,9
+2026-10-05,ground,3
+2026-10-05,halloween,12
 2026-10-05,handmade,6
 2026-10-05,height,17
 2026-10-05,height src,16
 2026-10-05,height src width,16
-2026-10-05,high,3
-2026-10-05,historic,5
-2026-10-05,home,63
-2026-10-05,home decor,22
+2026-10-05,high,5
+2026-10-05,home,71
+2026-10-05,home decor,27
 2026-10-05,home decor finds,1
-2026-10-05,home decor idea,5
-2026-10-05,home decor ideas,6
-2026-10-05,home decor trends,4
-2026-10-05,home design,2
-2026-10-05,home interior,4
+2026-10-05,home decor idea,4
+2026-10-05,home decor ideas,9
+2026-10-05,home decor trends,5
+2026-10-05,home design,1
+2026-10-05,home interior,3
 2026-10-05,home look,2
-2026-10-05,homedecor,14
+2026-10-05,homedecor,15
 2026-10-05,homedecorideas,3
-2026-10-05,homes,15
+2026-10-05,homes,14
 2026-10-05,homes gardens,8
-2026-10-05,hotel,6
-2026-10-05,house,29
-2026-10-05,iconic,1
-2026-10-05,idea,10
+2026-10-05,house,27
+2026-10-05,iconic,4
+2026-10-05,idea,8
 2026-10-05,idea perfect,3
 2026-10-05,idea perfect small,3
-2026-10-05,ideas,46
-2026-10-05,ideas home,4
-2026-10-05,ideas luxury,3
-2026-10-05,ideas shorts,5
+2026-10-05,ideas,41
+2026-10-05,ideas shorts,7
 2026-10-05,image,16
 2026-10-05,image height,16
 2026-10-05,image height src,16
 2026-10-05,img,16
 2026-10-05,img alt,16
 2026-10-05,img alt class,16
-2026-10-05,inside,7
+2026-10-05,inch,6
+2026-10-05,inside,12
 2026-10-05,inside tiny,3
 2026-10-05,instantly,1
 2026-10-05,instead,1
-2026-10-05,interior,33
-2026-10-05,interior design,13
-2026-10-05,interior design ideas,5
-2026-10-05,interior design trends,1
-2026-10-05,interior designers,4
+2026-10-05,interior,39
+2026-10-05,interior design,16
+2026-10-05,interior design trends,4
+2026-10-05,interior designer,4
+2026-10-05,interior designers,7
 2026-10-05,interior designs,3
 2026-10-05,interior trends,1
-2026-10-05,interiordesign,14
-2026-10-05,international,8
-2026-10-05,items,2
-2026-10-05,just,4
+2026-10-05,interiordesign,8
+2026-10-05,interiors,1
+2026-10-05,international,4
+2026-10-05,just,10
 2026-10-05,key,5
-2026-10-05,kitchen,7
+2026-10-05,kitchen,9
+2026-10-05,kitchens,1
 2026-10-05,know,4
-2026-10-05,landscape,4
-2026-10-05,life,7
-2026-10-05,light,9
+2026-10-05,landscape,5
+2026-10-05,latest,4
+2026-10-05,life,8
 2026-10-05,lighting,3
-2026-10-05,like,13
-2026-10-05,living,24
-2026-10-05,living room,11
-2026-10-05,located,3
-2026-10-05,look,7
-2026-10-05,look beautiful,1
+2026-10-05,like,14
+2026-10-05,living,23
+2026-10-05,living room,14
+2026-10-05,located,4
+2026-10-05,look,11
+2026-10-05,lot,3
 2026-10-05,lovers,1
-2026-10-05,luxury,15
+2026-10-05,luxury,14
 2026-10-05,luxury home,4
 2026-10-05,luxury home decor,3
-2026-10-05,magazine,6
-2026-10-05,main,3
-2026-10-05,make,5
-2026-10-05,makeover,6
-2026-10-05,materials,5
+2026-10-05,magazine,8
+2026-10-05,main,4
+2026-10-05,make,9
+2026-10-05,makeover,7
+2026-10-05,making,2
+2026-10-05,materials,4
 2026-10-05,micro,2
 2026-10-05,midcentury,1
-2026-10-05,modern,18
-2026-10-05,museum,12
+2026-10-05,modern,21
 2026-10-05,nature,3
 2026-10-05,need,5
-2026-10-05,new,16
+2026-10-05,new,15
 2026-10-05,noopener,6
 2026-10-05,noopener target,6
-2026-10-05,october,12
-2026-10-05,office,7
-2026-10-05,old,8
-2026-10-05,open,9
+2026-10-05,october,11
+2026-10-05,office,8
+2026-10-05,old,6
+2026-10-05,open,8
 2026-10-05,opens,3
 2026-10-05,organized,3
 2026-10-05,outdated,2
 2026-10-05,outdated decor,2
-2026-10-05,paint,6
+2026-10-05,paint,7
 2026-10-05,parisian,4
-2026-10-05,perfect,6
+2026-10-05,people,3
+2026-10-05,perfect,5
 2026-10-05,perfect small,3
 2026-10-05,perfect small apartments,3
 2026-10-05,picks,3
+2026-10-05,pieces,5
 2026-10-05,place,10
-2026-10-05,plant,7
-2026-10-05,post,51
+2026-10-05,post,50
 2026-10-05,post image,16
 2026-10-05,post image height,16
 2026-10-05,post thumbnail,32
 2026-10-05,post thumbnail post,16
 2026-10-05,post thumbnail size,16
 2026-10-05,present,3
+2026-10-05,price,4
+2026-10-05,prime,9
 2026-10-05,project,8
 2026-10-05,public,7
-2026-10-05,quietly,9
+2026-10-05,quietly,12
 2026-10-05,ready,3
 2026-10-05,real,4
 2026-10-05,real simple,2
@@ -658,10 +674,12 @@ period,Term,Count
 2026-10-05,rel noopener,6
 2026-10-05,rel noopener target,6
 2026-10-05,renovation,4
-2026-10-05,restoration,9
-2026-10-05,right,2
+2026-10-05,residence,4
+2026-10-05,restoration,8
+2026-10-05,right,3
 2026-10-05,road,3
-2026-10-05,room,29
+2026-10-05,room,28
+2026-10-05,rooms,5
 2026-10-05,rws,48
 2026-10-05,rws excerpt,16
 2026-10-05,rws img,16
@@ -669,36 +687,35 @@ period,Term,Count
 2026-10-05,rws title,16
 2026-10-05,rws title style,16
 2026-10-05,say,4
-2026-10-05,shorts,21
-2026-10-05,simple,8
+2026-10-05,shorts,19
+2026-10-05,simple,7
 2026-10-05,simple decor,1
 2026-10-05,single,5
 2026-10-05,size,18
 2026-10-05,size post,16
 2026-10-05,size post thumbnail,16
-2026-10-05,small,26
-2026-10-05,small apartment,8
+2026-10-05,small,30
+2026-10-05,small apartment,5
 2026-10-05,small apartments,4
-2026-10-05,small space,6
-2026-10-05,smart,6
+2026-10-05,small living,3
+2026-10-05,small living room,3
+2026-10-05,small space,10
+2026-10-05,smart,5
 2026-10-05,social,4
 2026-10-05,southern,5
 2026-10-05,southern living,4
-2026-10-05,space,15
+2026-10-05,space,18
 2026-10-05,spaces,9
 2026-10-05,square,4
 2026-10-05,src,16
 2026-10-05,src width,16
 2026-10-05,src width class,16
 2026-10-05,starting,3
-2026-10-05,story,6
-2026-10-05,studio,4
-2026-10-05,studio apartment,2
 2026-10-05,stunning,4
-2026-10-05,style,20
+2026-10-05,style,19
 2026-10-05,style text,16
 2026-10-05,style text align,16
-2026-10-05,stylish,2
+2026-10-05,stylish,4
 2026-10-05,sunset,5
 2026-10-05,taking,2
 2026-10-05,target,8
@@ -706,52 +723,56 @@ period,Term,Count
 2026-10-05,text align,16
 2026-10-05,text align center,16
 2026-10-05,therapy,2
-2026-10-05,things,2
+2026-10-05,things,1
 2026-10-05,thumbnail,32
 2026-10-05,thumbnail post,16
 2026-10-05,thumbnail post image,16
 2026-10-05,thumbnail size,16
 2026-10-05,thumbnail size post,16
 2026-10-05,time,7
-2026-10-05,timeless,2
+2026-10-05,timeless,5
 2026-10-05,timeless style,1
-2026-10-05,tiny,19
-2026-10-05,tiny apartment,9
+2026-10-05,tiny,27
+2026-10-05,tiny apartment,11
 2026-10-05,title,16
 2026-10-05,title style,16
 2026-10-05,title style text,16
-2026-10-05,today,6
-2026-10-05,transform,8
-2026-10-05,transformation,7
+2026-10-05,today,5
+2026-10-05,tour,3
+2026-10-05,transform,9
+2026-10-05,transform home,5
+2026-10-05,transformation,6
 2026-10-05,trend,20
-2026-10-05,trending,6
-2026-10-05,trends,24
+2026-10-05,trending,7
+2026-10-05,trends,33
 2026-10-05,trends designers,4
 2026-10-05,trends designers say,4
 2026-10-05,trends fall,1
-2026-10-05,try,2
-2026-10-05,unique,6
+2026-10-05,trick,3
+2026-10-05,try,3
+2026-10-05,unique,5
 2026-10-05,updated,2
 2026-10-05,urban,11
 2026-10-05,use,4
 2026-10-05,used,6
 2026-10-05,vertical,4
-2026-10-05,video,10
-2026-10-05,view,5
+2026-10-05,video,9
 2026-10-05,vintage,1
-2026-10-05,viral,7
+2026-10-05,viral,6
 2026-10-05,wall,13
 2026-10-05,walls,4
-2026-10-05,warm,5
-2026-10-05,water,5
-2026-10-05,way,2
+2026-10-05,want,1
+2026-10-05,warm,4
+2026-10-05,way,5
 2026-10-05,ways,2
-2026-10-05,welcome,7
+2026-10-05,welcome,6
 2026-10-05,width,16
 2026-10-05,width class,16
 2026-10-05,width class rws,16
-2026-10-05,won,4
-2026-10-05,work,4
+2026-10-05,window,3
+2026-10-05,wood,11
+2026-10-05,work,5
 2026-10-05,world,4
 2026-10-05,year,3
-2026-10-05,years,6
+2026-10-05,years,5
+2026-10-05,yes,1
