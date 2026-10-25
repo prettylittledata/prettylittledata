@@ -13,7 +13,9 @@ period,Term,Count
 2026-09-14,claire,4
 2026-09-14,color,2
 2026-09-14,elle,2
-2026-09-14,fall,6
+2026-09-14,fall,8
+2026-09-14,fall zoe,4
+2026-09-14,fall zoe report,4
 2026-09-14,fashion,18
 2026-09-14,fashion trend,4
 2026-09-14,fashion trends,2
@@ -25,19 +27,19 @@ period,Term,Count
 2026-09-14,fashionista spring,2
 2026-09-14,fashionista spring trends,2
 2026-09-14,instyle,2
-2026-09-14,know,6
+2026-09-14,know,8
 2026-09-14,look,2
 2026-09-14,make,2
 2026-09-14,marie,4
 2026-09-14,marie claire,4
-2026-09-14,need,2
-2026-09-14,need know,2
+2026-09-14,need,4
+2026-09-14,need know,4
 2026-09-14,new,14
 2026-09-14,new york,12
 2026-09-14,new york fashion,12
 2026-09-14,novelty,2
 2026-09-14,people,4
-2026-09-14,report,2
+2026-09-14,report,4
 2026-09-14,runway,4
 2026-09-14,runway trends,4
 2026-09-14,saw,2
@@ -50,18 +52,18 @@ period,Term,Count
 2026-09-14,street style,2
 2026-09-14,street style trends,2
 2026-09-14,streetwear,2
-2026-09-14,style,4
+2026-09-14,style,6
 2026-09-14,style trends,2
 2026-09-14,summer,2
 2026-09-14,surprisingly,4
 2026-09-14,taking,2
-2026-09-14,trend,6
+2026-09-14,trend,8
 2026-09-14,trends,16
 2026-09-14,trends know,4
 2026-09-14,trends new,4
 2026-09-14,trends new york,4
 2026-09-14,trends spotted,2
-2026-09-14,vintage,2
+2026-09-14,vintage,4
 2026-09-14,vogue,2
 2026-09-14,wear,2
 2026-09-14,wearing,2
@@ -73,8 +75,8 @@ period,Term,Count
 2026-09-14,york,12
 2026-09-14,york fashion,12
 2026-09-14,york fashion week,12
-2026-09-14,zoe,2
-2026-09-14,zoe report,2
+2026-09-14,zoe,4
+2026-09-14,zoe report,4
 2026-09-21,elle,2
 2026-09-21,fashion,8
 2026-09-21,fashion trends,2
@@ -118,7 +120,6 @@ period,Term,Count
 2026-09-28,fashionista,4
 2026-09-28,fashionista spring,2
 2026-09-28,fashionista spring trends,2
-2026-09-28,follow,2
 2026-09-28,gen,2
 2026-09-28,going,4
 2026-09-28,happened,4
@@ -132,7 +133,6 @@ period,Term,Count
 2026-09-28,key fall,6
 2026-09-28,know,10
 2026-09-28,know season,4
-2026-09-28,lifestyle,2
 2026-09-28,london,4
 2026-09-28,london fashion,2
 2026-09-28,london fashion week,2
@@ -176,6 +176,7 @@ period,Term,Count
 2026-09-28,trends,30
 2026-09-28,trends fashion,2
 2026-09-28,trends know,10
+2026-09-28,trends milan,4
 2026-09-28,trends spotted,2
 2026-09-28,unexpected,4
 2026-09-28,viral,4
@@ -202,14 +203,16 @@ period,Term,Count
 2026-10-05,biggest spring,4
 2026-10-05,biggest spring trends,4
 2026-10-05,black,3
+2026-10-05,bold,2
 2026-10-05,chic,2
 2026-10-05,claire,4
 2026-10-05,clothing,1
 2026-10-05,coats,4
 2026-10-05,coming,4
 2026-10-05,cool,2
-2026-10-05,dated,8
+2026-10-05,dated,6
 2026-10-05,dated fall,2
+2026-10-05,days,4
 2026-10-05,defining,4
 2026-10-05,dressing,4
 2026-10-05,drip,9
@@ -220,19 +223,19 @@ period,Term,Count
 2026-10-05,elle fall,1
 2026-10-05,embrace,2
 2026-10-05,everyday,2
-2026-10-05,fall,20
+2026-10-05,fall,18
 2026-10-05,fall fashion,4
 2026-10-05,fall fashion trends,2
 2026-10-05,fall instyle,2
-2026-10-05,fashion,69
+2026-10-05,fashion,65
 2026-10-05,fashion month,2
-2026-10-05,fashion streetwear,8
+2026-10-05,fashion streetwear,6
 2026-10-05,fashion trend,10
 2026-10-05,fashion trends,8
 2026-10-05,fashion trends spotted,4
 2026-10-05,fashion week,16
 2026-10-05,fashion week spring,6
-2026-10-05,fashion writer,8
+2026-10-05,fashion writer,6
 2026-10-05,fashionista,8
 2026-10-05,fashionista biggest,3
 2026-10-05,favorite,2
@@ -243,12 +246,9 @@ period,Term,Count
 2026-10-05,going,4
 2026-10-05,haul,2
 2026-10-05,heuritech,10
-2026-10-05,high,2
 2026-10-05,highlights,4
 2026-10-05,inside,4
-2026-10-05,instead,10
-2026-10-05,instead travel,6
-2026-10-05,instead travel leisure,6
+2026-10-05,instead,8
 2026-10-05,instyle,2
 2026-10-05,jacket,5
 2026-10-05,jackets,2
@@ -258,14 +258,15 @@ period,Term,Count
 2026-10-05,knitwear,2
 2026-10-05,know,6
 2026-10-05,leather,4
-2026-10-05,leisure,10
-2026-10-05,leisure fashion,4
-2026-10-05,leisure fashion writer,4
+2026-10-05,leisure,8
+2026-10-05,leisure fashion,3
+2026-10-05,leisure fashion writer,3
 2026-10-05,luxury,4
 2026-10-05,marie,4
 2026-10-05,marie claire,4
 2026-10-05,men,1
-2026-10-05,menstyle,3
+2026-10-05,menstyle,4
+2026-10-05,menstyle outfitinspo,3
 2026-10-05,minutes,4
 2026-10-05,missed,4
 2026-10-05,month,2
@@ -273,6 +274,7 @@ period,Term,Count
 2026-10-05,new york,2
 2026-10-05,outfit,1
 2026-10-05,outfitideas,1
+2026-10-05,outfitinspo,3
 2026-10-05,paris,18
 2026-10-05,paris fashion,14
 2026-10-05,paris fashion week,14
@@ -284,24 +286,22 @@ period,Term,Count
 2026-10-05,runways,8
 2026-10-05,says,2
 2026-10-05,season,12
-2026-10-05,shirts,2
 2026-10-05,shop,6
 2026-10-05,shorts,1
 2026-10-05,shows,4
 2026-10-05,skirt,4
-2026-10-05,sneakers,1
 2026-10-05,spotted,4
 2026-10-05,spring,20
 2026-10-05,spring fashion,4
 2026-10-05,spring summer,6
 2026-10-05,spring trends,4
+2026-10-05,statement,2
 2026-10-05,street,2
 2026-10-05,street style,2
 2026-10-05,street style trends,2
-2026-10-05,streetwear,12
+2026-10-05,streetwear,10
 2026-10-05,sturdy,3
-2026-10-05,style,8
-2026-10-05,style fashion,4
+2026-10-05,style,7
 2026-10-05,style trends,2
 2026-10-05,styles,2
 2026-10-05,stylist,2
@@ -310,15 +310,15 @@ period,Term,Count
 2026-10-05,tiktok,6
 2026-10-05,time,8
 2026-10-05,times,2
-2026-10-05,travel,10
-2026-10-05,travel leisure,10
-2026-10-05,travel leisure fashion,4
+2026-10-05,travel,8
+2026-10-05,travel leisure,8
+2026-10-05,travel leisure fashion,3
 2026-10-05,trench,4
 2026-10-05,trench coats,4
 2026-10-05,trend,22
 2026-10-05,trending,1
-2026-10-05,trends,42
-2026-10-05,trends fall,6
+2026-10-05,trends,40
+2026-10-05,trends fall,4
 2026-10-05,trends fashion,4
 2026-10-05,trends know,2
 2026-10-05,trends spotted,4
@@ -328,12 +328,11 @@ period,Term,Count
 2026-10-05,want,2
 2026-10-05,wardrobes,4
 2026-10-05,wear,14
-2026-10-05,wearing,4
-2026-10-05,wearing instead,4
+2026-10-05,wearing,2
 2026-10-05,week,16
 2026-10-05,week spring,6
 2026-10-05,winter,1
-2026-10-05,writer,8
+2026-10-05,writer,6
 2026-10-05,wwd,2
 2026-10-05,york,2
 2026-10-05,zoe,4
@@ -343,7 +342,7 @@ period,Term,Count
 2026-10-12,black,1
 2026-10-12,boy,3
 2026-10-12,chic,2
-2026-10-12,cozy,3
+2026-10-12,confidence,1
 2026-10-12,dated,2
 2026-10-12,dated fall,2
 2026-10-12,elegant,2
@@ -361,10 +360,9 @@ period,Term,Count
 2026-10-12,fashion week spring,2
 2026-10-12,favorite,2
 2026-10-12,fyp,1
-2026-10-12,gold,2
+2026-10-12,home,2
 2026-10-12,hooded,1
 2026-10-12,hoodie,6
-2026-10-12,instagram,1
 2026-10-12,instead,2
 2026-10-12,jackets,1
 2026-10-12,know,6
@@ -423,13 +421,11 @@ period,Term,Count
 2026-10-12,trend need know,2
 2026-10-12,trends,10
 2026-10-12,trends spring,2
-2026-10-12,used,1
 2026-10-12,vintage,2
 2026-10-12,vogue,4
 2026-10-12,wear,5
 2026-10-12,week,2
 2026-10-12,week spring,2
-2026-10-12,western,4
 2026-10-12,winter,2
 2026-10-12,women,4
 2026-10-12,yahoo,2
@@ -437,269 +433,300 @@ period,Term,Count
 2026-10-19,accessory,8
 2026-10-19,according,2
 2026-10-19,adria,6
-2026-10-19,aesthetic,4
 2026-10-19,affordable,5
-2026-10-19,american,3
-2026-10-19,autumn,8
+2026-10-19,american,6
+2026-10-19,american fashion,5
+2026-10-19,american fashion tranding,5
+2026-10-19,autumn,11
 2026-10-19,autumn winter,4
 2026-10-19,bag,4
 2026-10-19,bags,2
 2026-10-19,basic,4
 2026-10-19,bazaar,10
-2026-10-19,beautiful,5
 2026-10-19,beauty,6
 2026-10-19,best,11
 2026-10-19,big,6
-2026-10-19,biggest,6
-2026-10-19,black,4
-2026-10-19,block,5
+2026-10-19,biggest,8
+2026-10-19,black,5
+2026-10-19,bold,7
 2026-10-19,boy,4
 2026-10-19,bridal,15
 2026-10-19,bridal fashion,12
 2026-10-19,bridal fashion week,12
-2026-10-19,brown,4
-2026-10-19,budget,4
 2026-10-19,buy,4
-2026-10-19,casual,8
-2026-10-19,chic,8
+2026-10-19,casual,5
+2026-10-19,chic,10
 2026-10-19,claire,8
-2026-10-19,classic,4
-2026-10-19,classy,13
-2026-10-19,clothing,7
+2026-10-19,classy,10
+2026-10-19,clothing,4
 2026-10-19,coats,6
 2026-10-19,collection,5
-2026-10-19,college,4
-2026-10-19,color,12
-2026-10-19,color block,5
+2026-10-19,color,9
+2026-10-19,confidence,2
+2026-10-19,confident,3
 2026-10-19,cool,6
-2026-10-19,cozy,1
 2026-10-19,dated,8
 2026-10-19,dated fall,2
+2026-10-19,days,2
 2026-10-19,defining,2
-2026-10-19,denim,13
-2026-10-19,designer,4
-2026-10-19,destination,6
+2026-10-19,denim,11
+2026-10-19,designer,2
+2026-10-19,destination,8
+2026-10-19,destination women,5
+2026-10-19,destination women fashion,5
 2026-10-19,did,5
-2026-10-19,discover,15
-2026-10-19,dress,8
+2026-10-19,discover,19
+2026-10-19,discover trendy,5
+2026-10-19,dress,13
 2026-10-19,dress trends,6
 2026-10-19,dressing,6
 2026-10-19,drip,1
 2026-10-19,easy,8
 2026-10-19,editor,5
 2026-10-19,editors,2
-2026-10-19,elegance,2
+2026-10-19,elegance,3
 2026-10-19,elegant,6
-2026-10-19,elle,20
+2026-10-19,elle,18
 2026-10-19,embrace,1
 2026-10-19,everyday,2
-2026-10-19,fall,53
-2026-10-19,fall fashion,4
-2026-10-19,fall fashion trends,4
+2026-10-19,fall,56
+2026-10-19,fall fashion,9
+2026-10-19,fall fashion trends,9
 2026-10-19,fall harper,6
 2026-10-19,fall harper bazaar,6
 2026-10-19,fall instyle,6
 2026-10-19,fall trends,6
 2026-10-19,fall wwd,4
-2026-10-19,fashion,145
-2026-10-19,fashion outfit,5
+2026-10-19,fall zoe,2
+2026-10-19,fall zoe report,2
+2026-10-19,fashion,159
+2026-10-19,fashion outfit,8
+2026-10-19,fashion outfit inspiration,6
 2026-10-19,fashion people,6
 2026-10-19,fashion people wearing,6
-2026-10-19,fashion shorts,4
-2026-10-19,fashion shorts discover,3
 2026-10-19,fashion streetwear,6
-2026-10-19,fashion stylish,3
-2026-10-19,fashion trend,11
+2026-10-19,fashion stylish,4
+2026-10-19,fashion tranding,5
+2026-10-19,fashion tranding style,5
+2026-10-19,fashion trend,10
 2026-10-19,fashion trend need,4
-2026-10-19,fashion trends,20
+2026-10-19,fashion trends,33
+2026-10-19,fashion trends discover,5
+2026-10-19,fashion trends woman,5
 2026-10-19,fashion week,15
 2026-10-19,fashion week fall,6
 2026-10-19,fashion week vogue,4
-2026-10-19,fashiontrends,13
-2026-10-19,favorite,3
-2026-10-19,follow,2
+2026-10-19,fashiontrends,10
+2026-10-19,favorite,1
+2026-10-19,fit,3
 2026-10-19,forget,4
 2026-10-19,formal,5
 2026-10-19,france,2
 2026-10-19,fun,3
-2026-10-19,fyp,6
+2026-10-19,fyp,8
 2026-10-19,gen,7
 2026-10-19,getting,6
-2026-10-19,girl,7
+2026-10-19,girl,8
 2026-10-19,girls,4
 2026-10-19,glam,6
-2026-10-19,gold,4
 2026-10-19,happened,2
 2026-10-19,harper,10
 2026-10-19,harper bazaar,10
-2026-10-19,haul,5
-2026-10-19,high,3
+2026-10-19,haul,4
+2026-10-19,home,3
 2026-10-19,hooded,4
-2026-10-19,hoodie,3
-2026-10-19,ideas,14
+2026-10-19,ideas,9
 2026-10-19,included,4
 2026-10-19,india,4
-2026-10-19,inspiration,4
-2026-10-19,inspired,2
-2026-10-19,instagram,3
+2026-10-19,inspiration,7
+2026-10-19,inspiration styling,5
+2026-10-19,inspiration styling tips,5
+2026-10-19,inspired,3
 2026-10-19,instead,6
 2026-10-19,instyle,20
-2026-10-19,jacket,11
-2026-10-19,jackets,3
-2026-10-19,jeans,15
+2026-10-19,jacket,12
+2026-10-19,jackets,4
+2026-10-19,jeans,13
 2026-10-19,just,11
 2026-10-19,knitwear,4
-2026-10-19,know,8
+2026-10-19,know,6
 2026-10-19,know yahoo,4
-2026-10-19,latest,6
-2026-10-19,leather,1
+2026-10-19,latest,7
+2026-10-19,latest fashion,5
+2026-10-19,latest fashion trends,5
+2026-10-19,leather,2
 2026-10-19,leisure,2
 2026-10-19,life,6
-2026-10-19,lifestyle,3
-2026-10-19,like,8
-2026-10-19,london,6
-2026-10-19,look,20
-2026-10-19,looking,14
+2026-10-19,like,7
+2026-10-19,london,9
+2026-10-19,london fashion,1
+2026-10-19,look,22
+2026-10-19,looking,12
 2026-10-19,looks,7
 2026-10-19,loose,4
-2026-10-19,love,8
+2026-10-19,love,10
 2026-10-19,luxury,8
 2026-10-19,make,9
 2026-10-19,marie,10
 2026-10-19,marie claire,8
 2026-10-19,media,3
-2026-10-19,men,44
-2026-10-19,men outfit,6
-2026-10-19,mensfashion,6
-2026-10-19,menswear,5
+2026-10-19,men,43
+2026-10-19,men fashion,9
+2026-10-19,men shorts,4
+2026-10-19,milan,1
 2026-10-19,minutes,1
-2026-10-19,modern,8
+2026-10-19,modern,10
 2026-10-19,moment,6
 2026-10-19,month,1
+2026-10-19,muse,10
+2026-10-19,muse destination,5
+2026-10-19,muse destination women,5
+2026-10-19,muse usafashion,5
+2026-10-19,muse usafashion american,5
 2026-10-19,need,7
 2026-10-19,need know,4
 2026-10-19,need know yahoo,4
-2026-10-19,needs,3
-2026-10-19,new,26
+2026-10-19,needs,7
+2026-10-19,needs try,5
+2026-10-19,needs try style,5
+2026-10-19,new,27
 2026-10-19,new york,8
 2026-10-19,new york bridal,8
 2026-10-19,novelty,4
-2026-10-19,official,5
-2026-10-19,old,9
+2026-10-19,old,8
 2026-10-19,online,3
-2026-10-19,ootd,6
-2026-10-19,outfit,39
-2026-10-19,outfit ideas,10
-2026-10-19,outfitideas,5
-2026-10-19,outfits,10
+2026-10-19,ootd,7
+2026-10-19,outfit,21
+2026-10-19,outfit ideas,5
+2026-10-19,outfit inspiration,6
+2026-10-19,outfit inspiration styling,5
+2026-10-19,outfitideas,4
+2026-10-19,outfitinspo,2
+2026-10-19,outfits,12
 2026-10-19,pants,4
 2026-10-19,paris,2
 2026-10-19,past,6
 2026-10-19,past prime,6
-2026-10-19,people,9
-2026-10-19,people wearing,6
-2026-10-19,perfect,3
+2026-10-19,people,11
+2026-10-19,people wearing,8
 2026-10-19,photos,6
-2026-10-19,pick,4
-2026-10-19,pieces,4
+2026-10-19,pieces,3
 2026-10-19,platform,2
-2026-10-19,pop,7
-2026-10-19,premium,11
+2026-10-19,pop,6
+2026-10-19,premium,8
 2026-10-19,prime,6
 2026-10-19,purple,4
 2026-10-19,ready,5
-2026-10-19,real,4
-2026-10-19,report,8
+2026-10-19,real,5
+2026-10-19,report,6
 2026-10-19,rich,6
 2026-10-19,rich looking,6
 2026-10-19,runway,8
 2026-10-19,runway trend,4
 2026-10-19,saw,4
 2026-10-19,says,4
-2026-10-19,season,9
-2026-10-19,set,10
-2026-10-19,shirt,6
-2026-10-19,shirts,6
+2026-10-19,season,7
+2026-10-19,set,7
+2026-10-19,shirt,5
 2026-10-19,shoe,4
-2026-10-19,shop,9
-2026-10-19,shorts,27
-2026-10-19,shorts discover,4
-2026-10-19,shorts fashion,5
-2026-10-19,shorts viral,4
-2026-10-19,size,3
-2026-10-19,skirt,4
+2026-10-19,shop,8
+2026-10-19,shorts,29
+2026-10-19,shorts discover,3
+2026-10-19,shorts fashion,4
+2026-10-19,shorts viral,5
+2026-10-19,size,2
+2026-10-19,skirt,6
 2026-10-19,skirts,7
-2026-10-19,sneakers,5
 2026-10-19,social,3
 2026-10-19,social media,3
-2026-10-19,spring,6
-2026-10-19,street,8
-2026-10-19,street style,6
+2026-10-19,spring,4
+2026-10-19,statement,3
+2026-10-19,street,10
+2026-10-19,street style,9
 2026-10-19,streetwear,9
 2026-10-19,streetwear tiktokfashion,2
 2026-10-19,sturdy,1
-2026-10-19,style,42
-2026-10-19,style fashion,1
-2026-10-19,style shorts,3
-2026-10-19,styles,8
+2026-10-19,style,50
+2026-10-19,style muse,10
+2026-10-19,style muse destination,5
+2026-10-19,style muse usafashion,5
+2026-10-19,styles,9
 2026-10-19,styling,11
-2026-10-19,stylish,29
+2026-10-19,styling tips,5
+2026-10-19,styling tips latest,5
+2026-10-19,stylish,27
+2026-10-19,stylish outfits,3
 2026-10-19,stylist,4
 2026-10-19,stylist says,2
-2026-10-19,suit,9
+2026-10-19,suit,6
 2026-10-19,surprisingly,2
-2026-10-19,sweater,4
+2026-10-19,sweater,5
 2026-10-19,sweaters,5
-2026-10-19,taking,8
+2026-10-19,taking,6
 2026-10-19,textures,6
 2026-10-19,tiktokfashion,2
 2026-10-19,time,2
 2026-10-19,times,4
+2026-10-19,tips,5
+2026-10-19,tips latest,5
+2026-10-19,tips latest fashion,5
+2026-10-19,title,4
 2026-10-19,took,5
+2026-10-19,tranding,5
+2026-10-19,tranding style,5
+2026-10-19,tranding style muse,5
 2026-10-19,travel,2
 2026-10-19,travel leisure,2
 2026-10-19,trench,4
 2026-10-19,trench coats,4
-2026-10-19,trend,40
+2026-10-19,trend,42
 2026-10-19,trend need,4
 2026-10-19,trend need know,4
 2026-10-19,trend wear,6
-2026-10-19,trending,16
-2026-10-19,trends,58
+2026-10-19,trending,13
+2026-10-19,trends,71
+2026-10-19,trends discover,5
+2026-10-19,trends discover trendy,5
 2026-10-19,trends fall,4
-2026-10-19,trends fashion,2
+2026-10-19,trends fashion,1
 2026-10-19,trends know,2
+2026-10-19,trends milan,1
 2026-10-19,trends new,6
 2026-10-19,trends new york,6
-2026-10-19,trendy,14
-2026-10-19,try,7
+2026-10-19,trends woman,5
+2026-10-19,trends woman needs,5
+2026-10-19,trendy,13
+2026-10-19,try,9
+2026-10-19,try style,5
+2026-10-19,try style muse,5
 2026-10-19,turn,3
 2026-10-19,unexpected,4
-2026-10-19,upgrade,8
-2026-10-19,used,2
-2026-10-19,video,5
+2026-10-19,upgrade,7
+2026-10-19,usafashion,5
+2026-10-19,usafashion american,5
+2026-10-19,usafashion american fashion,5
 2026-10-19,vintage,12
-2026-10-19,viral,11
+2026-10-19,viral,14
 2026-10-19,vogue,20
 2026-10-19,vogue adria,6
 2026-10-19,want,2
 2026-10-19,wardrobes,2
-2026-10-19,wear,29
-2026-10-19,wearing,14
-2026-10-19,wearing instead,2
+2026-10-19,ways,5
+2026-10-19,wear,26
+2026-10-19,wearing,16
 2026-10-19,week,17
 2026-10-19,week fall,6
 2026-10-19,week vogue,4
-2026-10-19,welcome,6
-2026-10-19,western,1
-2026-10-19,winter,27
-2026-10-19,winter fashion,8
-2026-10-19,woman,3
-2026-10-19,women,26
+2026-10-19,welcome,5
+2026-10-19,winter,30
+2026-10-19,winter fashion,10
+2026-10-19,woman,8
+2026-10-19,woman needs,5
+2026-10-19,woman needs try,5
+2026-10-19,women,27
 2026-10-19,women fashion,14
-2026-10-19,women fashion shorts,3
-2026-10-19,women fashion trends,3
-2026-10-19,wwd,14
+2026-10-19,women fashion outfit,5
+2026-10-19,wwd,12
 2026-10-19,yahoo,9
 2026-10-19,year,6
 2026-10-19,year old,4
@@ -707,5 +734,7 @@ period,Term,Count
 2026-10-19,york,8
 2026-10-19,york bridal,8
 2026-10-19,york bridal fashion,8
+2026-10-19,youtube,6
+2026-10-19,youtubeshorts,3
 2026-10-19,zoe,4
 2026-10-19,zoe report,4
