@@ -1,9 +1,4 @@
 period,Term,Count
-2026-09-28,fashion,2
-2026-09-28,fashion trends,2
-2026-09-28,trends,2
-2026-09-28,wear,2
-2026-09-28,winter,2
 2026-10-05,fall,2
 2026-10-05,fashion,6
 2026-10-05,fashion trend,4
@@ -17,6 +12,8 @@ period,Term,Count
 2026-10-19,fashion trend,2
 2026-10-19,favorite,2
 2026-10-19,mensfashion,2
+2026-10-19,mensfashion mensstyle,2
+2026-10-19,mensstyle,2
 2026-10-19,trend,2
 2026-10-26,black,1
 2026-10-26,collection,1
@@ -63,6 +60,7 @@ period,Term,Count
 2026-11-02,black,3
 2026-11-02,budget,1
 2026-11-02,casual,6
+2026-11-02,clothing,1
 2026-11-02,dark,5
 2026-11-02,day,1
 2026-11-02,everyday,1
@@ -74,7 +72,6 @@ period,Term,Count
 2026-11-02,gala,6
 2026-11-02,gen,3
 2026-11-02,good,2
-2026-11-02,great,2
 2026-11-02,hair,3
 2026-11-02,halloween,5
 2026-11-02,humor,1
@@ -90,7 +87,6 @@ period,Term,Count
 2026-11-02,nicole,2
 2026-11-02,online,2
 2026-11-02,pants,9
-2026-11-02,party,1
 2026-11-02,people,1
 2026-11-02,podcast,1
 2026-11-02,ready,1
@@ -108,148 +104,153 @@ period,Term,Count
 2026-11-09,annual,1
 2026-11-09,art,1
 2026-11-09,autumn,6
-2026-11-09,bags,3
-2026-11-09,beauty,11
-2026-11-09,beauty everyday,11
-2026-11-09,beauty everyday style,11
+2026-11-09,beautiful,4
+2026-11-09,beauty,10
+2026-11-09,beauty everyday,10
+2026-11-09,beauty everyday style,10
 2026-11-09,best,9
 2026-11-09,black,10
+2026-11-09,bold,5
+2026-11-09,boots,6
 2026-11-09,brand,8
 2026-11-09,brings,6
-2026-11-09,brown,6
+2026-11-09,brown,5
 2026-11-09,budget,8
 2026-11-09,campus,6
-2026-11-09,casual,13
+2026-11-09,casual,11
 2026-11-09,claire,8
-2026-11-09,classy,4
+2026-11-09,classy,6
+2026-11-09,clothing,3
 2026-11-09,coat,9
-2026-11-09,collection,9
+2026-11-09,collection,10
 2026-11-09,cool,7
 2026-11-09,cosmopolitan,6
-2026-11-09,crazyfashion,5
-2026-11-09,crazyfashion shorts,5
-2026-11-09,crazyfashion shorts viral,5
+2026-11-09,crazyfashion,3
+2026-11-09,crazyfashion shorts,3
+2026-11-09,crazyfashion shorts viral,3
 2026-11-09,day,1
-2026-11-09,deals,3
 2026-11-09,denim,13
 2026-11-09,design,6
 2026-11-09,destination,14
-2026-11-09,destination stylish,11
-2026-11-09,destination stylish outfits,11
-2026-11-09,discover,10
+2026-11-09,destination stylish,10
+2026-11-09,destination stylish outfits,10
+2026-11-09,discover,11
+2026-11-09,discover latest,4
 2026-11-09,dominate,6
-2026-11-09,dress,7
-2026-11-09,elegance,4
-2026-11-09,elegant,5
-2026-11-09,everyday,15
-2026-11-09,everyday style,12
+2026-11-09,dress,6
+2026-11-09,elegance,5
+2026-11-09,elegant,10
+2026-11-09,everyday,13
+2026-11-09,everyday style,11
 2026-11-09,explore,3
-2026-11-09,fall,17
-2026-11-09,fall winter,6
-2026-11-09,fashion,143
-2026-11-09,fashion glow,11
-2026-11-09,fashion glow destination,11
-2026-11-09,fashion stylish,4
-2026-11-09,fashion trend,10
-2026-11-09,fashion trends,51
-2026-11-09,fashion trends need,13
-2026-11-09,fashion trends outfit,11
+2026-11-09,fall,19
+2026-11-09,fall winter,8
+2026-11-09,fall winter fashion,6
+2026-11-09,fashion,145
+2026-11-09,fashion glow,10
+2026-11-09,fashion glow destination,10
+2026-11-09,fashion stylish,6
+2026-11-09,fashion stylish outfits,3
+2026-11-09,fashion trend,9
+2026-11-09,fashion trends,50
+2026-11-09,fashion trends need,12
+2026-11-09,fashion trends outfit,10
 2026-11-09,fashion wear,1
-2026-11-09,fashionglow,11
-2026-11-09,fashionglow fashion,11
-2026-11-09,fashionglow fashion trends,11
-2026-11-09,fashiontrends,10
+2026-11-09,fashionglow,10
+2026-11-09,fashionglow fashion,10
+2026-11-09,fashionglow fashion trends,10
+2026-11-09,fashiontrends,9
 2026-11-09,favorite,1
 2026-11-09,film,4
 2026-11-09,fit,12
-2026-11-09,formal,8
-2026-11-09,foryou,5
-2026-11-09,foryou fyp,5
-2026-11-09,foryou fyp love,5
-2026-11-09,fyp,6
-2026-11-09,fyp love,5
-2026-11-09,fyp love crazyfashion,5
+2026-11-09,formal,6
+2026-11-09,foryou,3
+2026-11-09,foryou fyp,3
+2026-11-09,foryou fyp love,3
+2026-11-09,fyp,5
+2026-11-09,fyp love,3
+2026-11-09,fyp love crazyfashion,3
 2026-11-09,gala,3
 2026-11-09,gen,8
-2026-11-09,glow,11
-2026-11-09,glow destination,11
-2026-11-09,glow destination stylish,11
-2026-11-09,good,9
-2026-11-09,great,3
+2026-11-09,glow,10
+2026-11-09,glow destination,10
+2026-11-09,glow destination stylish,10
+2026-11-09,good,8
 2026-11-09,hair,3
 2026-11-09,high,6
-2026-11-09,humor,5
-2026-11-09,humor usa,4
-2026-11-09,humor usa foryou,4
-2026-11-09,ideas,6
-2026-11-09,inspiration,16
-2026-11-09,inspiration beauty,11
-2026-11-09,inspiration beauty everyday,11
-2026-11-09,inspired,5
+2026-11-09,humor,3
+2026-11-09,humor usa,3
+2026-11-09,humor usa foryou,3
+2026-11-09,ideas,7
+2026-11-09,inspiration,12
+2026-11-09,inspiration beauty,10
+2026-11-09,inspiration beauty everyday,10
+2026-11-09,inspired,7
 2026-11-09,jacket,12
 2026-11-09,jeans,10
-2026-11-09,just,7
+2026-11-09,just,5
 2026-11-09,know,10
-2026-11-09,latest,7
+2026-11-09,latest,9
 2026-11-09,life,4
-2026-11-09,like,6
-2026-11-09,long,5
-2026-11-09,look,7
-2026-11-09,looking,6
-2026-11-09,looks,5
-2026-11-09,love,12
-2026-11-09,love crazyfashion,5
-2026-11-09,love crazyfashion shorts,5
+2026-11-09,like,4
+2026-11-09,long,6
+2026-11-09,look,6
+2026-11-09,looking,5
+2026-11-09,looks,7
+2026-11-09,love,11
+2026-11-09,love crazyfashion,3
+2026-11-09,love crazyfashion shorts,3
 2026-11-09,luxury,10
 2026-11-09,magazine,4
 2026-11-09,marie,8
 2026-11-09,marie claire,8
-2026-11-09,men,47
-2026-11-09,men fashion,18
-2026-11-09,mens,6
-2026-11-09,mensfashion,6
+2026-11-09,men,45
+2026-11-09,men fashion,20
+2026-11-09,mens,7
+2026-11-09,mensfashion,8
+2026-11-09,mensfashion mensstyle,2
+2026-11-09,mensstyle,2
 2026-11-09,modern,11
 2026-11-09,museum,1
-2026-11-09,need,15
-2026-11-09,need try,11
-2026-11-09,need try shorts,11
-2026-11-09,new,19
+2026-11-09,need,16
+2026-11-09,need try,10
+2026-11-09,need try shorts,10
+2026-11-09,new,22
 2026-11-09,nicole,4
-2026-11-09,online,2
-2026-11-09,outfit,26
-2026-11-09,outfit ideas,6
-2026-11-09,outfit inspiration,13
-2026-11-09,outfit inspiration beauty,11
-2026-11-09,outfits,24
-2026-11-09,outfits fashion,12
-2026-11-09,outfits fashion trends,12
+2026-11-09,online,3
+2026-11-09,outfit,27
+2026-11-09,outfit ideas,7
+2026-11-09,outfit inspiration,10
+2026-11-09,outfit inspiration beauty,10
+2026-11-09,outfits,20
+2026-11-09,outfits fashion,11
+2026-11-09,outfits fashion trends,11
 2026-11-09,pant,5
-2026-11-09,pants,9
-2026-11-09,party,4
+2026-11-09,pants,8
 2026-11-09,people,6
-2026-11-09,perfect,9
+2026-11-09,perfect,6
 2026-11-09,podcast,3
-2026-11-09,premium,6
+2026-11-09,premium,5
 2026-11-09,premium fashion,3
 2026-11-09,premium fashion stylish,3
 2026-11-09,reader,3
 2026-11-09,ready,2
-2026-11-09,report,6
 2026-11-09,retro,2
 2026-11-09,runways,4
-2026-11-09,season,10
-2026-11-09,set,7
-2026-11-09,shirt,14
+2026-11-09,season,8
+2026-11-09,set,6
+2026-11-09,shirt,16
 2026-11-09,shirts,4
 2026-11-09,shoe,6
-2026-11-09,shorts,26
-2026-11-09,shorts viral,7
-2026-11-09,shorts viral youtubeshorts,5
-2026-11-09,shorts welcome,11
-2026-11-09,shorts welcome fashion,11
+2026-11-09,shorts,27
+2026-11-09,shorts mensfashion,3
+2026-11-09,shorts viral,5
+2026-11-09,shorts viral youtubeshorts,3
+2026-11-09,shorts welcome,10
+2026-11-09,shorts welcome fashion,10
 2026-11-09,slim,7
 2026-11-09,slim fit,6
-2026-11-09,sneakers,6
+2026-11-09,sneakers,4
 2026-11-09,spot,5
 2026-11-09,spring,8
 2026-11-09,spring fashion,3
@@ -257,59 +258,60 @@ period,Term,Count
 2026-11-09,spring streetwear fashion,2
 2026-11-09,staples,2
 2026-11-09,step,3
-2026-11-09,street,14
-2026-11-09,street style,8
+2026-11-09,street,11
+2026-11-09,street style,6
 2026-11-09,streetwear,28
 2026-11-09,streetwear fashion,5
-2026-11-09,style,55
-2026-11-09,style fashion,4
+2026-11-09,style,47
+2026-11-09,style fashion,3
 2026-11-09,style men,5
 2026-11-09,styles,4
-2026-11-09,stylish,36
+2026-11-09,stylish,39
+2026-11-09,stylish outfit,3
 2026-11-09,stylish outfits,16
-2026-11-09,stylish outfits fashion,12
-2026-11-09,taking,10
+2026-11-09,stylish outfits fashion,11
+2026-11-09,taking,8
 2026-11-09,tiktok,5
-2026-11-09,time,4
-2026-11-09,tips,3
-2026-11-09,trend,45
-2026-11-09,trend taking,8
-2026-11-09,trending,4
+2026-11-09,timeless,4
+2026-11-09,trend,43
+2026-11-09,trend taking,6
+2026-11-09,trending,6
 2026-11-09,trends,64
 2026-11-09,trends know,6
-2026-11-09,trends need,13
-2026-11-09,trends need try,11
-2026-11-09,trends outfit,11
-2026-11-09,trends outfit inspiration,11
+2026-11-09,trends need,12
+2026-11-09,trends need try,10
+2026-11-09,trends outfit,10
+2026-11-09,trends outfit inspiration,10
 2026-11-09,trends set,4
-2026-11-09,trendy,3
+2026-11-09,trendy,4
 2026-11-09,trousers,3
-2026-11-09,try,15
-2026-11-09,try shorts,11
-2026-11-09,try shorts welcome,11
+2026-11-09,try,13
+2026-11-09,try shorts,10
+2026-11-09,try shorts welcome,10
 2026-11-09,ultimate,5
-2026-11-09,upgrade,7
-2026-11-09,upgrade style,5
-2026-11-09,usa,4
-2026-11-09,usa foryou,4
-2026-11-09,usa foryou fyp,4
-2026-11-09,video,2
-2026-11-09,vintage,8
-2026-11-09,viral,9
-2026-11-09,viral youtubeshorts,5
-2026-11-09,viral youtubeshorts fashiontrends,5
+2026-11-09,upgrade,5
+2026-11-09,upgrade style,3
+2026-11-09,usa,3
+2026-11-09,usa foryou,3
+2026-11-09,usa foryou fyp,3
+2026-11-09,video,3
+2026-11-09,vintage,6
+2026-11-09,viral,8
+2026-11-09,viral youtubeshorts,3
+2026-11-09,viral youtubeshorts fashiontrends,3
 2026-11-09,vogue,14
-2026-11-09,wear,24
-2026-11-09,wedding,8
-2026-11-09,welcome,15
+2026-11-09,wear,25
+2026-11-09,wedding,6
+2026-11-09,welcome,18
 2026-11-09,welcome fashion,12
-2026-11-09,welcome fashion glow,11
-2026-11-09,winter,33
+2026-11-09,welcome fashion glow,10
+2026-11-09,winter,35
 2026-11-09,winter fashion,9
-2026-11-09,winter fashion trends,4
+2026-11-09,winter fashion trends,6
 2026-11-09,woman,3
-2026-11-09,women,10
-2026-11-09,women fashion,6
+2026-11-09,women,15
+2026-11-09,women fashion,8
+2026-11-09,world,4
 2026-11-09,yaaranshort,3
-2026-11-09,youtubeshorts,5
-2026-11-09,youtubeshorts fashiontrends,5
+2026-11-09,youtubeshorts,3
+2026-11-09,youtubeshorts fashiontrends,3
