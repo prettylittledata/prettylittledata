@@ -1,11 +1,7 @@
 period,Term,Count
 2026-10-05,fall,2
-2026-10-05,fashion,4
-2026-10-05,fashion trend,2
 2026-10-05,shop,2
-2026-10-05,trend,2
 2026-10-05,trends,2
-2026-10-05,trendy,2
 2026-10-05,wear,2
 2026-10-12,alim,1
 2026-10-12,alim uzbek,1
@@ -28,8 +24,8 @@ period,Term,Count
 2026-10-12,hindi,1
 2026-10-12,hindi pashto,1
 2026-10-12,hindi pashto remix,1
-2026-10-12,hoodie,2
-2026-10-12,hoodies,2
+2026-10-12,hoodie,4
+2026-10-12,hoodies,4
 2026-10-12,leo,1
 2026-10-12,leo alim,1
 2026-10-12,leo alim uzbek,1
@@ -54,7 +50,6 @@ period,Term,Count
 2026-10-12,premium,1
 2026-10-12,premium winter,1
 2026-10-12,premium winter collection,1
-2026-10-12,printed,1
 2026-10-12,remix,1
 2026-10-12,remix song,1
 2026-10-12,remix song new,1
@@ -70,13 +65,15 @@ period,Term,Count
 2026-10-12,stock,1
 2026-10-12,stock yaaranshort,1
 2026-10-12,stock yaaranshort winterstyle,1
-2026-10-12,streetwear,5
+2026-10-12,streetwear,7
 2026-10-12,streetwear dilbare,1
 2026-10-12,streetwear dilbare dilbare,1
+2026-10-12,streetwear tiktokfashion,4
+2026-10-12,suit,2
 2026-10-12,tiktok,1
 2026-10-12,tiktok viral,1
 2026-10-12,tiktok viral song,1
-2026-10-12,trousers,2
+2026-10-12,tiktokfashion,4
 2026-10-12,uzbek,1
 2026-10-12,uzbek hindi,1
 2026-10-12,uzbek hindi pashto,1
@@ -127,7 +124,6 @@ period,Term,Count
 2026-10-19,festivals,1
 2026-10-19,festivals travels,1
 2026-10-19,festivals travels everyday,1
-2026-10-19,fitswitharchie,1
 2026-10-19,hindi,1
 2026-10-19,hindi pashto,1
 2026-10-19,hindi pashto remix,1
@@ -153,7 +149,6 @@ period,Term,Count
 2026-10-19,mcnicol,1
 2026-10-19,mcnicol journey,1
 2026-10-19,mcnicol journey favorite,1
-2026-10-19,mens,1
 2026-10-19,new,3
 2026-10-19,new mast,1
 2026-10-19,new mast dance,1
@@ -187,9 +182,11 @@ period,Term,Count
 2026-10-19,streetwear,3
 2026-10-19,streetwear dilbare,1
 2026-10-19,streetwear dilbare dilbare,1
+2026-10-19,streetwear tiktokfashion,2
 2026-10-19,tiktok,1
 2026-10-19,tiktok viral,1
 2026-10-19,tiktok viral song,1
+2026-10-19,tiktokfashion,2
 2026-10-19,travels,1
 2026-10-19,travels everyday,1
 2026-10-19,uzbek,1
@@ -208,26 +205,18 @@ period,Term,Count
 2026-10-19,yaaranshort winterstyle,1
 2026-10-19,yaaranshort winterstyle shorts,1
 2026-10-19,year,1
-2026-10-26,agent,1
 2026-10-26,alim,1
 2026-10-26,alim uzbek,1
 2026-10-26,alim uzbek hindi,1
-2026-10-26,archie,1
-2026-10-26,archie mcnicol,1
-2026-10-26,archie mcnicol journey,1
-2026-10-26,best,1
-2026-10-26,best agent,1
 2026-10-26,black,3
 2026-10-26,collection,1
 2026-10-26,collection limited,1
 2026-10-26,collection limited stock,1
-2026-10-26,coolest,3
+2026-10-26,colour,2
 2026-10-26,dance,1
 2026-10-26,dance pashto,1
 2026-10-26,dance pashto new,1
-2026-10-26,day,2
-2026-10-26,day life,1
-2026-10-26,day life archie,1
+2026-10-26,day,1
 2026-10-26,dilbare,2
 2026-10-26,dilbare dilbare,1
 2026-10-26,dilbare dilbare leo,1
@@ -236,35 +225,17 @@ period,Term,Count
 2026-10-26,dripcheck,1
 2026-10-26,dripcheck streetwear,1
 2026-10-26,dripcheck streetwear dilbare,1
-2026-10-26,everyday,1
-2026-10-26,fashion,12
-2026-10-26,fashion trends,6
-2026-10-26,favorite,1
-2026-10-26,favorite festivals,1
-2026-10-26,favorite festivals travels,1
-2026-10-26,festivals,1
-2026-10-26,festivals travels,1
-2026-10-26,festivals travels everyday,1
-2026-10-26,fitswitharchie,1
+2026-10-26,fashion,10
+2026-10-26,fashion trends,4
 2026-10-26,france,2
 2026-10-26,fyp,1
-2026-10-26,hair,1
 2026-10-26,halloween,1
 2026-10-26,hindi,1
 2026-10-26,hindi pashto,1
 2026-10-26,hindi pashto remix,1
-2026-10-26,hual,2
-2026-10-26,hual best,1
-2026-10-26,hual best agent,1
-2026-10-26,journey,1
-2026-10-26,journey favorite,1
-2026-10-26,journey favorite festivals,1
 2026-10-26,leo,1
 2026-10-26,leo alim,1
 2026-10-26,leo alim uzbek,1
-2026-10-26,life,1
-2026-10-26,life archie,1
-2026-10-26,life archie mcnicol,1
 2026-10-26,limited,1
 2026-10-26,limited stock,1
 2026-10-26,limited stock yaaranshort,1
@@ -273,12 +244,8 @@ period,Term,Count
 2026-10-26,mast,1
 2026-10-26,mast dance,1
 2026-10-26,mast dance pashto,1
-2026-10-26,mcnicol,1
-2026-10-26,mcnicol journey,1
-2026-10-26,mcnicol journey favorite,1
-2026-10-26,mens,1
 2026-10-26,mensfashion,2
-2026-10-26,new,9
+2026-10-26,new,7
 2026-10-26,new mast,1
 2026-10-26,new mast dance,1
 2026-10-26,new song,1
@@ -292,9 +259,6 @@ period,Term,Count
 2026-10-26,premium,1
 2026-10-26,premium winter,1
 2026-10-26,premium winter collection,1
-2026-10-26,ready,1
-2026-10-26,ready day,1
-2026-10-26,ready day life,1
 2026-10-26,remix,1
 2026-10-26,remix song,1
 2026-10-26,remix song new,1
@@ -306,6 +270,7 @@ period,Term,Count
 2026-10-26,song new,2
 2026-10-26,song new mast,1
 2026-10-26,song new tiktok,1
+2026-10-26,sorry,2
 2026-10-26,spring,4
 2026-10-26,stock,1
 2026-10-26,stock yaaranshort,1
@@ -314,33 +279,27 @@ period,Term,Count
 2026-10-26,streetwear dilbare,1
 2026-10-26,streetwear dilbare dilbare,1
 2026-10-26,style,2
-2026-10-26,styles,4
 2026-10-26,stylish,2
 2026-10-26,tiktok,1
 2026-10-26,tiktok viral,1
 2026-10-26,tiktok viral song,1
-2026-10-26,travels,1
-2026-10-26,travels everyday,1
-2026-10-26,trends,8
-2026-10-26,try,4
+2026-10-26,trends,6
+2026-10-26,try,2
 2026-10-26,uzbek,1
 2026-10-26,uzbek hindi,1
 2026-10-26,uzbek hindi pashto,1
 2026-10-26,viral,1
 2026-10-26,viral song,1
 2026-10-26,viral song new,1
-2026-10-26,vogue,4
 2026-10-26,wear,4
-2026-10-26,winter,7
+2026-10-26,winter,5
 2026-10-26,winter collection,1
 2026-10-26,winter collection limited,1
-2026-10-26,winter fashion,4
-2026-10-26,winter fashion trends,4
-2026-10-26,winter wear,2
+2026-10-26,winter fashion,2
+2026-10-26,winter fashion trends,2
 2026-10-26,winterstyle,1
 2026-10-26,winterstyle shorts,1
 2026-10-26,winterstyle shorts dripcheck,1
-2026-10-26,woman,1
 2026-10-26,yaaranshort,1
 2026-10-26,yaaranshort winterstyle,1
 2026-10-26,yaaranshort winterstyle shorts,1
@@ -351,10 +310,10 @@ period,Term,Count
 2026-11-02,best,1
 2026-11-02,best agent,1
 2026-11-02,black,3
-2026-11-02,budget,1
 2026-11-02,day,2
 2026-11-02,day life,2
 2026-11-02,day life archie,2
+2026-11-02,don,1
 2026-11-02,everyday,2
 2026-11-02,favorite,3
 2026-11-02,favorite festivals,2
@@ -362,15 +321,12 @@ period,Term,Count
 2026-11-02,festivals,2
 2026-11-02,festivals travels,2
 2026-11-02,festivals travels everyday,2
-2026-11-02,fitswitharchie,1
 2026-11-02,fyp,1
 2026-11-02,good,2
-2026-11-02,hair,3
 2026-11-02,halloween,5
 2026-11-02,hual,1
 2026-11-02,hual best,1
 2026-11-02,hual best agent,1
-2026-11-02,humor,1
 2026-11-02,journey,2
 2026-11-02,journey favorite,2
 2026-11-02,journey favorite festivals,2
@@ -395,7 +351,6 @@ period,Term,Count
 2026-11-02,streetwear,2
 2026-11-02,travels,2
 2026-11-02,travels everyday,2
-2026-11-02,video,1
 2026-11-02,wedding,2
 2026-11-02,women,1
 2026-11-09,agent,1
@@ -406,20 +361,18 @@ period,Term,Count
 2026-11-09,best,2
 2026-11-09,best agent,1
 2026-11-09,bold,1
-2026-11-09,brand,2
-2026-11-09,budget,1
 2026-11-09,cannabis,2
 2026-11-09,collection,2
-2026-11-09,cool,3
+2026-11-09,color,1
 2026-11-09,day,1
 2026-11-09,day life,1
 2026-11-09,day life archie,1
 2026-11-09,designs,1
 2026-11-09,discover,1
 2026-11-09,everyday,2
-2026-11-09,fall,6
-2026-11-09,fashion,5
-2026-11-09,fashion trends,4
+2026-11-09,fall,4
+2026-11-09,fashion,3
+2026-11-09,fashion trends,2
 2026-11-09,favorite,1
 2026-11-09,favorite festivals,1
 2026-11-09,favorite festivals travels,1
@@ -427,9 +380,7 @@ period,Term,Count
 2026-11-09,festivals travels,1
 2026-11-09,festivals travels everyday,1
 2026-11-09,fyp,1
-2026-11-09,good,1
 2026-11-09,graphic,1
-2026-11-09,hair,3
 2026-11-09,hoodie,3
 2026-11-09,hoodies,1
 2026-11-09,hual,1
@@ -442,17 +393,17 @@ period,Term,Count
 2026-11-09,journey favorite,1
 2026-11-09,journey favorite festivals,1
 2026-11-09,just,1
-2026-11-09,know,6
+2026-11-09,know,2
 2026-11-09,leather,2
 2026-11-09,left,1
 2026-11-09,life,2
 2026-11-09,life archie,1
 2026-11-09,life archie mcnicol,1
 2026-11-09,look,1
-2026-11-09,looking,1
 2026-11-09,loud,3
-2026-11-09,love,2
+2026-11-09,louder,1
 2026-11-09,make,1
+2026-11-09,man,2
 2026-11-09,mary,1
 2026-11-09,mary jane,1
 2026-11-09,mcnicol,1
@@ -461,14 +412,14 @@ period,Term,Count
 2026-11-09,mensfashion,1
 2026-11-09,modern,1
 2026-11-09,neon,6
-2026-11-09,new,3
+2026-11-09,new,2
+2026-11-09,old,1
 2026-11-09,outfits,1
 2026-11-09,perfect,2
 2026-11-09,ready,1
 2026-11-09,ready day,1
 2026-11-09,ready day life,1
-2026-11-09,right,2
-2026-11-09,season,4
+2026-11-09,season,2
 2026-11-09,shirt,1
 2026-11-09,streetwear,11
 2026-11-09,style,7
@@ -476,221 +427,296 @@ period,Term,Count
 2026-11-09,stylish outfits,1
 2026-11-09,travels,1
 2026-11-09,travels everyday,1
-2026-11-09,trends,4
-2026-11-09,trends know,4
+2026-11-09,trends,2
 2026-11-09,trendy,1
 2026-11-09,update,1
 2026-11-09,vibe,2
 2026-11-09,vibes,1
-2026-11-09,vogue,4
 2026-11-09,wearing,1
 2026-11-09,wedding,3
-2026-11-09,winter,5
-2026-11-09,winter fashion,4
-2026-11-09,winter fashion trends,4
+2026-11-09,winter,3
+2026-11-09,winter fashion,2
+2026-11-09,winter fashion trends,2
 2026-11-09,women,1
 2026-11-09,year,2
+2026-11-16,accessory,5
+2026-11-16,allen,6
+2026-11-16,allen solly,6
+2026-11-16,allen solly discover,3
+2026-11-16,allen solly men,3
 2026-11-16,art,4
-2026-11-16,beautiful,4
-2026-11-16,best,7
-2026-11-16,black,3
-2026-11-16,bold,6
-2026-11-16,brand,1
+2026-11-16,beautiful,10
+2026-11-16,beautiful girl,3
+2026-11-16,beautiful girl street,3
+2026-11-16,best,12
+2026-11-16,black,7
+2026-11-16,blue,5
+2026-11-16,bold,4
 2026-11-16,brown,5
-2026-11-16,budget,2
 2026-11-16,cannabis,1
-2026-11-16,classy,7
-2026-11-16,clothing,5
+2026-11-16,classy,10
+2026-11-16,coat,6
 2026-11-16,collection,6
 2026-11-16,collection limited,1
 2026-11-16,collection limited stock,1
+2026-11-16,color,4
+2026-11-16,colour,3
+2026-11-16,combinations,6
 2026-11-16,cool,4
-2026-11-16,coolest,4
-2026-11-16,crazyfashion,4
-2026-11-16,crazyfashion shorts,4
-2026-11-16,crazyfashion shorts viral,4
+2026-11-16,day,1
 2026-11-16,defining,5
+2026-11-16,dehradun,3
+2026-11-16,dehradun style,3
+2026-11-16,dehradun style speaks,3
 2026-11-16,denim,7
-2026-11-16,designer,5
-2026-11-16,designs,2
+2026-11-16,designer,4
+2026-11-16,designs,4
 2026-11-16,destination,4
 2026-11-16,destination premium,3
 2026-11-16,destination premium fashion,3
-2026-11-16,discover,10
-2026-11-16,dress,7
-2026-11-16,dresses,4
+2026-11-16,discover,15
+2026-11-16,discover latest,6
+2026-11-16,discover latest street,3
+2026-11-16,discover stylish,3
+2026-11-16,discover stylish men,3
+2026-11-16,don,3
+2026-11-16,dress,5
 2026-11-16,dripcheck,1
 2026-11-16,dripcheck streetwear,1
-2026-11-16,effortlessly,3
-2026-11-16,elegant,12
+2026-11-16,elegant,13
 2026-11-16,elle,12
-2026-11-16,explore,4
+2026-11-16,explore,5
 2026-11-16,fall,4
-2026-11-16,fashion,108
-2026-11-16,fashion fashiontrends,4
-2026-11-16,fashion look,7
-2026-11-16,fashion people,12
-2026-11-16,fashion shorts,4
-2026-11-16,fashion stylish,5
+2026-11-16,fashion,117
+2026-11-16,fashion game,3
+2026-11-16,fashion game allen,3
+2026-11-16,fashion look,6
+2026-11-16,fashion mall,3
+2026-11-16,fashion mall dehradun,3
+2026-11-16,fashion outfits,6
+2026-11-16,fashion outfits style,6
+2026-11-16,fashion people,6
+2026-11-16,fashion shorts,7
+2026-11-16,fashion style,7
+2026-11-16,fashion style welcome,3
+2026-11-16,fashion stylish,3
 2026-11-16,fashion stylish outfits,3
 2026-11-16,fashion trend,7
-2026-11-16,fashion trends,15
-2026-11-16,fashion trends stylish,4
-2026-11-16,fashionstyle,3
-2026-11-16,fashiontrends,14
+2026-11-16,fashion trends,17
+2026-11-16,fashion trends stunning,3
+2026-11-16,fashion trends stylish,5
+2026-11-16,fashion viral,5
+2026-11-16,fashiontrends,8
+2026-11-16,favorite,3
 2026-11-16,featuring,3
-2026-11-16,foryou,5
-2026-11-16,foryou fyp,4
-2026-11-16,foryou fyp love,4
-2026-11-16,france,4
-2026-11-16,fyp,6
-2026-11-16,fyp love,4
-2026-11-16,fyp love crazyfashion,4
-2026-11-16,good,6
-2026-11-16,good housekeeping,6
+2026-11-16,france,6
+2026-11-16,france van,6
+2026-11-16,france van heel,6
+2026-11-16,game,4
+2026-11-16,game allen,3
+2026-11-16,game allen solly,3
+2026-11-16,girl,5
+2026-11-16,girl street,3
+2026-11-16,girl street fashion,3
+2026-11-16,girls,4
+2026-11-16,good,9
+2026-11-16,good housekeeping,8
 2026-11-16,graphic,2
+2026-11-16,heel,6
+2026-11-16,hindi,1
+2026-11-16,hindi pashto,1
+2026-11-16,holiday,7
 2026-11-16,hoodie,2
-2026-11-16,hoodies,1
-2026-11-16,hottest,5
-2026-11-16,housekeeping,6
-2026-11-16,humor,4
-2026-11-16,humor usa,4
-2026-11-16,humor usa foryou,4
-2026-11-16,ideas,4
-2026-11-16,inspired,7
-2026-11-16,jacket,5
+2026-11-16,housekeeping,8
+2026-11-16,ideas,14
+2026-11-16,inspiration,4
+2026-11-16,jacket,4
 2026-11-16,jackets,2
 2026-11-16,jane,2
-2026-11-16,jeans,13
-2026-11-16,jeans style,5
-2026-11-16,just,6
-2026-11-16,know,4
-2026-11-16,latest,8
+2026-11-16,jeans,9
+2026-11-16,just,5
+2026-11-16,knitted,6
+2026-11-16,know,6
+2026-11-16,latest,13
+2026-11-16,latest street,3
+2026-11-16,latest street fashion,3
 2026-11-16,leather,3
 2026-11-16,left,1
 2026-11-16,life,2
-2026-11-16,like,5
+2026-11-16,light,3
 2026-11-16,limited,1
 2026-11-16,limited stock,1
 2026-11-16,limited stock yaaranshort,1
-2026-11-16,long,5
+2026-11-16,link,5
+2026-11-16,long,3
 2026-11-16,look,17
-2026-11-16,looking,2
-2026-11-16,looks,7
+2026-11-16,looking,3
+2026-11-16,looks,6
 2026-11-16,looks modern,3
 2026-11-16,looks modern style,3
 2026-11-16,loud,1
-2026-11-16,love,9
-2026-11-16,love crazyfashion,4
-2026-11-16,love crazyfashion shorts,4
+2026-11-16,louder,4
+2026-11-16,louder words,3
+2026-11-16,louder words step,3
 2026-11-16,luxury,11
 2026-11-16,luxury looks,3
 2026-11-16,luxury looks modern,3
-2026-11-16,magazine,7
+2026-11-16,magazine,3
 2026-11-16,make,3
+2026-11-16,mall,3
+2026-11-16,mall dehradun,3
+2026-11-16,mall dehradun style,3
+2026-11-16,man,6
+2026-11-16,marie,6
+2026-11-16,marie france,6
+2026-11-16,marie france van,6
 2026-11-16,mary,2
 2026-11-16,mary jane,2
-2026-11-16,men,36
-2026-11-16,men fashion,13
-2026-11-16,mens,2
-2026-11-16,mensfashion,5
-2026-11-16,modern,5
+2026-11-16,men,40
+2026-11-16,men fashion,20
+2026-11-16,men fashion mall,3
+2026-11-16,men fashion shorts,4
+2026-11-16,men fashion viral,3
+2026-11-16,men stylish,3
+2026-11-16,mensfashion,7
+2026-11-16,modern,6
 2026-11-16,modern style,3
-2026-11-16,new,21
-2026-11-16,outfit,24
-2026-11-16,outfit ideas,4
-2026-11-16,outfit men,7
-2026-11-16,outfits,10
+2026-11-16,new,14
+2026-11-16,old,4
+2026-11-16,ootd,3
+2026-11-16,outfit,29
+2026-11-16,outfit ideas,13
+2026-11-16,outfitideas,4
+2026-11-16,outfits,21
 2026-11-16,outfits streetwear,3
 2026-11-16,outfits streetwear luxury,3
-2026-11-16,party,8
-2026-11-16,people,12
-2026-11-16,perfect,4
-2026-11-16,pink,5
-2026-11-16,premium,7
+2026-11-16,outfits style,6
+2026-11-16,outfits style discover,3
+2026-11-16,outfits style shorts,3
+2026-11-16,party,12
+2026-11-16,pashto,1
+2026-11-16,pashto new,1
+2026-11-16,people,6
+2026-11-16,perfect,6
+2026-11-16,premium,8
 2026-11-16,premium fashion,3
 2026-11-16,premium fashion stylish,3
-2026-11-16,premium winter,2
+2026-11-16,premium winter,1
 2026-11-16,premium winter collection,1
-2026-11-16,printed,4
 2026-11-16,reader,3
 2026-11-16,red,7
-2026-11-16,right,4
-2026-11-16,season,5
-2026-11-16,set,6
-2026-11-16,shirt,8
-2026-11-16,shirts,5
+2026-11-16,season,3
+2026-11-16,set,4
+2026-11-16,shirt,5
 2026-11-16,shoe,8
-2026-11-16,shop,4
-2026-11-16,shorts,25
+2026-11-16,shop,7
+2026-11-16,shorts,26
 2026-11-16,shorts dripcheck,1
 2026-11-16,shorts dripcheck streetwear,1
-2026-11-16,shorts viral,8
-2026-11-16,shorts viral youtubeshorts,4
-2026-11-16,stand,4
-2026-11-16,statement,4
-2026-11-16,step,3
+2026-11-16,shorts fashion,6
+2026-11-16,shorts fashion style,3
+2026-11-16,shorts upgrade,3
+2026-11-16,solly,9
+2026-11-16,solly discover,3
+2026-11-16,solly discover stylish,3
+2026-11-16,solly men,3
+2026-11-16,solly men fashion,3
+2026-11-16,solly sorry,3
+2026-11-16,solly sorry allen,3
+2026-11-16,song,1
+2026-11-16,song new,1
+2026-11-16,sorry,3
+2026-11-16,sorry allen,3
+2026-11-16,sorry allen solly,3
+2026-11-16,speaks,6
+2026-11-16,speaks louder,4
+2026-11-16,speaks louder words,3
+2026-11-16,stand,3
+2026-11-16,stay,3
+2026-11-16,step,6
+2026-11-16,step fashion,3
+2026-11-16,step fashion game,3
 2026-11-16,stock,1
 2026-11-16,stock yaaranshort,1
 2026-11-16,stock yaaranshort winterstyle,1
-2026-11-16,streetwear,9
+2026-11-16,street,12
+2026-11-16,street fashion,9
+2026-11-16,street fashion outfits,6
+2026-11-16,street fashion trends,3
+2026-11-16,streetwear,7
 2026-11-16,streetwear luxury,3
 2026-11-16,streetwear luxury looks,3
-2026-11-16,style,35
-2026-11-16,styles,4
-2026-11-16,stylish,30
-2026-11-16,stylish men,4
+2026-11-16,stunning,4
+2026-11-16,stunning outfit,3
+2026-11-16,stunning outfit ideas,3
+2026-11-16,style,46
+2026-11-16,style discover,3
+2026-11-16,style discover latest,3
+2026-11-16,style shorts,3
+2026-11-16,style shorts fashion,3
+2026-11-16,style speaks,6
+2026-11-16,style speaks louder,4
+2026-11-16,style welcome,4
+2026-11-16,style welcome beautiful,3
+2026-11-16,stylish,31
+2026-11-16,stylish men,5
+2026-11-16,stylish men fashion,4
+2026-11-16,stylish outfit,5
 2026-11-16,stylish outfits,5
 2026-11-16,stylish outfits streetwear,3
 2026-11-16,stylish winter,3
+2026-11-16,suit,5
+2026-11-16,summer,4
 2026-11-16,sweater,6
-2026-11-16,trend,25
-2026-11-16,trending,11
-2026-11-16,trends,31
-2026-11-16,trends know,2
-2026-11-16,trends stylish,4
-2026-11-16,trendy,5
-2026-11-16,trousers,4
-2026-11-16,try,3
+2026-11-16,tiktok,1
+2026-11-16,tiktok viral,1
+2026-11-16,times,6
+2026-11-16,trend,24
+2026-11-16,trending,13
+2026-11-16,trends,27
+2026-11-16,trends stunning,3
+2026-11-16,trends stunning outfit,3
+2026-11-16,trends stylish,5
+2026-11-16,trendy,7
+2026-11-16,try,5
+2026-11-16,ultimate,4
 2026-11-16,update,4
-2026-11-16,upgrade,5
-2026-11-16,upgrade style,4
-2026-11-16,usa,6
-2026-11-16,usa foryou,4
-2026-11-16,usa foryou fyp,4
+2026-11-16,upgrade,4
+2026-11-16,uzbek,1
+2026-11-16,uzbek hindi,1
+2026-11-16,uzbek hindi pashto,1
+2026-11-16,van,6
+2026-11-16,van heel,6
 2026-11-16,vibe,1
-2026-11-16,vibes,3
-2026-11-16,video,3
-2026-11-16,viral,12
-2026-11-16,viral youtubeshorts,4
-2026-11-16,viral youtubeshorts fashiontrends,4
-2026-11-16,warm,3
-2026-11-16,wear,33
-2026-11-16,wear winter,4
-2026-11-16,wearing,6
-2026-11-16,wedding,6
-2026-11-16,welcome,6
+2026-11-16,vibes,2
+2026-11-16,viral,10
+2026-11-16,wardrobe,6
+2026-11-16,wear,22
+2026-11-16,wearing,4
+2026-11-16,wedding,8
+2026-11-16,welcome,12
+2026-11-16,welcome beautiful,3
+2026-11-16,welcome beautiful girl,3
 2026-11-16,welcome yaaranshort,3
 2026-11-16,welcome yaaranshort destination,3
-2026-11-16,white,5
-2026-11-16,winter,47
+2026-11-16,winter,42
 2026-11-16,winter collection,1
 2026-11-16,winter collection limited,1
-2026-11-16,winter fashion,14
-2026-11-16,winter fashion trends,6
-2026-11-16,winter wear,7
-2026-11-16,winterstyle,2
+2026-11-16,winter fashion,12
+2026-11-16,winter fashion trends,5
+2026-11-16,winter wardrobe,4
+2026-11-16,winterstyle,1
 2026-11-16,winterstyle shorts,1
 2026-11-16,winterstyle shorts dripcheck,1
-2026-11-16,woman,2
-2026-11-16,women,22
-2026-11-16,women fashion,9
-2026-11-16,world,5
-2026-11-16,yaaranshort,6
+2026-11-16,women,19
+2026-11-16,women fashion,11
+2026-11-16,words,5
+2026-11-16,words step,3
+2026-11-16,words step fashion,3
+2026-11-16,world,4
+2026-11-16,yaaranshort,5
 2026-11-16,yaaranshort destination,3
 2026-11-16,yaaranshort destination premium,3
 2026-11-16,yaaranshort winterstyle,1
 2026-11-16,yaaranshort winterstyle shorts,1
 2026-11-16,year,1
-2026-11-16,youtubeshorts,6
-2026-11-16,youtubeshorts fashiontrends,4
